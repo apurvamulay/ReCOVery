@@ -23,7 +23,7 @@ def get_articles(api_key):
         }
     )
 
-    fp = open("api_response.json", "w+")
+    fp = open("../dataset/api_response.json", "w+")
     json.dump(articles, fp)
 
 
@@ -47,19 +47,24 @@ def get_body_text(url):
     fulltext = ""
     for i in range(len(coverpage_news)):
         currentText = coverpage_news[i].get_text()
-        fulltext = ''.join([fulltext, currentText])
+        fulltext = ' '.join('\n').join([fulltext, currentText])
     return fulltext
 
 
+def get_main_headline(headlines):
+    return headlines['main']
+
+
 def write_final_csv():
-    df = pd.read_json("api_response.json")
-    print(df.columns)
+    df = pd.read_json("../dataset/api_response.json")
     df['pub_name'] = df.apply(lambda x: extract_domain(x['web_url']), axis=1)
 
     df['body_text'] = df.apply(lambda x: get_body_text(x['web_url']), axis=1)
+    df['main_headline'] = df.apply(lambda x: get_main_headline(x['headline']), axis=1)
 
-    final_df = df[['pub_name', 'web_url', 'headline', 'multimedia', 'body_text']]
-    final_df.to_csv("nytimes_dataset.csv")
+    final_df = df[['pub_name', 'web_url', 'main_headline', 'multimedia', 'body_text']]
+
+    final_df.to_csv("../dataset/nytimes_dataset.csv")
 
 
 get_articles("Enter API key")
