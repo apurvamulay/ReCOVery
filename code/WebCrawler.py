@@ -1,3 +1,4 @@
+import csv
 from urllib.parse import urlparse
 
 from pynytimes import NYTAPI
@@ -6,6 +7,7 @@ import json
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import dateutil.parser
 
 
 def get_articles(api_key):
@@ -47,7 +49,7 @@ def get_body_text(url):
     fulltext = ""
     for i in range(len(coverpage_news)):
         currentText = coverpage_news[i].get_text()
-        fulltext = ' '.join('\n').join([fulltext, currentText])
+        fulltext = ''.join('\n').join([fulltext, currentText])
     return fulltext
 
 
@@ -55,16 +57,25 @@ def get_main_headline(headlines):
     return headlines['main']
 
 
+def get_date(pub_date):
+    return dateutil.parser.parse(pub_date).date()
+
+
 def write_final_csv():
     df = pd.read_json("../dataset/api_response.json")
-    df['pub_name'] = df.apply(lambda x: extract_domain(x['web_url']), axis=1)
+    df['publish_date'] = df.apply(lambda x: get_date(x['pub_date']), axis=1)
+
+    df['publisher'] = df.apply(lambda x: extract_domain(x['web_url']), axis=1)
 
     df['body_text'] = df.apply(lambda x: get_body_text(x['web_url']), axis=1)
-    df['main_headline'] = df.apply(lambda x: get_main_headline(x['headline']), axis=1)
+    df['title'] = df.apply(lambda x: get_main_headline(x['headline']), axis=1)
+    df['image']  = df['multimedia']
+    df['url'] = df['web_url']
+    df['author'] = df['source']
 
-    final_df = df[['pub_name', 'web_url', 'main_headline', 'multimedia', 'body_text']]
+    final_df = df[['url', 'publisher', 'publish_date', 'author', 'title', 'image', 'body_text']]
 
-    final_df.to_csv("../dataset/nytimes_dataset.csv")
+    final_df.to_csv("../dataset/nytimes_dataset.csv", quoting=csv.QUOTE_NONE, escapechar=' ')
 
 
 get_articles("Enter API key")
