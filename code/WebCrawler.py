@@ -1,4 +1,3 @@
-import csv
 from urllib.parse import urlparse
 
 from pynytimes import NYTAPI
@@ -76,7 +75,7 @@ def write_final_csv():
     final_df = df[['url', 'publisher', 'publish_date', 'author', 'title', 'image', 'body_text']]
     final_df.index.name = 'news_id'
 
-    final_df.to_csv("../dataset/nytimes_dataset.csv", quoting=csv.QUOTE_NONE, escapechar=' ')
+    final_df.to_csv("../dataset/nytimes_dataset.csv")
 
 
 get_articles("Enter API key")
