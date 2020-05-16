@@ -74,6 +74,7 @@ def write_final_csv():
     df['author'] = df['source']
 
     final_df = df[['url', 'publisher', 'publish_date', 'author', 'title', 'image', 'body_text']]
+    final_df.index.name = 'news_id'
 
     final_df.to_csv("../dataset/nytimes_dataset.csv", quoting=csv.QUOTE_NONE, escapechar=' ')
 
