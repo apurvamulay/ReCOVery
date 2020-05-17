@@ -77,6 +77,20 @@ def write_final_csv():
 
     final_df.to_csv("../dataset/nytimes_dataset.csv")
 
+def replace_publisher(old_csv, url, pub_name, new_csv):
+    df2 = pd.read_csv(old_csv)
+    df2['publisher'] = df2['publisher'].replace({url: pub_name}, regex=True)
+    print(df2['publisher'])
+    df2.to_csv(new_csv, index=False)
+
 
 get_articles("Enter API key")
 write_final_csv()
+
+replace_publisher("../dataset/news-dataset_cbs_news_old.csv", 'https://www.cbsnews.com', 'CBS News', '../dataset/news-dataset_cbs_news.csv')
+replace_publisher("../dataset/news-dataset_business_insider_old.csv", 'https://www.businessinsider.com', 'Business Insider', '../dataset/news-dataset_business_insider.csv')
+replace_publisher("../dataset/news-dataset_abc_news_old.csv", 'http[s]*://abcnews.go.com', 'ABC News', '../dataset/news-dataset_abc_news.csv')
+replace_publisher("../dataset/news-dataset_CNBC_old.csv", 'https://www.cnbc.com', 'CNBC', '../dataset/news-dataset_CNBC.csv')
+
+
+
