@@ -91,6 +91,7 @@ replace_publisher("../dataset/news-dataset_cbs_news_old.csv", 'https://www.cbsne
 replace_publisher("../dataset/news-dataset_business_insider_old.csv", 'https://www.businessinsider.com', 'Business Insider', '../dataset/news-dataset_business_insider.csv')
 replace_publisher("../dataset/news-dataset_abc_news_old.csv", 'http[s]*://abcnews.go.com', 'ABC News', '../dataset/news-dataset_abc_news.csv')
 replace_publisher("../dataset/news-dataset_CNBC_old.csv", 'https://www.cnbc.com', 'CNBC', '../dataset/news-dataset_CNBC.csv')
-
-
+replace_publisher("../dataset/news-dataset_fiveThirtyEight_old.csv", 'https://fivethirtyeight.com', 'FiveThirtyEight', '../dataset/news-dataset_fiveThirtyEight.csv')
+replace_publisher("../dataset/news-dataset_npr_old.csv", 'https://www.npr.org', 'National Public Radio (NPR)', '../dataset/news-dataset_npr.csv')
+replace_publisher("../dataset/news-dataset_pbs_old.csv", 'https://www.pbs.org', 'PBS NewsHour', '../dataset/news-dataset_pbs.csv')
 
