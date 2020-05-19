@@ -94,4 +94,6 @@ replace_publisher("../dataset/news-dataset_CNBC_old.csv", 'https://www.cnbc.com'
 replace_publisher("../dataset/news-dataset_fiveThirtyEight_old.csv", 'https://fivethirtyeight.com', 'FiveThirtyEight', '../dataset/news-dataset_fiveThirtyEight.csv')
 replace_publisher("../dataset/news-dataset_npr_old.csv", 'https://www.npr.org', 'National Public Radio (NPR)', '../dataset/news-dataset_npr.csv')
 replace_publisher("../dataset/news-dataset_pbs_old.csv", 'https://www.pbs.org', 'PBS NewsHour', '../dataset/news-dataset_pbs.csv')
+replace_publisher("../dataset/news-dataset-reuters_old.csv", 'https://www.reuters.com', 'Reuters', '../dataset/news-dataset-reuters.csv')
+replace_publisher("../dataset/news-dataset-reuters.csv", 'http://widerimage.reuters.com', 'Reuters', '../dataset/news-dataset-reuters.csv')
 
