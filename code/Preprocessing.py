@@ -92,3 +92,9 @@ def remove_specific_values(values):
 
 
 remove_specific_values(['Usa Today', 'Better Government Association', 'Usa Today Network', 'Sun-Times Staff Report'])
+
+# For pbs remove news id =1
+df_pbs = pd.read_csv("../dataset/news-dataset_pbs.csv", index_col=False)
+df_pbs = df_pbs[df['news_id'] != 1]
+df_pbs.to_csv("../dataset/news-dataset_pbs.csv", index=False)
+update_indexes("../dataset/news-dataset_pbs.csv")
