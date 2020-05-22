@@ -2,17 +2,20 @@ import pandas as pd
 import os
 import re
 
+reliable_dir = '../dataset/reliable'
+unreliable_dir = '../dataset/unreliable'
+
 files = ['news-dataset_abc_news.csv', "news-dataset_business_insider.csv", "news-dataset_cbs_news.csv",
          "news-dataset_chicago_suntimes.csv", "news-dataset_CNBC.csv", "news-dataset_fiveThirtyEight.csv",
          "news-dataset_npr.csv", "news-dataset_pbs.csv", "news-dataset-reuters.csv", "news-dataset-slate.csv",
          "news-dataset_atlantic.csv",
          "news-dataset_mercury_news.csv", "news-dataset_new_yorker.csv", "news-dataset_the_verge.csv",
          "news-dataset_washington_post_old.csv", 'news-dataset_usa_today.csv', 'news-dataset_washington_monthly.csv',
-         'news-dataset_yahoo_news.csv', 'news_dataset_nytimes_uncleaned.csv']
+         'news-dataset_yahoo_news.csv', 'news-dataset_nytimes_uncleaned.csv']
 
 url_filter_patterns = "opinion|live-updates|pictures|video|archive|la-voz|cn.reuters|jp.reuters|lta.reuters|'it.businessinsider.com/"
 
-# df = pd.read_csv("../dataset/news-dataset_chicago_suntimes.csv", index_col=False)
+# df = pd.read_csv(reliable_dir + '/news-dataset_chicago_suntimes.csv", index_col=False)
 remove_anonymous = ['Sun-Times Staff', 'Associated Press', 'Sun-Times Wire', 'Abigail Van Buren']
 
 
@@ -52,7 +55,7 @@ def get_val(authors):
 # #df = df[~df.author.str.contains('Cst Editorial Board', na=False)]
 # #df = df[~df.updated_authors.str.contains('Letters To The Editor', na=False)]
 #
-# #df.to_csv("../dataset/news-dataset_chicago_suntimes.csv", index=False)
+# #df.to_csv(reliable_dir + '/news-dataset_chicago_suntimes.csv", index=False)
 #
 #
 def update_indexes(fileName):
@@ -60,9 +63,9 @@ def update_indexes(fileName):
     df_fileName.set_index('url')
     df_fileName = df_fileName.drop('news_id', axis=1)
     df_fileName.index.name = 'news_id'
-    fileName1 = fileName.rsplit("/")[2]
+    fileName1 = fileName.rsplit("/")[3]
     print(fileName1)
-    df_fileName.to_csv("../dataset/" + fileName1)
+    df_fileName.to_csv(fileName)
 
 
 #
@@ -86,7 +89,7 @@ def update_indexes(fileName):
 #              "news-dataset_chicago_suntimes.csv", "news-dataset_CNBC.csv", "news-dataset_fiveThirtyEight.csv",
 #              "news-dataset_npr.csv", "news-dataset_pbs.csv"]
 #     for fileName in files:
-#         update_indexes("../dataset/" + fileName)
+#         update_indexes(reliable_dir + '/' + fileName)
 #
 #
 # def remove_values(authors, values):
@@ -100,46 +103,47 @@ def update_indexes(fileName):
 #
 #
 # def remove_specific_values(values):
-#     df_csv = pd.read_csv("../dataset/news-dataset_chicago_suntimes.csv", index_col=False)
+#     df_csv = pd.read_csv(reliable_dir + "/news-dataset_chicago_suntimes.csv", index_col=False)
 #     #df_csv['updated_authors'] = df_csv.apply(lambda x: remove_values(x['updated_authors'], values), axis=1)
-#     df_csv.to_csv("../dataset/news-dataset_chicago_suntimes.csv", index=False)
-#     update_indexes("../dataset/news-dataset_chicago_suntimes.csv")
+#     df_csv.to_csv(reliable_dir + "/news-dataset_chicago_suntimes.csv", index=False)
+#     update_indexes(reliable_dir + "/news-dataset_chicago_suntimes.csv")
 #
 #
 # #remove_specific_values(['Usa Today', 'Better Government Association', 'Usa Today Network', 'Sun-Times Staff Report'])
 #
 #  For pbs remove news id =1
-# df_pbs = pd.read_csv("../dataset/news-dataset_pbs.csv", index_col=False)
+# df_pbs = pd.read_csv(reliable_dir + "/news-dataset_pbs.csv", index_col=False)
 # df_pbs = df_pbs[df['news_id'] != 1]
-# df_pbs.to_csv("../dataset/news-dataset_pbs.csv", index=False)
-# update_indexes("../dataset/news-dataset_pbs.csv")
+# df_pbs.to_csv(reliable_dir + "/news-dataset_pbs.csv", index=False)
+#update_indexes(reliable_dir + "/news-dataset_pbs.csv")
+update_indexes(reliable_dir + "/news-dataset_los_angeles_daily.csv")
 
 def drop_author():
-    df_sun = pd.read_csv("../dataset/news-dataset_chicago_suntimes.csv", index_col=False)
+    df_sun = pd.read_csv(reliable_dir + "/news-dataset_chicago_suntimes.csv", index_col=False)
     df_sun = df_sun.drop(['author'], axis=1)
     df_sun.rename(columns={'updated_authors': 'author'}, inplace=True)
 
 
 # Re-order Columns
 def reorder_cols():
-    df_sun = pd.read_csv("../dataset/news-dataset_chicago_suntimes.csv", index_col=False)
+    df_sun = pd.read_csv(reliable_dir + "/news-dataset_chicago_suntimes.csv", index_col=False)
     df_sun1 = df_sun[['url', 'publisher', 'publish_date', 'author', 'title', 'image', 'body_text']]
     df_sun1.index.name = 'news_id'
     df_sun1 = df_sun1.drop_duplicates(subset="image", keep=False)
-    # df_sun1.to_csv("../dataset/news-dataset_chicago_suntimes.csv")
+    # df_sun1.to_csv(reliable_dir + "/news-dataset_chicago_suntimes.csv")
     print(df_sun1['title'])
 
 
 def drop_duplicates():
     for fileName in files:
-        df_fileName = pd.read_csv("../dataset/" + fileName)
+        df_fileName = pd.read_csv(reliable_dir + "/" + fileName)
         # print(len(df_fileName.title.unique()))
         print(fileName, len(df_fileName))
         df_fileName.drop_duplicates(subset='title', inplace=True)
         print("After")
         print(fileName, len(df_fileName))
-        df_fileName.to_csv("../dataset/" + fileName, index=False)
-        update_indexes("../dataset/" + fileName)
+        df_fileName.to_csv(reliable_dir + "/" + fileName, index=False)
+        update_indexes(reliable_dir + "/" + fileName)
 
 
 # drop_duplicates()
@@ -152,22 +156,24 @@ def remove_row(fileName, id):
     update_indexes(fileName)
 
 
-# remove_row('../dataset/news-dataset_business_insider.csv', 112)
-# remove_row('../dataset/news-dataset-reuters.csv', 42)
-# remove_row('../dataset/news-dataset-slate.csv', 13)
-# remove_row('../dataset/news-dataset_usa_today.csv', 120)
-# remove_row('../dataset/news-dataset_usa_today.csv', 18)
-# remove_row('../dataset/news-dataset_yahoo_news.csv', 15)
-# remove_row('../dataset/news_dataset_nytimes.csv', 0)
-#remove_row('../dataset/news_dataset_nytimes.csv', 1)
-#remove_row('../dataset/news_dataset_nytimes.csv', 3)
-# remove_row('../dataset/news_dataset_nytimes.csv', 6)
-#remove_row('../dataset/news_dataset_nytimes.csv', 18)
-#remove_row('../dataset/news_dataset_nytimes.csv', 35)
-#remove_row('../dataset/news_dataset_nytimes.csv', 40)
-#remove_row('../dataset/news_dataset_nytimes.csv', 66)
-#remove_row('../dataset/news_dataset_nytimes.csv', 69)
-#remove_row('../dataset/news_dataset_nytimes.csv', 73)
+# remove_row(reliable_dir + '/news-dataset_business_insider.csv', 112)
+# remove_row(reliable_dir + '/news-dataset-reuters.csv', 42)
+# remove_row(reliable_dir + '/news-dataset-slate.csv', 13)
+# remove_row(reliable_dir + '/news-dataset_usa_today.csv', 120)
+# remove_row(reliable_dir + '/news-dataset_usa_today.csv', 18)
+# remove_row(reliable_dir + '/news-dataset_yahoo_news.csv', 15)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 0)
+
+#remove rows with empty body
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 1)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 3)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 6)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 18)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 35)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 40)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 66)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 69)
+#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 73)
 
 def stripe_spaces(authors):
     authors = get_list_authors(authors)
@@ -210,22 +216,22 @@ def update_authors(fileName, remove_authors):
     print(df_update_authors['author'])
 
 
-# update_authors("../dataset/news-dataset_the_verge.csv", remove_from_authors)
-# update_authors("../dataset/news-dataset-reuters.csv", reuters_authors)
-# update_authors("../dataset/news-dataset_usa_today.csv", remove_from_authors)
-# update_authors("../dataset/news-dataset_yahoo_news.csv", remove_from_authors)
-# update_authors("../dataset/news-dataset_natural_news.csv", remove_from_authors)
-#update_authors("../dataset/news-dataset_gateway_pundit.csv", remove_from_authors)
+# update_authors(reliable_dir + "/news-dataset_the_verge.csv", remove_from_authors)
+# update_authors(reliable_dir + "/news-dataset-reuters.csv", reuters_authors)
+# update_authors(reliable_dir + "/news-dataset_usa_today.csv", remove_from_authors)
+# update_authors(reliable_dir + "/news-dataset_yahoo_news.csv", remove_from_authors)
+# update_authors(unreliable_dir + "/news-dataset_natural_news.csv", remove_from_authors)
+#update_authors(unreliable_dir + "/news-dataset_gateway_pundit.csv", remove_from_authors)
 
 
 def update_authors_spaces(fileName):
     df_update_authors = pd.read_csv(fileName)
     print(df_update_authors['author'])
     df_update_authors['author'] = df_update_authors.apply(lambda x: stripe_spaces(x['author']), axis=1)
-    df_update_authors.to_csv("../dataset/news-dataset_the_verge.csv", index=False)
+    df_update_authors.to_csv(reliable_dir + "/news-dataset_the_verge.csv", index=False)
 
 
-# update_authors_spaces("../dataset/news-dataset_the_verge.csv")
+# update_authors_spaces(reliable_dir + "/news-dataset_the_verge.csv")
 
 def replace_text(text, value, by_value):
     return text.replace(value, by_value)
@@ -236,14 +242,14 @@ def replace_values_body_text(fileName, value_to_replace, by_value):
     replace_body_df['body_text'] = replace_body_df.apply(
         lambda x: replace_text(x['body_text'], value_to_replace, by_value), axis=1)
     print(replace_body_df['body_text'])
-    replace_body_df.to_csv("../dataset/news-dataset_washington_post.csv", index=False)
+    replace_body_df.to_csv(reliable_dir + "/news-dataset_washington_post.csv", index=False)
 
 
-# replace_values_body_text("../dataset/news-dataset_washington_post_old.csv", 'AD', '')
+# replace_values_body_text(reliable_dir + "/news-dataset_washington_post_old.csv", 'AD', '')
 
-# update_indexes("../dataset/news-dataset_yahoo_news.csv")
-# update_indexes("../dataset/news_dataset_nytimes.csv")
-# update_indexes("../dataset/news-dataset_gateway_pundit.csv")
+# update_indexes(reliable_dir + "/news-dataset_yahoo_news.csv")
+#update_indexes(reliable_dir + "/news-dataset_nytimes.csv")
+# update_indexes(unreliable_dir + "/news-dataset_gateway_pundit.csv")
 
 def get_valid_url(url):
     return re.search(url_filter_patterns, url) is None
@@ -254,6 +260,13 @@ def filter_url(fileName):
     df_filter_url['url_valid'] = df_filter_url.apply(lambda x: get_valid_url(x['url']), axis=1)
     df_filter_url = df_filter_url[df_filter_url['url_valid'] == True]
     df_filter_url = df_filter_url.drop('url_valid', axis=1)
-    df_filter_url.to_csv("../dataset/news_dataset_nytimes.csv", index=False)
+    df_filter_url.to_csv(reliable_dir + "/news-dataset_nytimes.csv", index=False)
 
-# filter_url("../dataset/news_dataset_nytimes.csv")
+# filter_url(reliable_dir + "/news-dataset_nytimes.csv")
+
+def update_reuters():
+    df12 = pd.read_csv("../dataset/reliable/news-dataset-reuters.csv")
+    df12 = df12.drop('Unnamed: 0', axis=1)
+    df12.reset_index(drop=True, inplace=True)
+    df12.to_csv("../dataset/reliable/news-dataset-reuters.csv")
+    print(df12)

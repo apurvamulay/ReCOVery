@@ -1,0 +1,12 @@
+{
+  "The Gateway Pundit": {
+    "news_guard_score": 20,
+    "mbfc_level":"Low",
+    "political_bias":"Right"
+  },
+  "Natural News": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Very low",
+    "political_bias":"N/A"
+  }
+}
