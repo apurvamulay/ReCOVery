@@ -1,0 +1,97 @@
+{
+  "ABC News":{
+    "news_guard_score": 95,
+    "mbfc_level": "High",
+    "political_bias": "Left-center"
+  },
+  "Business Insider": {
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "CBS News": {
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "Chicago Sun-Times": {
+    "news_guard_score": 92.5,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "CNBC": {
+    "news_guard_score": 95,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "FiveThirtyEight": {
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Center"
+  },
+  "National Public Radio (NPR)": {
+    "news_guard_score": 100,
+    "mbfc_level":"Very high",
+    "political_bias":"Center"
+  },
+  "PBS NewsHour": {
+    "news_guard_score": 100,
+    "mbfc_level":"Very high",
+    "political_bias":"Center"
+  },
+  "Reuters": {
+    "news_guard_score": 100,
+    "mbfc_level":"Very high",
+    "political_bias":"Center"
+  },
+  "Slate":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left"
+  },
+  "The Atlantic":{
+    "news_guard_score": 92.5,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "The Mercury News":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "The New York Times":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left"
+  },
+  "The New Yorker":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left"
+  },
+  "The Verge":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "The Washington Post":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "USA Today":{
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Center"
+  },
+  "Washington Monthly": {
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  },
+  "Yahoo! News": {
+    "news_guard_score": 95,
+    "mbfc_level":"High",
+    "political_bias":"Left-center"
+  }
+}
