@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias
 0,https://www.pbs.org/newshour/economy/officials-release-edited-coronavirus-reopening-guidance,PBS NewsHour,2020-05-14,"['Mike Stobbe', 'Jason Dearen']",Officials release edited coronavirus reopening guidance,https://d3i6fh83elv35t.cloudfront.net/static/2018/12/2018-09-07T215337Z_473220069_RC14A9C266B0_RTRMADP_3_AIRLINES-ILLNESS-1024x700.jpg,"NEW YORK (AP) — U.S. health officials on Thursday released some of their long-delayed guidance that schools, businesses and other organizations can use as states reopen from coronavirus shutdowns.
 
 The Centers for Disease Control and Prevention posted six one-page “decision tool” documents that use traffic signs and other graphics to tell organizations what they should consider before reopening.
@@ -39,7 +39,7 @@ For example, in the document for people who run child care centers, the older ve
 
 Similar new language about feasibility appears in sections about promoting healthy hygiene such as hand washing and employees wearing cloth masks.
 
-Dearen reported from Gainesville, Florida. AP reporters Mary Clare Jalonick, Zeke Miller and Elana Schor contributed to this report."
+Dearen reported from Gainesville, Florida. AP reporters Mary Clare Jalonick, Zeke Miller and Elana Schor contributed to this report.",100,Very high,Center
 1,https://www.pbs.org/newshour/show/keystone-pipeline-project-proceeds-amidst-covid-19-pandemic,PBS NewsHour,2020-05-17,"['Ivette Feliciano', 'Zachary Green']",Keystone pipeline project proceeds amidst COVID-19 pandemic,https://d3i6fh83elv35t.cloudfront.net/static/2020/05/Pipeline-Clean-1024x576.png,"Hari Sreenivasan:
 
 When the Trump administration outlined federal guidelines back in march for work considered essential during the COVID-19 pandemic, it included specific language for new and existing oil pipeline construction projects.
@@ -48,7 +48,7 @@ Within days Canadian-owned TC Energy Corporation announced it had secured more t
 
 The project, which was halted in 2015 by the Obama administration amid growing public outcry, was reissued permits in the early days of the Trump administration, with the stipulation that American steel be used in the work.
 
-Now, as thousands of oil workers enter states along the construction route in the midst of the pandemic, legal challenges are mounting amid health concerns NewsHour Weekend's Ivette Feliciano has more."
+Now, as thousands of oil workers enter states along the construction route in the midst of the pandemic, legal challenges are mounting amid health concerns NewsHour Weekend's Ivette Feliciano has more.",100,Very high,Center
 2,https://www.pbs.org/newshour/show/voter-suppression-and-the-impact-of-covid-19-on-people-of-color,PBS NewsHour,2020-05-17,[],Voter suppression and the impact of COVID-19 on people of color,https://d3i6fh83elv35t.cloudfront.net/static/2020/05/Barber_Intv-1024x683.jpg,"Rev. William Barber:
 
 Well, first of all, we're not getting all the statistics. I mean, we get like in Mississippi, 80 percent of the people in one area that died from COVID-19. It might be we're not as shocked because we weren't dealing with it before. And we weren't shocked when a quarter million people were dying from poverty and no income.
@@ -63,10 +63,10 @@ I'm a preacher. But beyond the preaching part, establishment of justice provided
 
 So after COVID, some people still think it's other, it's over there. I'm concerned even and I say this as an African-American that we are not getting the data on poverty. We're not getting the data on zip code. I believe when we get the full data we're going to see yes it is killing African-Americans at enormous levels, but it's also killing poor white folk in Appalachia at enormous levels and they don't have what they need.
 
-That's why we have been pulling together this poor people's campaign, a national call for a moral revival over the last three years, because we recognized years ago America needed a moral revival, a moral revolution of values. If we have a conscious awakening, a shaking, a restarting of the very heart of our nation because we are in trouble when it comes to our consciousness. It Is far too dull and we accept it far too much."
+That's why we have been pulling together this poor people's campaign, a national call for a moral revival over the last three years, because we recognized years ago America needed a moral revival, a moral revolution of values. If we have a conscious awakening, a shaking, a restarting of the very heart of our nation because we are in trouble when it comes to our consciousness. It Is far too dull and we accept it far too much.",100,Very high,Center
 3,https://www.pbs.org/newshour/show/a-mothers-covid-19-childrens-book-parodies-go-viral,PBS NewsHour,2020-05-17,['Megan Thompson'],A mother’s COVID-19 children’s book parodies go viral,https://d3i6fh83elv35t.cloudfront.net/static/2020/05/Childrens_Books.jpg,"Stefanie Trilling:
 
-We live in very close proximity to four major Manhattan hospitals. And in late March, we'd hear sirens all the time. And my five-year-old daughter's in kindergarten. And she would often ask us, well, we hear sirens outside. We see ambulances. Does that mean someone inside the ambulance has coronavirus? Are they going to be OK? And these are really tough questions. So we were sitting there and to alleviate the stress, I brought out the really high value fun activities — the paint set."
+We live in very close proximity to four major Manhattan hospitals. And in late March, we'd hear sirens all the time. And my five-year-old daughter's in kindergarten. And she would often ask us, well, we hear sirens outside. We see ambulances. Does that mean someone inside the ambulance has coronavirus? Are they going to be OK? And these are really tough questions. So we were sitting there and to alleviate the stress, I brought out the really high value fun activities — the paint set.",100,Very high,Center
 4,https://www.pbs.org/newshour/show/is-covid-19-delaying-the-fight-for-voting-rights-in-florida,PBS NewsHour,2020-05-16,"['Ivette Feliciano', 'Zachary Green']",Is COVID-19 delaying the fight for voting rights in Florida?,https://d3i6fh83elv35t.cloudfront.net/static/2020/05/Amendment_Four_11-1024x692.jpg,"Hari Sreenivasan:
 
 Tonight we continue our coverage of Amendment 4 in Florida, which in 2018 restored the right to vote to people with felony convictions, or ""returning citizens"" as they prefer to be called.
@@ -77,7 +77,7 @@ For now, those with felony records can still try to have their debts waived thro
 
 Desmond Meade is the head of the Florida rights restoration coalition and is, himself, a returning citizen. NewsHour Weekend's Ivette Feliciano recently spoke with him.
 
-This segment is part of our ongoing series: Chasing The Dream."
+This segment is part of our ongoing series: Chasing The Dream.",100,Very high,Center
 5,https://www.pbs.org/newshour/politics/democrats-push-new-3t-coronavirus-relief-bill-through-house,PBS NewsHour,2020-05-16,"['Andrew Taylor', 'Alan Fram']",Democrats push new $3T coronavirus relief bill through House,https://d3i6fh83elv35t.cloudfront.net/static/2020/05/RTX7IZFY-1024x681.jpg,"WASHINGTON — Democrats have powered a massive $3 trillion coronavirus relief bill through the House, an election-year measure designed to brace a U.S. economy in free fall and a health care system struggling to contain a pandemic still pummeling the country.
 
 Friday’s 208-199 vote, with all but one Republican opposed, advances what boils down to a campaign-season display of Democratic economic and health-care priorities. It has no chance of becoming law as written, but will likely spark difficult negotiations with the White House and Senate Republicans. Any product would probably be the last major COVID-19 response bill before November’s presidential and congressional elections.
@@ -124,7 +124,7 @@ Republicans leaders faced disunity between conservatives who feel enough has bee
 
 Liberal Rep. Pramila Jayapal, D-Wash., also opposed the bill. She told reporters that if constituents ask her if the bill would put money in their pockets or preserve their health care, “I can’t tell them yes.”
 
-The lone Republican backing the legislation was Rep. Peter King of New York, who is retiring."
+The lone Republican backing the legislation was Rep. Peter King of New York, who is retiring.",100,Very high,Center
 6,https://www.pbs.org/newshour/show/why-antibody-tests-a-crucial-step-toward-overcoming-covid-19-are-still-unreliable,PBS NewsHour,2020-04-29,[],"Why antibody tests, a crucial step toward overcoming COVID-19, are still unreliable",https://d3i6fh83elv35t.cloudfront.net/static/2020/04/treatingcovid1-1024x683.jpg,"Judy Woodruff:
 
 Now the latest information on treating COVID-19 and finding ways to tell who's been infected. As plans grow to reopen the economy, one key prerequisite will be testing for antibodies to see who has already been exposed and theoretically safe from further infection.
@@ -137,7 +137,7 @@ Our science correspondent, Miles O'Brien, is here to help us sort things out.
 
 It is part of our regular look at the Leading Edge of science and research.
 
-So, Miles, let's first look at this drug that was approved today to treat COVID-19. What are we hearing about it?"
+So, Miles, let's first look at this drug that was approved today to treat COVID-19. What are we hearing about it?",100,Very high,Center
 7,https://www.pbs.org/newshour/health/watch-your-questions-about-covid-19-answered-by-a-doctor,PBS NewsHour,2020-04-03,['Justin Stabley'],"WATCH: Your questions about COVID-19, answered by a doctor",https://d3i6fh83elv35t.cloudfront.net/static/2020/03/warningsigns-1024x683.jpg,"The novel coronavirus has infected more than 970,000 people and killed more than 50,000 worldwide, according to the World Health Organization, and other estimates put the total even higher. The increase in reported cases this week comes as countries around the world, including the United States, are grappling with how to contain the virus that causes COVID-19, and slow the spread of the pandemic.
 
 On Friday, Dr. Ranit Mishori, a professor of family medicine at Georgetown University School of Medicine and senior medical advisor to Physicians for Human Rights, joined PBS NewsHour’s William Brangham to answer viewers’ questions about COVID-19 and what we know so far.
@@ -192,7 +192,7 @@ There is no known cure, and any claim of preventive remedies should always be ve
 
 Mishori concluded by repeating the recommendations of the majority of global medical experts.
 
-“Stay home, wherever you are,” she said. “It just makes good public health sense and you’re going to be better for helping your fellow citizens.”"
+“Stay home, wherever you are,” she said. “It just makes good public health sense and you’re going to be better for helping your fellow citizens.”",100,Very high,Center
 8,https://www.pbs.org/newshour/nation/over-70-of-tested-inmates-in-federal-prisons-have-covid-19,PBS NewsHour,2020-04-29,['Michael Balsamo'],Over 70 percent of tested inmates in federal prisons have COVID-19,https://d3i6fh83elv35t.cloudfront.net/static/2020/04/2020-04-03T153834Z_840730526_RC23XF9S02YQ_RTRMADP_3_HEALTH-CORONAVIRUS-JUSTICE-PRISONS-1024x683.jpg,"WASHINGTON (AP) — Michael Fleming never got to say goodbye to his father. He didn’t know his dad was fading away on a ventilator, diagnosed with coronavirus at the federal prison where he was serving time for a drug charge.
 
 His father, also named Michael, was held at FCI Terminal Island in Los Angeles and died April 19. At least half the population there has tested positive, the largest known hot spot in the federal prison system. But the first word the family received of the father’s illness was the day he died, from a prison chaplain asking if the body should be cremated and where the ashes should be sent.
@@ -253,7 +253,7 @@ But Hawk Sawyer said the Bureau of Prisons is prepared with ample amount of pers
 
 “We are creating and making the masks for the staff, as well as the shields and hand sanitizer and all kinds of things,” she said.
 
-Associated Press writers Michael R. Sisak and Larry Neumeister in New York contributed to this report."
+Associated Press writers Michael R. Sisak and Larry Neumeister in New York contributed to this report.",100,Very high,Center
 9,https://www.pbs.org/newshour/nation/coronavirus-has-changed-online-dating-heres-why-some-say-thats-a-good-thing,PBS NewsHour,2020-05-15,['Courtney Vinopal'],Coronavirus has changed online dating. Here’s why some say that’s a good thing,https://d3i6fh83elv35t.cloudfront.net/static/2020/05/GettyImages-1196354779-1024x695.png,"When California issued a stay-at-home order back in March to curb the spread of the coronavirus, Dana Angelo, a 33-year-old copywriter at an ad agency in Los Angeles, found herself with more free time. So, out of boredom, she turned to a social activity she could still do from home: She got back on the dating app, Bumble.
 
 Angelo said she’s been rotating through online dating apps — she’s also tried Tinder and Hinge — with minimal luck since getting out of a long-term relationship about a year ago, and had recently been taking a break. “You just see the same people on all of them and then it gets kind of depressing,” Angelo said.
@@ -356,4 +356,4 @@ We don’t know how single life and dating culture will be changed by the end of
 
 Justin Becker said that while he misses physical connections with other men, he’ll be more thoughtful about how he chooses to enter relationships moving forward. “I tend to be a little serial monogamist when it comes to dating, where I want to jump into the next serious thing.” He said that this period of being home more often than usual has made him reflect on to whom he wants to commit.
 
-In the future, he said, he’ll take the time to consider, “are they someone that complements you and brings out the best in you, versus just having someone to have someone?”"
+In the future, he said, he’ll take the time to consider, “are they someone that complements you and brings out the best in you, versus just having someone to have someone?”",100,Very high,Center
