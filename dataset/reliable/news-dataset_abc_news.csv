@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
 0,https://abcnews.go.com/US/feds-warn-attacks-related-bogus-covid-19-conspiracy/story?id=70721145,ABC News,2020-05-16,['Josh Margolin'],Feds warn of attacks related to bogus COVID-19 conspiracy theory,https://s.abcnews.com/images/US/5g-tower-tmobile-1-rt-rc-200516_hpMain_16x9_992.jpg,"What started as a bizarre and bogus conspiracy theory involving the novel coronavirus in Britain has apparently crossed the Atlantic Ocean, U.S. law enforcement officials believe, and they are now increasingly worried about the possibility for real-world violence.
 
 “We assess conspiracy theories linking the spread of COVID-19 to the expansion of the 5G cellular network are inciting attacks against the communications infrastructure globally and that these threats probably will increase as the disease continues to spread, including calls for violence against telecommunications workers,” the U.S. Department of Homeland Security reported Wednesday in an intelligence report obtained by ABC News.
@@ -31,7 +31,7 @@ While many try to dismiss internet craziness as words without significance, expe
 
 The 5G conspiracy, unlike Pizzagate, has attracted people from across the political and ideological spectrum, according to intelligence analysts.
 
-“We are seeing more people spreading these conspiracies, but equally disturbing is that more Americans seem to be believing them,” said ABC News contributor John Cohen, who used to oversee DHS intelligence operations as the acting undersecretary of the department. “In some cases, those people that believe the conspiracy theories commit destructive and violent acts as a result. This can be dangerous.”",95,High,Left-center
+“We are seeing more people spreading these conspiracies, but equally disturbing is that more Americans seem to be believing them,” said ABC News contributor John Cohen, who used to oversee DHS intelligence operations as the acting undersecretary of the department. “In some cases, those people that believe the conspiracy theories commit destructive and violent acts as a result. This can be dangerous.”",95,High,Left-center,USA
 1,https://abcnews.go.com/Health/200-cases-doctors-warn-reports-rare-coronavirus-linked/story?id=70703314,ABC News,2020-05-15,"['Olivia Rubin', 'Soo Rin Kim']","With over 200 possible cases, doctors warn reports of rare, coronavirus-linked child inflammatory illness likely to rise",https://s.abcnews.com/images/US/kids-01-as-gty-200515_hpMain_16x9_992.jpg,"With over 200 possible cases, doctors warn reports of rare, coronavirus-linked child inflammatory illness likely to rise Over half of reported cases are in New York, but at least 20 states see cases.
 
 Medical professionals in 20 states and Washington D.C. are investigating more than 200 confirmed or suspected cases of a mysterious illness thought to be linked to the coronavirus and affecting children, according to a new ABC News survey of hospital and state health officials across the country. And while the unexplained syndrome is believed to be extremely rare, experts said they expect the number to grow.
@@ -128,7 +128,7 @@ In the meantime, health experts are urgently trying to get the word out about th
 
 ""This is truly disturbing,"" Gov. Cuomo said of the illness at a press conference this week. ""We raise it because it's something parents should be aware of.""
 
-ABC News' Katherine Faulders and Allie Pecorin contributed to this report.",95,High,Left-center
+ABC News' Katherine Faulders and Allie Pecorin contributed to this report.",95,High,Left-center,USA
 2,https://abcnews.go.com/Health/risks-coronavirus/story?id=70624608,ABC News,2020-05-16,['Eden David'],Know the risks: Where you are most likely to get coronavirus,https://s.abcnews.com/images/Health/brooklyn-grocery-store-ap-rc-200516_hpMain_16x9_992.jpg,"Know the risks: Where you are most likely to get coronavirus The data suggests that most people will get infected in their home.
 
 Recommendations on how to protect ourselves from contracting the virus that causes COVID-19 are everywhere, like washing your hands, wearing a mask, and staying at least 6 feet away from people outside your home. But not all risks are created equal; home, public transportation and the grocery store all have different challenges.
@@ -197,7 +197,7 @@ If you know your friend or relative has underlying health conditions or is at an
 
 ""The best course of action is to be personally cautious and personally responsible. We don't have a vaccine. But we do have social distancing and masks,"" said Raymond.
 
-Eden David, who's studying neuroscience at Columbia University and is matriculating to medical school later this year, is a contributor to the ABC News Medical Unit.",95,High,Left-center
+Eden David, who's studying neuroscience at Columbia University and is matriculating to medical school later this year, is a contributor to the ABC News Medical Unit.",95,High,Left-center,USA
 3,https://abcnews.go.com/US/texas-cases-covid-19-increasing-thousands-reopening/story?id=70720497,ABC News,2020-05-16,"['Gina Sunseri', 'Ella Torres']","Texas COVID-19 cases rise, governor's office says more testing being done",https://s.abcnews.com/images/US/texas-barbershop-rt-rc-200516_hpMain_16x9_992.jpg,"Texas COVID-19 cases rise, governor's office says more testing being done The deaths are also steadily increasing.
 
 What to know about antibody testing
@@ -240,7 +240,7 @@ The state has tested nearly 646,000 people out of a population of 29 million. Ca
 
 ABC News' Ali Dukakis contributed to this report.
 
-Editor's note: ABC News has updated this story to include comments from Gov. Greg Abbott's communications director.",95,High,Left-center
+Editor's note: ABC News has updated this story to include comments from Gov. Greg Abbott's communications director.",95,High,Left-center,USA
 4,https://abcnews.go.com/Business/coronavirus-crisis-pushes-million-unemployment-bringing-total-35/story?id=70677011,ABC News,2020-05-14,['Catherine Thorbecke'],"Nearly 3 million Americans file for unemployment, bringing total to over 36 million",https://s.abcnews.com/images/Business/biz-closed-ap-ml-200514_hpMain_16x9_992.jpg,"Nearly 3 million Americans file for unemployment, bringing total to over 36 million Unemployment in the U.S. is at the highest rate since the Great Depression.
 
 A total of 2,981,000 more Americans filed for unemployment insurance last week, bringing the total number of jobless claims filed amid the coronavirus pandemic to more than 36 million, according to the Department of Labor.
@@ -259,7 +259,7 @@ The COVID-19 crisis has pushed the unemployment rate in the U.S. to a staggering
 
 A woman takes walk with a dog in front of the closing signs displayed in a store's window front in Niles, Ill., May 13, 2020. Nam Y. Huh/AP
 
-While the crisis has delivered a largely indiscriminate blow across all sectors in the U.S. economy, restrictions and lockdowns have caused it to hit the retail, hospitality and food service industries especially hard.",95,High,Left-center
+While the crisis has delivered a largely indiscriminate blow across all sectors in the U.S. economy, restrictions and lockdowns have caused it to hit the retail, hospitality and food service industries especially hard.",95,High,Left-center,USA
 5,https://abcnews.go.com/US/food-delivery-driver-isolating-kids-work-covid-19/story?id=70686949,ABC News,2020-05-16,"['Jinsol Jung', 'Halley Freger', 'Alexandra Myers']",Food delivery driver on self-isolating from her kids to work during COVID-19 pandemic,https://s.abcnews.com/images/US/ht_delivery3_le_200514_hpMain_16x9_992.jpg,"Food delivery driver on self-isolating from her kids to work during COVID-19 pandemic Wendy Reynolds says pay has been good, but the job presents challenges
 
 As restrictions around the coronavirus caused restaurants across the country to halt dine-in service, many people staying at home turned to food delivery apps.
@@ -304,7 +304,7 @@ Wendy Reynolds writes messages on paper bags she uses for the sack lunches she g
 
 Reynolds recently made the decision to return home to her daughters, where they are taking small steps to being together again while still avoiding close contact.
 
-“I needed to be around some people, mentally,” she said. “I'm happy that I'm back around them and I'm just glad that I'm not alone now.”",95,High,Left-center
+“I needed to be around some people, mentally,” she said. “I'm happy that I'm back around them and I'm just glad that I'm not alone now.”",95,High,Left-center,USA
 6,https://abcnews.go.com/Health/coronavirus-contact-tracers-nemeses-people-answer-phones/story?id=70693586,ABC News,2020-05-15,"['Benjamin Siegel', 'Dr. Mark Abdelmalek', 'Jay Bhatt']",Coronavirus contact tracers' nemeses: People who don't answer their phones,https://s.abcnews.com/images/International/nyc-masks-ap-rc-200514_hpMain_16x9_992.jpg,"Coronavirus contact tracers' nemeses: People who don't answer their phones Experts say the outreach effort has to be massive, but the public must help.
 
 What is contact tracing and can it help in the fight against coronavirus?
@@ -421,7 +421,7 @@ How it started and how to protect yourself: Coronavirus explained
 
 What to do if you have symptoms: Coronavirus symptoms
 
-Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center
+Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center,USA
 7,https://abcnews.go.com/US/covid-19s-hidden-victims-alzheimers-patients-nursing-homes/story?id=70686559,ABC News,2020-05-16,['Jack Arnholz'],"COVID-19’s hidden victims, Alzheimer's patients in nursing homes",https://s.abcnews.com/images/Health/alzheimers-nursing-home-rt-jt-200515_hpMain_16x9_992.jpg,"COVID-19’s hidden victims, Alzheimer's patients in nursing homes Nearly 50% of all nursing home residents live with Alzheimer's or dementia.
 
 When Ken Gregersen, 88, left his wife's nursing home in Ankeny, Iowa, on March 11, he didn't know that that would be the last time he'd see her for two months.
@@ -502,7 +502,7 @@ How it started and how to protect yourself: Coronavirus explained
 
 What to do if you have symptoms: Coronavirus symptoms
 
-Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center
+Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center,USA
 8,https://abcnews.go.com/International/wireStory/burundi-defies-covid-19-election-ending-bloody-rule-70718704,ABC News,2020-05-16,"['Rodney Muhumuza', 'Ignatius Ssuuna Associated Press']",Burundi defies COVID-19 for election ending a bloody rule,https://s.abcnews.com/images/International/WireAP_d682fd20bd1b42aeabb7dc4e1ee37565_16x9_992.jpg,"Burundi defies COVID-19 for election ending a bloody rule Burundi is pushing ahead with an election on Wednesday that will end the president’s divisive and bloody 15-year rule
 
 In this photo taken Monday, April 27, 2020, crowds of supporters of the ruling party gather for the start of the election campaign, in Bugendana, Gitega province, Burundi. Burundi is kicking out the World Health Organization's top official in the country Walter Kazadi Mulombo and three experts, saying they must leave by Friday, May 15, 2020, just days before the presidential election and after the WHO raised concerns about crowded political rallies which health officials say risk facilitating the spread of the coronavirus. (AP Photo/Berthier Mugiraneza)
@@ -569,7 +569,7 @@ Hartill, the Burundi researcher, said disputed election results could put the co
 
 ———
 
-Ssuuna reported from Kigali, Rwanda. Eloge Willy Kaneza in Nairobi, Kenya, contributed.",95,High,Left-center
+Ssuuna reported from Kigali, Rwanda. Eloge Willy Kaneza in Nairobi, Kenya, contributed.",95,High,Left-center,USA
 9,https://abcnews.go.com/US/abortion-funds-increase-calls-coronavirus-pandemic/story?id=70703745,ABC News,2020-05-15,['Alexandra Svokos'],Abortion funds see an increase in calls during the coronavirus pandemic,https://s.abcnews.com/images/US/emw-womens-surgical-center-kentucky-usat-jc-200515_hpMain_16x9_992.jpg,"Abortion funds see an increase in calls during the coronavirus pandemic The increase in need comes as unemployment reaches new highs.
 
 As the novel coronavirus continues to impact most aspects of American life, including health care, abortion funds across the country are reporting that calls for assistance have increased.
@@ -604,7 +604,7 @@ Typically, Kentucky Health Justice Network can help patients by driving them to 
 
 Stern also expects the increase in calls for need to continue into the summer with the shelter-in-place orders, ""just as we see after a winter storm event.""
 
-""Even during a pandemic, people will still need abortions, and regardless of when or why folks need support accessing abortions, we are here to accompany them,"" Stern said.",95,High,Left-center
+""Even during a pandemic, people will still need abortions, and regardless of when or why folks need support accessing abortions, we are here to accompany them,"" Stern said.",95,High,Left-center,USA
 10,https://abcnews.go.com/GMA/Wellness/face-masks-gloves-appointments-gyms-amid-covid-19/story?id=70628201,ABC News,2020-05-15,['Katie Kindelan'],Face masks? Gloves? Appointments? What gyms will look like amid COVID-19,https://s.abcnews.com/images/GMA/mask-3-gty-er-200513_hpMain_16x9_992.jpg,"Face masks? Gloves? Appointments? What gyms will look like amid COVID-19 An expert shares five tips to stay as safe as possible back at the gym.
 
 Gyms are known for being social places where people share equipment, are often in close quarters with strangers and sweat together.
@@ -701,7 +701,7 @@ How it started and how to protect yourself: coronavirus explained
 
 What to do if you have symptoms: coronavirus symptoms
 
-Tracking the spread in the US and Worldwide: coronavirus map",95,High,Left-center
+Tracking the spread in the US and Worldwide: coronavirus map",95,High,Left-center,USA
 11,https://abcnews.go.com/Entertainment/covid-19-concert-industry-artists-tour-managers-forced/story?id=70722332,ABC News,2020-05-16,"['Ashan Singh', 'Laura Coburn']","With COVID-19, concert industry from artists to tour managers forced to rethink live shows, music production",https://s.abcnews.com/images/US/keith-urban-ap-rc-200516_hpMain_16x9_992.jpg,"With COVID-19, concert industry from artists to tour managers forced to rethink live shows, music production Keith Urban was one of the first to perform in front of a concert audience.
 
 It was a show like no other for country music star Keith Urban.
@@ -786,7 +786,7 @@ For Urban, while he said it felt ""extraordinary"" to be back on stage, he still
 
 ""There's a huge amount of it that I miss,"" he said. ""I miss the physical connectivity with an audience. I don't know when we're going to get to play or mosh pit again. A bunch of car headlights is not the same as a mosh pit, I can tell you that much.
 
-""I derive so much of my energy on stage from that audience right down there and everybody is in this flow. I miss that.""",95,High,Left-center
+""I derive so much of my energy on stage from that audience right down there and everybody is in this flow. I miss that.""",95,High,Left-center,USA
 12,https://abcnews.go.com/US/faces-coronavirus-pandemic-remembering-died/story?id=69932880,ABC News,2020-05-16,"['Emily Shapiro', 'Ely Brown', 'Whitney Lloyd', 'Avery Miller']",Faces of the coronavirus pandemic: Remembering those who died,https://s.abcnews.com/images/US/lilllin-eckstein-ht-er-200504_hpMain_16x9_992.jpg,"Faces of the coronavirus pandemic: Remembering those who died Over 82,000 people have died from the coronavirus pandemic in the U.S.
 
 From a veteran fire chief to a 93-year-old Holocaust survivor, over 80,000 people have died in the United States from the ongoing novel coronavirus pandemic.
@@ -2063,7 +2063,7 @@ Bernard Waddell, Sr. was a correctional police officer in Hudson County, New Jer
 
 New Jersey's governor, Phil Murphy, called him a front-line hero.
 
-ABC News' Kiara Brantley Jones, Katherine Carroll, Jeff Cook, Andrea Dresdale and Mariya Moseley contributed to this report.",95,High,Left-center
+ABC News' Kiara Brantley Jones, Katherine Carroll, Jeff Cook, Andrea Dresdale and Mariya Moseley contributed to this report.",95,High,Left-center,USA
 13,https://abcnews.go.com/Business/future-bars-nightlife-covid-19/story?id=70616746,ABC News,2020-05-15,['Kelly Mccarthy'],The future of bars and nightlife after COVID-19,https://s.abcnews.com/images/US/bar-1-gty-er-200514_hpMain_16x9_992.jpg,"The future of bars and nightlife after COVID-19 From Texas to New York, bar owners explain how they plan to adjust.
 
 This restaurant owner loses money daily, but raised over $100,000 for those in need
@@ -2158,7 +2158,7 @@ How it started and how to protect yourself: Coronavirus explained
 
 What to do if you have symptoms: Coronavirus symptoms
 
-Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center
+Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center,USA
 14,https://abcnews.go.com/GMA/Culture/disneys-frozen-broadway-permanently-close-due-covid-19/story?id=70699157,ABC News,2020-05-15,['Megan Stone'],Disney's 'Frozen' on Broadway to permanently close due to COVID-19 pandemic,https://s.abcnews.com/images/GMA/frozen-broadway-file-ap-ml-200515_hpMain_16x9_992.jpg,"Disney's 'Frozen' on Broadway to permanently close due to COVID-19 pandemic The musical ran for nearly two years, putting on 825 performances.
 
 Josh Gad gives glimpse behind the scenes of 'Into the Unknown: Making Frozen II'
@@ -2183,7 +2183,7 @@ Tickets for the Broadway musical purchased via Ticketmaster will be refunded. Th
 
 While its run on Broadway has come to an end, a future North American tour for ""Frozen"" is in the works. In addition, starting next year, the Disney musical will open in Australia, Japan, Germany and the United Kingdom.
 
-Disney is the parent company of ABC News and ""Good Morning America.""",95,High,Left-center
+Disney is the parent company of ABC News and ""Good Morning America.""",95,High,Left-center,USA
 15,http://abcnews.go.com/Politics/coronavirus-government-response-updates-trump-names-leaders-operation/story?id=70700897,ABC News,2020-05-15,['Libby Cathey'],Coronavirus government response updates: Trump names leaders of 'Operation Warp Speed' to fast-track vaccine development,https://s.abcnews.com/images/Politics/donald-trump-rose-garden-ap-jc-200515_hpMain_16x9_992.jpg,"As he ramps up his push to reopen the country, President Donald Trump announced a former pharmaceutical executive and Army general to lead his administration's effort to develop a coronavirus vaccine for a project he called ""Operation Warp Speed.""
 
 The announcement on Friday came one day after ousted vaccine chief Rick Bright said there are no plans to distribute a vaccine on an equitable scale, and called the timeline of 12 to 18 months being presented ""an aggressive schedule.""
@@ -2332,7 +2332,7 @@ How it started and how to protect yourself: Coronavirus explained
 
 What to do if you have symptoms: Coronavirus symptoms
 
-Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center
+Tracking the spread in the U.S. and worldwide: Coronavirus map",95,High,Left-center,USA
 16,http://abcnews.go.com/US/coronavirus-live-updates-york-tourist-arrested-hawaii-posting/story?id=70718169,ABC News,2020-05-16,"['Ella Torres', 'William Mansell']","Coronavirus live updates: US death toll approaching 90,000",https://s.abcnews.com/images/International/huntington-beach-gty-rc-100516_hpMain_16x9_992.jpg,"Coronavirus live updates: US death toll approaching 90,000 The U.S. COVID-19 death toll now stands at 88,473.
 
 The novel coronavirus pandemic has now killed more than 310,000 people worldwide.
@@ -2513,7 +2513,7 @@ What to do if you have symptoms: Coronavirus symptoms
 
 Tracking the spread in the U.S. and worldwide: Coronavirus map
 
-ABC News' Ahmad Hemingway, Brian Hartman, Olivia Rubin, Soorin Kim, Eric Strauss, Joshua Hoyos and Clark Bentson contributed to this report.",95,High,Left-center
+ABC News' Ahmad Hemingway, Brian Hartman, Olivia Rubin, Soorin Kim, Eric Strauss, Joshua Hoyos and Clark Bentson contributed to this report.",95,High,Left-center,USA
 17,http://abcnews.go.com/Business/family-amazon-employee-died-covid-19-answers/story?id=70702166,ABC News,2020-05-15,['Catherine Thorbecke'],Family of Amazon employee who died of COVID-19: 'We want answers',https://s.abcnews.com/images/Business/amazon-gty-aa-200515_hpMain_16x9_992.jpg,"Family of Amazon employee who died of COVID-19: 'We want answers' ""Their workers aren’t just a number,"" the man's niece said.
 
 As Amazon faces increased calls for transparency over how many employees have tested positive for COVID-19, the company confirmed to ABC News on Friday that another warehouse worker in New York has died amid the pandemic.
@@ -2556,4 +2556,4 @@ Jasmine Leigh said that she and her family would like to see even more informati
 
 Jasmine Leigh said that she wants her uncle to be remembered by ""how many people loved him.""
 
-""Even with him dying, we've got a lot of people, his coworkers reaching out to us and saying, 'Oh, he was a very funny guy, he would come to work every day with a smile on his face and everybody would be so happy to see him,'"" she said.",95,High,Left-center
+""Even with him dying, we've got a lot of people, his coworkers reaching out to us and saying, 'Oh, he was a very funny guy, he would come to work every day with a smile on his face and everybody would be so happy to see him,'"" she said.",95,High,Left-center,USA
