@@ -103,5 +103,10 @@
     "news_guard_score": 92.5,
     "mbfc_level":"High",
     "political_bias":"Right-center"
+  },
+  "Politico": {
+    "news_guard_score": 100,
+    "mbfc_level":"High",
+    "political_bias":"Center"
   }
 }
