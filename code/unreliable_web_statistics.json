@@ -8,5 +8,25 @@
     "news_guard_score": 12.5,
     "mbfc_level":"Very low",
     "political_bias":"N/A"
+  },
+  "Daily Mail": {
+    "news_guard_score": 15,
+    "mbfc_level":"Low",
+    "political_bias":"Right"
+  },
+  "FrontPage Magazine": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Low",
+    "political_bias":"Right"
+  },
+  "Geller Report News": {
+    "news_guard_score": 20,
+    "mbfc_level":"Low",
+    "political_bias":"Right"
+  },
+  "The Duran": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Low",
+    "political_bias":"Right"
   }
 }

@@ -8,6 +8,9 @@ import requests
 from bs4 import BeautifulSoup
 import dateutil.parser
 
+reliable_dir_path = '../dataset/reliable/'
+unreliable_dir_path = '../dataset/unreliable/'
+
 
 def get_articles(api_key):
     nyt = NYTAPI(api_key)
@@ -75,7 +78,7 @@ def write_final_csv():
     final_df = df[['url', 'publisher', 'publish_date', 'author', 'title', 'image', 'body_text']]
     final_df.index.name = 'news_id'
 
-    final_df.to_csv("../dataset/nytimes_dataset.csv")
+    final_df.to_csv(reliable_dir_path + "nytimes_dataset.csv")
 
 def replace_publisher(old_csv, url, pub_name, new_csv):
     df2 = pd.read_csv(old_csv)
@@ -87,19 +90,25 @@ def replace_publisher(old_csv, url, pub_name, new_csv):
 #get_articles("Enter API key")
 #write_final_csv()
 
-# replace_publisher("../dataset/news-dataset_cbs_news_old.csv", 'https://www.cbsnews.com', 'CBS News', '../dataset/news-dataset_cbs_news.csv')
-# replace_publisher("../dataset/news-dataset_business_insider_old.csv", 'https://www.businessinsider.com', 'Business Insider', '../dataset/news-dataset_business_insider.csv')
-# replace_publisher("../dataset/news-dataset_abc_news_old.csv", 'http[s]*://abcnews.go.com', 'ABC News', '../dataset/news-dataset_abc_news.csv')
-# replace_publisher("../dataset/news-dataset_CNBC_old.csv", 'https://www.cnbc.com', 'CNBC', '../dataset/news-dataset_CNBC.csv')
-# replace_publisher("../dataset/news-dataset_fiveThirtyEight_old.csv", 'https://fivethirtyeight.com', 'FiveThirtyEight', '../dataset/news-dataset_fiveThirtyEight.csv')
-# replace_publisher("../dataset/news-dataset_npr_old.csv", 'https://www.npr.org', 'National Public Radio (NPR)', '../dataset/news-dataset_npr.csv')
-# replace_publisher("../dataset/news-dataset_pbs_old.csv", 'https://www.pbs.org', 'PBS NewsHour', '../dataset/news-dataset_pbs.csv')
-# replace_publisher("../dataset/news-dataset-reuters_old.csv", 'https://www.reuters.com', 'Reuters', '../dataset/news-dataset-reuters.csv')
-# replace_publisher("../dataset/news-dataset-reuters.csv", 'http://widerimage.reuters.com', 'Reuters', '../dataset/news-dataset-reuters.csv')
-#replace_publisher("../dataset/news-dataset_usa_today_old.csv", 'https://www.usatoday.com', 'USA Today', '../dataset/news-dataset_usa_today.csv')
-#replace_publisher("../dataset/news-dataset_washington_monthly_old.csv", 'https://washingtonmonthly.com', 'Washington Monthly', '../dataset/news-dataset_washington_monthly.csv')
-#replace_publisher("../dataset/news-dataset_yahoo_news_old.csv", 'https://news.yahoo.com', 'Yahoo! News', '../dataset/news-dataset_yahoo_news.csv')
-#replace_publisher("../dataset/news_dataset_nytimes_old.csv", 'www.nytimes.com', 'The New York Times ', '../dataset/news_dataset_nytimes.csv')
-#replace_publisher("../dataset/news-dataset_natural_news.csv", 'https://www.naturalnews.com', 'Natural News', '../dataset/news-dataset_natural_news.csv')
-#replace_publisher("../dataset/news-dataset_natural_news.csv", 'https://naturalnewsblogs.com', 'Natural News', '../dataset/news-dataset_natural_news.csv')
-#replace_publisher("../dataset/news-dataset_gateway_pundit.csv", 'https://www.thegatewaypundit.com', 'The Gateway Pundit', '../dataset/news-dataset_gateway_pundit.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_cbs_news_old.csv", 'https://www.cbsnews.com', 'CBS News', reliable_dir_path + 'news-dataset_cbs_news.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_business_insider_old.csv", 'https://www.businessinsider.com', 'Business Insider', reliable_dir_path + 'news-dataset_business_insider.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_abc_news_old.csv", 'http[s]*://abcnews.go.com', 'ABC News', reliable_dir_path + 'news-dataset_abc_news.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_CNBC_old.csv", 'https://www.cnbc.com', 'CNBC', reliable_dir_path + 'news-dataset_CNBC.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_fiveThirtyEight_old.csv", 'https://fivethirtyeight.com', 'FiveThirtyEight', reliable_dir_path + 'news-dataset_fiveThirtyEight.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_npr_old.csv", 'https://www.npr.org', 'National Public Radio (NPR)', reliable_dir_path + 'news-dataset_npr.csv')
+# replace_publisher(reliable_dir_path + "news-dataset_pbs_old.csv", 'https://www.pbs.org', 'PBS NewsHour', reliable_dir_path + 'news-dataset_pbs.csv')
+# replace_publisher(reliable_dir_path + "news-dataset-reuters_old.csv", 'https://www.reuters.com', 'Reuters', reliable_dir_path + 'news-dataset-reuters.csv')
+# replace_publisher(reliable_dir_path + "news-dataset-reuters.csv", 'http://widerimage.reuters.com', 'Reuters', reliable_dir_path + 'news-dataset-reuters.csv')
+#replace_publisher(reliable_dir_path + "news-dataset_usa_today_old.csv", 'https://www.usatoday.com', 'USA Today', reliable_dir_path + 'news-dataset_usa_today.csv')
+#replace_publisher(reliable_dir_path + "news-dataset_washington_monthly_old.csv", 'https://washingtonmonthly.com', 'Washington Monthly', reliable_dir_path + 'news-dataset_washington_monthly.csv')
+#replace_publisher(reliable_dir_path + "news-dataset_yahoo_news_old.csv", 'https://news.yahoo.com', 'Yahoo! News', reliable_dir_path + 'news-dataset_yahoo_news.csv')
+#replace_publisher(reliable_dir_path + "news_dataset_nytimes_old.csv", 'www.nytimes.com', 'The New York Times ', reliable_dir_path + 'news_dataset_nytimes.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_natural_news.csv", 'https://www.naturalnews.com', 'Natural News', reliable_dir_path + 'news-dataset_natural_news.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_natural_news.csv", 'https://naturalnewsblogs.com', 'Natural News', reliable_dir_path + 'news-dataset_natural_news.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_gateway_pundit.csv", 'https://www.thegatewaypundit.com', 'The Gateway Pundit', reliable_dir_path + 'news-dataset_gateway_pundit.csv')
+#replace_publisher(reliable_dir_path + "news-dataset_los_angeles_daily.csv", 'http[s]*://www.dailynews.com', 'Los Angeles Daily News', reliable_dir_path + 'news-dataset_los_angeles_daily.csv')
+#replace_publisher(reliable_dir_path + "news-dataset_detroit_news.csv", 'http[s]*://www.detroitnews.com', 'The Detroit News', reliable_dir_path + 'news-dataset_detroit_news.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_dailymail_uk.csv", 'http[s]*://www.dailymail.co.uk', 'Daily Mail', unreliable_dir_path + 'news-dataset_dailymail_uk.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_frontpagemag.csv", 'http[s]*://www.frontpagemag.com', 'FrontPage Magazine', unreliable_dir_path + 'news-dataset_frontpagemag.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_geller_report.csv", 'https://gellerreport.com', 'Geller Report News', unreliable_dir_path + 'news-dataset_geller_report.csv')
+#replace_publisher(unreliable_dir_path + "news-dataset_theduran.csv", 'https://theduran.com', 'The Duran', unreliable_dir_path + 'news-dataset_theduran.csv')
