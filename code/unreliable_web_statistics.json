@@ -1,62 +1,32 @@
 {
-  "The Gateway Pundit": {
-    "news_guard_score": 20,
+  "Activist Post": {
+    "news_guard_score": 7.5,
     "mbfc_level":"Low",
-    "political_bias":"Right"
+    "political_bias":"",
+    "country": ""
   },
-  "Natural News": {
-    "news_guard_score": 12.5,
-    "mbfc_level":"Very low",
-    "political_bias":""
-  },
-  "Daily Mail": {
-    "news_guard_score": 15,
-    "mbfc_level":"Low",
-    "political_bias":"Right"
-  },
-  "FrontPage Magazine": {
-    "news_guard_score": 17.5,
-    "mbfc_level":"Low",
-    "political_bias":"Right"
-  },
-  "Geller Report News": {
-    "news_guard_score": 20,
-    "mbfc_level":"Low",
-    "political_bias":"Right"
-  },
-  "The Duran": {
-    "news_guard_score": 17.5,
-    "mbfc_level":"Low",
-    "political_bias":"Right"
-  },
-   "True Pundit": {
+  "American Thinker": {
     "news_guard_score": 12.5,
     "mbfc_level":"Low",
-    "political_bias":""
+    "political_bias":"Extreme right",
+     "country": "USA"
+  },
+  "Big League Politics": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Low",
+    "political_bias":"Extreme right",
+    "country": "USA"
   },
   "Bipartisan Report": {
     "news_guard_score": 17.5,
     "mbfc_level":"Mixed",
-    "political_bias":""
+    "political_bias":"Extreme left",
+    "country": "USA"
   },
-   "InfoWars": {
-    "news_guard_score": 25,
-    "mbfc_level":"Very low",
-    "political_bias":"Right"
-  },
-  "RT News": {
-    "news_guard_score": 32.5,
-    "mbfc_level":"Very low",
-    "political_bias":"Right-center"
-  },
-  "News Punch": {
-    "news_guard_score": 0,
-    "mbfc_level":"Very low",
-    "political_bias":""
-  },
-  "Disclose TV": {
-    "news_guard_score": "",
+  "Clash Daily": {
+    "news_guard_score": 10,
     "mbfc_level":"Low",
-    "political_bias":""
+    "political_bias":"Extreme right",
+    "country": ""
   }
 }
