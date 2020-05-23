@@ -7,7 +7,7 @@
   "Natural News": {
     "news_guard_score": 12.5,
     "mbfc_level":"Very low",
-    "political_bias":"N/A"
+    "political_bias":""
   },
   "Daily Mail": {
     "news_guard_score": 15,
@@ -28,5 +28,35 @@
     "news_guard_score": 17.5,
     "mbfc_level":"Low",
     "political_bias":"Right"
+  },
+   "True Pundit": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Low",
+    "political_bias":""
+  },
+  "Bipartisan Report": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Mixed",
+    "political_bias":""
+  },
+   "InfoWars": {
+    "news_guard_score": 25,
+    "mbfc_level":"Very low",
+    "political_bias":"Right"
+  },
+  "RT News": {
+    "news_guard_score": 32.5,
+    "mbfc_level":"Very low",
+    "political_bias":"Right-center"
+  },
+  "News Punch": {
+    "news_guard_score": 0,
+    "mbfc_level":"Very low",
+    "political_bias":""
+  },
+  "Disclose TV": {
+    "news_guard_score": "",
+    "mbfc_level":"Low",
+    "political_bias":""
   }
 }
