@@ -70,5 +70,113 @@
     "mbfc_level":"Low",
     "political_bias":"Right",
     "country": "USA"
+  },
+  "Geller Report News": {
+    "news_guard_score": 20,
+    "mbfc_level":"Low",
+    "political_bias":"Right",
+    "country": "USA"
+  },
+  "GreenMedInfo": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "Health Nut News": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Very low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "Health Impact News": {
+    "news_guard_score": 25,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "Humans Are Free": {
+    "news_guard_score": 5,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "InfoWars": {
+    "news_guard_score": 25,
+    "mbfc_level":"Very low",
+    "political_bias":"Right",
+    "country": "USA"
+  },
+  "Intellihub": {
+    "news_guard_score": 25,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": ""
+  },
+  "Natural News": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Very low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "News Punch": {
+    "news_guard_score": 0,
+    "mbfc_level":"Very low",
+    "political_bias":"Extreme right",
+    "country": "USA"
+  },
+  "Now the End Begins": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Very low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "RealFarmacy": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": ""
+  },
+  "RT News": {
+    "news_guard_score": 32.5,
+    "mbfc_level":"Very low",
+    "political_bias":"Right-center",
+    "country": "Russia"
+  },
+  "The Duran": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Low",
+    "political_bias":"Extreme right",
+    "country": "Cyprus"
+  },
+  "The Gateway Pundit": {
+    "news_guard_score": 20,
+    "mbfc_level":"Low",
+    "political_bias":"Extreme right",
+    "country": "USA"
+  },
+  "The Mind Unleashed": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "True Pundit": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
+  },
+    "Waking Times": {
+    "news_guard_score": 0,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
+  },
+  "WorldHealth.Net": {
+    "news_guard_score": 30,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": "USA"
   }
 }
