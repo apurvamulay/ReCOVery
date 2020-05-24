@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01898522-d958-4173-a6cc-451e35afeaee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/FeatureExtraction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/DataDistribution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/DataDistribution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/unreliable/news-dataset_daily_mail_uk.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/authorNum_count.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figure/authorNum_count.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/imageNum_count.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figure/imageNum_count.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/publishDate_count.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figure/publishDate_count.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/publisher_newsNum.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figure/publisher_newsNum.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/wordNum_count.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figure/wordNum_count.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/FakeNewsPrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/FakeNewsPrediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/FeatureExtraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/FeatureExtraction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/nontent-features.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +67,7 @@
       <workItem from="1590215016708" duration="2535000" />
       <workItem from="1590269366586" duration="2479000" />
       <workItem from="1590291699033" duration="394000" />
-      <workItem from="1590292168521" duration="5809000" />
+      <workItem from="1590292168521" duration="7129000" />
     </task>
     <servers />
   </component>
