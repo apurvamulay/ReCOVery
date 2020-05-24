@@ -28,5 +28,47 @@
     "mbfc_level":"Low",
     "political_bias":"Extreme right",
     "country": ""
+  },
+  "Collective Evolution": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Low",
+    "political_bias":"Right",
+    "country": "USA"
+  },
+  "Curious Mind Magazine": {
+    "news_guard_score": 25,
+    "mbfc_level":"Low",
+    "political_bias":"",
+    "country": ""
+  },
+  "DC Dirty Laundry": {
+    "news_guard_score": 12.5,
+    "mbfc_level":"Very low",
+    "political_bias":"Extreme right",
+    "country": "USA"
+  },
+   "DC Gazette": {
+    "news_guard_score": "",
+    "mbfc_level":"Low",
+    "political_bias":"Extreme right",
+    "country": ""
+  },
+  "Drudge Report": {
+    "news_guard_score": 29.5,
+    "mbfc_level":"Low",
+    "political_bias":"Right",
+    "country": "USA"
+  },
+  "En Volve": {
+    "news_guard_score": 7.5,
+    "mbfc_level":"Very low",
+    "political_bias":"Right",
+    "country": ""
+  },
+  "FrontPage Magazine": {
+    "news_guard_score": 17.5,
+    "mbfc_level":"Low",
+    "political_bias":"Right",
+    "country": "USA"
   }
 }
