@@ -1,5 +1,5 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias
-0,https://www.axios.com/coronavirus-invades-trump-country-8526833c-f4c1-4a58-b255-fd79500cad09.html,Drudge Report,,['Caitlin Owens'],The coronavirus invades Trump country,https://images.axios.com/m0qAOJwiGjvD3LaDc6AHTr_dQmw=/2020/05/22/1590138512222.jpg,"Republicans are still less worried about the coronavirus than Democrats or independents, even as it spreads out from primarily urban areas into suburban and rural Republican-leaning areas.
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+0,https://www.axios.com/coronavirus-invades-trump-country-8526833c-f4c1-4a58-b255-fd79500cad09.html,Drudge Report,,"['Caitlin Owens', 'Https', 'Www.Axios.Com Authors Caitlin']",The coronavirus invades Trump country,https://images.axios.com/m0qAOJwiGjvD3LaDc6AHTr_dQmw=/2020/05/22/1590138512222.jpg,"Republicans are still less worried about the coronavirus than Democrats or independents, even as it spreads out from primarily urban areas into suburban and rural Republican-leaning areas.
 
 Why it matters: The virus doesn't care about politics or geography. High-risk behavior in places where the virus is spreading is the recipe for an outbreak.
 
@@ -21,8 +21,81 @@ Two-thirds of Republicans said either that the pandemic isn't a major problem or
 
 Data: KFF; Chart: Axios Visuals
 
-The bottom line: How people feel about the coronavirus will undoubtedly impact the kinds of risks they are willing to take, which will in turn impact the extent of future outbreaks.",29.5,Low,Low
-1,https://www.msn.com/en-us/news/us/white-house-concerned-with-coronavirus-spread-in-la-area-asks-cdc-to-investigate/ar-BB14tBIk,Drudge Report,,[],"White House concerned with coronavirus spread in LA area, asks CDC to investigate",https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14qTfo.img?h=200&w=300&m=6&q=60&o=f&l=f,"© Robert Gauthier/Los Angeles Times/TNS People walk, jog and bike past Evergreen Cemetery as local stay at home orders are increasingly relaxed months into the COVID-19 pandemic.
+The bottom line: How people feel about the coronavirus will undoubtedly impact the kinds of risks they are willing to take, which will in turn impact the extent of future outbreaks.",29.5,Low,Right,USA
+1,https://www.france24.com/en/20200522-virus-surges-in-monument-valley-symbol-of-american-west,https://www.france24.com,2020-05-22,[],"Virus surges in Monument Valley, symbol of American West",https://s.france24.com/media/display/e42f890a-9c3e-11ea-903e-005056bff430/w:1240/p:16x9/2aad47d52fd46ebe7af5c2552752e679bad5f833.jpg,"Republicans are still less worried about the coronavirus than Democrats or independents, even as it spreads out from primarily urban areas into suburban and rural Republican-leaning areas.
+
+Why it matters: The virus doesn't care about politics or geography. High-risk behavior in places where the virus is spreading is the recipe for an outbreak.
+
+Map courtesy of the Brookings Institute. Note: High-risk counties are counties with at least 100 cases per 100,000 residents, as of May 17.
+
+The big picture: For the last four weeks, counties newly designated as having a high prevalence of coronavirus cases — meaning at least 100 cases per 100,000 people — were more likely to have voted for President Trump than Hillary Clinton in 2016, according to a recent analysis by the Brookings Institution.
+
+The most recently identified counties tend to be in the South and the Midwest.
+
+Between March 29 and May 17, the portion of Americans living in high-prevalence counties rose from 8% to 79%.
+
+What they're saying: ""This suggests that rhetoric from some of the president’s supporters against maintaining public health measures may become more muted, as the nation continues to grapple with the many unknowns about COVID-19’s continued spread,"" writes William Frey, the author of the analysis.
+
+Yes, but: That's not happening.
+
+Republicans are more willing than Democrats or independents to partake in activities that involve interacting with other people, per new polling by the Kaiser Family Foundation.
+
+Two-thirds of Republicans said either that the pandemic isn't a major problem or that the ""worst is behind us."" On the other hand, 70% of Democrats and half of independents said that the ""the worst is yet to come.""
+
+Data: KFF; Chart: Axios Visuals
+
+The bottom line: How people feel about the coronavirus will undoubtedly impact the kinds of risks they are willing to take, which will in turn impact the extent of future outbreaks.",29.5,Low,Right,USA
+2,https://www.wsj.com/articles/coronavirus-is-a-medical-and-financial-disaster-for-blacks-in-new-orleans-11590226200,https://www.wsj.com,,['David Benoit'],Coronavirus Devastates Black New Orleans: ‘This Is Bigger Than Katrina’,https://images.wsj.net/im-188392/social,"We can’t find the page you're looking for. If you typed the URL into your browser, check that you entered it correctly. If you reached this page via our site or search, please let us know by emailing support@wsj.com",29.5,Low,Right,USA
+3,https://www.msn.com/en-us/news/us/undercover-agents-enforcing-state-health-rules-at-restaurants-bars/ar-BB14tFRH?li=BBnb7Kz,Drudge Report,,[],"Undercover agents enforcing state health rules at restaurants, bars",https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14tDFI.img?h=180&w=270&m=6&q=60&o=f&l=f&x=397&y=162,"© Provided/Akron Beacon Journal Plainclothes agents with the Ohio Investigative Unit are out checking to see if there's a group larger than 10, patrons congregating in open areas, or around the bar or people using pool tables and video games - all things still not alowed under the state health order.
+
+As patrons potentially flock to bars and restaurants over the holiday weekend, extra undercover agents will be out to observe, educate and, if necessary, enforce the state’s public health order to thwart the spread of coronavirus.
+
+The agents are part of the Ohio Investigative Unit, which is made up of plainclothes peace officers responsible for enforcing Ohio’s alcohol, tobacco and food stamp fraud laws.
+
+Along with looking for criminal activity, the officers now are tasked with watching for potential violations of the state’s health order for restaurants and bars to safely operate during the coronavirus pandemic.
+
+The agents can issue administrative citations, which could lead to a hearing with the Ohio Liquor Control Commission. Possible penalties include fines, suspensions or even revoking a business’ liquor permit.
+
+“We just don’t know the compliance rate out there,” Ohio Investigative Unit Enforcement Commander Eric Wolf said. “We certainly expect that a vast majority of the places we visit will be in compliance and do what they have to do.”
+
+Gov. Mike DeWine announced May 18 that members would be added to the investigative unit to check for compliance at bars and restaurants.
+
+Wolf said the undercover agents don’t have a set checklist, but they will look for things such as groups larger than 10, patrons congregating in open areas or around the bar or people using pool tables and video games -- all things still not allowed under the state health order.
+
+This will be in addition to their normal duties, like checking for underage alcohol sales and over serving, Wolf said.
+
+To help the unit as bars and restaurants reopen their dining rooms, Wolf said the agency is adding the help of sworn officers from other agencies. Officers from the Ohio Casino Control Commission will be teaming up with the Ohio Investigative Unit. Locally, the Stark County Sheriff’s Office will be pairing deputies with agents as well, Wolf said.
+
+The agents generally work in pairs, Wolf said, and the extra help will let them about double the amount of teams they can send out. In an ideal situation where businesses are following the rules, Wolf said officers would “leave without an establishment knowing we were even there.”
+
+Wolf said the two main goals are observation and education. If a business is doing mostly everything right but has one or two problems, he said an officer would likely just address the issue, and help the owners comply.
+
+He said a big part of enforcing the health order is making sure patrons also know what they need to do to comply and be safe.
+
+“At the same time, we’re trying to get the message out that it’s the patrons' responsibility as well,” Wolf said.
+
+Officers have been doing similar checks while bars and restaurants reopened patios. Wolf said by-and-large, the agency saw very few incidents in which they had to issue violations.
+
+If there is an issue that rises to a violation, Wolf said it would be filed against the business’ liquor permit, and lead to a hearing with the liquor control commission.
+
+Agents will not be shutting down businesses, he said.
+
+The biggest question is what businesses will look like as they reopen. Wolf said people will likely fall into two camps: those who aren’t ready to dine in yet, and those who are cooped up and ready to get out of the house. He said it’s hard to know how many people will fall in each category.
+
+“I’m curious as just about anyone out there on what’s going to happen this weekend,” Wolf said. “We just don’t know.”
+
+Wolf said the Ohio Investigative Unit has committed to bringing on extra officers for at least two weeks. Wolf said this will let them spread out as much as they can, and help people comply, if necessary.
+
+“That’s the biggest push is just more observation and education, and to make sure that everyone has a good and safe holiday weekend,” Wolf said.
+
+Reach Akron Beacon Journal reporter Sean McDonnell at smcdonnell@thebeaconjournal.com or 330-996-3186.
+
+
+
+This story was reported by the Akron Beacon Journal, part of the USA Today network.
+
+This article originally appeared on Akron Beacon Journal: Undercover agents enforcing state health rules at restaurants, bars",29.5,Low,Right,USA
+4,https://www.msn.com/en-us/news/us/white-house-concerned-with-coronavirus-spread-in-la-area-asks-cdc-to-investigate/ar-BB14tBIk,Drudge Report,,[],"White House concerned with coronavirus spread in LA area, asks CDC to investigate",https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14qTfo.img?h=200&w=300&m=6&q=60&o=f&l=f,"© Robert Gauthier/Los Angeles Times/TNS People walk, jog and bike past Evergreen Cemetery as local stay at home orders are increasingly relaxed months into the COVID-19 pandemic.
 
 LOS ANGELES — While some parts of the country are seeing major progress in fighting the coronavirus, Dr. Deborah Birx, the White House’s coronavirus response coordinator, on Friday singled out Los Angeles as one of three regions where persistent spread remains a significant concern.
 
@@ -110,21 +183,318 @@ On its website, the city of South Lake Tahoe said that while second homeowners a
 
 Visit the Los Angeles Times at www.latimes.com
 
-Distributed by Tribune Content Agency, LLC.",29.5,Low,Low
-2,https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-lori-lightfoot-reopening-plan-phase-three-20200522-i77sxrpvcbby3hey4yhqu7a2pu-story.html,Drudge Report,2020-05-22,"['Gregory Pratt', 'Bill Ruthhart']","Chicago will cautiously reopen in early June, begin easing restrictions on some businesses and activities, Mayor Lori Lightfoot says",https://www.chicagotribune.com/resizer/lgt5H7YqWphfe2Q4I3PbDlZxo60=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/5HWJ6FBSBRG5HOKKNH3WPGLVKU.jpg,"“I, too, would like everything to reopen in the fashion that it was before. Again, what I’m being advised by the epidemiologists is that indoor dining, at least during this next phase, we need to be extraordinarily careful, watch the numbers with outdoor dining, with the servers who will be wearing masks, but the people sitting at tables may not be and, of course, the food has the potential to carry the virus,” Pritzker said. “We just want to be very, very careful and watch what happens with the opening up that we’ve already allowed in phase three.”",29.5,Low,Low
-3,https://www.politico.com/news/2020/05/22/trump-churches-evaneglicals-coronavirus-274842,Drudge Report,2020-05-22,[],Behind Trump’s demand to reopen churches: Slipping poll numbers and alarm inside his campaign,https://static.politico.com/fa/ed/8361fc3b47e087c2a62da8d5b83f/200522-trump-ap-773.jpg,"“I did a number of briefings with donors and key stakeholders and said the longer this goes on, there’s going to be a perceptible and predictable float-down once you get past the initial rally-around-the-flag upswing,” said Ralph Reed, a top Trump surrogate and director of the Faith and Freedom Coalition.
+Distributed by Tribune Content Agency, LLC.",29.5,Low,Right,USA
+5,https://www.latimes.com/california/story/2020-05-23/muslim-call-to-prayer-publicly-broadcast-across-southern-california,https://www.latimes.com,2020-05-23,"['Staff Writer', 'Brittny Mejia Is A Reporter On The Los Angeles Times', 'Metro Desk Covering Breaking News', 'Stories On Immigration', 'Race. She Is A Military Brat Who Calls Germany Home', 'Is A Graduate Of The University Of Arizona.']","Mosques adapt to coronavirus shutdown by sharing the call to prayer. In Culver City, neighbors said it was too loud",https://ca-times.brightspotcdn.com/dims4/default/4ffd014/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2F99%2F447ba1de46068981096489dc5e36%2Fla-photos-1staff-542437-me-0516-mosque-adhan-001.IK.JPG,"© Robert Gauthier/Los Angeles Times/TNS People walk, jog and bike past Evergreen Cemetery as local stay at home orders are increasingly relaxed months into the COVID-19 pandemic.
 
-“Now you’re in this trough and what voters are going to do is they’re going to wait and render a verdict once they’ve assessed the job President Trump has done to bring the economy back into recovery coming out of the pandemic,” he added.
+LOS ANGELES — While some parts of the country are seeing major progress in fighting the coronavirus, Dr. Deborah Birx, the White House’s coronavirus response coordinator, on Friday singled out Los Angeles as one of three regions where persistent spread remains a significant concern.
 
-Following the PRRI survey, which was conducted while Trump was a dominant presence at televised daily briefings by his administration's coronavirus task force, Pew Research Center released new data last week that showed a 7-point increase from April to May in white Catholics who disapprove of Trump’s response to the Covid-19 crisis and a 6-point decline among white evangelicals who previously gave him positive marks.
+Speaking with reporters at the White House, Birx gave a mostly upbeat assessment of the nation’s progress but said the Los Angeles metropolitan area, which includes Orange County, is continuing to see problems, along with Washington, D.C., and Chicago.
 
-Trump campaign aides, White House officials and outside allies are responding to the threat by boosting their outreach to religious voters and promising to prioritize religious gatherings as they push to reopen the U.S. economy. Administration officials have conducted multiple calls with conservative Christian groups to ensure their support over the past two months. Trump himself recently attended an online worship service hosted by St. Patrick’s Cathedral in New York. And Vice President Mike Pence held a roundtable with faith leaders in Iowa earlier this month. Reed said his organization is planning a get-out-the-vote campaign three times as large as its effort in 2016.
+“Even though Washington has remained closed, L.A. has remained closed, Chicago has remained closed, we still see these ongoing cases,” she said.
 
-The president’s reelection operation “will engage the Christian community nationwide to overwhelmingly reelect President Trump in 2020,” Trump campaign spokesman Ken Farnaso said in a statement.
+Brix asked the Centers for Disease Control and Prevention to work with those areas “to really understand where are these new cases coming from, and what do we need to do to prevent them in the future.”
 
-“In addition to his extraordinary record on conservative and faith-based issues, he has appointed well over 180 solid, conservative federal judges … defended religious freedoms and has stood as the most pro-life president we’ve ever had,” Farnaso added.
+Los Angeles County is the epicenter of the coronavirus outbreak in California, accounting for about 56% of the state’s total deaths and almost half of nearly 90,000 confirmed infections. The county’s death toll rose Thursday to 2,021, with more than 42,000 confirmed cases.
 
-On Thursday, Trump also floated a potential move by his administration to reopen houses of worship in the near future.
+“This is a very sad milestone for us,” county Public Health Director Barbara Ferrer said Thursday after the deaths exceeded 2,000.
+
+Los Angeles County Supervisor Hilda Solis said she hoped officials could ease stay-at-home restrictions soon but urged caution.
+
+“I wish that we could speed things up,” she said. “The virus is still out there waiting for us to let our guard down.”
+
+Despite the average daily death toll, which has remained at a stubborn plateau for weeks, there were new signs that even Los Angeles is beginning to turn the corner.
+
+The coronavirus transmission rate in the nation’s most populous county is now in its best position since the magnitude of the outbreak became clear in March.
+
+Still, officials remain concerned that warm temperatures and quarantine fatigue could drive people from their homes over the Memorial Day weekend, resulting in crowding at parks and beaches that could threaten to undo some of the progress the state has made.
+
+In San Francisco, the parks department painted 10-foot circles on the grass of four city parks ahead of the holiday weekend to remind visitors to follow social distancing rules.
+
+It’s part of a pilot program based on a similar effort at Domino Park in Brooklyn, said Tamara Barak Aparton, spokeswoman for San Francisco Recreation and Parks.
+
+“It’s going to be warm this weekend and we knew people would be out, so we thought it would be a good time to get feedback on whether this helps,” Aparton said. If successful, the circles could be expanded to more locations, she said.
+
+In Orange County, several coastal cities expanded their beach hours and planned to open more parking lots connected to the shoreline ahead of the holiday.
+
+Seal Beach, which initially allowed public access only Mondays through Thursdays from sunrise to sunset, is now welcoming beachgoers from 4:30 a.m. to 10 p.m. seven days a week, officials said earlier this week. Some beach parking lots also reopened. Beaches are open for active use only.
+
+A few miles south, Huntington Beach and Newport Beach also are allowing beach access on weekends, ahead of the Memorial Day holiday. Newport is now open 6 a.m. to 10 p.m., while Huntington Beach opens an hour earlier.
+
+Laguna Beach, however, is maintaining stricter hours on Saturdays and Sundays, with its coastline closing at noon each day.
+
+While Los Angeles County beaches also have reopened for active use, only some parking lots are open.
+
+In addition to the reduced transmission rate, L.A. County has seen other encouraging indicators, including a 12% decrease in its latest seven-day average of deaths per day and a 15% decrease in its most recent three-day average for hospitalizations per day, Ferrer said Thursday.
+
+“The progress we’ve made in slowing the spread, the reduction in the average daily deaths and hospitalizations and retaining capacity in our health care system — this lets us know that the extraordinary efforts and sacrifices made by all of you are working,” she said. “As a community, we’ve done this together, and this progress is a direct reflection of what all of you in your day-to-day lives have been able to accomplish.”
+
+Still, she said, officials will continue to keep a close eye on those metrics to ensure they don’t creep up as more people are out in the public due to businesses and recreation areas reopening.
+
+“Through our recovery journey, as we’re all out of our homes more, it may become more difficult to slow the spread, but it is far from impossible,” she said.
+
+Though experts say it’s still too soon for L.A. County to move into a more aggressive phase of recovery, much of California has progressed to a point where officials feel it’s safe to lift more of the state’s stay-at-home order and allow more businesses to reopen.
+
+The number of new coronavirus cases across the state declined from the previous week, and hospitalizations have dropped more than 15% from a peak six weeks ago, according to a Los Angeles Times analysis.
+
+Most counties have received approval to progress more quickly through Phase 2 of the state’s reopening road map — meaning they can open restaurant dining rooms and more retail businesses for in-store shopping.
+
+The list of counties that can ramp up their reopening efforts now includes San Diego — the state’s second-most populous — Kern, San Luis Obispo, Santa Barbara and Ventura.
+
+That comes as officials revealed that California’s unemployment rate nearly tripled from mid-March to mid-April, with the state losing an unprecedented 2.3 million payroll jobs across all sectors of its economy as a result of the pandemic.
+
+April’s jobless rate skyrocketed to 15.5%, up from 5.5% a month before, sweeping past the Great Recession’s peak of 12.3% a decade ago, state officials reported Friday.
+
+The Golden State’s jobless rate is higher than the nationwide rate of 14.7%, reflecting California’s reliance on tourism, hospitality and entertainment businesses.
+
+Still, some local officials are urging tourists to stay away — at least for now. Multiple counties have expressed concern about people visiting and possibly bringing with them the coronavirus, especially during the Memorial Day weekend.
+
+Dr. Penny Borenstein, San Luis Obispo County’s health officer, asked tourists to not visit as the county reopened many shops and restaurants this week. While officials have performed “spot checks” with hotels to deter tourism, Borenstein said the county would cite visitors only in the case of “egregious violations.”
+
+Remote Alpine County urged tourists to stay away when the virus began to spread through California in March.
+
+Dr. Richard Johnson, the Alpine County public health officer, said last month there’s no medical care to treat visitors who fall ill with COVID-19.
+
+“There’s no way we would even have ground or air resources to get them out,” Johnson said. “It’s a dangerous assumption that you can come and look at us as a safe haven. It is an unsafe haven.”
+
+Communities in the Lake Tahoe region, which heavily depend on tourism as well, have issued reminders before the holiday weekend warning that leisure travel is not permitted.
+
+On its website, the city of South Lake Tahoe said that while second homeowners are now welcome, other visitors are still not. Lodging will not be available to short-term renters.
+
+“We would love nothing more than to welcome everyone to Tahoe right now, but that’s not the safest way to bring people back to South Lake,” City Manager Joe Irvin said in a statement. “We need to be responsible and make sure we are doing our part to keep our neighbors safe and Tahoe safe while adhering to the governor’s stay at home orders.”
+
+———
+
+(Bierman reported from Washington. Times staff writer Margot Roosevelt contributed to this report.)
+
+———
+
+©2020 Los Angeles Times
+
+Visit the Los Angeles Times at www.latimes.com
+
+Distributed by Tribune Content Agency, LLC.",29.5,Low,Right,USA
+6,https://www.nbcnews.com/politics/donald-trump/trump-visits-one-his-private-golf-courses-first-time-75-n1213746,https://www.nbcnews.com,2020-05-23,"['Monica Alba', 'Monica Alba Is A Political Reporter For Nbc News.', 'Lauren Egan', 'Lauren Egan Is A Reporter For Nbc News Based In Washington.']",Trump visits one of his private golf courses for first time in 75 days,https://media1.s-nbcnews.com/j/newscms/2020_21/3362371/200523-trump-motorcade-al-1055_789b45dac8ec8c5d02f3b6b041ebbb06.nbcnews-fp-1200-630.jpg,"WASHINGTON — President Donald Trump kicked off his Memorial Day weekend by visiting his club in Virginia, marking the president's first time back at one of his private golf courses in 75 days, the longest stretch of his administration without spending time at one.
+
+He was seen leaving the White House on Saturday morning wearing a white hat, white shirt and no mask as his motorcade made its way to the Trump National Golf Club in Sterling, Virginia.
+
+Trump last visited his Mar-a-Lago resort in Florida the weekend of March 6 where he hosted several Brazilian officials, one of whom tested positive for the coronavirus shortly after the trip.
+
+The president spent most of the rest of March locked down at the White House participating in near-daily press briefings with the White House coronavirus task force highlighting the administration's response to the pandemic. The briefings were abandoned in late April after Trump was criticized for suggesting people might be able to prevent the coronavirus by injecting or ingesting toxic household cleaning products.
+
+Recently, Trump has begun to take day trips outside of Washington to thank factory workers producing medical equipment used to combat the coronavirus.
+
+Let our news meet your inbox. The news and stories that matters, delivered weekday mornings. This site is protected by recaptcha
+
+During a press conference at the White House on Friday, Dr. Deborah Birx, the Trump administration's coronavirus coordinator, emphasized that it was okay to participate in normal Memorial Day weekend activities, such as golfing, as long as people practiced social distancing and took other precautions.
+
+""Please, as you go out this weekend, understand that you can be outside and you can play golf, and you can play tennis with marked balls,"" Brix said. ""You can go to the beaches if you stay six feet apart. But remember that is your space. And that is the space you need to protect to ensure you are social distancing for others.""
+
+Trump was seen playing with three other people at his golf course Saturday and was seen driving a golf cart alone around the course. At one point, Trump patted another golfer on the shoulder. None of the players were seen wearing a mask.
+
+So far this month, the president has twice visited Camp David but it’s unclear whether he golfed during either of those “working” weekends. Camp David reportedly has at least one hole and a driving range, but the White House has not stated publicly whether the president has played since early March.
+
+“I'd really like to play golf but it's too busy right now,” the president told reporters earlier this month. Trump also tweeted recently he had not played “in a long time.”
+
+Trump called into an NBC PGA special last weekend and conceded he missed the game.
+
+“I do miss it. I haven't played, really, since this problem that we have started. I haven't been able to play golf for a while. I've been very busy, and I think that it’s just one of those things, but we're getting back to normal,” Trump said.
+
+Last year, the president had a new, room-size golf simulator installed in the White House, replacing an older version used by former President Barack Obama.
+
+Trump regularly enjoyed golfing and spending time at his various self-branded clubs throughout the country before the coronavirus pandemic. NBC News records indicate the president has visited his own properties on more than 400 days since taking office, about a third of his total term.",29.5,Low,Right,USA
+7,https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-lori-lightfoot-reopening-plan-phase-three-20200522-i77sxrpvcbby3hey4yhqu7a2pu-story.html,Drudge Report,2020-05-22,"['Gregory Pratt', 'Bill Ruthhart']","Chicago will cautiously reopen in early June, begin easing restrictions on some businesses and activities, Mayor Lori Lightfoot says",https://www.chicagotribune.com/resizer/lgt5H7YqWphfe2Q4I3PbDlZxo60=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/5HWJ6FBSBRG5HOKKNH3WPGLVKU.jpg,"“I, too, would like everything to reopen in the fashion that it was before. Again, what I’m being advised by the epidemiologists is that indoor dining, at least during this next phase, we need to be extraordinarily careful, watch the numbers with outdoor dining, with the servers who will be wearing masks, but the people sitting at tables may not be and, of course, the food has the potential to carry the virus,” Pritzker said. “We just want to be very, very careful and watch what happens with the opening up that we’ve already allowed in phase three.”",29.5,Low,Right,USA
+8,https://www.kansascity.com/news/coronavirus/article242946596.html,Drudge Report,,[],,,"“I, too, would like everything to reopen in the fashion that it was before. Again, what I’m being advised by the epidemiologists is that indoor dining, at least during this next phase, we need to be extraordinarily careful, watch the numbers with outdoor dining, with the servers who will be wearing masks, but the people sitting at tables may not be and, of course, the food has the potential to carry the virus,” Pritzker said. “We just want to be very, very careful and watch what happens with the opening up that we’ve already allowed in phase three.”",29.5,Low,Right,USA
+9,https://nypost.com/2020/05/23/us-could-be-coronavirus-free-by-late-september-scientists-say/,https://nypost.com,2020-05-23,['May'],Scientists walk back prediction that US could be coronavirus-free by fall,https://thenypost.files.wordpress.com/2020/05/200523-coronavirus-ambulance-study.jpg?quality=90&strip=all&w=1200,"Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.
+
+The US could finally be free of the coronavirus in late September, and the whole world can expect to put the pandemic behind them in December, say scientists in Singapore.
+
+The rosy forecasts are from the Singapore University of Technology and Design, where researchers are using artificial intelligence to continually update their charting of the pandemic’s “life cycle” by country.
+
+At the end of April, predictions showed that the US would be virus-free by Sept. 20 and the UK could see the end of the coronavirus by Aug. 27, Metro.co.uk reported Saturday.
+
+But the group has since taken down its country-by-country charts from its website — instead posting a disclaimer that the research was strictly for educational purposes and may contain errors.
+
+Scientists at the university caution that their results are continually evolving and inexact– and that the predictions should not lead to hasty ends of lockdowns around the world.
+
+“Over-optimism based on some predicted end dates is dangerous because it may loosen our disciplines and controls and cause the turnaround of the virus,” they said.",29.5,Low,Right,USA
+10,https://dnyuz.com/2020/05/23/the-drones-were-ready-for-this-moment/,https://dnyuz.com,2020-05-23,[],The Drones Were Ready for This Moment,https://dnyuz.com/wp-content/uploads/2020/05/The-Drones-Were-Ready-for-This-Moment.jpg,"New Yorkers strolling along the East River early last month glanced up to see an unsettling sight: a mysterious drone claiming to represent something called the “Anti-Covid-19 Volunteer Drone Task Force” barking orders to pedestrians below to maintain social distancing.
+
+“Please maintain a social distance of at least six feet,” the drone intoned, according to a report from CBS News, continuing with gloomy warnings, like “please help stop the spread of this virus” and “reduce the death toll and help save lives.”
+
+It wasn’t a police drone. Was it a vigilante drone or an aerial white knight? Was it friend or foe?
+
+That’s a highly relevant question about drones in general, which are suddenly everywhere during the coronavirus crisis, taking over any number of human tasks as people hunker indoors.
+
+Drones have been working as police officers, soaring over the banks of the Seine in Paris and the city squares of Mumbai, to patrol for social distancing violators.
+
+They’re delivering medical supplies in Rwanda and snacks in Virginia. They’re hovering over crowds China to scan for fevers below.
+
+Coronavirus has been devastating to humans, but may well prove a decisive step toward a long-prophesied Drone Age, when aerial robots begin to shed their Orwellian image as tools of war and surveillance and become a common feature of daily life, serving as helpers and, perhaps soon, companions.
+
+“Robots are so often cast as the bad guys,” said Daniel H. Wilson, a former roboticist and the author of the 2011 science fiction novel “Robopocalypse.” “But what’s happening now is weirdly utopic, as opposed to dystopic. Robots are designed to solve problems that are dull, dirty and dangerous, and now we have a sudden global emergency in which the machines we’re used to fearing are uniquely well suited to swoop in and save the day.”
+
+First, however, we’ll have to get past the fears of an actual robopocalypse, with robots of the sky rising up to take over while their wetware-enabled former masters huddle in fear below.
+
+Eye in the Sky
+
+The origins of the “Anti-Covid-19 Volunteer Drone Task Force,” which turned out to be the work of a Queens drone enthusiast, may have confused New Yorkers initially, but in most cities, there is no question who is running the current aerial patrol. Law enforcement officials in cities and towns around the world have been using drones to scan parks, beaches and city squares for violators wandering into the safe spaces of others.
+
+In China, drones have served as educators or enforcers, depending on your point of view, alerting citizens with unsettlingly folksy warnings about virus violations in robotic voices from above, as reported by CNN.
+
+“Yes auntie, this is the drone speaking to you,” said one drone, speaking to an elderly woman below in an eerie bullhorn echo, according to a video published by Global Times, a state-controlled newspaper. “You shouldn’t walk about without wearing a mask.”
+
+Global Times also published an account of another drone. A voice from above castigated a small child peering skyward while seated with a man who was violating quarantine rules by playing mahjong in public: “Don’t look at the drone, child. Ask your father to leave immediately.”
+
+The idea of a government eye in the sky doesn’t always play so well in the United States, where personal liberty is a founding precept taken very seriously in many regions.
+
+“Covid-19? More like Covid-1984,” read one recent Reddit post on a thread about police drones flying over encampments of homeless people in cities such as Fort Worth, and Chula Vista, Calif., blasting them with messages about coronavirus prevention. “It really feels like we are living in some dystopian science fiction novel,” read another.
+
+“Did the drone fly over blueprints for a light saber?” another commenter fired back. “Not everything is a conspiracy.”
+
+But automated oversight can be a blunt instrument. A police drone deployed in Fairfield, Conn., to monitor beaches for social distancing also warned a group of “juveniles” trespassing on the roof of a local elementary school, according to one news account.
+
+In nearby Westport, police scrapped plans for their own drone project to scan crowds for fever temperatures, heart and temperature rates, and even sneezes and coughs, after outcry from the American Civil Liberties Union.
+
+“The big concern is that the coronavirus crisis is going to normalize drones and entrench them in American life,” said Jay Stanley, a privacy and technology specialist for the A.C.L.U. “The fear is many of these incursions on freedom will outlast the crisis.”
+
+While a drone itself is just a tool, neither inherently good nor evil, it is a tool with nearly unlimited powers for surveillance, Mr. Stanley added. Drones can be equipped with so-called stingrays to collect information from people’s mobile phones, night-vision cameras, GPS sensors, radar, lidar (laser detection technology for creating three-dimensional maps of an area), as well as thermal and infrared cameras.
+
+Enough people distrust drones that “drone rage” incidents between drone enthusiasts and citizens who do not wish to be filmed from above have become a regular occurrence, Mr. Stanley said. One Colorado town even proposed a tongue-in-cheek ordinance in 2014 allowing citizens to shoot down drones invading their airspace, a proposal that itself was shot down by the F.A.A.
+
+Resistance to pandemic patrol drones has not been confined to privacy watchdogs on the political left. On the right, outlets like Breitbart have also noted that many of the drones surveilling our cities are made in China, often by DJI, the world’s largest drone manufacturer, whose headquarters are in Shenzhen.
+
+Some Republican officials have made the same point.
+
+“Using drones, donated by a Chinese company, to spy on Americans during the #coronavirus pandemic?” read a tweet from the official House Judiciary Republicans account. “That doesn’t seem like a good idea.”
+
+Drones have other uses besides snooping, of course. They have stepped (or soared) up as aerial virus blasters, with authorities in countries around the world — China, Dubai, Indonesia, France, as well as the United States — using them to sanitize city streets.
+
+(It’s up to you to decide if government drones spraying cities for pathogens sounds creepy.)
+
+Drones are also performing crucial roles on the medical front lines that may be described as humanitarian … if they were performed by humans.
+
+“This is the moment when the drone industry gets to show what it can do,” said Miriam McNabb, the editor of Dronelife, an industry news site, and the C.E.O. of Job for Drones, an online drone services marketplace. “Things like drone delivery are lifesaving applications that are changing people’s perceptions of drones.”
+
+Zipline, a San Francisco-based start-up founded in 2014 that airdrops medical supplies and ferries tests from more than 1,000 hospitals in Ghana and Rwanda by drone, replacing the need for face-to-face contact.
+
+Zipline’s fixed-wing drones have already made 30,600 deliveries of medical products in those countries since the start of the pandemic, the company said: lately delivering cancer drugs, for example, to patients in remote villages who are unable to travel to oncology centers because of quarantine.
+
+“Zipline are the heroes of drone delivery,” Ms. McNabb said. “In parts of Rwanda, where road infrastructure doesn’t support delivery, it’s either three days on the back of a motorbike or 15 minutes by drone.”
+
+In the United States they are at last delivering more quotidian consumer items too, as long dreamed by Jeff Bezos of Amazon.
+
+Last month, Wing, a drone-delivery service owned by Google’s parent company, Alphabet, received the first Federal Aviation Administration approval for commercial package delivery, starting in Christiansburg, Va., a town of about 22,000, which is near Wing’s testing facility at nearby Virginia Tech in Blacksburg. (Wing is also operating in Helsinki, Finland, as well as Canberra and Logan in Australia.)
+
+Wing’s home deliveries of medications from Walgreens have proved particularly popular with quarantined seniors who are most at risk, said Jonathan Bass, a Wing spokesman.
+
+“It’s one of the few emerging technologies that has attracted a lot of early adopters over the age of 65,” he said.
+
+But Wing is also starting to out-Amazon Amazon, delivering must-have items like toilet paper and groceries. Merchandise is kept at a central Wing facility, and orders can be made through the Wing app, which allows customers to chart progress of their drone on a map, as with Uber or Lyft.
+
+While useful for temporary shut-ins, drone delivery has served as a lifeline for small businesses dealing with a collapse in foot traffic.
+
+“The first two weeks after Covid hit were rough; it felt like somebody put the e-brake on,” said Luke Brugh — conveniently pronounced “brew,” as he owns Brugh Coffee Co. in Christiansburg with his wife, Cassie. Wing, he said, has allowed them to double the sales of canned cold brew, which has helped make up for the loss.
+
+And this may just be the beginning. Just as World War II hurried the development of emerging technologies like computers, rocketry, jet aircraft and atomic energy, the pandemic may speed the development, and adoption of, drone technology.
+
+“Major world events can alter technological development cycles, causing them to accelerate or to slow down,” said Richard Yonck, the founder of Intelligent Future Consulting in Seattle and a former board member of the Association of Professional Futurists. “We’re seeing that now with drones and other automation in response to the pandemic. There’s a push to develop new tools that can reduce people’s exposure to the virus. What can we automate and by how much?
+
+“Of course, this could also accelerate future job losses,” he said, “which is something we’d have to deal with down the road.”
+
+Invading the Dream Factory
+
+On a Tuesday night in April, a company called Verge Aero flew 140 illuminated drones in the sky above the University of Pennsylvania. The drones performed as synchronized points of light as they formed giant hearts, medical crosses and American flags, as part of the #PhillyShinesBlue and global #LightItBlue campaigns honoring health care professionals and other essential workers.
+
+This 21st-century equivalent of a fireworks display was a case of drones serving to uplift, as opposed to, you know, simply lift — or spray, or fire missiles, or seize human jobs in an economy where unemployment is nearing Great Depression levels.
+
+And it also may prove to be one of many examples of the pandemic helping to make drones seem more endearing.
+
+During the lockdown, drones have also shown their potential as investigative reporters, bringing to light heart-wrenching stories like the mass graves for unclaimed bodies of Covid-19 victims on Hart Island in New York.
+
+The footage was shot by a photographer, George Steinmetz, whose drone was confiscated by police for photographing the island without permission from the city’s Department of Correction. It was widely shared, illustrating the death toll beyond the statistics in Governor Cuomo’s daily briefing.
+
+And at a time when professional storytellers — novelists, bloggers and many journalists — find themselves walled off to the global story around them, drones have pierced the veil of quarantine. They have created hauntingly poetic imagery of countless empty cities — San Francisco; Las Vegas; Wuhan, China — that says as much about loss in the coronavirus age as any written account.
+
+“Drones sell this idea of emptiness, this lack of life better than anything,” said Dexter Kennedy, 29, a drone photographer in Hoboken, N.J., who has been shooting aerial footage of abandoned streets in Philadelphia, as well as the empty boardwalks of Atlantic City and Jersey City during the lockdown.
+
+“You get 100 feet up and you can really see the big picture,” Mr. Kennedy said. “A boardwalk that would normally have thousands of people on it is totally empty. All the rides are empty. The Ferris wheel is not moving. You can see the grid patterns of the street, but no one’s out. It looks like an apocalypse movie.”
+
+Mr. Kennedy, 29, is also the director of flight operations at Flying Monster, a drone production company that has shot footage for numerous television shows and films, including “Watchmen,” “Mr. Robot” and Steven Spielberg and Tony Kushner’s upcoming “West Side Story.”
+
+Mr. Kennedy sees a big expansion of drone duties in Hollywood, should suspended productions resume with new social distancing measures in place. Drones can perform location scouting remotely, he said, minimize the need for crew members to share camera equipment and even allow a director to orchestrate aerial scenes from home, with a remote feed.
+
+“Up to this point, drones have been kind of a luxury for Hollywood,” Mr. Kennedy said. “Now I think they’re moving into the ‘necessity’ category.”
+
+As drones work their way further into the dream factory of Hollywood, they may also insinuate themselves further into our imagination.
+
+We’ve seen it before. As the age of robotics dawned in the mid-20th century, popular culture churned out sympathetic, humanoid robots, like the Rosey the robot maid in the 1960s television show “The Jetsons,” or the robot in “Lost in Space,” which helped make an unsettling new technology seem friendly and approachable.
+
+The boom to the drone industry during the pandemic comes at a point when drones were already poised to creep so far into our daily lives that techno-futurists are fretting about “robot smog” — drones as a new form of air pollution.
+
+Developers have created drones as jogging companions, barking out encouragement to the sweat drenched, and someday, perhaps, pet sitters, if one IBM patent comes to fruition. Drones with human feelings, meanwhile, are a running gag in The Onion, as with the recent headline “U.S. Claims Drone Was Minding Own Business on Its Way to Church When Iran Attacked It Out Nowhere.”
+
+If and when the pandemic ever ends, we may develop an unimagined kinship with our aerial assistants, just as we have with other types of robots.
+
+“Soldiers in the field have famously anthropomorphized their robots — naming them, rescuing them, even holding funerals,” said Daniel Wilson.
+
+Granted, he said, the marketplace has shown little interest in robots that do not perform valuable tasks. “It’s not enough for a robot to be cute or inspirational, it has to solve a problem before people will fall in love,” Mr. Wilson said.
+
+Once the robot does, though, “the human mind will find a way to include it in the landscape of our lives,” he said, just as some supermarket employees have attached cute, googly eyes on the inventory robots they work alongside.
+
+In a sense, they have no choice. As with drones in the age of coronavirus, Mr. Wilson said, “the robots aren’t going anywhere.”
+
+The post The Drones Were Ready for This Moment appeared first on New York Times.",29.5,Low,Right,USA
+11,https://wwztv.com/together-alone-the-car-as-shelter-in-the-pandemic/,https://wwztv.com,2020-05-23,"['What I Learned With My', 'Blogging', ""Experience Is Just A Great Medium For Sharing My Knowledge With The People. It'S Your Content That Helps You Grow"", 'Make You Get To A Larger Audience.', 'I Have A Good Knowledge Of', 'Search Engine Optimization', 'Youtube', 'Wordpress', 'Networks', 'Operating Systems']","Together, Alone. The Car as Shelter in the Pandemic.",https://i1.wp.com/static01.nyt.com/images/2020/06/21/multimedia/21xp-virus-drivein-1/21xp-virus-drivein-1-facebookJumbo.jpg?ssl=1,"The role of the automobile has been reinvented in the coronavirus era. Once just a way of getting from one place to another, the car has been turned into a mini-shelter on wheels, safe from contamination, a cocoon that allows its occupants to be inside and outside at the same time.",29.5,Low,Right,USA
+12,https://www.theguardian.com/us-news/2020/may/23/barack-obama-joe-biden-campaign-trump,Drudge Report,2020-05-23,['Daniel Strauss'],Barack Obama poised to add his star appeal to Joe Biden's campaign,https://i.guim.co.uk/img/media/7ef01bdec7e7d1b366276cb642c5ad430d6f4ba7/0_49_2864_1718/master/2864.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d44cc8de9bb57dfbadd810abd350792b,"The former president, the most popular politician in America with a huge social media following, can bolster the Democratic nominee with key groups and drive voter registration
+
+Former president Barack Obama has dipped his toes into the 2020 presidential campaign recently and is positioned to do more in the coming months as Joe Biden’s effort to defeat Donald Trump gathers steam.
+
+Interviews with about a dozen Democratic strategists, officials and people close to Obama indicated members of the party want the popular former president to use his powerful online presence and focus on rallying key Democrat constituencies that are critical to a Biden victory.
+
+Obama is regarded as one of the most popular figures in American politics and a huge asset within the Democratic party. He left the White House with a near-60% approval rating. His endorsement for any candidate is the political campaign equivalent of an oilman and hitting a gusher.
+
+Obama would be most effective, interviewees said, in highlighting his former vice-president’s résumé, rallying key Democratic groups like African American women, and pushing voters to register.
+
+The situation is unique. There hasn’t been a popular former two-term president eager to hit the trail for his former running mate for years. On top of that, the coronavirus pandemic limits in-person campaigning and rallies. Still, the strategists interviewed say Obama is valuable and should be used everywhere.
+
+“You rarely have a former president that is more popular than the now-sort-of-nominee,” Democratic pollster Cornell Belcher said. “Barack Obama is the most popular political figure in America right now.”
+
+Facebook Twitter Pinterest Joe Biden and Barack Obama before a presidential primary debate in 2007. Photograph: Jim Young/Reuters
+
+Valerie Jarrett, who served as a senior adviser to Obama during his time in the White House, said Obama is “committed to helping Vice-President Biden in any way the Biden campaign thinks is helpful. The pandemic is forcing everyone to be more creative since the conventional ways of doing business, including campaigning, are not possible.”
+
+Obama has a robust social media presence with millions of Twitter followers, and Jarrett pointed to Obama’s endorsement of Biden, which took the form of an online video now that campaign rallies have become a thing of the pre-pandemic past.
+
+“I think you can tell from the video that he rolled out with his endorsement, one very useful platform is President Obama’s social media platform where he has more followers than any other politician by far.”
+
+According to a Democratic strategist familiar with Obama’s thinking, the former president is eager to campaign for Democrats “up and down the ballot” in 2020. He plans to follow the lead of the Biden campaign as well as that of the main Democratic campaign arms – the Democratic Congressional Campaign Committee, the Democratic Senatorial Campaign Committee and other umbrella organizations.
+
+Obama was an active surrogate to boost Democrats in the 2018 midterm elections but since then has taken a more restrained approach to the national spotlight. He has only waded into current politics a few times and mostly on an indirect basis.
+
+Most recently, though, he delivered a commencement speech for college graduates where he said the coronavirus pandemic had “finally torn back the curtain on the idea that so many of the folks in charge know what they’re doing”. Obama didn’t mention Trump by name but the speech was widely regarded as a direct allusion to the president. It could also herald what Obama’s public appearances in the final months of the 2020 presidential campaign would be like.
+
+Separately, during a closed event with thousands of supporters and Obama alumni, the former president warned that the justice department’s decision to drop charges against the former Trump administration national security adviser Michael Flynn put the rule of law at risk.
+
+Campaign veterans and strategists say Obama is useful less as an attack dog going head to head with Trump and more as someone who highlights a positive vision of why voters should elect Biden.
+
+Facebook Twitter Pinterest President Obama endorses Joe Biden via online video link. Photograph: Brian Cahn/Zuma Wire/Rex/Shutterstock
+
+“To me, Obama is the world’s best character witness,” said Teddy Goff, who was digital director for Obama’s second presidential campaign. “Yeah, he can make the case that Trump is bad. He can certainly validate the case for Biden’s policies. But essentially he’s the most popular political figure on planet Earth and the one guy he entrusted with the single most important appointment of his life was Joe Biden.”
+
+But Obama could also persuade more people to vote.
+
+Meg Ansara, who was national regional director for Obama’s first presidential campaign and more recently battleground states director for Hillary Clinton’s 2016 presidential campaign, said one of the key priorities, especially in this environment, is voter registration.
+
+“I think voter registration is a huge place,” Ansara said, adding that persuading undecided voters is important for someone like Obama as well. “I’m a big believer that you need to do both in the bulk of these battleground states.”
+
+There have been moments during the last three years when Democrats had wondered why Obama didn’t speak out more against Trump or weigh in more during the Democratic primary. That’s actually an asset now and adds weight to when Obama does speak out, said Guy Cecil, who runs the Priorities USA Super Pac.
+
+“I think in some respects the Biden campaign benefits from the fact that Obama has not spent three and a half years in the political limelight, attacking the president, attacking the administration, engaging in a back-and-forth with [Trump],” Cecil said.
+
+Corey Platt, a veteran Democratic strategist and campaign manager, said that Obama and Biden have done a good job of appearing together so far and he should keep doing that rather than just focusing on going head-to-head with Trump.
+
+“I think he if continues to remind people about competency and progress under his administration it will make people feel good about Biden, change and sanity. If he engages Trump I think that could backfire,” Platt said. “He can help articulate Biden’s vision for what happens next year and promote confidence in getting through this crisis together.”",29.5,Low,Right,USA
+13,https://www.politico.com/news/2020/05/22/trump-churches-evaneglicals-coronavirus-274842,Drudge Report,2020-05-22,[],Behind Trump’s demand to reopen churches: Slipping poll numbers and alarm inside his campaign,https://static.politico.com/fa/ed/8361fc3b47e087c2a62da8d5b83f/200522-trump-ap-773.jpg,"On Thursday, Trump also floated a potential move by his administration to reopen houses of worship in the near future.
 
 “The churches are not being treated with respect by a lot of Democratic governors,” Trump said as he left the White House to visit a ventilator factory in Michigan. “I want to get our churches open. We will take a very strong position on that very soon.”
 
@@ -142,8 +512,8 @@ As the coronavirus-related death toll approaches 100,000 and outbreaks emerge in
 
 “If grandma’s retirement home is suffering from an outbreak, there’s pretty good evidence that something is awry and it makes it difficult to ignore what public health experts are saying,” Gifford said. “This is something where that is harder to ignore than previous controversies or crises because it has life-and-death consequences for congregations and religious populations.”
 
-Part of the strategy Trump allies have adopted to protect his relationship with conservative Christians is to frame the novel coronavirus — and church closures in response to social distancing restrictions — as a threat to religious freedom. The president’s religious supporters routinely cite religious liberty as one of their top priorities and an area in which they believe the Trump administration has been exceptionally receptive.",29.5,Low,Low
-4,https://abcnews.go.com/Politics/black-americans-latinos-times-died-covid-19-poll/story?id=70794789,Drudge Report,,"['Kendall Karson', 'Quinn Scanlan']",Black Americans and Latinos nearly 3 times as likely to know someone who died of COVID-19: POLL,https://s.abcnews.com/images/Politics/trump-1-rt-er-200521_hpMain_16x9_992.jpg,"Black Americans and Latinos nearly 3 times as likely to know someone who died of COVID-19: POLL The findings trace local and national data reported by states and cities.
+Part of the strategy Trump allies have adopted to protect his relationship with conservative Christians is to frame the novel coronavirus — and church closures in response to social distancing restrictions — as a threat to religious freedom. The president’s religious supporters routinely cite religious liberty as one of their top priorities and an area in which they believe the Trump administration has been exceptionally receptive.",29.5,Low,Right,USA
+14,https://abcnews.go.com/Politics/black-americans-latinos-times-died-covid-19-poll/story?id=70794789,Drudge Report,,"['Abc News', 'Kendall Karson', 'Quinn Scanlan', 'May', 'Min Read']",Black Americans and Latinos nearly 3 times as likely to know someone who died of COVID-19: POLL,https://s.abcnews.com/images/Politics/trump-1-rt-er-200521_hpMain_16x9_992.jpg,"Black Americans and Latinos nearly 3 times as likely to know someone who died of COVID-19: POLL The findings trace local and national data reported by states and cities.
 
 The devastating toll of coronavirus is far-reaching, but the impact of the pandemic is particularly acute among black Americans and Latinos, who are nearly three times as likely to personally know someone who has died from the virus than white Americans, according to a new ABC News/Ipsos poll released Friday.
 
@@ -199,8 +569,135 @@ Democrats (94%) are far more likely than Republicans (59%) to be concerned about
 
 Still, only 6% of Democrats and less than half of Republicans (41%) say they are not concerned, including only 1% of Democrats and 11% of Republicans who are not concerned at all.
 
-This ABC News/Ipsos poll was conducted by Ipsos Public Affairs‘ KnowledgePanel® May 20-21, 2020, in English and Spanish, among a random national sample of 733 adults, with small oversamples of black and Hispanic respondents. Results have a margin of sampling error of 4.1 points, including the design effect. See the poll’s topline results and details on the methodology here.",29.5,Low,Low
-5,https://thehill.com/homenews/administration/499268-trump-routing-number-bank-revealed-coronavirus-response,Drudge Report,2020-05-22,[],Trump's routing number revealed as press secretary announces he's donating quarterly salary to HHS: report,https://thehill.com/sites/default/files/press.secretary.check_.0522.png,"President Trump Donald John TrumpREAD: The Hill's interview with Anthony Fauci Trump's routing number revealed as press secretary announces he's donating quarterly salary to HHS: report Former White House aide won M contract to supply masks amid pandemic MORE will donate his quarterly paycheck to the Department of Health and Human Services (HHS) as it responds to the coronavirus pandemic.
+This ABC News/Ipsos poll was conducted by Ipsos Public Affairs‘ KnowledgePanel® May 20-21, 2020, in English and Spanish, among a random national sample of 733 adults, with small oversamples of black and Hispanic respondents. Results have a margin of sampling error of 4.1 points, including the design effect. See the poll’s topline results and details on the methodology here.",29.5,Low,Right,USA
+15,https://www.vanityfair.com/news/2020/05/after-predicting-2016-michael-moore-fears-trump-will-mess-with-2020,https://www.vanityfair.com,,"['Tom Kludt', 'Eric Lut', 'Alison Durke']","“There Will Be No Election If Things Keep Going the Way They’re Going”: After Predicting 2016, Michael Moore Fears Trump Will Mess With 2020","https://media.vanityfair.com/photos/5ec6bdc5cab1177eb587474f/16:9/w_1280,c_limit/MichaelMoore-2020-GettyImages-1196435559.jpg","Michael Moore, for decades on the political front lines, is hunkered down inside, riding out the pandemic from his Upper West Side apartment. “I literally have not stepped outside the door of my apartment building in 71 days,” he told me this week. He’s had one visitor in that time—a handyman—and sees his doorman from a distance when retrieving a package. Kind neighbors have dropped goodies outside his door. “I think they’re worried about me,” he says dryly. He fortunately has a balcony, a coveted feature for many sun-starved New Yorkers, and it’s there where he gets his daily exercise, walking back and forth in the small outdoor space until he’s logged a mile or two.
+
+“The people across the street,” he said with a laugh, “it must look like there’s a lunatic who lives across the street from them.” Last month, on his 45th day in isolation, Moore turned 66, and his age and past bout with pneumonia make him a prime candidate to get hit hard by the virus. After spending much of the fall and winter stumping through Iowa and New Hampshire on behalf of Bernie Sanders, Moore opted not to travel ahead of the Super Tuesday primaries being held in early March, wary of a coronavirus crisis that was only just coming into focus in the United States. Moore recalled getting scared straight after talking to experts and academics and seeing “a runaway train heading in our direction.” To Moore’s friends it seemed like uncharacteristic alarmism. At that point in February, there had yet to be a death from COVID-19 reported in the U.S.; “social distancing” was still weeks away from entering the lexicon. “Everybody was like, ‘Dude, this doesn’t sound like you,’” Moore said. “I said, ‘No, I know, but I’m just using my own instinct here. I’m not a scientist.’”
+
+What Moore had to figure out then was where to quarantine. A doctor recommended Michigan, where the Flint native has a home, cautioning that New York’s hospital system could be overwhelmed. But Moore had visions of the virus bringing about chaos and unrest, even angry mobs, a scene straight out of The Day of the Locust. He concluded that “it would be actually more dangerous to be in the place where people are carrying a lot of guns.” “This was all before we watched all the people I went to high school with show up at the state capitol with their guns,” he said, referring to the anti-lockdown protests in Michigan that have drawn some rifle-toting demonstrators and President Donald Trump egging them on with a call to “liberate” the state.
+
+Moore distinguished himself in 2016 as one of the few prominent media voices to predict Trump’s victory over Hillary Clinton. “I have had a different lens that I have looked through when I look at Trump, different from other liberals or lefties or Democrats,” Moore said. “I always have taken him seriously. I believe him when he says something. This is something other liberals don’t do, and this is why we were defeated in 2016.” Trump’s infamous boast that he could shoot someone on Fifth Avenue without losing any voters? “I believe him,” Moore said. “I believe that’s a true statement.” And Moore believes that Trump may indeed be taking the antimalarial drug hydroxychloroquine as a preventive measure against COVID-19, as he’s claimed. “I think he’s very freaked out that his valet, the guy who’s getting him his Kentucky Fried Chicken, came down with it,” Moore said.",29.5,Low,Right,USA
+16,https://www.msn.com/en-us/news/politics/want-to-know-who-won-the-presidential-race-on-election-night-get-ready-to-wait/ar-BB14s4KI,Drudge Report,,[],Want to know who won the presidential race on election night? Get ready to wait.,https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14rJS9.img?h=200&w=300&m=6&q=60&o=f&l=f,"© HEATHER KHALIFA/The Philadelphia Inquirer/TNS Volunteers grab absentee ballot applications to stuff into food boxes distributed by the city, school district, and nonprofit groups in Philadelphia on May 16, 2020.
+
+It’s a familiar election night routine: Polls close, and everyone wants to know who won — immediately. Every minute matters for Americans anxiously awaiting the results. News organizations race to meet the demand by using complex statistical models to “call"" the winner long before all the votes are counted.
+
+But get comfortable waiting: Instant electoral gratification is about to become a thing of the past.
+
+A new Pennsylvania law that allows any voter to cast a ballot by mail, along with a surge in requests for mail-in ballots driven by fears of voting in person during the coronavirus pandemic, has set up a 2020 election in which everyone could be left waiting for days before results are known.
+
+That might not bother the public much when it comes to the June 2 primary, with a Democratic presidential contest that has already been effectively decided. But when President Donald Trump and former Vice President Joe Biden face off in the fall, and all eyes turn to the critical swing state of Pennsylvania, delays could effectively leave the race for the White House in limbo for days.
+
+“If nothing changes before November, I would bet my house there would be no way anybody could responsibly call the presidential race [on election night],” said Forrest Lehman, elections director for Lycoming County, in central Pennsylvania.
+
+The new law, which also changes how and when mail-in votes are counted, already stood to wreak havoc on the public’s expectation for quick results.
+
+“No county wants to be the reason we don’t know the leader of the free world on election night,” Lee Soltysiak, Montgomery County’s chief operating officer and clerk of its election board, said in January. “And that’s the position, depending on the margin, we’re all likely to be in.”
+
+Read our January story: Pennsylvania’s presidential election could be too close to call for days because of a new lawThen the coronavirus hit. The number of polling places are being cut. Requests for mail ballots have gone through the roof.
+
+Soltysiak laughed when reminded of what he said in January.
+
+“We’re not in a better place,” he said this week. “All of the challenges that we’re preparing to face still exist — and we have layered on top of them those that go along with volume and the pandemic.”
+
+Every election night, news outlets try to project winners using unofficial results from precincts, surveys of voters leaving polling places, turnout data, and more. (Official results aren’t certified until weeks later.)
+
+But some of that modeling depends on people voting in person, and data from past elections will be less useful this year now that Pennsylvania has changed how they are run. Not to mention that voter behavior is harder to predict during a pandemic. The crisis also means it will take even longer than expected to count mail ballots, county elections officials said.
+
+Philadelphia elections officials, for example, expect mail ballots to make up a majority of the vote, and they won’t even start counting them until the day after the election. Several large counties, including Bucks, Chester, and Montgomery, plan to start counting absentee ballots on election day, but expect to take at least another day or two before finishing.
+
+Christine Reuther, a Delaware County councilwoman, said “it would be unreasonable for people to expect results” from her county before Saturday.
+
+Four days after the election.
+
+The only silver lining for the primary, officials said, is that Biden and Trump are all but assured to win their party nominations, which could lower turnout and the number of mail ballots to count.
+
+But that might also obscure the magnitude of the problem looming in November, when millions will anxiously await the results from Pennsylvania.
+
+“We don’t have any choice at this point but to take our lumps on June 2 and then learn lessons from it and apply them forward,” Lehman said.
+
+“That’s the only hope I have,” he added. “But I don’t have a whole lot of it.”
+
+The new waiting game
+
+The time it takes to count ballots isn’t a sign of fraud, corruption, or any other failure of the electoral system. Rather, it’s a direct result of reforms to help expand access to voting.
+
+In the past, the vast majority of votes were cast in person. Pennsylvania had one of the most restrictive absentee voting systems in the country, and only about 5% of votes in any election were cast by mail. So when polling places sent results back to county elections offices, they accounted for almost all the votes.
+
+The new law enacted last year changes that.
+
+It was a bipartisan move to make voting more flexible and convenient. It will also dramatically increase the number of mail ballots. (Due to a quirk in the law, Pennsylvania technically has two kinds of mail ballots, “absentee” and “mail-in,” that are functionally the same for voters.)
+
+Philly will have way fewer polling places for next month’s primary because of coronavirus. Find yours here.Mail ballots also take much longer to count than in-person votes. Physical voting machines keep track of votes as they are cast and spit out a summary at the end of the night. But mail ballots require opening two different envelopes and then scanning the paper ballots. And some ballots need to be counted by hand, either due to voter error or problems with scanners.
+
+“It will definitely not be same-night election results that people are used to. We will certainly be well into the next day,"" said Gail Humphrey, the chief clerk for Bucks County. “Those scanners can jam.”
+
+“If there’s absolutely nothing that happens by technology that we didn’t foresee,” she said, “we’ll still be at least, bare minimum, into the next day still counting.”
+
+Coronavirus adds to the challenge
+
+The pandemic led to a volume of mail ballot requests that is far exceeding officials’ expectations. As of Wednesday, Pennsylvania voters had sent in almost 1.6 million applications for mail ballots, far exceeding the total of 107,000 in the 2016 primary.
+
+That means a significant strain on counties to actually tally them, just as social distancing guidelines make gathering workers to do so that much harder.
+
+“The number of people you’re going to have being able to canvass, or to open up envelopes even, at an eight-foot table is pretty much one. And one at the next table,” said Randall O. Wenger, chief clerk of the Lancaster County Board of Elections. “It’s going to impact and slow down that process as well.”
+
+“I don’t have any delusion that we’re going to have [all the ballots] opened and scanned and adjudicated that same day,"" Wenger said. ""Not going to happen.”
+
+Philly voters have requested more mail ballots than all of Pennsylvania did in 2016Counties also have to figure out how many people they can even dedicate to counting ballots, given how messy in-person voting at polling places is likely to be. In Philadelphia, which will have 77% fewer polling places this year, elections staff will be too busy to count mail ballots, said Lisa Deeley, chair of the City Commissioners, who run elections.
+
+“It’s unrealistic to think I’m going to have people to go sit and count ballots,” she said. “Election day is going to be quite the challenge, and it’s going to pretty much take up all our bandwidth on election day.”
+
+Things could be even worse in November, officials said. It remains to be seen if the outbreak will have eased by then, or if it will be spiking anew. What is certain, though, is that the volume of mail ballots will be much higher because of higher turnout for the general election. And the presidential election in Pennsylvania will likely be decided by razor-thin margins, after Trump won by less than 1% of the votes cast in 2016.
+
+How to fix the problem
+
+There are two ways to lessen the waiting time, elections officials said: Start counting earlier and reduce the time it takes.
+
+Reducing the processing time requires money to buy more machines and hire more staff to operate them. So starting earlier is the simpler fix.
+
+But when the election law was changed last year, it required counties to wait until 8 p.m. before starting to count mail ballots.
+
+Pennsylvania Secretary of State Kathy Boockvar, who oversees elections, said at the time that she believed counties could manage the task. But pressure from the counties led state lawmakers to make a change in March: Counties can now begin counting mail ballots at 7 a.m. on election day, when polls open.
+
+“I’ve only got 29 precincts, it’s not going to take me days and days,” said Florence Kellett, director of elections in Wyoming County.
+
+Kellett and officials in several other counties said they would begin counting during election day. Still, they said lawmakers should update the law again, to allow them to start counting ballots days or even weeks earlier.
+
+In recent weeks, Boockvar has taken up that call.
+
+The 7 a.m. change helps, “but I don’t think it’s going to be sufficient for many counties,” she told reporters Wednesday during a conference call. “I think some of the races that are close, we will get results quickly. But if there are close races, it may take a couple of days.”
+
+Staff writer Jonathan Tamari contributed to this article.
+
+———
+
+©2020 The Philadelphia Inquirer
+
+Visit The Philadelphia Inquirer at www.inquirer.com
+
+Distributed by Tribune Content Agency, LLC.",29.5,Low,Right,USA
+17,https://dnyuz.com/2020/05/22/trumps-press-secretary-displays-one-of-his-checks-in-a-little-too-much-detail/,https://dnyuz.com,2020-05-22,[],Trump’s Press Secretary Displays One of His Checks in a Little Too Much Detail,https://dnyuz.com/wp-content/uploads/2020/05/Trump’s-Press-Secretary-Displays-One-of-His-Checks-in-a.jpg,"WASHINGTON — It’s a feel-good story that President Trump’s press secretaries have relished over the years: the quarterly announcement of which government agency Mr. Trump has selected to be the lucky recipient of his salary, an easy way to show the president sticking to his 2016 campaign pledge to forgo his $400,000 salary and donate it.
+
+In the past, the $100,000 check from Mr. Trump has been made out to the Small Business Administration initiative to help veteran entrepreneurs, to the Office of the Surgeon General to fight the opioid epidemic, and to the National Institute on Alcohol Abuse and Alcoholism, among other places.
+
+But on Friday, Kayleigh McEnany, the White House press secretary, did not just reveal that the president was sending his salary to the Department of Health and Human Services to help “support the efforts being undertaken to confront, contain and combat the coronavirus.”
+
+She also displayed the president’s private bank account and routing numbers.
+
+The $100,000 check she held up like a prop appeared to be a real check from Capital One, complete with the relevant details. The White House did not immediately respond to a request for comment, but an administration official said mock checks were never used in the briefing.
+
+For an average civilian, that information could be used to withdraw or deposit money, make online purchases or hack an account.
+
+“It’s not a best practice to share that information publicly,” said Eva Velasquez, the president and chief executive of the Identity Theft Resource Center. “If you don’t have protections in place, there are sophisticated schemes and ways someone could access those funds knowing the account and routing number and the individual person it belongs to.”
+
+Ms. Velasquez said that a bank was almost certain to have additional protections in place on the account of a high-profile person like the president. Mr. Trump, she said, was not likely to be hacked because of photographs that subsequently circulated online Friday night suggesting it appeared to be a real check.
+
+But she said the image of Ms. McEnany flashing Mr. Trump’s personal information in front of cameras sent a concerning message. “This is one of those situations where setting the example is very important,” Ms. Velasquez said. “It’s very important for your average person to understand this is not a best practice.
+
+Mike Chapple, a teaching professor of information technology at the University of Notre Dame, said the appearance showed why large promotional checks were used for television appearances. “They’re not only a nice prop onstage, but they also omit the sensitive account information that normally appears at the bottom of the check,” he said. “The rest of us should play it safe and keep our account numbers to ourselves.”
+
+The post Trump’s Press Secretary Displays One of His Checks in a Little Too Much Detail appeared first on New York Times.",29.5,Low,Right,USA
+18,https://thehill.com/homenews/administration/499268-trump-routing-number-bank-revealed-coronavirus-response,Drudge Report,2020-05-22,[],Trump's routing number revealed as press secretary announces he's donating quarterly salary to HHS: report,https://thehill.com/sites/default/files/press.secretary.check_.0522.png,"President Trump Donald John TrumpREAD: The Hill's interview with Anthony Fauci Trump's routing number revealed as press secretary announces he's donating quarterly salary to HHS: report Former White House aide won M contract to supply masks amid pandemic MORE will donate his quarterly paycheck to the Department of Health and Human Services (HHS) as it responds to the coronavirus pandemic.
 
 White House press secretary Kayleigh McEnany made the announcement at Friday's press briefing. It marks the second time the president has donated his quarterly salary to HHS, with his paycheck from the fourth quarter of 2019 also going to the agency.
 
@@ -220,74 +717,480 @@ According to Johns Hopkins University, more than 95,000 people in the U.S. have 
 
 The donation comes as HHS and other agencies work on ""Operation Warp Speed,"" Trump's push to develop a COVID-19 vaccine.
 
-Updated 8:30 p.m.",29.5,Low,Low
-6,https://www.usnews.com/news/world/articles/2020-05-21/corpse-lay-on-the-street-in-coronavirus-racked-rio-for-30-hours,Drudge Report,2020-05-21,[],Corpse Lay on the Street in Coronavirus-Racked Rio for 30 Hours,https://www.usnews.com/dims4/USNEWS/4ee4d07/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F1f%2F3866607383150993b7379df358c516%2Ftag%3Areuters.com%2C2020%3Anewsml_LYNXMPEG4K1PQ%3A12020-05-21T171346Z_1_LYNXMPEG4K1PQ_RTROPTP_3_HEALTH-CORONAVIRUS-BRAZIL-IMAGE.JPG,"President Trump Donald John TrumpREAD: The Hill's interview with Anthony Fauci Trump's routing number revealed as press secretary announces he's donating quarterly salary to HHS: report Former White House aide won M contract to supply masks amid pandemic MORE will donate his quarterly paycheck to the Department of Health and Human Services (HHS) as it responds to the coronavirus pandemic.
+Updated 8:30 p.m.",29.5,Low,Right,USA
+19,https://www.armytimes.com/news/your-army/2020/05/22/the-army-is-planning-a-mass-recruiting-drive-this-summer/,https://www.armytimes.com,2020-05-22,"['Kyle Rempfer', 'Claire Barrett', 'J.D. Simkins', 'Kyle Is A Staff Reporter For Military Times', 'Focusing On The U.S. Army. He Served An Enlistment As An Air Force Special Tactics Cct', 'Day Ago', 'Army Recruits At Fort Sill', 'In Oklahoma', 'Low Crawl In Sand During An Obstacle Course At Basic Combat Training On April', 'Army']",The Army is planning a mass recruiting drive this summer,https://www.armytimes.com/resizer/cpEwAvgcWncR1Ack9Looohp-tKU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/RYKVSGPEMNDTVF3CMWK7E42UTQ.jpg,"The general helming Army Recruiting Command is preparing a massive virtual hiring event this summer after the Army’s 245th birthday on June 14. Like the other military branches, the ground service is fighting the anticipated dent to manpower after the coronavirus shuttered recruiting stations across the country this spring.
 
-White House press secretary Kayleigh McEnany made the announcement at Friday's press briefing. It marks the second time the president has donated his quarterly salary to HHS, with his paycheck from the fourth quarter of 2019 also going to the agency.
+The push will involve “every person” and “every aspect”of the service that Army recruiting commander Maj. Gen. Frank M. Muth can muster, he said during a telephone call on Wednesday.
 
-The New York Times noted Friday night that as McEnany displayed the president's check to HHS at the briefing, she appeared to hold up the real thing and revealed Trump's private Capital One bank account and routing numbers.
+An intensive event between June 30 and July 2 will tap senior leaders to visit with city councils, nonprofits, educators and other pillars of local communities — a supercharged version of the program that the Army Chief of Public Affairs already runs, which brings Army generals back to their hometowns to engage with civilians able to influence young people.
 
-ADVERTISEMENT
+“We would do the same thing, but it would end up being on Zoom or [Microsoft] Teams,” said Muth. “The secretary is from Chicago, maybe he engages with the Chicago leadership, and the 101st commander goes down to Nashville because he’s right there. And the 82nd commander goes and he Zooms with Raleigh. There’s all these different ways we can use these folks.""
 
-The Hill has reached out to the White House for comment.
+Muth pitched the idea two weeks ago to the Army’s service secretary and chief of staff, calling it Army National Hiring Days. It will be limited in certain areas based on where shelter-in-place orders are still in effect. But Muth intends for it to be a never-before-seen recruiting drive regardless.
 
-Officials did not respond to a request for comment by the Times, but the paper was told by an administration official that fake checks have not been used at the briefing in the past.
+“Every person in the Army is involved. Every asset is involved. Everyone is on message,"" Muth added. ""We are engaging in the ‘Focus 22’ and we’re driving our message for people to either go into the recruiting stations or go to GoArmy.com.”
 
-The president pledged to donate his quarterly $100,000 salary upon taking office, and he has given it to various government agencies over his first three years in the White House.
+Army retention rises as economy slumps, but recruiting hasn’t seen a boom yet The general in charge of Army recruiting said the economic downturn doesn't appear to have impacted enlistments — yet.
 
-He has previously donated his salary to the departments of Homeland Security, Transportation and Veterans Affairs, as well as the government agency fighting the opioid crisis, among others.
+Focus 22 is in reference to the 22 American cities, like Chicago, Seattle and Los Angeles, with large populations of Generation Z youths who Army leaders say have had minimal exposure to the service as a potential path in life.
 
-According to Johns Hopkins University, more than 95,000 people in the U.S. have died from the coronavirus as of Friday.
+× Fear of missing out? Sign up for the Army Times Daily News Roundup to receive the top Army stories every afternoon. Thanks for signing up. By giving us your email, you are opting in to the Army Times Daily News Roundup.
 
-The donation comes as HHS and other agencies work on ""Operation Warp Speed,"" Trump's push to develop a COVID-19 vaccine.
+Army recruiters were doing fairly well late last year and early this spring in sourcing candidates for service. By March, they had signed up 2,200 more recruits than they had by the same time last year. But the pandemic dampened their efforts as brick-and-mortar stations shuttered and the recruiting enterprise was forced to move completely online.
 
-Updated 8:30 p.m.",29.5,Low,Low
-7,https://www.theguardian.com/global-development/2020/may/22/planes-spray-the-city-at-night-covid-19-conspiracy-theories-in-mexicos-motor-town,Drudge Report,2020-05-22,['Jo Griffin'],'Planes spray the city at night': Covid-19 conspiracy theories in Mexico's motor town,https://i.guim.co.uk/img/media/27768e77710abb1d41f86049ba3b7b17da4bd1d2/0_387_5803_3482/master/5803.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d06e531abca97742eb3aadd710a74895,"In San Luis Potosí, a city in central Mexico, some people believe the coronavirus is an invention by the government. They are sharing memes, videos and recordings with misinformation, in which people tell you that in the hospitals they drain the fluid from your knees and planes spray the city with the virus at night.
+Right now, the service is about 4,000 contracts short of where it wants be.
 
-‘Whoever gets it, will get it,’ says Roberto Zarazua, talking about Covid-19 at a brick factory in San Luis Potosí
+“It’s more than we were last year, but at the same time, historically, we’ve had a year where we were behind that much too,” said Muth, adding that had his recruiters “not been in a position to virtually recruit,” they would have done “about zero” new contracts over the past few months.
 
-At the same time, it is very hard for people to stop working and self-isolate as they are being asked to do. In the brick-making factories in the working-class areas on the periphery of the city, workers don’t have the money to protect themselves. There is no antibacterial gel, there are no face masks and there is no safe distancing. The prevailing attitude is: “The virus will strike who it strikes.”
+The looming economic downturn could also help boost recruitment numbers later this summer. Unemployment has hit record levels in recent months, but economists say there’s still uncertainties about how long the slump will last. Bad economies are typically good for military recruiting and retention.
 
-Making preparations for Easter under lockdown in San Luis Potosí, where cases of Covid-19 are increasing
+Soldiers at Fort Sill, in Oklahoma, stand in formation while wearing masks and maintaining physical distancing during reception before entering basic combat training May 14, 2020. (Sgt. Dustin D. Biven/Army)
 
-Those who do believe in the existence of the virus, and how lethal it is, have responded by attacking healthcare workers instead of staying at home and protecting themselves.
+Perhaps an early indicator that confidence in the civilian job market is dropping is the fact that Army retention is roughly 15 percent higher than expected, thanks in part to short-term reenlistment contracts, according to E. Casey Wardynski, the Army’s assistant secretary for manpower and reserve affairs. Wardynski said this week that he still expects the service to meet its targeted end-strength number of 485,000 soldiers.
 
-This is what happened to Sandra Alemán Arellano, a nurse who was attacked physically and verbally as she went to a convenience store wearing her uniform on the night of 3 April.
+The Army National Hiring Days event could also “give a good indication” of how the economy will impact recruiting later in the year, according to Muth.
 
-Sandra Alemán Arellano, who was attacked for being a nurse. ‘It’s not fair that this is happening to us.’
+“I don’t know if we’ve seen the upturn yet of what we’d normally get"" during times of high unemployment, said Muth. ""What I would tell you is, I think we’ll ... have an indication by mid-July, beginning of August if things really start to change.”
 
-Within two weeks, San Luis Potosí went from being one of the states with the lowest rates of infection, with 74 confirmed cases and eight deaths, to one with the fastest growing number of cases in Mexico, with 364 confirmed and 19 deaths, as of 13 May. This may not seem high compared to other regions passing through the peak of the pandemic, but here there is a sense that things are spiralling out of control.
+Muth’s intent is to get as many general officers and command sergeants major as he can to participate. As part of an opening salvo on June 14, he’s also looking to potentially use the Army Golden Knights parachute team and the Fife and Drum Corps, as well as the Army’s legacy divisions.
 
-Life under lockdown in San Luis Potosí, where many people are ignoring physical distancing advice
+“That’s kicking off on June 14, but between now and then is our shaping operation. We’re now starting to message out; we’re starting to dominate the digital space,"" Muth said.
 
-San Luis Potosí has been mentioned in reports as being one of the few states not to abide by the order to stay at home. Compared with other big cities in Mexico, the state is two weeks behind in the transmission phase of Covid-19. It is thought that the state will reach the peak of the virus at the end of May and that the curve of infections will start to go down at the end of June.
+Recent Army advertising campaigns have tried to emphasize a different side of the service, with less focus on combat roles. A commercial released last month, and another this month, focus on the Army’s role staffing hospitals and building ad-hoc medical facilities during the coronavirus pandemic.
 
-The city is almost entirely reliant on industry. San Luis Potosí is a key link in the supply chains for companies such as General Motors and BMW. It has been part of the T-Mec free-trade agreement with the US and Canada since it originated in 1994 – because of its strategic connectivity between the Texas border and the centre of Mexico. Each car assembly line has brought hundreds of companies to the area.
+“Everyone sees us as all armor and infantry and artillery and aviation, which is true, but that’s only 15-20 percent of the Army. A larger portion is the tech, and the help, and the engineers and the logistics,"" Muth added. ""People didn’t realize that.”",29.5,Low,Right,USA
+20,https://www.reuters.com/article/us-china-parliament-taiwan/china-drops-word-peaceful-in-latest-push-for-taiwan-reunification-idUSKBN22Y06S,https://www.reuters.com,2020-05-22,"['Yew Lun Tian', 'Min Read']",China drops word 'peaceful' in latest push for Taiwan 'reunification',https://s4.reutersmedia.net/resources/r/?m=02&d=20200522&t=2&i=1519518509&w=1200&r=LYNXMPEG4L088,"BEIJING/TAIPEI (Reuters) - Chinese Premier Li Keqiang left out the word “peaceful” on Friday in referring to Beijing’s desire to “reunify” with Chinese-claimed Taiwan, an apparent policy shift that comes as ties with Taipei continue on a downward spiral.
 
-As elsewhere in the world, because of the pandemic, most of the industries have closed.
+Chinese Premier Li Keqiang is seen on a screen as he delivers a speech at the opening session of the National People's Congress (NPC) at the Great Hall of the People in Beijing, China May 22, 2020. REUTERS/Carlos Garcia Rawlins
 
-The city is hoping to come out of lockdown and get the production lines started again
+Taiwan has complained of increased Chinese military harassment since the coronavirus pandemic began, with fighter jets and naval vessels regularly approaching the island on drills China has described as routine.
 
-The automotive sector is Mexico’s main manufacturing industry. In 2018, it contributed 3.6% of national GDP and 20.7% of manufacturing income. The newly negotiated T-Mec comes into effect on 1 July.
+China says Taiwan is its most sensitive and important territorial issue, and has never renounced the use of force to bring what it views as a Chinese province under its control, making the Taiwan Strait a potential military flashpoint.
 
-The Mexican government’s recent announcement, after discussions with countries including the US, that production lines would reopen has brought optimism to the car industry – as well as to mining and construction. They have been declared essential industries and it is hoped that people will gradually return to work this week.
+Li, in his state-of-the-nation work report at the start of the annual meeting of China’s parliament, said his country would “resolutely oppose and deter any separatist activities seeking Taiwan independence”.
 
-The factory floors and workers’ canteens have been quiet since the restrictions began
+China will improve policies and measures to encourage exchanges and cooperation across the Taiwan Strait, and protect the well-being of Taiwan’s people, he added.
 
-Factories have been silent for weeks, but now staff geared up with safety equipment stand ready as the city prepares to get back to work
+“We will encourage them to join us in opposing Taiwan independence and promoting China’s reunification,” Li said. “With these efforts, we can surely create a beautiful future for the rejuvenation of the Chinese nation.”
 
-However, the continued rise in Covid-19 cases could have a negative impact on the health of millions of workers and their families.
+However, there was no mention of the word “peaceful” in front of “reunification”, departing from the standard expression Chinese leaders have used for at least four decades when addressing parliament and mentioning Taiwan.
 
-These photographs are my way of understanding how the virus is changing our lives – how the light and shade of what we are facing in this pandemic define the identity of a city – and at the same of time making a record of the reality on a local level.
+Democratic Taiwan has shown no interest in being ruled by autocratic China.
 
-City workers sanitising the streets and the council offices in April 2020
+A senior Taiwan official, however, told Reuters the absence of the word “peaceful” did not signal a fundamental change in China’s approach towards the island.
 
-The global declaration of the pandemic occurred when I was in the Colombian Amazon at the start of March.
+“They are still talking about the concept of peaceful unification, just in an indirect linguistic expression,” said the person who is familiar with Taiwan’s policy towards China, pointing to Li’s remarks on cross-Strait exchanges and economic integration.
 
-To get back home, I had to pass through four airports. As I travelled I felt totally alienated by the paranoia caused by the virus.
+“It’s neutral. We do not look at it that way.”
 
-When I got back, I was confronted with the inability of the majority of people in San Luis Potosí to stop their activities and stay at home, the lack of information and the disbelief of the population. They were waiting for the virus to disappear.",29.5,Low,Low
-8,https://www.fox5ny.com/news/nearly-half-of-twitter-accounts-discussing-coronavirus-are-likely-bots-researchers-say,Drudge Report,,['Kelly Taylor Hayes'],"Nearly half of Twitter accounts discussing coronavirus are likely bots, researchers say",https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2020/05/724/407/GETTY-TWITTER-COVID.jpg?ve=1&tl=1,"Nearly half of the Twitter accounts sharing information about the novel coronavirus are likely bots, according to researchers at Carnegie Mellon University.
+China’s Taiwan Affairs Office did not immediately respond to a request for comment.
+
+China believes Taiwan President Tsai Ing-wen is a separatist bent on independence. Tsai says Taiwan is already an independent country called the Republic of China, its formal name.
+
+Speaking in Taipei on Wednesday at the inauguration of her second term, Tsai said Taiwan could not accept becoming part of China under its “one country, two systems” offer of autonomy, and rejected China’s sovereignty claims.
+
+China wants Taiwan to accept the “one country, two systems” model, which is supposed to guarantee a high degree of autonomy and which Beijing uses to run the former British colony of Hong Kong.
+
+However, all major Taiwanese parties have rejected it.
+
+Responding to Li’s speech, Taiwan’s Mainland Affairs Council said the Taiwanese people were resolutely opposed to the “one country, two systems” proposal as it “belittles Taiwan and damages the status quo in the Taiwan Strait”.
+
+On Friday, China proposed new legislation for Hong Kong requiring it to quickly enact national security regulations, a move some see as contradicting the “one country, two systems” concept, and swiftly condemned by Taiwan.
+
+(This story has been refiled to add dropped word “not” in paragraph 14).",29.5,Low,Right,USA
+21,https://www.cbsnews.com/news/coronavirus-racism-africans-china/,https://www.cbsnews.com,,[],Racist incidents against Africans in China amid coronavirus crackdown spark outcry,https://cbsnews2.cbsistatic.com/hub/i/r/2020/05/23/87103f8c-ae28-4d81-92e2-b3a0ac4633de/thumbnail/1200x630/ed914fa1fb02be30e9e75a807c28ae59/gettyimages-955122178.jpg,"A sign displayed at a McDonald's in Guangzhou, China, read ""black people are not allowed to enter"" – just one instance of a growing problem in the city. Discrimination based on efforts to contain the coronavirus in China have sparked an outcry in Africa and other places around the world, as the U.S. grapples with its own spike in discrimination against Asians over fears of the disease.
+
+Photos and videos out of Guangzhou show police detaining Africans over concern they could be spreading the coronavirus, CBS News' Ramy Inocencio reports. Images of Africans sleeping on the street after being evicted from their homes have also incited backlash.
+
+Chinese officials maintain that racism does not exist in the country.
+
+""This is denial... of course there is racism,"" said professor Adams Bodomo, founding director of the University of Vienna's Global African Diaspora Studies.
+
+Bodomo, who is one of the world's leading experts on China-Africa relations, said Beijing was ""shooting itself in the foot"" by meeting racism accusations out of Guangzhou with denials.
+
+China's problem with racism is not limited to those with dark skin.
+
+One European woman said she and her family were split apart at a restaurant in China, with her Chinese husband allowed inside while she had to remain outside.
+
+""My husband is inside, eating lunch,"" she said. ""I have to stay outside, because I am a foreigner.""
+
+Cynthia Choi, co-executive director of the California-based Chinese for Affirmative Action, said her group ""vehemently"" condemns reports of racism coming out of China, ""just in the way that we condemn the kind of anti-Asian racism that we're experiencing here in the United States.""
+
+""You're no more likely to carry the virus or be responsible for the virus based on your race, ethnicity or national origin,"" she said.
+
+The number of reported crimes against Asian-Americans has been rising in the U.S., with more than 1,700 instances reported since March. A video that sparked outrage months ago appears to show an Asian-American woman being targeted for not wearing a mask.
+
+""It's really important to not lose hope and to have faith in our humanity,"" Choi said.",29.5,Low,Right,USA
+22,http://www.washingtontimes.com/news/inside-the-beltway/,http://www.washingtontimes.com,,['The Washington Times Http'],Inside the Beltway,http://twt-assets.washtimes.com/images/favicon.30333d68dff6.ico,"Inside the Beltway
+
+Related Articles
+
+Now underway: America discovers media bias A comprehensive survey by veteran pollster John McLaughlin reveals that Americans, finally, are not ignoring this media bias phenomenon as it grows more extreme. Shares
+
+Economic disobedience: It's time for 'Take Yourself to Work Day' In years past, Americans participated in take your daughter, son, child or dog to work day -- the gesture meant as an upbeat affirmation of ties between workers, work and family members. The coronavirus lockdowns against businesses deemed non-essential, however, have left millions at home, pining for the day they will indeed be on the job again. Shares
+
+Republicans are right: Life is improving The news media often imply that the nation is falling apart because President Trump remains in office and the coronavirus has ruined life as we know it. The nation, apparently, has not gotten the message, Things are not as bad as the press suggests -- which could disappoint those news organizations which base their coverage on tales of public discontent and discord and confusion in the White House. Shares
+
+Trump campaign launches investigative website Never underestimate President Trump's very proactive reelection campaign, which constantly seeks new ways to circumvent both the hostile news media and assorted political foes. In the past 24 hours, Donald J. Trump for President Inc. has activated TheTruthOverFacts.com, an investigative website which showcases Joseph R. Biden's ""never-ending, seemingly incomprehensible statements"" during his quest for White House. Shares
+
+Republican National Convention organizers expect 50,000 people, in person While many political forces are dithering over social distancing due to the coronavirus pandemic, the Republican Party is full speed ahead on the 2020 Republican National Convention, set for late August in Charlotte, North Carolina. The attendance numbers are sizable. Organizers expect 50,000 attendees, 15,000 journalists and 8,000 volunteers. Shares
+
+Democrats: 'Unfit to govern' in a crisis The Democratic Party just can't kick the epic legislation habit, creating bills which are strategically lengthy, dense and unwieldy. This dubious art came into full flower when the 2,300-page Affordable Care Act - Obamacare - arrived at the U.S. Capitol in 2010. Those original hundreds of pages paved the eventual way for 20,000 more pages of regulations, according to several reports. Shares
+
+Joe Biden doesn't need a running mate - he needs a co-president Some wonder if the one and only Joseph R. Biden needs some serious assistance in his quest for the White House. Shares
+
+Pandemic politics: Will coronavirus determine who wins the election? Some now believe the coronavirus pandemic will be the ultimate influence on the outcome of the presidential election. Shares
+
+'Republicans for Biden' group has surfaced An effort to organize and recruit ""Republicans for Biden"" now appears to be underway, in search of disgruntled GOP voters who could jettison their support for President Trump and switch sides. Shares
+
+CNN, MSNBC indulge in dramatics, still lag behind Fox News Be careful what you wish for. In the absence of regular press briefings, a pair of cable new networks have badgered the White House about access to President Trump for quite some time. But now silence when the briefings return? CNN and MSNBC aired counter programming instead. Shares
+
+Cheer up: Trump campaign face masks on the way The news media has fussed plenty about the use -- or nonuse -- of facial masks by President Trump, Vice President Mike Pence and other administration officials during the coronavirus pandemic. Yes, well. It's just another item on the long list of criticisms from the hostile press. It is amusing, though, that dozens of pop-up companies and online entrepreneurs are now selling face masks emblazoned with phrases or images expressing support of Mr. Trump in no uncertain terms Shares
+
+The media's precarious coverage of China Media coverage of the coronavirus has been nonstop and dramatic, but not necessarily accurate — not good in such a trying time as this. Nearly 2/3 of Americans -- 64% -- say they have seen at least some news and information about the coronavirus that seemed ""completely made up,"" this according to a Pew Research poll. Shares
+
+The pandemic pantheon: 'Governors we'd like to see recalled' Politics and pandemics don't mix so well. Consider that this combination brings out authoritarian impulses in some elected officials. The editorial board of Issues & Insights is offering a telling short list of ""Governors We'd Like To See Recalled For Their Pandemic Responses."" There are numerous possible candidates for the list. This one includes a half-dozen. Shares
+
+Many wondering about Kim Jong-un, coronavirus and North Korea's future After sightings of North Korea leader Kim Jong-un recently ceased for a time, the hermit nation offered some brisk public outreach, releasing considerable video footage revealing his public activities. Some wonder what really happened. Shares
+
+RNC chair Ronna McDaniel: News outlets which protect Biden should be disciplined The old tradition continues: The liberal media protects liberal Democrats. Democratic presidential hopeful Joseph R. Biden has been shielded by a protective press after he was accused of sexual misconduct by a former staffer -- in sharp contrast to the case of Supreme Court Justice Brett Kavanaugh, whose life was upended by journalists during his confirmation hearings. But the circumstances have gone beyond that now. One observer believes that the complicit media should pay a professional price for such practices. Shares
+
+Heartland power: 90% of farmers back Trump Many have pondered President Trump's grassroots support in the nation's heartland. Democrats, in fact, still marvel -- or worry about -- the 63 million folks who stood up and went to the polls in 2016 and voted for Mr. Trump. It appears they are still out there, and still support the president in a big way. Shares
+
+Brett Kavanaugh, Joe Biden and #MeToo Justice Kavanaugh has once again been become a focal point for the press now that likely Democratic presidential nominee Joseph R. Biden also has been accused of abusive sexual behavior by Tara Reade, a former aide. Comparisons and implications between the situations are under scrutiny. Shares
+
+Shut down: Greg Gutfeld beats Kimmel, Colbert in late-night ratings upset The nation's top cable news network is reaching even greater heights as Americans confront both the coronavirus pandemic and the presidential election. It is also enjoying a late-night ratings upset. Shares
+
+Move over Russiagate: The news media now longs for Lysolgate You remember Russiagate and Spygate, of course. Well, welcome to Lysolgate, the newest media creation meant to erode President Trump's favorability ratings among voters and lessen his chances of reelection. The press is still obsessing over Mr. Trump's recent stray remarks about the use of disinfectants during the coronavirus pandemic. Shares",29.5,Low,Right,USA
+23,http://www.washingtonpost.com/2010/07/06/AB2i8vO_linkset.html,http://www.washingtonpost.com,2010-07-06,[],Dana Milbank Columns,https://img.washingtonpost.com/favicon.ico,"Inside the Beltway
+
+Related Articles
+
+Now underway: America discovers media bias A comprehensive survey by veteran pollster John McLaughlin reveals that Americans, finally, are not ignoring this media bias phenomenon as it grows more extreme. Shares
+
+Economic disobedience: It's time for 'Take Yourself to Work Day' In years past, Americans participated in take your daughter, son, child or dog to work day -- the gesture meant as an upbeat affirmation of ties between workers, work and family members. The coronavirus lockdowns against businesses deemed non-essential, however, have left millions at home, pining for the day they will indeed be on the job again. Shares
+
+Republicans are right: Life is improving The news media often imply that the nation is falling apart because President Trump remains in office and the coronavirus has ruined life as we know it. The nation, apparently, has not gotten the message, Things are not as bad as the press suggests -- which could disappoint those news organizations which base their coverage on tales of public discontent and discord and confusion in the White House. Shares
+
+Trump campaign launches investigative website Never underestimate President Trump's very proactive reelection campaign, which constantly seeks new ways to circumvent both the hostile news media and assorted political foes. In the past 24 hours, Donald J. Trump for President Inc. has activated TheTruthOverFacts.com, an investigative website which showcases Joseph R. Biden's ""never-ending, seemingly incomprehensible statements"" during his quest for White House. Shares
+
+Republican National Convention organizers expect 50,000 people, in person While many political forces are dithering over social distancing due to the coronavirus pandemic, the Republican Party is full speed ahead on the 2020 Republican National Convention, set for late August in Charlotte, North Carolina. The attendance numbers are sizable. Organizers expect 50,000 attendees, 15,000 journalists and 8,000 volunteers. Shares
+
+Democrats: 'Unfit to govern' in a crisis The Democratic Party just can't kick the epic legislation habit, creating bills which are strategically lengthy, dense and unwieldy. This dubious art came into full flower when the 2,300-page Affordable Care Act - Obamacare - arrived at the U.S. Capitol in 2010. Those original hundreds of pages paved the eventual way for 20,000 more pages of regulations, according to several reports. Shares
+
+Joe Biden doesn't need a running mate - he needs a co-president Some wonder if the one and only Joseph R. Biden needs some serious assistance in his quest for the White House. Shares
+
+Pandemic politics: Will coronavirus determine who wins the election? Some now believe the coronavirus pandemic will be the ultimate influence on the outcome of the presidential election. Shares
+
+'Republicans for Biden' group has surfaced An effort to organize and recruit ""Republicans for Biden"" now appears to be underway, in search of disgruntled GOP voters who could jettison their support for President Trump and switch sides. Shares
+
+CNN, MSNBC indulge in dramatics, still lag behind Fox News Be careful what you wish for. In the absence of regular press briefings, a pair of cable new networks have badgered the White House about access to President Trump for quite some time. But now silence when the briefings return? CNN and MSNBC aired counter programming instead. Shares
+
+Cheer up: Trump campaign face masks on the way The news media has fussed plenty about the use -- or nonuse -- of facial masks by President Trump, Vice President Mike Pence and other administration officials during the coronavirus pandemic. Yes, well. It's just another item on the long list of criticisms from the hostile press. It is amusing, though, that dozens of pop-up companies and online entrepreneurs are now selling face masks emblazoned with phrases or images expressing support of Mr. Trump in no uncertain terms Shares
+
+The media's precarious coverage of China Media coverage of the coronavirus has been nonstop and dramatic, but not necessarily accurate — not good in such a trying time as this. Nearly 2/3 of Americans -- 64% -- say they have seen at least some news and information about the coronavirus that seemed ""completely made up,"" this according to a Pew Research poll. Shares
+
+The pandemic pantheon: 'Governors we'd like to see recalled' Politics and pandemics don't mix so well. Consider that this combination brings out authoritarian impulses in some elected officials. The editorial board of Issues & Insights is offering a telling short list of ""Governors We'd Like To See Recalled For Their Pandemic Responses."" There are numerous possible candidates for the list. This one includes a half-dozen. Shares
+
+Many wondering about Kim Jong-un, coronavirus and North Korea's future After sightings of North Korea leader Kim Jong-un recently ceased for a time, the hermit nation offered some brisk public outreach, releasing considerable video footage revealing his public activities. Some wonder what really happened. Shares
+
+RNC chair Ronna McDaniel: News outlets which protect Biden should be disciplined The old tradition continues: The liberal media protects liberal Democrats. Democratic presidential hopeful Joseph R. Biden has been shielded by a protective press after he was accused of sexual misconduct by a former staffer -- in sharp contrast to the case of Supreme Court Justice Brett Kavanaugh, whose life was upended by journalists during his confirmation hearings. But the circumstances have gone beyond that now. One observer believes that the complicit media should pay a professional price for such practices. Shares
+
+Heartland power: 90% of farmers back Trump Many have pondered President Trump's grassroots support in the nation's heartland. Democrats, in fact, still marvel -- or worry about -- the 63 million folks who stood up and went to the polls in 2016 and voted for Mr. Trump. It appears they are still out there, and still support the president in a big way. Shares
+
+Brett Kavanaugh, Joe Biden and #MeToo Justice Kavanaugh has once again been become a focal point for the press now that likely Democratic presidential nominee Joseph R. Biden also has been accused of abusive sexual behavior by Tara Reade, a former aide. Comparisons and implications between the situations are under scrutiny. Shares
+
+Shut down: Greg Gutfeld beats Kimmel, Colbert in late-night ratings upset The nation's top cable news network is reaching even greater heights as Americans confront both the coronavirus pandemic and the presidential election. It is also enjoying a late-night ratings upset. Shares
+
+Move over Russiagate: The news media now longs for Lysolgate You remember Russiagate and Spygate, of course. Well, welcome to Lysolgate, the newest media creation meant to erode President Trump's favorability ratings among voters and lessen his chances of reelection. The press is still obsessing over Mr. Trump's recent stray remarks about the use of disinfectants during the coronavirus pandemic. Shares",29.5,Low,Right,USA
+24,https://dnyuz.com/2020/05/23/how-upbeat-vaccine-news-fueled-a-stock-surge-and-an-uproar/,https://dnyuz.com,2020-05-23,[],"How Upbeat Vaccine News Fueled a Stock Surge, and an Uproar",https://dnyuz.com/wp-content/uploads/2020/05/How-Upbeat-Vaccine-News-Fueled-a-Stock-Surge-and-an.jpg,"When the biotech company Moderna announced early on Monday morning positive results from a small, preliminary trial of its coronavirus vaccine, the company’s chief medical officer described the news as a “triumphant day for us.”
+
+Moderna’s stock price jumped as much as 30 percent. Its announcement helped lift the stock market and was widely reported by news organizations, including The New York Times.
+
+Nine hours after its initial news release — and after the markets closed — the company announced a stock offering with the aim of raising more than $1 billion to help bankroll vaccine development. That offering had not been mentioned in Moderna’s briefings of investors and journalists that morning, and the company chairman later said it was decided on only that afternoon.
+
+By Tuesday, a backlash was underway. The company had not released any more data, so scientists could not evaluate its claim. The government agency leading the trial, the National Institute of Allergy and Infectious Diseases, had made no comment on the results. And the stock sale stirred concerns about whether the company had sought to jack up the price of its stock offering with the news.
+
+The Moderna episode is a case study in how the coronavirus pandemic and the desperate hunt for treatments and vaccines are shaking up the financial markets and the way that researchers, regulators, drug companies, biotech investors and journalists do their jobs.
+
+Drug companies accustomed to releasing early data to attract investors and satisfy regulators suddenly find themselves accused of revealing too much, or not enough, by a new, broader audience. Journalists may be scolded for hyping early findings, while those who ignore sketchy data may be blamed for missing the news.
+
+Scientists who take the traditional time to gather and analyze their data for publication in mainstream journals are criticized for sitting on lifesaving information. Upstart websites beat the journals and break the usual rules by publishing unvetted studies, some of dubious quality. And President Trump uses his bully pulpit to promote unproven treatments.
+
+“You have these wild swings, based on incomplete information,” said David Maris, managing director of Phalanx Investment Partners, and a longtime analyst covering the pharmaceutical industry. “It’s a crazy, speculative environment, because the pandemic has caused people to want to believe that there’s going to be a miracle cure in a miracle time frame.”
+
+Moderna’s chairman, Noubar Afeyan, defended the decision to open a stock sale hours after releasing limited data. He said the company’s board had been considering an offering before Monday’s announcement, but finalized the decision only late in the day.
+
+“It was based on our looking at the data and concluding that we needed to have our own resources going into develop this vaccine and not simply wait for government grants,” he said. Moderna has a deal to receive up to $483 million from the U.S. government to pursue a vaccine.
+
+While corporations and scientists are under incredible pressure to develop a vaccine and raise money for research and manufacturing, vaccine companies are also vying for attention from investors amid a crowded field and are seeking to lift their stock prices in a global recession.
+
+Nearly all are trying to compress the timetable for developing vaccines that normally takes years, sometimes decades, into a year or so — and still ensure that the vaccines will be safe and effective.
+
+At the same time, a torrent of information is blasting from medical journals as well as company and university news releases. Articles are posted on so-called preprint websites of studies that have not been peer-reviewed by experts, unlike articles in mainstream medical and science journals. Clinicaltrials.gov, which lists medical studies, showed that 1,673 were underway for Covid-19, the disease caused by the coronavirus, as of May 23.
+
+News outlets are rushing to stay on top of new findings, and to feed a public hungry for any advances in potential treatments or vaccine candidates that hold promise against the highly infectious virus. Some news organizations would prefer to maintain traditional practice and ignore early results of medical studies, waiting for peer-reviewed data but they are also competing to report on the latest studies.
+
+Still, concerns arise routinely about the quality of rapidly posted data and the motivations behind announcements.
+
+“Why does any company release early data?” Mr. Maris asked. “Clearly there is an appetite for it. People want to know that we are making progress. Having a vaccine is the clearest way to a full reopening and putting this behind us.”
+
+Moderna’s preliminary results were promising. Its vaccine, the first to be tested in humans, appeared safe and stimulated antibody production in the first 45 study participants. And of eight who have undergone further testing so far, all produced so-called neutralizing antibodies, which can stop the virus from invading cells, and should prevent illness.
+
+But there were no details — no charts, no graphs, no numbers, nothing published in a journal.
+
+Releasing sparse data is not unusual in the biotech world, where companies often present early trial results months before they are published in journals. Publicly traded companies are required to disclose material information that might lead an investor to buy or sell shares. The company said federal researchers who are conducting the trial would be responsible for submitting the data to be reviewed and published.
+
+Mr. Maris said that he would leave it to regulators to decide if the company had acted inappropriately in not announcing the stock sale sooner, and said that investors should have been told earlier that the company was considering a stock offering. “There’s something wrong with that,” he said.
+
+Moderna, based in Cambridge, Mass., went public in 2018 and has been a favorite of biotech investors, given its focus on the hot area of immuno-oncology and its partnerships with companies like Merck and AstraZeneca, and with the Vaccine Research Center at the National Institute of Allergy and Infectious Diseases.
+
+Its technology, based on genetic material called messenger RNA or mRNA, is considered highly promising.
+
+“Messenger RNA is one of the hot new platforms,” Dr. Anthony Fauci, director of the infectious disease institute, said in an interview on Thursday, adding that it can be adapted quickly to produce new vaccines and scaled up easily.
+
+Although Moderna has other vaccines in its pipeline, none have come to market, and the viability of its mRNA vaccine-making platform — the basis of the company — is on the line. It is a front-runner in the coronavirus vaccine race, and its stock has risen more than 250 percent since the beginning of the year. It closed at $69 a share on Friday afternoon, down 26 percent from a high Monday of $87.
+
+Dr. Afeyan acknowledged that companies were now subject to far more intense scrutiny with so much riding on the outcome of drug development.
+
+“People are basically saying, you know, one shouldn’t do this,” Dr. Afeyan said. “And if you don’t put out data, people will say, why are you withholding the data? People are trading without knowing the data. So it’s a tough situation to be doing science in, and we have no choice because we’re trying to develop a vaccine.”
+
+With so many different interests demanding the latest information — including governments around the world — the company couldn’t withhold it from the public, he said. “As a public company, if we have it, we cannot give this to them and hide it from other people.”
+
+Dr. Fauci said that whilecompanies often release partial data, “My own preference, and what my group will do, will be to wait until we get the data solid and then publish it in a paper saying, ‘In the first phase this is what we saw.’”
+
+Still, he considers Moderna’s preliminary results encouraging. The levels of neutralizing antibodies in the eight people tested for them appeared high enough to be protective, Dr. Fauci said. But he emphasized that eight is a small number.
+
+“I have to underscore it’s still limited,” he said, “and that’s the reason why I just withhold my enthusiasm, but I still have some cautious optimism.”
+
+Dr. Fauci said the big question remained: Will the vaccine work?
+
+“When you’re developing a vaccine,” he said, “nothing is guaranteed.”
+
+Moderna is not the only company that has failed to release detailed scientific data. Little has been known about another closely watched product, remdesivir, an experimental treatment for Covid-19 developed by the drugmaker Gilead.
+
+On April 29, Gilead announced that it was “aware of positive data” about remdesivir’s performance in a federal trial. A few hours later, from the Oval Office, Dr. Fauci said the drug could modestly speed recovery in patients. Although he said it was not a “knockout,” Dr. Fauci — his agency ran that trial, too — said the drug could become the standard of care.
+
+A few days afterward, the Food and Drug Administration granted emergency authorization to use remdesivir to treat Covid-19.
+
+Weeks passed with no detailed data about the clinical trial being published, even though doctors were administering the drug with little information to guide them.
+
+“It was a highly conflicted statement from a highly respected and deservedly respected scientist,” said Gary Schwitzer, the publisher of HealthNewsReview.Org, a watchdog publication that argues for more accurate science journalism. “So it brings you back to, what do we believe? Whom do we believe?”
+
+Dr. Fauci said he and his research team decided to report some results when the study was stopped after an independent safety board found that the treated patients were recovering faster than those receiving placebos. For ethical reasons, all patients had to be offered the drug.
+
+The information would likely have leaked out — especially given that, two weeks earlier, information from another remdesivir trial had been disclosed to the news site STAT, sending Gilead’s stock up.
+
+Dr. Fauci announced that patients treated with remdesivir recovered in 11 days, compared with 15 days for those getting placebos.
+
+“That was all the data we had,” he said. The full results were published on Friday in The New England Journal of Medicine.
+
+The fast pace of research has caught many news organizations off guard, prompting case-by-case discussions on tight deadlines to decide whether — and how — to cover scientific news even when the quality of studies wouldn’t normally meet their standards.
+
+Scientific articles normally take months to go through peer review. But now, many papers are being published on preprint servers, where scientists are posting research before it is accepted by a journal. The site medRxiv, which was founded last June, had 10 million views in April and has posted nearly 3,100 papers related to Covid-19 since January. A similar site, bioRxiv, has posted about 760 papers on the virus.
+
+“People recognized that there was an urgent need to disseminate information,” said Dr. Harlan Krumholz, a cardiologist and health care researcher at Yale University, and a co-founder of medRxiv. which is pronounced “med archive.” “People recognized that even weeks matter in this moment when we don’t know very much.”
+
+Asked about criticism that sites like medRxiv encourage the rash publication of bad science, Dr. Krumholz said these conversations were healthy and noted that articles in peer-reviewed journals could also be flawed. Submissions go through basic vetting to ensure the research is legitimate.
+
+“Engage in whether it’s good science or not,” he said. “Let’s engage in the consequences of this.”
+
+The post How Upbeat Vaccine News Fueled a Stock Surge, and an Uproar appeared first on New York Times.",29.5,Low,Right,USA
+25,https://www.dailymail.co.uk/news/article-8350419/Moderna-executives-offloaded-nearly-30-million-stocks-day-unveiling-coronavirus-vaccine.html,https://www.dailymail.co.uk,2020-05-23,"['Rachel Sharp', 'Rachel Sharp For Dailymail.Com']",Moderna executives offloaded nearly $30 million of stocks a day after unveiling coronavirus vaccine,https://i.dailymail.co.uk/1s/2020/05/23/14/28738792-0-image-a-31_1590242359604.jpg,"Two executives at drug firm Moderna quietly sold nearly $30 million of stock when they unveiled a coronavirus vaccine and value surged, before the share price quickly fell again amid skepticism from the medical community.
+
+Moderna's chief financial officer Lorence Kim and chief medical officer Tal Zaks dumped the staggering value of stocks on Monday and Tuesday when the share price skyrocketed following the company's announcement of what it described as 'positive' results from its vaccine trial.
+
+The two executives pocketed almost $25 million in profits in a day's work before experts cast doubt on the vaccine's success and sent shares tumbling.
+
+Kim exercised 241,000 options for $3 million Monday, then instantly sold them for $19.8 million, taking a tidy profit of $16.8 million, SEC filings seen by CNN Business show.
+
+On Tuesday, Zaks exercised $1.5 million stock options before making a profit of $8.2 million when he immediately offloaded them for $9.77 million.
+
+Scroll down for video
+
+Stocks in Moderna surged as much as 30 percent Monday to $87 a share, after it released promising results of its COVID-19 vaccine trial
+
+Moderna's chief financial officer Lorence Kim (left) and chief medical officer Tal Zaks (right) dumped the staggering value of stocks on Monday and Tuesday when the share price skyrocketed following the company's announcement over its vaccine trial
+
+The biotech company released results from its COVID-19 vaccine trial Monday, after it became the first US company to start a clinical trial for a vaccine back in March.
+
+This sparked hope that a vaccine for the deadly virus could make it to market by January and sent Wall Street investors into overdrive.
+
+Stocks in Moderna surged as much as 30 percent Monday to $87 a share, and the company's market value climbed to $29 billion.
+
+While investors raced to get a slice of the firm, the two insiders CFO Kim and CMO Zaks dumped the near-$30 million of shares between them on Monday and Tuesday.
+
+According to filings, Kim also offloaded stocks in the days before the results of the trial were announced, selling 20,000 shares worth $1.3 million on May 15.
+
+The timing of the sales may appear suspicious but Moderna insisted this week's sales from the two insiders were executed under automated insider trading plans, known as 10b5-1 plans.
+
+Such plans lay out future stock trades at set prices or on set dates, with transactions typically being carried out without the insiders taking any action.
+
+'These transactions are executing automatically pursuant to these trading plans,' the company said.
+
+Experts have said this means the deals are perfectly legal.
+
+Andrew Gordon, director of research services at Equilar, told CNN Business the executives' actions would only pose a 'legal issue if they created or modified their 10b5-1 plan while in possession of material insider information.
+
+'It's not uncommon for insiders to sell shares they own, nor is it bad for them to capitalize on the current stock price.'
+
+The company's share price wavered more as the week went on as the medical community gave a mixed response to the apparent success of the vaccine trials.
+
+The company's share price wavered more as the week went on as the medical community gave a mixed response to the success of the vaccine trials. Dr Fauci called the trials 'optimistic'
+
+Health website Stat cast doubt on the vaccine Tuesday, saying not enough information was available to understand if the phase one trial was a success and sending shares down to $71.67 that day.
+
+Shares fell further to a low of $67.05 Thursday, down 16 percent from its Monday close.
+
+Other experts have also voiced their skepticism over the trials.
+
+Peter Hotez, a vaccine scientist at Baylor College of Medicine in Houston, Texas, told Nature.com he was 'not convinced' by Moderna's claims.
+
+'I'm not convinced that this is really a positive result,' Hotez said.
+
+Shares then went up again Friday to $68.60 after Dr Anthony Fauci, the federal government's top immunologist, said he was 'cautiously optimistic' about Moderna's vaccine.
+
+'Although the numbers were limited, it was quite good news because it reached and went over an important hurdle in the development of vaccines. That's the reason why I'm cautiously optimistic about it,' Fauci said at a CNN town hall on Thursday.
+
+The National Institute of Allergy and Infectious Diseases, which Fauci is head of, is developing the vaccine in collaboration with Moderna.
+
+Dr. Carlos del Rio, an Emory University professor of medicine which is testing Moderna's vaccine, echoed Fauci's optimism in an interview with CNBC Friday.
+
+'I am cautiously optimistic. We are developing at a pace that has never been done before,' he said.
+
+Moderna's phase one study of 45 participants and measuring the antibodies in eight participants found all eight had developed antibodies to the virus at levels at or above the antibodies found in people who have recovered from COVID-19
+
+'Trying to think that, a year after a virus has been identified, we will have a vaccine ready to deploy and ready to go into massive distribution, it's simply mind-boggling to me.
+
+'I have to be a little cautious and say I hope it happens, but I don't want to be - I want to make sure we do it the right way.'
+
+Moderna's phase one study of 45 participants and measuring the antibodies in eight participants found all eight had developed antibodies to the virus at levels at or above the antibodies found in people who have recovered from COVID-19, the company revealed.
+
+It expects to enter phase two trials with 600 participants soon and phase three trials in July.",29.5,Low,Right,USA
+26,https://www.usnews.com/news/world/articles/2020-05-21/corpse-lay-on-the-street-in-coronavirus-racked-rio-for-30-hours,Drudge Report,2020-05-21,"['May', 'At P.M.']",Corpse Lay on the Street in Coronavirus-Racked Rio for 30 Hours,https://www.usnews.com/dims4/USNEWS/4ee4d07/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F1f%2F3866607383150993b7379df358c516%2Ftag%3Areuters.com%2C2020%3Anewsml_LYNXMPEG4K1PQ%3A12020-05-21T171346Z_1_LYNXMPEG4K1PQ_RTROPTP_3_HEALTH-CORONAVIRUS-BRAZIL-IMAGE.JPG,"Two executives at drug firm Moderna quietly sold nearly $30 million of stock when they unveiled a coronavirus vaccine and value surged, before the share price quickly fell again amid skepticism from the medical community.
+
+Moderna's chief financial officer Lorence Kim and chief medical officer Tal Zaks dumped the staggering value of stocks on Monday and Tuesday when the share price skyrocketed following the company's announcement of what it described as 'positive' results from its vaccine trial.
+
+The two executives pocketed almost $25 million in profits in a day's work before experts cast doubt on the vaccine's success and sent shares tumbling.
+
+Kim exercised 241,000 options for $3 million Monday, then instantly sold them for $19.8 million, taking a tidy profit of $16.8 million, SEC filings seen by CNN Business show.
+
+On Tuesday, Zaks exercised $1.5 million stock options before making a profit of $8.2 million when he immediately offloaded them for $9.77 million.
+
+Scroll down for video
+
+Stocks in Moderna surged as much as 30 percent Monday to $87 a share, after it released promising results of its COVID-19 vaccine trial
+
+Moderna's chief financial officer Lorence Kim (left) and chief medical officer Tal Zaks (right) dumped the staggering value of stocks on Monday and Tuesday when the share price skyrocketed following the company's announcement over its vaccine trial
+
+The biotech company released results from its COVID-19 vaccine trial Monday, after it became the first US company to start a clinical trial for a vaccine back in March.
+
+This sparked hope that a vaccine for the deadly virus could make it to market by January and sent Wall Street investors into overdrive.
+
+Stocks in Moderna surged as much as 30 percent Monday to $87 a share, and the company's market value climbed to $29 billion.
+
+While investors raced to get a slice of the firm, the two insiders CFO Kim and CMO Zaks dumped the near-$30 million of shares between them on Monday and Tuesday.
+
+According to filings, Kim also offloaded stocks in the days before the results of the trial were announced, selling 20,000 shares worth $1.3 million on May 15.
+
+The timing of the sales may appear suspicious but Moderna insisted this week's sales from the two insiders were executed under automated insider trading plans, known as 10b5-1 plans.
+
+Such plans lay out future stock trades at set prices or on set dates, with transactions typically being carried out without the insiders taking any action.
+
+'These transactions are executing automatically pursuant to these trading plans,' the company said.
+
+Experts have said this means the deals are perfectly legal.
+
+Andrew Gordon, director of research services at Equilar, told CNN Business the executives' actions would only pose a 'legal issue if they created or modified their 10b5-1 plan while in possession of material insider information.
+
+'It's not uncommon for insiders to sell shares they own, nor is it bad for them to capitalize on the current stock price.'
+
+The company's share price wavered more as the week went on as the medical community gave a mixed response to the apparent success of the vaccine trials.
+
+The company's share price wavered more as the week went on as the medical community gave a mixed response to the success of the vaccine trials. Dr Fauci called the trials 'optimistic'
+
+Health website Stat cast doubt on the vaccine Tuesday, saying not enough information was available to understand if the phase one trial was a success and sending shares down to $71.67 that day.
+
+Shares fell further to a low of $67.05 Thursday, down 16 percent from its Monday close.
+
+Other experts have also voiced their skepticism over the trials.
+
+Peter Hotez, a vaccine scientist at Baylor College of Medicine in Houston, Texas, told Nature.com he was 'not convinced' by Moderna's claims.
+
+'I'm not convinced that this is really a positive result,' Hotez said.
+
+Shares then went up again Friday to $68.60 after Dr Anthony Fauci, the federal government's top immunologist, said he was 'cautiously optimistic' about Moderna's vaccine.
+
+'Although the numbers were limited, it was quite good news because it reached and went over an important hurdle in the development of vaccines. That's the reason why I'm cautiously optimistic about it,' Fauci said at a CNN town hall on Thursday.
+
+The National Institute of Allergy and Infectious Diseases, which Fauci is head of, is developing the vaccine in collaboration with Moderna.
+
+Dr. Carlos del Rio, an Emory University professor of medicine which is testing Moderna's vaccine, echoed Fauci's optimism in an interview with CNBC Friday.
+
+'I am cautiously optimistic. We are developing at a pace that has never been done before,' he said.
+
+Moderna's phase one study of 45 participants and measuring the antibodies in eight participants found all eight had developed antibodies to the virus at levels at or above the antibodies found in people who have recovered from COVID-19
+
+'Trying to think that, a year after a virus has been identified, we will have a vaccine ready to deploy and ready to go into massive distribution, it's simply mind-boggling to me.
+
+'I have to be a little cautious and say I hope it happens, but I don't want to be - I want to make sure we do it the right way.'
+
+Moderna's phase one study of 45 participants and measuring the antibodies in eight participants found all eight had developed antibodies to the virus at levels at or above the antibodies found in people who have recovered from COVID-19, the company revealed.
+
+It expects to enter phase two trials with 600 participants soon and phase three trials in July.",29.5,Low,Right,USA
+27,https://www.republicworld.com/world-news/rest-of-the-world-news/brazil-govt-warns-national-security-at-risk-if-bolsonaros-phone-se.html,https://www.republicworld.com,,[],Brazil's Govt Says 'national Security' Would Be At Risk If Bolsonaro's Phone Seized,https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7r6jowkzwcs3sv0i_1590229842.jpeg?tr=f-jpeg,"Brazilian government warned on May 22 that national security would be at risk if investigators granted a request to seize the cell phone of President Jair Bolsonaro. Opposition parties have requested the phone of far-right leader and his son Carlos to probe into the allegations levelled by former justice minister Sergio Moro that Bolsonaro tried to interfere in federal police investigations.
+
+A video of a cabinet meeting has been released on the order of Supreme Court justice in which the Brazilian President was seen using profane words to express his frustration at his inability to extract information from police. In the video, Bolsonaro can be heard vowing to change Cabinet ministers if it is needed to protect his family from the “farce”.
+
+Moro, one of the most popular figures in Bolsonaro administration, resigned last month after the Brazilian President fired the federal police director-general without consulting the Justice Minister. He alleged that Bolsonaro openly demanded changes in key federal police positions, including agency’s chief.
+
+The video was the latest blow to Bolsonaro’s popularity which has nosedived after the coronavirus pandemic. Brazil has reported over 330,000 confirmed COVID-19 cases with more than 21,000 deaths related to the virus and is all set to topple Russia from the second position worldwide.
+
+Read: Man Accidentally Appears Naked During Zoom Conference Call With Bolsonaro
+
+Over 5.2 million cases
+
+According to the latest data of John Hopkins University, over 5.2 million coronavirus cases have been confirmed across the globe with over 338,000 deaths, overwhelming health care facilities worldwide. The United States, Russia, Brazil, and the UK are the worst-hit countries due to the pandemic with around 60 per cent of death toll reported from these four countries alone.
+
+The numbers get more sombre for the US as it has reported over 1.6 million cases, almost one-third of the worldwide cases, and more than 96,000 deaths due to the infectious disease. Within the United States, New York has reported over one-fourth of the nationwide coronavirus cases and almost one-tenth of the worldwide cases.
+
+Read: COVID-19: Bolsonaro Says Brazil To Sign New Protocol Recommending Use Of Chloroquine
+
+(Image credit: AP)",29.5,Low,Right,USA
+28,https://www.msn.com/en-us/news/technology/nasa-and-spacex-are-go-for-historic-launch/ar-BB14tsH3,Drudge Report,,[],NASA and SpaceX are go for historic launch,https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14tx0m.img?h=169&w=300&m=6&q=60&o=f&l=f,"© AP/AP NASA astronauts Doug Hurley, left, and Bob Behnken, monitor the Crew Dragon spacecraft static fire engine test.
+
+NASA and SpaceX are go for launch.
+
+NASA announced Friday that an exhaustive “flight readiness review” of Wednesday’s scheduled launch of a SpaceX rocket with two NASA astronauts aboard had determined that the mission could proceed.
+
+The launch is now set for Wednesday at 4:33 p.m. from launchpad 39A at the Kennedy Space Center in Florida.
+
+If all goes well, it would be the first launch of NASA astronauts to space from U.S. soil since the space shuttle program was retired nearly a decade ago, and it would be the first time a private company had boosted people to orbit.
+
+Subscribe to the Post Most newsletter: Today’s most popular stories on The Washington Post
+
+“There are no significant issues, I am happy to report,"" Steve Jurczyk, NASA’s associate administrator who chaired the review, told a news conference. ""In the end, it was a very, very clean review.”
+
+The review, which began Thursday and resumed Friday morning, was one of the last hurdles to be cleared before the launch. On Friday afternoon, SpaceX successfully fired the engines on the Falcon 9 rocket for a short test to ensure they were operating correctly. On Saturday, astronauts Bob Behnken and Doug Hurley will suit up and go through the prelaunch procedures one last time. A final launch readiness review will be held on Monday.
+
+The launch still could be delayed by weather or any number of last-minute mechanical glitches.
+
+© Bill Ingalls/AFP/Getty Images Friday's brief static fire test.
+
+“We’re going to stay vigilant over the next few days,” said Kathy Lueders, the director of NASA’s commercial crew program.
+
+She added that “we are trying to identify any risks that are out there, and continue to look at risk, and buy them down. But we also can’t fool ourselves, human spaceflight is really, really tough.”
+
+“There'll be lots more data, lots more reviews in the next few days,” said Benji Reed, SpaceX’s director of crew and mission management. “There will be constant vigilance and watching of the data and observations as we go through the mission.”
+
+Officials from NASA and SpaceX said part of the review focused on the safety of the parachutes that would deploy and slow the Dragon spacecraft as it drops through the Earth’s atmosphere, bringing the astronauts home. SpaceX had been working to qualify a new design of the parachute systems that NASA said it is now comfortable with.
+
+Behnken and Hurley have been in quarantine for more than a week, a normal procedure for astronauts going to space. But NASA and SpaceX have said they have been taking additional precautions because of the coronavirus pandemic. At a news briefing Friday, Hurley said he and Behnken have been tested for the coronavirus twice and “rumor has it we might be tested again before we go.”
+
+The pair would join Chris Cassidy, the lone NASA astronaut on board the station, and two Russian counterparts.
+
+“He likes solitude,” Hurley said. “But it was very obvious that he is ready for some human interaction with us.”",29.5,Low,Right,USA
+29,https://www.fox5ny.com/news/nearly-half-of-twitter-accounts-discussing-coronavirus-are-likely-bots-researchers-say,Drudge Report,,['Kelly Taylor Hayes'],"Nearly half of Twitter accounts discussing coronavirus are likely bots, researchers say",https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2020/05/724/407/GETTY-TWITTER-COVID.jpg?ve=1&tl=1,"Nearly half of the Twitter accounts sharing information about the novel coronavirus are likely bots, according to researchers at Carnegie Mellon University.
 
 Researchers analyzed more than 200 million tweets discussing coronavirus or COVID-19 since January. They found that nearly half were sent by accounts that behave more like a convincing bot than an actual human.
 
@@ -329,4 +1232,121 @@ For someone who is unsure about an account’s authenticity, Carnegie Mellon res
 
 ""Even if someone appears to be from your community, if you don't know them personally, take a closer look, and always go to authoritative or trusted sources for information,"" Carley said. ""Just be very vigilant.""
 
-This story was reported from Cincinnati.",29.5,Low,Low
+This story was reported from Cincinnati.",29.5,Low,Right,USA
+30,https://dnyuz.com/2020/05/23/outrage-grows-over-boris-johnson-aides-260-mile-trip-during-lockdown/,https://dnyuz.com,2020-05-23,[],Outrage Grows Over Boris Johnson Aide’s 260-Mile Trip During Lockdown,https://dnyuz.com/wp-content/uploads/2020/05/Outrage-Grows-Over-Boris-Johnson-Aide’s-260-Mile-Trip-During-Lockdown.jpg,"LONDON — Prime Minister Boris Johnson faced a torrent of calls on Saturday to dismiss his most influential adviser, Dominic Cummings, after reports that Mr. Cummings had visited relatives in northern England while he was ill with the coronavirus — a violation of Britain’s lockdown rules.
+
+Mr. Johnson appeared determined to stand by Mr. Cummings, an enigmatic figure who helped mastermind his election victory last year and the Brexit campaign that resulted in Britain’s departure from the European Union.
+
+But the reports that Mr. Cummings had driven to his parents’ house in Durham in April when the government was urging people to stay home — particularly those with symptoms of the virus — set off a political tempest, with critics accusing him of flouting the rules that apply to everybody else.
+
+“The British people do not expect there to be one rule for them and another rule for Dominic Cummings,” said a spokesman for the opposition Labour Party, who added that he had “breached the lockdown rules.”
+
+Leaders of two other opposition parties, the Liberal Democrats and Scottish National Party, demanded that he resign or be fired.
+
+Confronted by reporters outside his home on Saturday, Mr. Cummings said, “I behaved reasonably and legally.” Asked whether his decision had been “a good look,” he replied: “Who cares about good looks? It’s a question of doing the right thing. It is not about what you guys think.”
+
+The furious reactions to his trip attested to the polarizing role Mr. Cummings has played in British politics since before the 2016 Brexit referendum. He has accumulated a long list of enemies, including some in the Conservative Party, like Iain Duncan Smith, a former party leader, whom he has ridiculed or sidelined.
+
+But it also showed Mr. Johnson’s deep reliance on Mr. Cummings. The prime minister dug in his heels on Saturday, releasing a statement, through a spokesman, that defended Mr. Cummings and his wife for making the 260-mile drive to Durham. t said, they had been trying to line up care for their young child after he contracted the virus and expected he would fall ill.
+
+The adviser went to a house “near to but separate from his extended family,” the statement said, after his sister and nieces had offered to help.
+
+“His actions were in line with coronavirus guidelines,” the statement said.
+
+If so, however, Mr. Cummings seemed eager not to disclose the trip. His wife, the journalist Mary Wakefield, wrote an account of her husband’s illness in The Spectator that made no mention of their drive and suggested he had been bedridden for 10 days at home with a “high fever and spasms that made the muscles lump and twitch in his legs.”
+
+Mr. Cummings himself described being shut in with Ms. Wakefield, who also had symptoms, for more than two weeks, beginning at the end of March, when he contracted the virus soon after Mr. Johnson.
+
+Violations of the lockdown by prominent figures have become a recurring theme in Britain, with the penalties falling harder on private citizens and scientific experts than on government officials.
+
+Neil Ferguson, an epidemiologist and adviser to the government, stepped down from a key scientific panel after acknowledging he had invited a woman with whom he was reported to be romantically involved into his apartment during the lockdown. Scotland’s chief medical officer, Catherine Calderwood, resigned in April after reports she had traveled twice to a vacation home.
+
+But Robert Jenrick, the secretary for housing, communities and local government, held on to his job after admitting he had driven an hour outside London to visit his parents. And Stephen Kinnock, a prominent Labour member of Parliament, brushed aside criticism from the police after he visited his father, Neil Kinnock, for his birthday in March.
+
+Though an adviser and not an elected politician, Mr. Cummings has twice been critical to Mr. Johnson’s political success. Not only is he an accomplished campaigner, the man behind the pro-Brexit slogan “take back control,” but he also inspired Mr. Johnson’s agenda to spread prosperity to neglected areas of the country, including the north.
+
+His public profile rose when he was portrayed by the actor Benedict Cumberbatch in a drama about the Brexit campaign, as a sort of tortured genius determined to destroy the political elite. Since the election, he has reveled in his image as an eccentric, disheveled iconoclast, intent on reinventing government — Downing Street’s answer to Stephen K. Bannon, President Trump’s former strategist.
+
+Mr. Cummings put out a call for “weirdos and misfits” to join him in the government (one of those appointed later resigned). He mocked cabinet ministers, appearing to suggest that children’s cartoon characters might do a better job. And he clashed with grandees of the Conservative Party, once describing a former Brexit secretary, David Davis, as “thick as mince,” “lazy as a toad” and “vain as Narcissus.”
+
+Cabinet ministers and other Conservative lawmakers showed support for Mr. Cummings on Saturday, including the foreign secretary, Dominic Raab; the chancellor of the Exchequer, Rishi Sunak; and the health secretary, Matt Hancock.
+
+“I know how ill coronavirus makes you,” Mr. Hancock tweeted. “It was entirely right for Dom Cummings to find childcare for his toddler, when both he and his wife were getting ill.”
+
+Others stayed silent, however, perhaps waiting to see whether Mr. Cummings could ride out the storm.
+
+While the Labour Party demanded answers, it stopped short of demanding his resignation. That appeared to reflect a tactical judgment by the party leader, Keir Starmer, that the episode would do more damage to the government, which is already on the defensive for its handling of the virus, if it were dragged out over several days.
+
+And criticism flowed not just from opposition politicians.
+
+Julia Hartley-Brewer, a broadcaster and journalist who generally leans to the right politically, described how she had been separated from her 77-year-old mother, who lives on her own and suffered a heart attack in December.
+
+“So excuse me if I am beyond bloody incandescent at what Dominic Cummings did,” she wrote in a tweet that used another expletive.
+
+The post Outrage Grows Over Boris Johnson Aide’s 260-Mile Trip During Lockdown appeared first on New York Times.",29.5,Low,Right,USA
+31,https://www.dallasnews.com/news/2020/05/21/wylie-mayor-defends-belief-that-women-shouldnt-lead-public-prayer/,https://www.dallasnews.com,2020-05-21,"['Tom Steele', 'Dallasnews Administrator', 'Callie Caplan', 'Catherine Marfin', 'Wire Services', 'Obed Manuel', 'Anna Kuchment']",Wylie mayor defends belief that women shouldn’t lead public prayer,https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/d0BhVtGiRvewpAmIsXwUC0I9S9I=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AHRZSBRRCNBYBDYSK6632VDJTQ.jpg,"Wylie Mayor Eric Hogue says he believes women can do “anything and everything” — so long as they don’t lead public displays of religion.
+
+Hogue is defending his beliefs after the release of an email in which he requests that only male members of a Christian missionary group say a prayer before a City Council meeting.
+
+The exchange between Hogue and the city’s mayor pro tem, Jeff Forrester, was posted Wednesday on a Facebook page that focuses on the city’s politics.
+
+Forrester emailed Hogue last week about the group, Youth With a Mission, asking for the mayor’s thoughts about arranging for its members to attend the council’s next meeting.
+
+On Sunday, Hogue replied, saying it was a good idea — as long as “those leading the public prayer be young men.”
+
+Wylie Mayor Eric Hogue sent the email to Mayor Pro Tem Jeff Forrester on Sunday. ((custom credit))
+
+Hogue, who also is the minister of Wylie’s Cottonwood Church of Christ, quoted two New Testament verses he said he interprets literally.
+
+The first, 1 Corinthians 14:34-35, says: “Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience as also saith the law. And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.”
+
+The mayor also quoted a passage from 1 Timothy that says, “Let the woman learn in silence with all subjection. But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.”
+
+Hogue wrote that he has always asked for men to lead invocation, while acknowledging that “not everyone may agree with me, but I can’t go against my conscience.”
+
+Hogue did not respond to a request for comment from The Dallas Morning News, but he spoke to local television stations about the email, telling KXAS-TV (NBC5) that his belief extends only to public acts of religion.
+
+“What I will say is a woman can do absolutely anything and everything — but if we’re in a public setting, in a religious setting, the Bible teaches that she’s not to say a public prayer or to lead the singing or to deliver the sermon,” he said.
+
+He reiterated that to WFAA-TV (Channel 8), saying, “I believe a lady can be president of the United States. I believe a lady can be CEO of a company, the superintendent of a school district.” But in the Church of Christ, he said, women don’t lead worship services or singing — only classes for women and children.
+
+Hogue also pointed to his 33-year marriage as a sign of his respect for women.
+
+“My wife would not stick around if I was anti, you know, like that,” he told WFAA. “I mean, we are equal partners in everything.”
+
+Forrester told WFAA he doesn’t share the mayor’s beliefs and was surprised by the email, but he added, “I’ve never observed Mayor Hogue ever speak ill of women.”
+
+Hogue, 56, has been Wylie’s mayor for 12 years and is not seeking re-election this year. In addition to leading the church, he is a professional magician and formerly performed as a clown named Clinky.
+
+Hogue told NBC5 that he suspects the outcry over his email may be motivated by politics after this month’s election was moved to November because of the coronavirus pandemic.
+
+“I think the main thing is the budget cycle is coming up, and they would like to have the new council in place,"" he said. “I totally get that, but we are living through a pandemic.”
+
+Staff writer Charles Scudder contributed to this report.",29.5,Low,Right,USA
+32,https://www.studyfinds.org/survey-2-in-5-adults-feel-theyve-changed-for-the-better-thanks-to-coronavirus-lockdown/,https://www.studyfinds.org,2020-05-23,"[""View Jacob'S Article Archive""]",Silver Lining: 2 In 5 Adults Have ‘Changed For The Better’ Thanks To Lockdown,https://www.studyfinds.org/wp-content/uploads/2020/05/photo-of-woman-using-her-laptop-935756-1024x683.jpg,"LONDON — Many people have been using their extra time during the coronavirus lockdown wisely and have adopted new habits to keep themselves busy. In fact, a recent survey of 2,000 British adults reveals that 43% of people feel they’ve “changed their ways for the better” as a result of all the time inside these past few months.
+
+Researchers sought to learn how habits and daily lives have changed as a result of the lockdown. Nearly half of those surveyed expect to keep up these new hobbies, skills, and daily habits they’ve taken on after the lockdown restrictions are lifted. Learning new computer skills, creating podcasts, participating in online fitness classes and going for long walks are some of the new activities people have turned to as a new means to occupy their time.
+
+The survey, commissioned by LG Electronics, shows that 43% of respondents feel they have “changed their ways for the better” as a result of the lockdown. For example, about two in five feel their new habits have helped their overall well-being. A quarter of adults say these activities have taught them new ways to relax. They hope to continue to be their improved selves once everyone returns to their old routines.
+
+“The fact that many people are forming productive and healthy new habits is testament to the nation’s ability to adjust,” says Hanju Kim, IT product director at LG UK, in a statement. “The nation is working from home and has an appetite to continue working flexibly even after offices reopen. A big part of this can be attributed to technology keeping us connected.”
+
+People have become increasingly reliant on technology during the time spent cooped up at home. Families are spending more time together watching movies, while others are turning to online classes to learn new skills like computer programming or a new language. That said, 54% of respondents feel their laptops are critical to getting by right now, while 64% say their cellphones have become a “lifeline” of sorts. Nearly six in ten (57%) wouldn’t know what to do if they didn’t have their TVs.
+
+One of the most important uses of technology these days, of cousre, is the video call. People who have been using programs like FaceTime, Zoom, or Skype to keep in touch with friends and family report that they are connecting with their loved ones even more (45%) during lockdown than they did before restrictions were put in place. Video calls are now commonplace for virtual birthday parties (25%), bar trivia games (20%) and virtual bachelor/bachelorette parties (7%). The survey found that the average person spends almost three hours on video calls each week!
+
+Half of the people surveyed are still working during the shutdown and have transformed their homes into their offices. Most people use at least two different rooms during the workday to give themselves a change of scenery. A quarter of people surveyed plan to spend more time working from home after their offices open back up.
+
+One fifth of those surveyed have enjoyed the extra sleep they’ve been getting so much that they plan to maintain their extended sleep schedule moving forward.
+
+The survey found a few more things of note. Over 25% of people surveyed think their spending habits have improved as a result of the shutdown. When asked what their ideal workspace would be once the lockdown ends, 30% of Brits said their home, 23% said a regular office space and 7% said outside spaces. Lastly, over one quarter of Brits surveyed find it easier to relax during the shutdown.
+
+The survey was conducted by OnePoll.
+
+Like studies? Follow us on Facebook!",29.5,Low,Right,USA
+34,http://www.reuters.com/news/archive/politicsNews?date=today,http://www.reuters.com,,['Reuters Editorial'],Politics News Headlines for Today,https://s4.reutersmedia.net/resources_v2/images/rcom-default.png,"Pompeo calls China virus response 'paltry' compared to damage done
+
+U.S. Secretary of State Mike Pompeo took fresh aim at China over the coronavirus on Wednesday, calling the $2 billion Beijing has pledged to fight the pandemic ""paltry"" compared to the hundreds of thousands of lives lost and trillions of dollars of damage.",29.5,Low,Right,USA
+35,http://www.reuters.com/news/archive/worldNews?date=today,http://www.reuters.com,,['Reuters Editorial'],World News Headlines for Today,https://s4.reutersmedia.net/resources_v2/images/rcom-default.png,"UK PM Johnson to update the public on coronavirus
+
+British Prime Minister Boris Johnson will next week update the public on the coronavirus crisis as his government launches its test-and-trace system in an attempt to prevent a second deadly spike of the outbreak when people return to work.",29.5,Low,Right,USA
