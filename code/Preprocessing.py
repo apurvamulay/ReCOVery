@@ -5,6 +5,10 @@ import re
 reliable_dir = '../dataset/reliable'
 unreliable_dir = '../dataset/unreliable'
 
+CSV_FILE_DIR_HEAD = "../"
+CSV_FILE_DIR_RELIABLE = CSV_FILE_DIR_HEAD + "dataset/reliable"
+CSV_FILE_DIR_UNRELIABLE = CSV_FILE_DIR_HEAD + "dataset/unreliable_new"
+
 files = ['news-dataset_abc_news.csv', "news-dataset_business_insider.csv", "news-dataset_cbs_news.csv",
          "news-dataset_chicago_suntimes.csv", "news-dataset_CNBC.csv", "news-dataset_fiveThirtyEight.csv",
          "news-dataset_npr.csv", "news-dataset_pbs.csv", "news-dataset-reuters.csv", "news-dataset-slate.csv",
@@ -115,8 +119,8 @@ def update_indexes(fileName):
 # df_pbs = pd.read_csv(reliable_dir + "/news-dataset_pbs.csv", index_col=False)
 # df_pbs = df_pbs[df['news_id'] != 1]
 # df_pbs.to_csv(reliable_dir + "/news-dataset_pbs.csv", index=False)
-#update_indexes(reliable_dir + "/news-dataset_pbs.csv")
-update_indexes(reliable_dir + "/news-dataset_los_angeles_daily.csv")
+# update_indexes(reliable_dir + "/news-dataset_pbs.csv")
+# update_indexes(reliable_dir + "/news-dataset_los_angeles_daily.csv")
 
 def drop_author():
     df_sun = pd.read_csv(reliable_dir + "/news-dataset_chicago_suntimes.csv", index_col=False)
@@ -164,16 +168,20 @@ def remove_row(fileName, id):
 # remove_row(reliable_dir + '/news-dataset_yahoo_news.csv', 15)
 # remove_row(reliable_dir + '/news-dataset_nytimes.csv', 0)
 
-#remove rows with empty body
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 1)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 3)
+# remove rows with empty body
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 1)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 3)
 # remove_row(reliable_dir + '/news-dataset_nytimes.csv', 6)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 18)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 35)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 40)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 66)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 69)
-#remove_row(reliable_dir + '/news-dataset_nytimes.csv', 73)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 18)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 35)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 40)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 66)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 69)
+# remove_row(reliable_dir + '/news-dataset_nytimes.csv', 73)
+# remove_row(unreliable_dir + '/news-dataset_drudgereport.csv', 3)
+# remove_row(unreliable_dir + '/news-dataset_big_league_politics.csv', 7)
+# remove_row(unreliable_dir + '/news-dataset_big_league_politics.csv', 8)
+#remove_row(unreliable_dir + '/news-dataset_drudgereport.csv', 20)
 
 def stripe_spaces(authors):
     authors = get_list_authors(authors)
@@ -186,14 +194,19 @@ def stripe_spaces(authors):
     return new_authors
 
 
-remove_from_authors = ['May', 'Apr', 'April', 'Mar', 'March', 'Contributors', 'Published P.M. Et', 'Usa Today', 'Associated Press',
+remove_from_authors = ['May', 'Apr', 'April', 'Mar', 'March', 'Contributors', 'Published P.M. Et', 'Usa Today',
+                       'Associated Press',
                        'West Coast Correspondent', 'Senior Writer',
                        'Senior Political Correspondent', 'Yahoo News Staff', 'Senior Editor', 'National Correspondent',
                        'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday',
-                       'Sexy-Author-Bio', 'Background', 'Ffffff', 'Border-Style', 'Solid', 'Border-Color', 'Color', 'Border-Top-Width', 'Border-Right-Width',
-                       'Cristina Began Writing For The Gateway Pundit In', 'She Is Currently The Associate Editor.', 'Jim Hoft Is The Founder Of The Gateway Pundit',
-                       'One Of The Top Conservative News Outlets In America. Jim Was Awarded The Reed Irvine Accuracy In Media Award In', 'Is The Proud Recipient Of The Breitbart Award For Excellence In Online Journalism The Americans For Prosperity Foundation In May'
-                       ]
+                       'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday',
+                       'Sexy-Author-Bio', 'Background', 'Ffffff', 'Border-Style', 'Solid', 'Border-Color', 'Color',
+                       'Border-Top-Width', 'Border-Right-Width',
+                       'Cristina Began Writing For The Gateway Pundit In', 'She Is Currently The Associate Editor.',
+                       'Jim Hoft Is The Founder Of The Gateway Pundit',
+                       'One Of The Top Conservative News Outlets In America. Jim Was Awarded The Reed Irvine Accuracy In Media Award In',
+                       'Is The Proud Recipient Of The Breitbart Award For Excellence In Online Journalism The Americans For Prosperity Foundation In May'
+                       'At P.M.', 'Min Read', 'Https', 'Abc News', 'Www.Axios.Com Authors Caitlin']
 reuters_authors = ['Min Read', 'Reuters Editorial']
 
 
@@ -221,7 +234,8 @@ def update_authors(fileName, remove_authors):
 # update_authors(reliable_dir + "/news-dataset_usa_today.csv", remove_from_authors)
 # update_authors(reliable_dir + "/news-dataset_yahoo_news.csv", remove_from_authors)
 # update_authors(unreliable_dir + "/news-dataset_natural_news.csv", remove_from_authors)
-#update_authors(unreliable_dir + "/news-dataset_gateway_pundit.csv", remove_from_authors)
+# update_authors(unreliable_dir + "/news-dataset_gateway_pundit.csv", remove_from_authors)
+# update_authors(unreliable_dir + "/news-dataset_drudgereport.csv", remove_from_authors)
 
 
 def update_authors_spaces(fileName):
@@ -247,9 +261,24 @@ def replace_values_body_text(fileName, value_to_replace, by_value):
 
 # replace_values_body_text(reliable_dir + "/news-dataset_washington_post_old.csv", 'AD', '')
 
+# update_indexes(reliable_dir + "/news-dataset_pbs.csv")
+# update_indexes(reliable_dir + "/news-dataset_los_angeles_daily.csv")
 # update_indexes(reliable_dir + "/news-dataset_yahoo_news.csv")
-#update_indexes(reliable_dir + "/news-dataset_nytimes.csv")
+# update_indexes(reliable_dir + "/news-dataset_nytimes.csv")
 # update_indexes(unreliable_dir + "/news-dataset_gateway_pundit.csv")
+# update_indexes(reliable_dir + "/news-dataset-politico.csv")
+# update_indexes(unreliable_dir + "/news-dataset_infowars.csv")
+# update_indexes(unreliable_dir + "/news-dataset_rt_news.csv")
+# update_indexes(unreliable_dir + "/news-dataset_activistpost.csv")
+# update_indexes(unreliable_dir + "/news-dataset_american_thinker.csv")
+# update_indexes(unreliable_dir + "/news-dataset_bipartisan_report.csv")
+# update_indexes(unreliable_dir + "/news-dataset_clashdaily.csv")
+# update_indexes(unreliable_dir + "/news-dataset_collective_evolution.csv")
+# update_indexes(unreliable_dir + "/news-dataset_dirty_laundry.csv")
+# update_indexes(unreliable_dir + "/news-dataset_infowars.csv")
+# update_indexes(unreliable_dir + "/news-dataset_news_punch.csv")
+# update_indexes(unreliable_dir + "/news-dataset_RealFarmacy.csv")
+# update_indexes(unreliable_dir + "/news-dataset_theduran.csv")
 
 def get_valid_url(url):
     return re.search(url_filter_patterns, url) is None
@@ -262,6 +291,7 @@ def filter_url(fileName):
     df_filter_url = df_filter_url.drop('url_valid', axis=1)
     df_filter_url.to_csv(reliable_dir + "/news-dataset_nytimes.csv", index=False)
 
+
 # filter_url(reliable_dir + "/news-dataset_nytimes.csv")
 
 def update_reuters():
@@ -270,3 +300,28 @@ def update_reuters():
     df12.reset_index(drop=True, inplace=True)
     df12.to_csv("../dataset/reliable/news-dataset-reuters.csv")
     print(df12)
+
+
+def update_index_all(directory):
+    CSV_FILE_NAMES = os.listdir(directory)
+
+    for CSV_FILE_NAME in CSV_FILE_NAMES:
+        if CSV_FILE_NAME[:12] == "news-dataset":
+            fileName = directory + '/' + CSV_FILE_NAME
+            update_indexes(fileName)
+            #print(fileName)
+
+
+
+update_index_all(CSV_FILE_DIR_UNRELIABLE)
+
+# sputnik_df = pd.read_csv(unreliable_dir + "/news-dataset_sputnik_news.csv")
+# def get_date_From_url(url):
+#     url_parts = url.split('/')
+#     date1 = url_parts[4][:8]
+#     format_date = '-'.join([date1[:4], date1[4:6], date1[6:]])
+#     return format_date
+#
+# sputnik_df['publish_date'] = sputnik_df.apply(lambda x: get_date_From_url(x['url']), axis=1)
+# sputnik_df.to_csv(unreliable_dir + "/news-dataset_sputnik_news.csv", index=False)
+
