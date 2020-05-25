@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://realfarmacy.com/dc-extends-stay-at-home-order-through-may-15/,RealFarmacy,2020-04-16,[],DC extends stay-at-home order through May 15,https://realfarmacy.com/wp-content/uploads/2020/04/maskdc.jpg,"Washington, D.C., Mayor Muriel Bowser (D) announced Wednesday that the city’s stay-at-home order would be extended through May 15 as the coronavirus pandemic continues to hamstring the nation’s capital.
 
 The extension applies to all social distancing guidelines that Bowser had already put in place, meaning that schools and nonessential businesses will stay closed. Bowser said that the city would need to see a continuous two-week decline in hospitalizations and positive tests before considering relaxing measures.
@@ -9,7 +9,7 @@ More from The Hill
 
 Follow us
 
-Share this article",12.5,Low,,
+Share this article",12.5,Low,,,0
 1,https://realfarmacy.com/jaw-dropping-video-reveals-where-spring-break-covidiots-traveled-after-flooding-florida-beaches-to-party/,RealFarmacy,2020-03-27,[],Jaw-Dropping Video Reveals Where Spring Break “Covidiots” Traveled After Flooding Florida Beaches to Party,https://realfarmacy.com/wp-content/uploads/2020/03/springbreaktravel.jpg,"On Monday we reported how thousands of young Americans laughed off warnings to self-isolate and partied on Florida beaches anyway for spring break – with several now testing positive for COVID-19.
 
 The poster child for these selfish ‘covidiots’ – who will statistically survive coronavirus – was a spring breaker from Ohio, Bradley Sluder – told CBS News: “If I get corona, I get corona. At the end of the day, I’m not gonna let it stop me from partying,” adding “We’re just out here having a good time. Whatever happens, happens.”
@@ -38,4 +38,4 @@ Source: Zerohedge, Mikael Thalen
 
 Follow us
 
-Share this article",12.5,Low,,
+Share this article",12.5,Low,,,0

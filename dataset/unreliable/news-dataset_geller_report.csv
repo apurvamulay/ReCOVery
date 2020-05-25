@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://gellerreport.com/2020/05/london-churches-closed-islamic-call2prayer.html/,Geller Report News,2020-05-23,['Pamela Geller'],SHARIA UK: London will blare Islamic call to prayer during Ramadan as churches remain closed,https://gellerreport.com/wp-content/uploads/2020/05/nails-on-a-chlakboard.jpg,"All that Islamic terror in London, Manchester, Woolwich, on buses, planes, Ariana Grande Concerts, bridges, trains, etc — worked. All that murder and mayhem worked.
 
 London will blare Islamic call to prayer during Ramadan as churches remain closed
@@ -23,7 +23,7 @@ Clare Coghill, the leader of Waltham Forest Council, said that the Adhan being b
 
 The Adhan will be broadcast each day at sunset, with an additional broadcast each Friday. The words in the Adhan state: “Allah is the greatest. I bear witness that there is no god except Allah. I bear witness that Muhammad is the Messenger of Allah. Come to prayer. Come to salvation.”
 
-Cardinal Vincent Nichols, the senior Catholic cleric in the U.K., marked the beginning of Ramadan by joining a host of religious leaders in an interfaith event titled “Ramadan at Home,” organised by the Naz Legacy.",20,Low,Right,USA
+Cardinal Vincent Nichols, the senior Catholic cleric in the U.K., marked the beginning of Ramadan by joining a host of religious leaders in an interfaith event titled “Ramadan at Home,” organised by the Naz Legacy.",20,Low,Right,USA,0
 1,https://gellerreport.com/2020/05/trump-cdc-who-birx.html/,Geller Report News,2020-05-23,['Pamela Geller'],"Trump, Birx Vs. CDC, W.H.O.",https://gellerreport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-22-at-12.09.53-PM.png,"The White House and the CDC have been largely at odds amid the coronavirus pandemic. It appears that Dr. Deborah Birx has taken Trump’s side, chastising the US agency for what she claims are inflated COVID death numbers. US observers explain the conflict between Trump and the medical experts and shed light on Birx’s “political game”.
 
 As calls for reopening the US economy become louder inside the Trump camp, tensions between the White House and the US Centers for Disease Control and Prevention (CDC) have soared. CDC director Robert R. Redfield and counterpart Anthony Fauci, the head of the US National Institute of Allergy and Infectious Diseases (NIAID) have repeatedly warned the president’s Coronavirus Task Force against reopening the country too soon. According to some reports, it is Dr. Deborah Birx, however, who has Trump’s ear.
@@ -78,7 +78,7 @@ The controversy between the White House and the country’s health and science c
 
 What’s going on in the US is the opposite, Lee remarked. According to him, the Trump administration “has frequently ignored the advice of scientific experts and prioritised political and economic interests instead”.
 
-While CDC has been subject to harsh criticism by the Trump administration and its conservative supporters, the truth of the matter is that SARS-CoV-2 is an absolutely new virus no one has ever dealt with, underscores Mitchell Feierstein, a hedge-fund manager and CEO of the Glacier Environmental Fund Limited.",20,Low,Right,USA
+While CDC has been subject to harsh criticism by the Trump administration and its conservative supporters, the truth of the matter is that SARS-CoV-2 is an absolutely new virus no one has ever dealt with, underscores Mitchell Feierstein, a hedge-fund manager and CEO of the Glacier Environmental Fund Limited.",20,Low,Right,USA,0
 2,https://gellerreport.com/2020/05/death-toll-of-ramadan-2020-updated-daily.html/,Geller Report News,2020-05-23,['Jean Patrick Grumberg'],"Updated daily: 3,224 deaths so far, and counting",https://gellerreport.com/wp-content/uploads/2020/05/EXIs6fhWsAEvLOi.jpeg,"Date Country Region Dead Wounded Description
 
 Total 2020 3224 1454
@@ -1395,7 +1395,7 @@ Libya Misrata 1 # GNA Militia killed by the # LNA (Othman Moftah Mubarak) from t
 
 Iraq Diyala and Nineveh 10 Iraqi raids kill 10 ISIS militiants as terrorist attacks continue
 
-Syria Mayadeen 2 5 The Islamic State (IS) attacked the Iraqi Hezbollah group in eastern Syria on Thursday, leaving two killed and five wounded, a war monitor reported",20,Low,Right,USA
+Syria Mayadeen 2 5 The Islamic State (IS) attacked the Iraqi Hezbollah group in eastern Syria on Thursday, leaving two killed and five wounded, a war monitor reported",20,Low,Right,USA,0
 3,https://gellerreport.com/2020/05/fla-gov-desantis-leads-the-nation-florida-lifting-all-restrictions-on-youth-activities.html/,Geller Report News,2020-05-22,['Pamela Geller'],FLA Gov. DeSantis Leads The Nation: Florida ‘lifting all restrictions on youth activities’,https://gellerreport.com/wp-content/uploads/2020/05/ewscripps.brightspotcdn.com_.jpg,"DeSantis is following the science and making every Democrat Blue state totalitarian the fool.
 
 And @GovRonDeSantis again follows the science and leads the nation: https://t.co/GChcGmnWzd
@@ -1448,7 +1448,7 @@ Related: Florida coronavirus cases near 50,000, as state adds 46 deaths
 
 DeSantis also noted that children are much less likely to face serious consequences from the novel coronavirus. In Florida, five in six coronavirus deaths have come from people 65 and over. Zero people under 25 have died from the disease, DeSantis no
 
-Have a tip we should know? Your anonymity is NEVER compromised. Email Email tips@thegellerreport.com",20,Low,Right,USA
+Have a tip we should know? Your anonymity is NEVER compromised. Email Email tips@thegellerreport.com",20,Low,Right,USA,0
 4,https://gellerreport.com/2020/05/hcq-effective.html/,Geller Report News,2020-05-22,"['Himani Chandna', 'Pamela Geller']","Hydroxychloroquine breakthrough: ICMR finds it’s effective in preventing coronavirus, expands its use",https://gellerreport.com/wp-content/uploads/2020/05/hydr.jpg,"Cue the Democrat media complex to ratchet up their war on this effective Trump-touted drug.
 
 HCQ breakthrough: ICMR finds it’s effective in preventing coronavirus, expands its use
@@ -1505,7 +1505,7 @@ The advisory states the drug should be discontinued if it causes the “rare” 
 
 The advisory mentions that HCQ, in rare cases, can cause visual disturbance, including “blurring of vision, which is usually self-limiting and improves on discontinuation of the drug”.
 
-ICMR has clarified that “for the above cited reasons — heart and vision — the drug has to be given under strict medical supervision with an informed consent”.",20,Low,Right,USA
+ICMR has clarified that “for the above cited reasons — heart and vision — the drug has to be given under strict medical supervision with an informed consent”.",20,Low,Right,USA,0
 5,https://gellerreport.com/2020/05/obama-surveiled-many-mnay-others.html/,Geller Report News,2020-05-22,['Pamela Geller'],"‘Many, Many Others’ Affected by Obama-Era Surveillance",https://gellerreport.com/wp-content/uploads/2016/05/obama-middle-finger.png,"From the Wall Street Journal editorial board: The larger truth here is now undeniable: The Obama Administration spied on the political competition, it continued that spying even after Mr. Trump was elected, and then it tried to cover up what it had done. If Mr. Trump had done anything remotely similar, folks would be calling to bring back the guillotine (WSJ). Peter Kirsanow notes “the mainstream media, who’ve suddenly become invincibly incurious about Russia-related matters, have posed not one question, either directly or indirectly, to the person to whom all the players in the scandal reported: Barack Obama” (National Review). One reporter who did cover it, Catherine Herridge, was attacked by the rest (NY Post).
 
 ‘Many, Many Others’ Affected by Obama-Era Surveillance, Says Former CBS Reporter Sharyl Attkisson
@@ -1534,7 +1534,7 @@ It will also be at least another month until the judiciary decides if new facts 
 
 Attkisson said it would be appropriate for Trump to weigh in on the matter and to direct his Justice Department to examine other Americans who may have been the subject of surveillance in recent years.
 
-“Certainly he is entitled to give direction to his Justice Department, as all presidents do, and convey priorities,” she said. “It seems to me that there are dishonest actors who have tried to convince him that he is not entitled to do these things. I do think somebody at the Justice Department should review the forensic evidence proving the government source of the intrusions, if there were any doubt, offer an immediate apology, stop fighting the lawsuit, begin an honest investigation as to who was responsible and who else was spied on.”",20,Low,Right,USA
+“Certainly he is entitled to give direction to his Justice Department, as all presidents do, and convey priorities,” she said. “It seems to me that there are dishonest actors who have tried to convince him that he is not entitled to do these things. I do think somebody at the Justice Department should review the forensic evidence proving the government source of the intrusions, if there were any doubt, offer an immediate apology, stop fighting the lawsuit, begin an honest investigation as to who was responsible and who else was spied on.”",20,Low,Right,USA,0
 6,https://gellerreport.com/2020/05/fauci-lockdown-damage.html/,Geller Report News,2020-05-22,['Pamela Geller'],Mastermind of LOCKDOWN Dr. Anthony Fauci NOW says staying closed for too long could cause ‘IRREPARABLE DAMAGE’,https://gellerreport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-22-at-2.10.39-PM.png,"He can’t run away from what he has done.
 
 Dr. Anthony Fauci says staying closed for too long could cause ‘irreparable damage’
@@ -1571,7 +1571,7 @@ On Monday, the company released data from its phase one human trial on its poten
 
 The vaccine produced neutralizing antibodies, which researchers believe are important to protect against the virus, for eight of the patients whose data was available so far. Data on neutralizing antibodies for the remaining patients is expected to come out later.
 
-“We still have a long way to go obviously,” Fauci said Friday. “There are so many things that need to be done. We’re going to go quickly into a phase three trial probably in the beginning of the summer, sometime in July.”",20,Low,Right,USA
+“We still have a long way to go obviously,” Fauci said Friday. “There are so many things that need to be done. We’re going to go quickly into a phase three trial probably in the beginning of the summer, sometime in July.”",20,Low,Right,USA,0
 7,https://gellerreport.com/2020/05/jpmorgan-covid-unfection-down-in-open-states.html/,Geller Report News,2020-05-21,['Pamela Geller'],JP Morgan study finds COVID infection rates have DECLINED — not increased — in REOPENED states,https://gellerreport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-21-at-2.32.28-PM.png,"“Millions of lives were being destroyed .. with little consideration that [lockdowns] might not only cause economic devastation but potentially more deaths than COVID-19 itself.”
 
 JPMorgan has a devastating piece arguing that infection rates have declined — not increased — in states where lockdowns have ended, “even after allowing for an appropriate measurement lag.” (Kolonavic)
@@ -1622,7 +1622,7 @@ Another person who is skeptical of COVID-19 lockdowns is Dr. Knut Wittkowski, th
 
 YouTube removed Wittkowski’s anti-lockdown video that had over 1.3 million views before being deleted.
 
-“They don’t tell you. They just say it violates our community standards. There’s no explanation for what those standards are or what standards it violated,” Wittkowski said of his coronavirus video being removed.",20,Low,Right,USA
+“They don’t tell you. They just say it violates our community standards. There’s no explanation for what those standards are or what standards it violated,” Wittkowski said of his coronavirus video being removed.",20,Low,Right,USA,0
 8,https://gellerreport.com/2020/05/coronavirus.html/,Geller Report News,2020-05-20,['Pamela Geller'],Scientists Believe Signs of ‘Human Intervention’ are in Coronavirus Strain Cultured to Attack Human Cells,https://gellerreport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-6.55.09-PM.png,"Cue Dr. Fauci to run cover for the Chinese.
 
 Scientists Believe Signs of ‘Human Intervention’ are in Coronavirus Strain Cultured to Attack Human Cells
@@ -1647,7 +1647,7 @@ Petrovsky believes the virus was cultured to evolve over time, meaning that this
 
 “Our and other analyses of the genomic sequence of the virus do not reveal any artificial gene inserts that would be the hallmark of a gene jockey, genetic engineers who manipulate or even create viruses by splicing in artificial inserts into their genome.” Petrovsky said.
 
-Big League Politics has noted that even the mainstream experts admit that the age of bioweapon is at hand and individuals should be very concerned with the possibility of these being set off:",20,Low,Right,USA
+Big League Politics has noted that even the mainstream experts admit that the age of bioweapon is at hand and individuals should be very concerned with the possibility of these being set off:",20,Low,Right,USA,0
 9,https://gellerreport.com/2020/05/who-will-fight-for-your-rights.html/,Geller Report News,2020-05-18,['Pamela Geller'],Who will fight for your rights?,https://gellerreport.com/wp-content/uploads/2020/05/OTD-July-9-Declaration-of-Independence-jpg_1022020_ver1.0_1280_720.jpg,"This article best articulates the fight against corona tyranny.
 
 A Silver Lining
@@ -1706,4 +1706,4 @@ There is a silver lining in all this: the curtain has been lifted, we now know e
 
 If we want our rights, our freedom, and our lives, we’re going to have to fight for them with word and deed. It has ever been so; it will ever be so. Those who choose to fight will have one important ally: rule by brute force is the agent of its own collapse. It has always failed, it always will. Whether we have the virtue and wisdom to replace it with it’s antitheses—freedom and individual rights protected rather than destroyed by government—remains to be seen.
 
-Stay sane.",20,Low,Right,USA
+Stay sane.",20,Low,Right,USA,0

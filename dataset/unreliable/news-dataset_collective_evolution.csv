@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://www.collective-evolution.com/2020/05/21/trump-unveils-plan-that-would-see-big-pharma-reap-massive-profits-from-covid-19-vaccine/,Collective Evolution,2020-05-21,[],Trump Unveils Plan That Would See Big Pharma Reap Massive Profits from COVID-19 Vaccine,https://cdn1.collective-evolution.com/assets/uploads/2020/05/trump.jpeg,"In 2014, Harvard University stated that prescription drugs are the 4th leading cause of death. North American culture practically worships the pharmaceutical industry and often fails to recognize many of the issues within it. Many Americans are completely unaware that new prescription drugs have a 1 in 5 chance of causing serious reactions, even after being approved.
 
 In fact, approximately 1.9 million people are hospitalized annually due to properly prescribed medication (not including any overdoses, self-prescriptions, or mis-prescribing). 128,000 people die every year in the U.S. from drugs prescribed to them, so why is this still happening? The reality is, drug companies make a lot of money from selling prescriptions, and they even pay doctors to do it for them.
@@ -45,7 +45,7 @@ Big Pharma has infiltrated pharmaceutical drugs into other industries too. If yo
 
 Let’s take a moment to look at the bigger picture: Most industries are currently driven by money, not passion. It seems strange, but this is precisely the issue within the medical industry. I’m sure many doctors choose their occupation because they’re passionate about helping people. However, until Big Pharma stops playing such a crucial role in creating their job descriptions, it will be difficult for MDs to actually help people without simultaneously hurting them.
 
-It’s clear that we need a systemic change in values. Until we start to work “for the people” rather than “for the profit,” we cannot expect these outcomes to change. It’s hardly surprising that Big Pharma wants you to be sick because they’re not just in the business to cure people — they also need to make a profit.",12.5,Low,Right,USA
+It’s clear that we need a systemic change in values. Until we start to work “for the people” rather than “for the profit,” we cannot expect these outcomes to change. It’s hardly surprising that Big Pharma wants you to be sick because they’re not just in the business to cure people — they also need to make a profit.",12.5,Low,Right,USA,0
 1,https://www.collective-evolution.com/2020/05/21/masks-are-there-benefits-or-just-a-comfort-prop-let-the-facts-speak/,Collective Evolution,2020-05-21,['Jennifer Giustra-Kozek'],Masks: Are There Benefits or Just a Comfort Prop? Let the Facts Speak,https://cdn3.collective-evolution.com/assets/uploads/2020/05/disposal-5021447_1920-1000x600.jpg,"In Brief The Facts: A CNN reporter was seen taking off her mask after a White House Press conference, and is being accused of doing so because the camera's were off.
 
 Reflect On: Are masks even necessary? Are we being told it's for our best health interests, just like we were told quarantine is/was, or is there some other agenda at play here?
@@ -156,7 +156,7 @@ Bill Gates: We Won’t Go Back To “Normal Until” A Vaccine Has “Gotten Out
 
 LA Doctor: COVID-19 Patients Go From ‘Very Ill’ To ‘Symptom-Free’ In 8 To 12 Hours With Hydroxychloroquine & Zinc
 
-Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA
+Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA,0
 2,https://www.collective-evolution.com/2020/05/17/colorado-department-of-public-health-accused-of-falsifying-covid-19-death-numbers/,Collective Evolution,2020-05-17,['Arjun Walia'],Colorado Department of Public Health Accused of Falsifying COVID-19 Death Numbers,https://cdn2.collective-evolution.com/assets/uploads/2020/05/coronavirus-4958989_1280-1000x600.jpg,"In Brief The Facts: The Colorado Department of Public Health and Environment announced a change to how it tallies coronavirus deaths amid complaints that it inflated numbers. This has been a common theme throughout the US as well as the World.
 
 Reflect On: Is the new coronavirus being made out to be more dangerous than it actually is? Are the death numbers even accurate? Why has there been so much controversy and so much evidence of foul play?
@@ -195,7 +195,7 @@ The Takeaway
 
 Never in history have we seen so much controversy surrounding a major global event since 9/11. Edward Snowden also recently expressed that many measures were put into place after 9/11 that still remain until this day, sharing his belief that governments are using the coronavirus to push even more authoritarian measures upon the citizenry. You have to ask yourself, why are some of the world’s leading scientists/epidemiologists in the field, as well as many doctors, getting censored for simply sharing their research and opinions. Why are their YouTube videos taken down, and why have people like Bill Gates become the official health authority regarding the coronavirus, what’s going on and the actions humanity should implement? This alone should raise a red flag for people.
 
-I’ve said it many times, and I’ll say it again, there is a digital authoritarian Orwellian “fact-checker” going around the internet and censoring so much information. This effort is combined with a digital campaign of hate and absolute ridicule of anything that provides an opposing view/narrative in order to sway minds and control human consciousness.",12.5,Low,Right,USA
+I’ve said it many times, and I’ll say it again, there is a digital authoritarian Orwellian “fact-checker” going around the internet and censoring so much information. This effort is combined with a digital campaign of hate and absolute ridicule of anything that provides an opposing view/narrative in order to sway minds and control human consciousness.",12.5,Low,Right,USA,0
 3,https://www.collective-evolution.com/2020/05/15/study-cautions-against-use-of-cloth-masks-because-they-can-increase-your-risk-of-infection/,Collective Evolution,2020-05-15,['Arjun Walia'],Study Finds That Cloth Masks Can Increase Healthcare Workers Risk of Infection,https://cdn1.collective-evolution.com/assets/uploads/2020/05/corona-4971013_1280-1000x600.jpg,"In Brief The Facts: A study published in 2015 found that cloth masks can increase healthcare workers risk of infection. It also called into question the efficacy of medical masks.
 
 Reflect On: If masks may not protect healthcare workers in an acute setting, what are they doing for the public? Are the decisions made by health regulatory agencies always in the best interest of the public?
@@ -288,7 +288,7 @@ Bill Gates: We Won’t Go Back To “Normal Until” A Vaccine Has “Gotten Out
 
 LA Doctor: COVID-19 Patients Go From ‘Very Ill’ To ‘Symptom-Free’ In 8 To 12 Hours With Hydroxychloroquine & Zinc
 
-Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA
+Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA,0
 4,https://www.collective-evolution.com/2020/05/03/just-like-9-11-did-covid-19-is-shifting-human-consciousness-in-a-major-way/,Collective Evolution,2020-05-03,['Arjun Walia'],"Just Like 9/11 Did, COVID-19 Is Shifting Human Consciousness In A Major Way",https://cdn2.collective-evolution.com/assets/uploads/2020/05/covid911-1000x600.jpg,"In Brief The Facts: Major events have a lasting impact on human consciousness, and help people see what they once never saw before. This appears to be happening with the new coronavirus.
 
 Reflect On: How do events like 9/11, and the new coronavirus impact human consciousness?
@@ -379,7 +379,7 @@ Bill Gates: We Won’t Go Back To “Normal Until” A Vaccine Has “Gotten Out
 
 LA Doctor: COVID-19 Patients Go From ‘Very Ill’ To ‘Symptom-Free’ In 8 To 12 Hours With Hydroxychloroquine & Zinc
 
-Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA
+Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA,0
 5,http://explorers.collective-evolution.com/part-of-the-problem-or-part-of-the-solution/,Collective Evolution,,[],,,"In Brief The Facts: Major events have a lasting impact on human consciousness, and help people see what they once never saw before. This appears to be happening with the new coronavirus.
 
 Reflect On: How do events like 9/11, and the new coronavirus impact human consciousness?
@@ -470,4 +470,4 @@ Bill Gates: We Won’t Go Back To “Normal Until” A Vaccine Has “Gotten Out
 
 LA Doctor: COVID-19 Patients Go From ‘Very Ill’ To ‘Symptom-Free’ In 8 To 12 Hours With Hydroxychloroquine & Zinc
 
-Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA
+Confirmed: High-Dose Vitamin C Has Successfully Treated 50 Moderate to Severe COVID-19 Patients",12.5,Low,Right,USA,0

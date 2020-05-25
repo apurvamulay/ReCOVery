@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,http://www.presstv.com/Detail/2020/05/24/626005/Iran-Eid-Fitr-Ramadan,Press TV,2020-05-24,[],Iranians mark Eid al-Fitr at end of holy fasting month of Ramadan,https://cdn.presstv.com/Photo/2020/5/24/a4f8518d-d64d-41be-89e9-51165a3260b2.jpg,"Iranians across the country are celebrating Eid al-Fitr, which marks the end of the holy fasting month of Ramadan.
 
 The Office of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei announced Sunday as Ei-al-Fitr after it received multiple reports from reliable religious scholars on the sighting of the new moon.
@@ -11,7 +11,7 @@ Alireza Zali, the head of the National Headquarters for Managing and Fighting th
 
 In a message to Iranians, President Hassan Rouhani congratulated them on Eid al-Fitr, wishing that God would accept their fasting, prayers and good deeds.
 
-Eid al-Fitr marks the beginning of the lunar month of Shawwal and the end of Ramadan — the ninth month in the Islamic calendar — when Muslims refrain from eating, drinking, smoking and other corporal pleasures from dawn to dusk.",17.5,Low,Right,Iran
+Eid al-Fitr marks the beginning of the lunar month of Shawwal and the end of Ramadan — the ninth month in the Islamic calendar — when Muslims refrain from eating, drinking, smoking and other corporal pleasures from dawn to dusk.",17.5,Low,Right,Iran,0
 1,http://www.presstv.com/Detail/2020/05/24/626045/Iran-China-Hong-Kong-,Press TV,2020-05-24,[],"Iran condemns foreign interference in China’s affairs, threat to its sovereignty",https://cdn.presstv.com/photo/20200524/88dd7a54-604a-4b28-aaaa-9d0807dd1da9.jpg,"Iran has condemned any act of interference in the internal affairs of China and moves to undermine its national sovereignty and territorial integrity, stressing that the Islamic Republic respects the principle of a united China.
 
 “Non-interference in the affairs of other countries, maintenance of territorial integrity and showing respect for the national sovereignty of other countries are among clear and unchangeable principles of the Islamic Republic of Iran’s foreign policy,” Iranian Foreign Ministry Spokesman Abbas Mousavi said on Sunday.
@@ -30,7 +30,7 @@ Meanwhile, White House National Security Adviser Robert O'Brien warned on Sunday
 
 ""It looks like, with this national security law, they're going to basically take over Hong Kong and if they do ... Secretary (of State Mike) Pompeo will likely be unable to certify that Hong Kong maintains a high degree of autonomy and if that happens, there will be sanctions that will be imposed on Hong Kong and China,"" O'Brien said on NBC's Meet the Press.
 
-Read more:",17.5,Low,Right,Iran
+Read more:",17.5,Low,Right,Iran,0
 2,http://www.presstv.com/Detail/2020/05/24/626039/China-US-coronavirus-origin-investigation-Wang-Yi,Press TV,2020-05-24,[],China ‘open’ to intl. efforts to identify coronavirus source: FM,https://cdn.presstv.com/photo/20200524/059bc9ce-df49-428e-b46b-e492f22d88b2.jpg,"China says it is ""open"" to international cooperation to identify the accurate source of the new coronavirus, emphasizing that any investigation must be ""free of political interference.""
 
 Chinese Foreign Minister Wang Yi made the comments at a press conference on the sidelines of an annual parliament meeting on Sunday, following calls from the United States and Australia for a probe into the origins of the novel coronavirus pandemic.
@@ -73,7 +73,7 @@ Since 2018, Washington and Beijing have been engaged in a trade war over issues 
 
 Economists warn that the ongoing trade war between the world’s two largest economies increases the risks of disrupting supply chains, curtailing investment and curbing business confidence in global markets.
 
-More recently, the two top economies have also clashed over the Hong Kong pro-democracy movement and US support for Taiwan, which China claims full sovereignty over it.",17.5,Low,Right,Iran
+More recently, the two top economies have also clashed over the Hong Kong pro-democracy movement and US support for Taiwan, which China claims full sovereignty over it.",17.5,Low,Right,Iran,0
 3,http://www.presstv.com/Detail/2020/05/24/626059/UK-BBC-Lord-Hall-Admits-Major-Losses-Coronavirus-Crisis,Press TV,2020-05-24,[],BBC director general admits big losses in the coronavirus pandemic,https://cdn.presstv.com/Photo/2020/5/24/570e6043-fd9f-41bd-9c4d-0dfac4c3acb0.jpg,"In an unmistakable sign the coronavirus crisis is taking a major toll on the British Broadcasting Corporation (BBC), the state broadcaster’s outgoing director general has admitted his organization stands to lose £125 million because of the pandemic.
 
 Speaking to the BBC’s Andrew Marr Show, Tony Hall claimed that 92 percent of BBC personnel have been forced to work from home due to the lockdown and broader coronavirus-related restrictions.
@@ -88,7 +88,7 @@ Halls’ unsubstantiated claims stand in stark contrast to a solid body of evide
 
 On the highly contentious issue of the license fee, Hall said that he hopes “in future” there will be a “big debate” about how the BBC should be funded post 2027, when the state broadcaster’s current charter expires.
 
-The growing public clamor against the license fee – which was increased by £3 to £157.50 on April 01 – has forced the government to launch a public consultation on whether evasion of the license fee – which is effectively a form of taxation – should be decriminalized.",17.5,Low,Right,Iran
+The growing public clamor against the license fee – which was increased by £3 to £157.50 on April 01 – has forced the government to launch a public consultation on whether evasion of the license fee – which is effectively a form of taxation – should be decriminalized.",17.5,Low,Right,Iran,0
 4,http://www.presstv.com/Detail/2020/05/24/626046/US-Joe-Biden-golf-Donald-Trump-coronavirus-pandemic-,Press TV,2020-05-24,[],"Biden censures Trump for playing golf as coronavirus death toll heads toward 100,000",https://cdn.presstv.com/photo/20200524/aab3e75c-beb6-4e72-8750-6e8d22ebad4a.jpg,"Democratic Presidential candidate Joe Biden has blasted President Donald Trump for his decision to play golf during the holiday weekend as the death toll from the coronavirus pandemic continues to rise in the United States.
 
 The Democratic Party's presumptive nominee showed in a 30-second clip accompanying his tweet on Saturday that Trump was playing a round of golf at his club in the US state of Virginia on Memorial Day Weekend.
@@ -117,7 +117,7 @@ In another ad released earlier this month, the Biden campaign accused Trump of m
 
 Virologists say people who contract the coronavirus in the US are at greater risk than those in the UK or Canada since America lacks a national health service.
 
-The US has recorded over 1.6 million confirmed cases of the coronavirus and more than 98,000 deaths from the flu-like pathogen, according to data compiled by Johns Hopkins University.",17.5,Low,Right,Iran
+The US has recorded over 1.6 million confirmed cases of the coronavirus and more than 98,000 deaths from the flu-like pathogen, according to data compiled by Johns Hopkins University.",17.5,Low,Right,Iran,0
 5,http://www.presstv.com/Detail/2020/05/24/626038/North-Korea-Kim-Jong-un-nuclear-US-talks-Trump-sanctions,Press TV,2020-05-24,[],North Korean leader pledges to increase 'nuclear deterrence’ capabilities,https://cdn.presstv.com/Photo/2020/5/24/99bf8667-5bc3-4b3a-b59c-1dc1f13a4eda.jpg,"North Korean leader Kim Jong-un has outlined his policies for further boosting his country’s nuclear “deterrence” capabilities amid stalled denuclearization talks with the United States.
 
 After a three-week-long absence from public view, the 36-year-old leader made the comments at a meeting of his party’s powerful Central Military Commission, after a previous absence that gave rise to intense global speculation that he might have health issues or even been brain-dead.
@@ -140,7 +140,7 @@ Last December, Kim ended a moratorium on the country’s missile tests and said 
 
 The ending of the moratorium came as the United States refused to relieve any of the sanctions on the North even though Pyongyang had taken goodwill steps in the course of the now-stalled diplomacy with Washington.
 
-The North is also at loggerheads with South Korea over its “provocative” military drills with the US, stressing that Seoul’s war games demand an appropriate response from Pyongyang.",17.5,Low,Right,Iran
+The North is also at loggerheads with South Korea over its “provocative” military drills with the US, stressing that Seoul’s war games demand an appropriate response from Pyongyang.",17.5,Low,Right,Iran,0
 6,http://www.presstv.com/Detail/2020/05/24/626040/Iran-Turkey-trade-borders-pandemic,Press TV,2020-05-24,[],"Iran, Turkey presidents urge full reopening of borders after pandemic",https://cdn.presstv.com/Photo/2020/5/24/24db657e-177c-450d-b2d4-8b85159aa763.jpg,"Presidents of Iran and Turkey have stressed the need for immediate reopening of borders between the two neighbors after more than two months of closure over the new coronavirus pandemic.
 
 Iran’s semi-official Fars News agency said on Sunday that President Hassan Rouhani and his Turkish counterpart Recep Tayyip Erdogan had discussed the borders reopening in a phone calls held earlier in the day.
@@ -157,7 +157,7 @@ Erdogan also vowed to issue orders to expedite the reopening of Turkey’s easte
 
 Iran has been the worst affected country in the Western Asia region by the COVID-19 pandemic. Figures published by Iranian health ministry on Sunday showed the number of people tested positive for the disease had increased by 2,180 to reach a total of 135,701.
 
-The number of COVID-19 deaths in Iran increased by 58 to stand at 7,417 people, said a health ministry spokesman, adding that 105,801 patients had recovered from the disease since it was spotted in the country in late February.",17.5,Low,Right,Iran
+The number of COVID-19 deaths in Iran increased by 58 to stand at 7,417 people, said a health ministry spokesman, adding that 105,801 patients had recovered from the disease since it was spotted in the country in late February.",17.5,Low,Right,Iran,0
 7,http://www.presstv.com/Detail/2020/05/23/625944/US-cities-San-Francisco-homeless-tent-encampments-coronavirus-,Press TV,2020-05-23,[],San Francisco sanctions once-shunned homeless encampments,https://cdn.presstv.com/Photo/2020/5/23/00c3ace6-5b59-4253-b56b-c48c009958a6.jpg,"San Francisco is joining other US cities in authorizing homeless tent encampments in response to the coronavirus pandemic, a move officials have long resisted but are now reluctantly embracing to safeguard homeless people.
 
 About 80 tents are now neatly spaced out on a wide street near San Francisco City Hall as part of a ""safe sleeping village"" opened last week. The area between the city's central library and its Asian Art Museum is fenced off to outsiders, monitored around the clock and provides meals, showers, clean water and trash pickup.
@@ -192,7 +192,7 @@ At the urging of San Francisco Supervisor Sandra Lee Fewer, the city's parks and
 
 ""It is just a new world that we're living in,"" she said, ""and it's going to have to be our new normal.""
 
-(Source: The Associated Press)",17.5,Low,Right,Iran
+(Source: The Associated Press)",17.5,Low,Right,Iran,0
 8,http://www.presstv.com/Detail/2020/05/24/626028/URL:-US-Israel-China-investment,Press TV,2020-05-24,[],US asks Israel to sever burgeoning ties with China: Paper,https://cdn.presstv.com/Photo/2020/5/24/b1765650-84fe-458f-9080-6e4bdee8793b.jpg,"The United States has asked Israel to sever ties with China in areas which entail security risks, the Jerusalem Post reports.
 
 Citing an unnamed US official, the Israeli daily revealed that the Trump administration has asked Israel to take concrete steps to reduce its ties with China.
@@ -237,7 +237,7 @@ Mystery and speculation surrounds the death and comments from readers under an o
 
 Another said there was “a long list of suspects,” and the envoy’s death was like something in a spy movie, or the US murder investigation show CSI (Crime Scene Investigation).
 
-Others suggested a link to Pompeo’s recent whirlwind visit to Israel, during which he was overtly critical of China, and demanded that Israel stop sharing confidential military information with Beijing.",17.5,Low,Right,Iran
+Others suggested a link to Pompeo’s recent whirlwind visit to Israel, during which he was overtly critical of China, and demanded that Israel stop sharing confidential military information with Beijing.",17.5,Low,Right,Iran,0
 9,http://www.presstv.com/Detail/2020/05/24/626007/US-Joe-Biden-Bernie-Sanders-Hawaii-Democratic-presidential-primary,Press TV,2020-05-24,[],Joe Biden wins Hawaii Democratic presidential primary,https://cdn.presstv.com/Photo/2020/5/24/cfc965a8-b549-43ce-8263-ffac487d7509.jpg,"Former US Vice President Joe Biden has won Hawaii’s Democratic presidential primary, the state Democratic Party announced Saturday.
 
 Biden won 63.2% of the final vote on the ranked-choice ballot, while Vermont Sen. Bernie Sanders, who ended his presidential campaign last month, earned 36.8%.
@@ -252,7 +252,7 @@ Over 79,000 ballots were sent to the state party and nearly 35,000 were returned
 
 ""Due to the COVID-19 pandemic, on-site same-day voting on April 4th has been cancelled. Instead the Party will send a third mailing of ballots out. ...The mail-ballot return deadline is May 22, 2020. Results will be tabulated and released on May 23, 2020,"" the Democratic Party of Hawaii said in a statement from late March.
 
-Biden's win in Hawaii comes after another victory in Oregon's presidential primary that was also held entirely vote-by-mail earlier this week.",17.5,Low,Right,Iran
+Biden's win in Hawaii comes after another victory in Oregon's presidential primary that was also held entirely vote-by-mail earlier this week.",17.5,Low,Right,Iran,0
 10,http://www.presstv.com/Detail/2020/05/22/625903/US-support-Israel-annexation,Press TV,2020-05-22,[],US support for Israel’s West Bank annexation anything but ‘peaceful’,https://cdn.presstv.com/Photo/2020/5/22/9e159a00-f49b-491e-a999-d47f8698d3c3.jpg,"By Randi Nord
 
 As millions of Palestinians living in occupation or exile around the world remember the beginning of the Nakba, the Israelis seem determined to keep the 1968 tragedy alive.
@@ -365,7 +365,7 @@ Following through with annexation is a violent and aggressive act – not only a
 
 Randi Nord is the founder of Geopolitics Alert Independent World News where she covers US foreign policy in the Middle East with a special focus on Yemen. Randi's work has appeared in MintPress News, Yemen Press, Al-Akhbar al-Yemeni, and many others.
 
-(The views expressed in this article do not necessarily reflect those of Press TV.)",17.5,Low,Right,Iran
+(The views expressed in this article do not necessarily reflect those of Press TV.)",17.5,Low,Right,Iran,0
 11,http://www.presstv.com/Detail/2020/05/22/625908/Yemen-UN-covid,Press TV,2020-05-22,[],UN says Yemen’s health system ‘has in effect collapsed’ as COVID-19 spreads,https://cdn.presstv.com/Photo/2020/5/22/9057c065-fecb-4892-92ef-820fb0b1d450.jpg,"The United Nations warns that urgent funding is needed to contain the novel coronavirus outbreak in Yemen, where the healthcare system has collapsed as a result of the Saudi-led coalition’s devastating campaign.
 
 Many of the aid agencies operating in Yemen say the country is “really on the brink now,” Jens Laerke, spokesman for the UN Office for the Coordination of Humanitarian Affairs (OCHA), told a Friday briefing in Geneva.
@@ -388,7 +388,7 @@ But the MSF said Thursday that its center in Aden had admitted 173 patients from
 
 Since March 2015, Yemen has been heavily invaded by a military coalition led by Saudi Arabia, trying to restore power to Hadi.
 
-The US-based Armed Conflict Location and Event Data Project (ACLED), a nonprofit conflict-research organization, estimates that the war has claimed more than 100,000 lives over the past five years.",17.5,Low,Right,Iran
+The US-based Armed Conflict Location and Event Data Project (ACLED), a nonprofit conflict-research organization, estimates that the war has claimed more than 100,000 lives over the past five years.",17.5,Low,Right,Iran,0
 12,http://www.presstv.com/Detail/2020/05/21/625848/Yemen-COVID-19-MSF-Saudi-Arabia-Hadi-Aden-Hothis,Press TV,2020-05-21,[],MSF: Scores died of COVID-19 in southern Yemen in just two weeks,https://cdn.presstv.com/Photo/2020/5/21/27c4ee41-7793-4005-a8bf-f86802507bae.jpg,"Doctors Without Borders (MSF) says its main COVID-19 treatment center in southern Yemen has recorded at least 68 deaths in just two weeks.
 
 “What we are seeing in our treatment center is just the tip of the iceberg in terms of the number of people infected and dying in (Aden),” MSF’s operations manager for Yemen Caroline Seguin said Thursday.
@@ -413,14 +413,14 @@ The MSF said endemic diseases like malaria and dengue “never produced so many 
 
 “People are coming to us too late to save, and we know that many more people are not coming at all: they are just dying at home,” the medical charity further said.
 
-The US-based Armed Conflict Location and Event Data Project (ACLED), a nonprofit conflict-research organization, estimates that the war has claimed more than 100,000 lives over the past five years.",17.5,Low,Right,Iran
+The US-based Armed Conflict Location and Event Data Project (ACLED), a nonprofit conflict-research organization, estimates that the war has claimed more than 100,000 lives over the past five years.",17.5,Low,Right,Iran,0
 13,http://www.presstv.com/Detail/2020/05/23/625972/basketball-coronavirus-test-Ewing-NBA,Press TV,2020-05-23,[],Basketball legend Patrick Ewing tests positive for Covid-19,https://cdn.presstv.com/Photo/2020/5/23/af5926b6-3a63-409e-a1a0-c2f59ccf1197.jpg,"NBA and the New York Knicks legend Patrick Ewing has announced that he has tested positive for the coronavirus.
 
 Ewing who is currently the head coach of the Georgetown University basketball team, is the only person of the university’s program to have tested positive for the virus and is being isolated in a local hospital.
 
 Ewing played 17 seasons as a center in the NBA and scored 25 thousand points and had more than 11 thousand rebounds. He was also selected as an NBA all-star 11 times and won two Olympic gold medals with team USA.
 
-The New York Knicks great who also won the NCAA championship in 1984 said that he’s fine and is looking to return to action as soon as possible.",17.5,Low,Right,Iran
+The New York Knicks great who also won the NCAA championship in 1984 said that he’s fine and is looking to return to action as soon as possible.",17.5,Low,Right,Iran,0
 14,http://www.presstv.com/Detail/2020/05/20/625774/COVID-19-Premier-League-coronavirus-,Press TV,2020-05-20,[],Soccer players' mental health at risk during coronavirus shutdown,https://cdn.presstv.com/Photo/2020/5/20/c025a8a2-a757-40d7-9c40-302e5b5a6b10.jpg,"With soccer suspended due to the COVID-19 pandemic, players are worried about their careers and some have become depressed and are considering self-harm, the PFA’s director of player welfare has said.
 
 Professional soccer has been suspended since March and with no clear date set for a return, Michael Bennett says the uncertainty has led to anxiety.
@@ -433,7 +433,7 @@ Professional soccer has been suspended since March and with no clear date set fo
 
 The Premier League hopes to restart the season in June with matches to be played without fans at stadiums, while the second-tier Championship clubs will vote this week on how to conclude the season.
 
-(Source: Reuters)",17.5,Low,Right,Iran
+(Source: Reuters)",17.5,Low,Right,Iran,0
 15,http://www.presstv.com/Detail/2020/05/20/625728/positive-coronavirus-test-football-Premier-League-,Press TV,2020-05-20,[],EPL: six positive coronavirus tests across three clubs,https://cdn.presstv.com/Photo/2020/5/20/2df5d8f1-a4dc-4143-8aaf-f93cab4d371a.jpg,"Over football news, the Premier League has said that 6 people from 3 different clubs had tested positive for COVID-19.
 
 The league said in a statement on Tuesday, that the infected players or staff who were not named, will now self-isolate for 7 days.
@@ -442,7 +442,7 @@ The tests were taken on Sunday and Monday, ahead of the return to small group tr
 
 A maximum of 5 players will be allowed per pitch, with tackling forbidden for now. As you know, the Premier League has been suspended since March 13th because of the Covid-19 pandemic.
 
-The league had previously set June the 12th as a tentative date for a restart of action, but there is now an expectation this will need to be pushed back.",17.5,Low,Right,Iran
+The league had previously set June the 12th as a tentative date for a restart of action, but there is now an expectation this will need to be pushed back.",17.5,Low,Right,Iran,0
 16,http://www.presstv.com/Detail/2020/05/23/625969/Rouhani-Tamim-al-Thani-Iran-Qatar-Venezuela-tankers-US,Press TV,2020-05-23,[],Iran will respond in kind if US makes trouble for Venezuela-bound oil tankers in Caribbean: President Rouhani,https://cdn.presstv.com/photo/20200523/0a15b909-f18d-4506-90c4-b83a4b2dde1c.jpg,"Iran's President Hassan Rouhani warns of retaliatory measures against the United States should Washington make ""trouble"" for Iranian tankers carrying fuel to gasoline-starved Venezuela.
 
 ""If our tankers in the Caribbean or anywhere in the world face trouble [caused] by the Americans, they (the US) will also be in trouble in kind,"" Rouhani said in a phone conversation with Qatar's Emir Sheikh Tamim bin Hamad al-Thani on Saturday.
@@ -477,7 +477,7 @@ The Qatari emir, for his part, said his country opposes any tension in the regio
 
 Qatar strongly believes that regional security must be ensured through cooperation among all countries in the region, he added.
 
-Al Thani emphasized that Iran and Qatar should make efforts to further boost economic cooperation.",17.5,Low,Right,Iran
+Al Thani emphasized that Iran and Qatar should make efforts to further boost economic cooperation.",17.5,Low,Right,Iran,0
 17,http://www.presstv.com/Detail/2020/05/24/626041/Palestine-Gaza-strip-Eid-Fitr-coronavirus-restrictions,Press TV,2020-05-24,[],Palestinians hold Eid al-Fitr prayers amid coronavirus restrictions,https://cdn.presstv.com/Photo/2020/5/24/a616224e-941b-46ab-aa27-14ca28ebeb40.jpg,"Ruba Shabit
 
 Press TV, Gaza
@@ -494,7 +494,7 @@ People in Gaza usually take the opportunity of Eid al-Fitr to wear new clothes, 
 
 Gaza, with a population of nearly two million has not been affected badly by the new coronavirus. Only one death from COVID-19 has been reported so far. People in Gaza say closure of mosques were unprecedented by they appreciate authorities for doing so to protect the lives of people.
 
-Since the outbreak of COVID-19, Gaza has been on the edge. This is because the medical sector in the besieged enclave was already on the verge of collapse before the virus hit the territory.",17.5,Low,Right,Iran
+Since the outbreak of COVID-19, Gaza has been on the edge. This is because the medical sector in the besieged enclave was already on the verge of collapse before the virus hit the territory.",17.5,Low,Right,Iran,0
 18,http://www.presstv.com/Detail/2020/05/24/626001/Palestinians-Gaza-Eid-al-Fitr-Dire-Conditions,Press TV,2020-05-24,[],Palestinians in Gaza prepare for Eid al-Fitr amid dire conditions,https://cdn.presstv.com/Photo/2020/5/24/e5883d52-2207-4821-a183-7e463e010643.jpg,"Ashraf Shannon
 
 PRESS TV, Gaza
@@ -511,7 +511,7 @@ Usually during festive occasions like Eid al-Fitr, sales are high in markets aro
 
 Almost all happy occasions in this impoverished territory have been marred by the blockade and other Israeli atrocities in recent years.
 
-As they prepare for Eid-al-Fitr under the Israeli blockade, Gazans say the enclave will fall short of a full celebration. This is because the joyous occasion comes amid a high rate of poverty and unemployment.",17.5,Low,Right,Iran
+As they prepare for Eid-al-Fitr under the Israeli blockade, Gazans say the enclave will fall short of a full celebration. This is because the joyous occasion comes amid a high rate of poverty and unemployment.",17.5,Low,Right,Iran,0
 19,http://www.presstv.com/Detail/2020/05/24/626022/Iranians-Eid-al-Fitr-Social-Distancing,Press TV,2020-05-24,[],Iranians mark Eid al-Fitr amid social distancing,https://cdn.presstv.com/Photo/2020/5/24/4437fabc-c5c2-44d9-8b9e-5b2cd8410676.jpg,"Yusef Jalali
 
 Press TV, Tehran
@@ -530,7 +530,7 @@ Eid al-Fitr is a culmination of one month of abstinence from eating and drinking
 
 Eid al-Fitr falls on the first day of the lunar month of Shawwal. The announcement of the festivity depends on the sighting of the new moon. Saudi Arabia, Egypt and some other countries observed the Eid a day earlier.
 
-This year, Muslims marked the most different Eid al-Fitr with the novel coronavirus outbreak preventing family visits and public celebrations. However, these people say the darkest hour is just before the dawn, and distances today will bring about happier reunion tomorrow.",17.5,Low,Right,Iran
+This year, Muslims marked the most different Eid al-Fitr with the novel coronavirus outbreak preventing family visits and public celebrations. However, these people say the darkest hour is just before the dawn, and distances today will bring about happier reunion tomorrow.",17.5,Low,Right,Iran,0
 20,http://www.presstv.com/Detail/2020/05/24/626011/US-Venezuela-Caribbean-militarize,Press TV,2020-05-24,[],US militarizes Caribbean to tighten blockade of Venezuela,https://cdn.presstv.com/Photo/2020/5/24/c330ebc6-90b3-4d2a-a172-6717c576afe3.jpg,"Jesus Silva
 
 Press TV, Caracas
@@ -545,7 +545,7 @@ Meanwhile, experts say international law gives the right to Venezuela to receive
 
 Venezuela is fighting for its self-determination while facing tough US economic sanctions and the toll of the coronavirus outbreak.
 
-Although the US is trying to prevent Venezuela from receiving any cooperation from overseas, Caracas assures that the purported US navy blockade will be overcome and the foreign help will be received.",17.5,Low,Right,Iran
+Although the US is trying to prevent Venezuela from receiving any cooperation from overseas, Caracas assures that the purported US navy blockade will be overcome and the foreign help will be received.",17.5,Low,Right,Iran,0
 21,http://www.presstv.com/Detail/2020/05/24/626008/SPain-Barcelona-lockdown,Press TV,2020-05-24,[],Barcelona anti-lockdown protesters call for end to state of emergency,https://cdn.presstv.com/Photo/2020/5/24/45676b99-1a76-4bc3-84b5-7dfaaae15171.jpg,"Kusai Kedri
 
 Press TV, Barcelona
@@ -560,7 +560,7 @@ Similar protests have kicked off across Spain in recent weeks, allegedly pushed 
 
 Barcelona will move to phase one of the Spanish deconfinement plan and that includes partially reopening more businesses, retail stores and restaurants. Residents are required to wear face coverings in public spaces, beaches remain open only for limited hours while sunbathing is prohibited.
 
-Whatever may have triggered the anti-lockdown protests, they seem to reflect the same concerns: the distress many feel as they try to cope with the coronavirus and the fear of what may lie ahead.",17.5,Low,Right,Iran
+Whatever may have triggered the anti-lockdown protests, they seem to reflect the same concerns: the distress many feel as they try to cope with the coronavirus and the fear of what may lie ahead.",17.5,Low,Right,Iran,0
 22,http://www.presstv.com/Detail/2020/05/22/625935/Palestinians-mark-Intl.-Quds-Day-in-Gaza-Strip,Press TV,2020-05-22,[],Palestinians mark Intl. Quds Day in Gaza Strip,https://cdn.presstv.com/Photo/2020/5/23/13b10960-b025-4046-8a4d-4fbb52bb179d.jpg,"Ruba Shabit
 
 Press TV, Gaza
@@ -573,7 +573,7 @@ Like elsewhere in the world, Quds Day rallies were called off in Gaza due to the
 
 Palestinians marked al-Quds Day this year at a crucial point in time after the US declared support for the so called deal of the century and recognized Jerusalem al-Quds as the capital of Israel. They said they will never accept Israel’s illegal annexation of Palestinians’ lands in the West Bank.
 
-Palestinian groups also called for urgent actions from the international community to stop Israel’s land grab policies. On International Quds Day, Palestinians in the occupied territories once again highlighted the importance of resistance as the only way to achieve victory against the Israeli regime and set Jerusalem al-Quds free.",17.5,Low,Right,Iran
+Palestinian groups also called for urgent actions from the international community to stop Israel’s land grab policies. On International Quds Day, Palestinians in the occupied territories once again highlighted the importance of resistance as the only way to achieve victory against the Israeli regime and set Jerusalem al-Quds free.",17.5,Low,Right,Iran,0
 23,http://www.presstv.com/Detail/2020/05/22/625931/International-Quds-Day-Rallies-Online-COVID-19-Pandemic,Press TV,2020-05-22,[],Intl. Quds Day rallies held online amid COVID-19 pandemic,https://cdn.presstv.com/Photo/2020/5/22/574f7d5e-518e-4abb-ae30-a924d94880f7.jpg,"Saman Kojouri
 
 Press TV, Tehran
@@ -588,8 +588,8 @@ International Quds Day is an annual event during which demonstrators express the
 
 The day is seen as the legacy of the late founder of the Islamic Republic of Iran Imam Khomeini who officially declared the last Friday of the holy month of Ramadan as International Quds Day back in 1979.
 
-Although this year’s Quds Day rallies have been called off as a result of the coronavirus pandemic, the support for Palestinian cause remains high. This shows that despite all difficulties Palestine will remain the first issue of the Islamic world forever.",17.5,Low,Right,Iran
-24,http://www.presstv.com/Detail/2020/05/19/625647/Brazil-president-responsible-for-deaths-of-citizens,Press TV,2020-05-19,[],‘Brazil president responsible for deaths of citizens’,https://cdn.presstv.com/photo/20200519/40689c32-ab7b-4677-b962-e3f0c91a6d6a.jpg,"Latin America Expert, Gloria Estela La Riva says Brazilian President Jair Bolsonaro is responsible for the deaths of citizens because of his lackluster response to the coronavirus pandemic.",17.5,Low,Right,Iran
+Although this year’s Quds Day rallies have been called off as a result of the coronavirus pandemic, the support for Palestinian cause remains high. This shows that despite all difficulties Palestine will remain the first issue of the Islamic world forever.",17.5,Low,Right,Iran,0
+24,http://www.presstv.com/Detail/2020/05/19/625647/Brazil-president-responsible-for-deaths-of-citizens,Press TV,2020-05-19,[],‘Brazil president responsible for deaths of citizens’,https://cdn.presstv.com/photo/20200519/40689c32-ab7b-4677-b962-e3f0c91a6d6a.jpg,"Latin America Expert, Gloria Estela La Riva says Brazilian President Jair Bolsonaro is responsible for the deaths of citizens because of his lackluster response to the coronavirus pandemic.",17.5,Low,Right,Iran,0
 25,http://www.presstv.com/Detail/2020/05/24/626042/NASA-SpaceX-Russia-coronavirus-,Press TV,2020-05-24,[],Press TV The Lite Bulletin,https://cdn.presstv.com/Photo/2020/5/24/45cd88fa-729c-461c-973d-2e886c4dfdcd.jpg,"Press TV’s website can also be accessed at the following alternate addresses:
 
 MORE FROM News Bulletin
@@ -598,7 +598,7 @@ MORE FROM News Bulletin
 
 Sign up for our Newsletter
 
-Sign up for our newsletter to receive a daily email of our best content",17.5,Low,Right,Iran
+Sign up for our newsletter to receive a daily email of our best content",17.5,Low,Right,Iran,0
 26,http://www.presstv.com/Detail/2020/05/23/625977/protest-Spain-Madrid-coronavirus-lockdown-,Press TV,2020-05-23,[],Far-right protests erupt in Spain against coronavirus lockdowns,https://cdn.presstv.com/Photo/2020/5/23/c7ecce2f-01e1-45f9-9b3e-1c676f02a67f.jpg,"Thousands of cars and motorbikes honking horns and waving Spanish flags drove in procession through Madrid on Saturday, May 23, as part of a nationwide protest called by the far-right Vox party against the country's coronavirus lockdown.
 
 Spain, which imposed one of Europe's toughest lockdowns on March 14, has started to ease restrictions, but Madrid and Barcelona have remained in lockdown for longer because of more severe coronavirus outbreaks.
@@ -613,7 +613,7 @@ Madrid and Barcelona are preparing to ease their lockdowns from Monday as infect
 
 Spain has registered 28,628 deaths from COVID-19 and 234,824 cases.
 
-(Source: Reuters)",17.5,Low,Right,Iran
+(Source: Reuters)",17.5,Low,Right,Iran,0
 27,http://www.presstv.com/Detail/2020/05/21/625832/Llama-Delivering-Food-Remote-Places-Wales,Press TV,2020-05-21,[],Llama helps deliver food to remote places in Wales,https://cdn.presstv.com/Photo/2020/5/21/561216fd-101c-427b-8093-57224121715d.jpg,"Max the llama has been making food deliveries to remote properties in the Welsh Valley during the coronavirus lockdown.
 
 Alex and Matt from the llama farm ""Pembrokeshire Llamas"" decided to try and do something positive after their business was shut down by the virus. They've taken one of their llamas 'Max' to visit people living in remote spots while they deliver food to people and cheer them up.
@@ -624,8 +624,8 @@ According to the couple, llama delivery is not only eco-friendly but is most of 
 
 Llama delivers food supplies several times a week, which helps Max stay in shape.
 
-(Source: Reuters)",17.5,Low,Right,Iran
-28,http://www.presstv.com/Detail/2020/05/23/625982/Donald-Trump-COVID-19-drug-malaria--,Press TV,2020-05-23,[],Drug touted by Trump raises death risk in COVID-19 patients,https://cdn.presstv.com/Photo/2020/5/23/e509609a-6d1b-4a27-894f-aa191cf3d9e3.jpg,US President Donald Trump is under fire for promoting an anti-malaria drug for coronavirus patients. A study says hydroxychloroquine could prove deadly for the patients. This is not the first time Trump touts strange prescriptions for COVID-19 patients.,17.5,Low,Right,Iran
+(Source: Reuters)",17.5,Low,Right,Iran,0
+28,http://www.presstv.com/Detail/2020/05/23/625982/Donald-Trump-COVID-19-drug-malaria--,Press TV,2020-05-23,[],Drug touted by Trump raises death risk in COVID-19 patients,https://cdn.presstv.com/Photo/2020/5/23/e509609a-6d1b-4a27-894f-aa191cf3d9e3.jpg,US President Donald Trump is under fire for promoting an anti-malaria drug for coronavirus patients. A study says hydroxychloroquine could prove deadly for the patients. This is not the first time Trump touts strange prescriptions for COVID-19 patients.,17.5,Low,Right,Iran,0
 29,http://www.presstv.com/Detail/2020/05/21/625819/UN-Palestinian-children-prison-coronavirus-pandemic,Press TV,2020-05-21,[],UN calls for release of Palestinian children detained by Israel,https://cdn.presstv.com/Photo/2020/5/21/75929a15-6d67-487c-9ef7-c37d4b8782ed.jpg,"Press TV’s website can also be accessed at the following alternate addresses:
 
 The United Nations has called on Israel to release imprisoned Palestinian children amid the global coronavirus pandemic.
@@ -636,14 +636,14 @@ MORE FROM InfoClips
 
 Sign up for our Newsletter
 
-Sign up for our newsletter to receive a daily email of our best content",17.5,Low,Right,Iran
-30,http://www.presstv.com/Detail/2020/05/19/625703/Palestine-Gaza-coronavirus-,Press TV,2020-05-19,[],Gaza shows solidarity with countries hit by coronavirus,https://cdn.presstv.com/Photo/2020/5/19/a69b4ad3-b865-469d-bd75-2a6b285cafb2.jpg,Palestinians in Gaza show solidarity with countries affected by coronavirus. The event was organized by the International Commission to Support Palestinians' Rights. Gaza has recorded a number of coronavirus cases due to the Israeli restriction on entry and exit movements.,17.5,Low,Right,Iran
+Sign up for our newsletter to receive a daily email of our best content",17.5,Low,Right,Iran,0
+30,http://www.presstv.com/Detail/2020/05/19/625703/Palestine-Gaza-coronavirus-,Press TV,2020-05-19,[],Gaza shows solidarity with countries hit by coronavirus,https://cdn.presstv.com/Photo/2020/5/19/a69b4ad3-b865-469d-bd75-2a6b285cafb2.jpg,Palestinians in Gaza show solidarity with countries affected by coronavirus. The event was organized by the International Commission to Support Palestinians' Rights. Gaza has recorded a number of coronavirus cases due to the Israeli restriction on entry and exit movements.,17.5,Low,Right,Iran,0
 31,http://www.presstv.com/Detail/2020/05/23/625983/Post-Pandemic-cold-war,Press TV,2020-05-23,[],Post pandemic cold war,https://cdn.presstv.com/Photo/2020/5/23/8b1a8fd4-ce14-4234-801d-bdf7cff35a00.jpg,"This edition of the program is about US escalating war with China and tensions with Iran and Venezuela.
 
-Escalating tensions between China and the United States over the coronavirus are shaping the superpower rivalry in a unique fashion at the time of the pandemic. Also, the administrations malignant campaign against Iran is another example, although it has failed to bring the Islamic Republic to its knees.",17.5,Low,Right,Iran
+Escalating tensions between China and the United States over the coronavirus are shaping the superpower rivalry in a unique fashion at the time of the pandemic. Also, the administrations malignant campaign against Iran is another example, although it has failed to bring the Islamic Republic to its knees.",17.5,Low,Right,Iran,0
 32,http://www.presstv.com/Detail/2020/05/22/625874/Rohingya--settlements,Press TV,2020-05-22,[],PressTV,https://cdn.presstv.com/photo/20200522/2b3703d7-a368-4e63-9de6-ec2ca0266ae8.jpg,"After stripping away the autonomy of Kashmir through the revocation of articles 370 and 35A of the Indian constitution, Kashmir's independence is again under a new threat which is the new domicile law. In this episode of the ""The Subcontinent"" we will be looking into this law which has been imposed on the Kashmiri people undermining the autonomy and freedom of the residents of this oppressed region.
 
-And we will be also reviewing the recent internet blackout in the Rohingya refugee camps and its role in making it more difficult to fight the novel coronavirus (COVID-19). Undoubtedly this action to block the people's access to the internet threatens the lives of the Rohingya people as they can't be updated with the newest information about fighting the virus.",17.5,Low,Right,Iran
+And we will be also reviewing the recent internet blackout in the Rohingya refugee camps and its role in making it more difficult to fight the novel coronavirus (COVID-19). Undoubtedly this action to block the people's access to the internet threatens the lives of the Rohingya people as they can't be updated with the newest information about fighting the virus.",17.5,Low,Right,Iran,0
 33,http://french.presstv.com/Detail/2020/05/24/626043/Etats-Unis-Chine-guerre-commerciale-froide-coronavirus-Trump,Press TV,2020-05-24,[],Pékin déclare la guerre aux USA,https://cdn.presstv.com//photo/20200524/65ff3498-2474-4a64-9da7-3c63c7c93bfa.jpg,"Press TV’s website can also be accessed at the following alternate addresses:
 
 You can send your comments to the relevant email below.
@@ -654,4 +654,4 @@ MORE FROM Static
 
 Sign up for our Newsletter
 
-Sign up for our newsletter to receive a daily email of our best content",17.5,Low,Right,Iran
+Sign up for our newsletter to receive a daily email of our best content",17.5,Low,Right,Iran,0

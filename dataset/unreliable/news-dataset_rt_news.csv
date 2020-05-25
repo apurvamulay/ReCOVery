@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://www.rt.com/usa/489598-us-aid-israel-senate-vote/,RT News,2020-05-23,[],"As Americans lose their jobs, Senate gears up to give Israel A MINIMUM of $38 billion over 10 years",https://cdni.rt.com/files/2020.05/article/5ec9976c2030271be310302f.jpg,"With the US economy reeling from the effects of the coronavirus pandemic, the Senate Foreign Relations Committee agreed to give Israel a minimum of $3.8 billion in military aid per year. A full vote on the gift is expected soon.
 
 The US unemployment rate now stands at 14.7 percent, the worst figure since records began. Nearly 39 million Americans have lost their jobs since the coronavirus reached US shores in late January, and the Congressional Budget Office warned on Tuesday that the US economy won’t recover from its current contraction until after next year. Moreover, the federal government’s financial relief packages to date have pushed national debt past a record $25 trillion.
@@ -23,7 +23,7 @@ The vote was not covered by American media, and was noted by only a few anti-Isr
 
 Also on rt.com US threatens ICC with ‘consequences’ if it acts on war crimes complaint against Israel filed by ‘fake’ Palestinian state
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 1,https://www.rt.com/news/489596-france-coronavirus-5g-postpone/,RT News,2020-05-23,[],"French industrialist calls for 5G MORATORIUM amid Covid-19, conspiracy theories & burning of masts",https://cdni.rt.com/files/2020.05/article/5ec984c285f5401daf63c67b.JPG,"The CEO of French telecoms firm Bouygues has called on the government to postpone auctions for 5G frequencies, citing the ongoing coronavirus pandemic and public mistrust of the technology.
 
 France is planning on auctioning 5G frequencies to telecoms companies at the end of the summer. However, Martin Bouygues, head of the eponymous communications firm, now thinks that bidding should be pushed back to the end of the year at the earliest.
@@ -46,7 +46,7 @@ Some of the more radical among these conspiracy theorists directly blame these b
 
 The situation is the same outside Europe too. Arson attacks on 5G infrastructure have been reported in Australia and New Zealand, while the US Department of Homeland Security warned last week that online “misinformation campaigns” have “already prompted arson and physical attacks against cell towers in several US states.”
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 2,https://www.rt.com/op-ed/489514-our-over-anxiousness-about-covid/,RT News,2020-05-23,['Diana Bruk'],"When even tough New Yorkers become petrified pandemic-shamers, it’s time to confront our over-anxiousness about Covid-19",https://cdni.rt.com/files/2020.05/article/5ec80b7e2030270d396dd60b.jpg,"By Diana Bruk , a Russian-American journalist living in New York, who has written for The New York Times, The Paris Review, Cosmopolitan, Esquire and Elle, amongst other publications.
 
 The only thing to fear is fear itself… and coronavirus. Our response to this disease stems from a very Western form of privilege.
@@ -93,7 +93,7 @@ Stage Three: You accept the fact that, no matter what you do, you really can't c
 
 I’m not suggesting that we don’t take precautions. We absolutely should. It’s a good idea to wear a face mask when we go outside, just as it’s a good idea to make sure nothing is on fire before we leave the apartment. But I do think that anything past that is built on fear, and fear-based decisions are never good ones.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 3,https://www.rt.com/usa/489592-rick-scott-china-cold-war/,RT News,2020-05-23,[],‘NO QUESTION’ US in COLD WAR 2 with China – Florida senator,https://cdni.rt.com/files/2020.05/article/5ec967d6203027401e203882.jpg,"The US is “absolutely” engaged in a new Cold War with China, Florida Senator Rick Scott declared, accusing Beijing of plotting “world domination.” Meanwhile, Washington’s anti-China stance goes all the way to the White House.
 
 Speaking to talk show host Hugh Hewitt on Friday, the Florida Republican slammed Beijing’s handling of the coronavirus pandemic, and its economic policies. Asked whether relations between the two superpowers had entered a “Cold War 2” phase, Scott replied “absolutely.”
@@ -120,7 +120,7 @@ Beijing’s responses, meanwhile, have been subtler. In Hong Kong, it has sought
 
 Militarily though, Beijing continues to pump money into hypersonic weapons and artificial intelligence research – two areas in which it has the edge on America. Its navy has also not been deterred by American patrols in the South China Sea, and continues to assert sovereignty over this hotly disputed tract of water.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 4,https://www.rt.com/news/489599-germany-protests-lockdown-coronavirus/,RT News,2020-05-24,[],"Police in Hamburg use WATER CANNONS to disperse demonstrators against anti-lockdown protest (VIDEO, PHOTOS)",https://cdni.rt.com/files/2020.05/article/5ec9a94a85f54047dd119273.png,"Police have deployed water cannons to break up a sparse crowd demonstrating against a sanctioned anti-lockdown rally in Hamburg, Germany, that saw dozens turn out while minding social distancing rules.
 
 Police had to intervene after a small group of about 120 counter-protesters, many of them clad in black hoodies, repeatedly ignored police requests to stay clear of the ‘Vigil for the Basic Law’ rally against the lockdown measures on Saturday.
@@ -149,7 +149,7 @@ Weniger ""#Hygienedemos"", mehr Gegendemos heute in #Berlin - die jedoch nicht a
 
 That gathering also prompted a counter-action, with demonstrators branding those opposing the coronavirus restrictions “tin foil hats” and “Nazis.” Some 1000 police were deployed to ensure social distancing. In the wake of the protests, some 180 people faced administrative and criminal charges for violating the restrictions, including The Infectious Diseases Protection Act, police said.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 5,https://www.rt.com/news/489585-gaza-coronavirus-death-palestine/,RT News,2020-05-23,[],"FIRST coronavirus death confirmed in Gaza, as Palestinian territories lift lockdown",https://cdni.rt.com/files/2020.05/article/5ec9432785f5404cd95a0592.JPG,"The death of a 77-year-old woman in the Gaza Strip marks the enclave’s first coronavirus fatality, the Palestinian Health Ministry reported. The illness has so far claimed three lives across the Palestinian territories.
 
 The victim, who had been suffering from a prior illness, recently entered Gaza from Egypt and was quarantined on arrival. The Palestinian Health Ministry announced her death on Saturday.
@@ -164,7 +164,7 @@ However, the low number of infections likely reflects the limited testing capaci
 
 Still, with case numbers low and no patients needing these ICU beds at present, the Palestinian authorities eased the lockdown measures in the West Bank on Monday, reopening stores and permitting local travel. Nonetheless, a wholesale ban on movement between cities and towns was not lifted in time for Saturday’s feast of Eid al-Fitr, which marks the end of the Muslim holy month of Ramadan.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 6,https://www.rt.com/uk/489556-dominic-cummings-lockdown-bbc-kuenssberg/,RT News,2020-05-23,[],BBC blasted after political editor jumps to defend PM adviser Cummings following cross-country lockdown breach,https://cdni.rt.com/files/2020.05/article/5ec8f0882030277e897f9206.jpg,"The revelation that Boris Johnson’s top adviser traveled over 250 miles to his parents as he had Covid-19 symptoms has unleashed outrage in the UK. The BBC is also under fire after its political editor jumped to defend the move.
 
 News of Dominic Cummings’ egregious lockdown breach emerged on Friday night in reports by the Mirror and Guardian news outlets. In March, the prime minister’s closest adviser allegedly traveled from his London home to his parents’ farm in Durham, in northern England, when a strict lockdown was already in place and after he displayed symptoms of coronavirus.
@@ -189,7 +189,7 @@ Kuenssberg even lost some defenders with the shoddy reporting as many took issue
 
 It feels weird that LK would respond to another political editor to refute their story, as if Pippa has not done her due diligence or also has contacts to stand up the story? She’s not the comms for Cummings, it feels odd? https://t.co/0CeCFn5Sa4 — Mollie Goodfellow (@hansmollman) May 22, 2020
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 7,https://www.rt.com/news/489588-covid-europe-two-million-infected/,RT News,2020-05-23,[],Over 2 million infected with Covid-19 in Europe – AFP tally,https://cdni.rt.com/files/2020.05/article/5ec95bf5203027023e1e4782.jpg,"Europe has recorded two million cases of the Covid-19 coronavirus, according to a tally by the AFP news agency. The continent was the epicenter of the pandemic until cases skyrocketed in the United States.
 
 Europe passed the two million mark on Saturday, meaning the continent now accounts for nearly two-fifths of the world’s confirmed cases.
@@ -206,7 +206,7 @@ While the disease originated in the Chinese city of Wuhan, an explosion of cases
 
 However, the United States then saw a skyrocketing rate of infection, and now accounts for more than 1.6 million cases. Brazil and Russia have also reported drastic rises in infections, with both countries now reporting more than 330,000 cases each.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 8,https://www.rt.com/news/489545-us-grant-russia-health-disinformation/,RT News,2020-05-23,[],"Still looking for a bogeyman? Moscow slams US State Dept after it posts $250,000 grant to ‘expose Russian health disinformation’",https://cdni.rt.com/files/2020.05/article/5ec89f5885f54076cd46e758.jpg,"Instead of casting grudges aside to fight the coronavirus, anti-Russia elements in the US are striving to make the Kremlin a scapegoat, Moscow has said, decrying the new US grant to “expose Russian health disinformation.”
 
 The Russian Foreign Ministry has issued a rebuke to the US Department of State over its newly-published grant notice on Friday. The grant “opportunity” will see a hefty sum of money – some $250,000 – awarded to “an organization with experience in counter Russian disinformation, analysis and programming,” which will have to “produce a report on Russian and Soviet health-related disinformation campaigns” under the watchful eye of “subject matter experts” from the State Department’ Russia Directorate. The prospective contractors will have till June 20 to apply for the grant.
@@ -229,7 +229,7 @@ The likely targets of the future “counter-disinformation” campaign will be t
 
 Also on rt.com ‘Questioning EU’s ability’: Eurocrat accuses Russian media of spreading Covid-19 ‘CONSPIRACIES,’ offers no examples
 
-If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia
+If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia,0
 9,https://www.rt.com/op-ed/489553-stockholm-coronavirus-outbreak-biased-media/,RT News,2020-05-23,['Peter Andrews'],Biased mainstream media again misuses science to paint sensible Sweden as reckless gamblers - here is why they are wrong,https://cdni.rt.com/files/2020.05/article/5ec8d0ed85f540183c11cbe4.jpg,"By Peter Andrews , Irish science journalist and writer based in London. He has a background in the life sciences, and graduated from the University of Glasgow with a degree in genetics
 
 Sweden has found that just 7.3 percent of Stockholmers have antibodies for coronavirus, despite the country’s laissez-faire handling of the outbreak. The mainstream media think this proves them right. It doesn’t.
@@ -272,7 +272,7 @@ Oh, how the MSM would have loved it if the one country to deviate from conventio
 
 No matter how much the MSM bury their heads in the sand, Sweden is running the safest, most responsible reaction to the outbreak in a world gone mad. The real experimenters are the lockdown evangelists. They are the ones playing with people’s lives, and it is high time they accepted that responsibility.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 10,https://www.rt.com/op-ed/489362-us-propaganda-china-like-nazi-germany/,RT News,2020-05-22,['Caitlin Johnston'],The US is treating China like it’s Nazi Germany. This slide towards a 3rd world war needs to end before it’s too late,https://cdni.rt.com/files/2020.05/article/5ec6984785f540061e0137a3.jpg,"Caitlin Johnston is an independent journalist based in Melbourne, Australia. Her website is here and you can follow her on Twitter @caitoz
 
 Anti-Beijing sentiment is being deliberately whipped up by an imperialist America, its supine allies and supportive media oligarchs. But it’s just self-serving propaganda that needs to be called out.
@@ -337,7 +337,7 @@ The notion of “pre-crime” is the purview of dystopian horror fiction when ap
 
 There was never any reason for the coronavirus to be made into an issue of international conflict when it could just as easily be an issue of international collaboration, and indeed collaborating is what we should all be doing, with this virus and with everything else. Let’s end this weird slow-motion world war and move toward sanity.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 11,https://www.rt.com/op-ed/489393-meat-nyt-diet-plant-covid/,RT News,2020-05-21,['Graham Dockery'],"It’s the ‘End of Meat’, so shut up & drink the oil: NYT tries to berate its readers into a plant diet",https://cdni.rt.com/files/2020.05/article/5ec6d03685f5400d474753c3.JPG,"is an Irish journalist, commentator, and writer at RT. Previously based in Amsterdam, he wrote for DutchNews and a scatter of local and national newspapers.
 
 is an Irish journalist, commentator, and writer at RT. Previously based in Amsterdam, he wrote for DutchNews and a scatter of local and national newspapers.
@@ -404,7 +404,7 @@ These same people aren’t racist or classist, and likely care on some level abo
 
 In the meantime, a columnist telling the public “you have to stop eating animals” isn’t going to achieve anything, bar earning the Times a few more clicks.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 12,https://www.rt.com/russia/489484-putin-warns-covid19-second-wave/,RT News,2020-05-22,['Bryan MacDonald'],"Putin warns of potential 2nd wave of Covid-19 infections in the fall, tells Russian Health Ministry to prepare",https://cdni.rt.com/files/2020.05/article/5ec7d6a920302777be1849d8.jpg,"Right now, most of the world seems to think the worst of the coronavirus epidemic has passed, with many countries beginning to come out of lockdown. But Russian President Vladimir Putin believes there may be more pain ahead.
 
 According to Putin, the virus may once again begin to spread widely from October to November. During a meeting to discuss the epidemiological situation in Russia, he said the country needs to be ready for a second wave later in the year.
@@ -423,7 +423,7 @@ Anna Popova, the head of health watchdog Rospotrebnadzor, pointed out that the i
 
 According to official statistics, a total of 326,448 cases of Covid-19 have been found in Russia, with over half in the Moscow area. The reported death toll is 3,249 with 99,825 people known to have recovered.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 13,https://www.rt.com/russia/489475-russia-covid-antibody-testing-percentage/,RT News,2020-05-22,['Jonny Tickle'],Covid-19 mass screening: first results show 14% of tested Russians have coronavirus antibodies,https://cdni.rt.com/files/2020.05/article/5ec7c99685f5400e6d1d3c9a.jpg,"After the first few days of private clinic antibody testing in Russia, one national chain has revealed that at least 14% of the 40,000 people who took the test in their laboratory received a positive result for SARS-CoV-2.
 
 Invitro, the chain who conducted the tests, began mass testing for Covid-19 antibodies on May 18, using their entire network, which comprises almost 1,500 medical offices. Each test costs 950 rubles ($13), with an extra 200-300 rubles ($3-4) charged for the process of taking the sample. The company is accepting anyone who wants to be tested, apart from those displaying symptoms of an acute respiratory viral infection.
@@ -442,7 +442,7 @@ On May 15, Moscow Mayor Sergey Sobyanin announced that the capital city would be
 
 Also on rt.com Moscow mayor launches unprecedented FREE MASS TESTING system for coronavirus antibodies
 
-If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia
+If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia,0
 14,https://www.rt.com/russia/489209-russia-covid-recovery-toll-rises/,RT News,2020-05-20,['Jonny Tickle'],"For the first time, Russian coronavirus recoveries OUTNUMBER new diagnoses",https://cdni.rt.com/files/2020.05/article/5ec524f72030271003627aea.jpg,"After weeks of coronavirus crisis dread, things could finally be getting better. On Wednesday, Russia recorded its first day of more Covid-19 recoveries than new cases, and the prime minister now believes Russia has hit its peak.
 
 According to official statistics published by the Russian government, 9,262 Covid-19 patients beat the virus in the last 24 hours, and 8,764 people were diagnosed. The latest daily number of recoveries is the highest on record, and the tally of newly confirmed cases represents the lowest increase since May 1.
@@ -465,7 +465,7 @@ Despite figures moving in the right direction, the situation might not be all ro
 
 In total, 308,705 cases of Covid-19 have been detected in Russia, with 85,392 patients recovering and 2,972 passing away. 1,726 (58%) of those deaths were in Moscow.
 
-If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia
+If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia,0
 15,https://www.rt.com/op-ed/488228-russia-ruble-oil-price-shocks/,RT News,2020-05-09,['Ben Aris'],Russia’s levitating ruble: Why oil price collapse has NOT sent currency into FREEFALL,https://cdni.rt.com/files/2020.05/article/5eb6a8e985f54065ad4fe8f2.jpg,"While low prices for ‘black gold’ keep shaking the world’s economies, and major oil-exporting nations are trying to weather the trend, the Russian national currency has proven it still has an ace up its sleeve.
 
 The collapse of oil prices at the start of March after Russia withdrew from the OPEC+ deal was a disaster for Moscow, which remains heavily reliant on oil exports to fund the budget.
@@ -558,7 +558,7 @@ That means the CBR will sell an additional US$0.5– 1.5 billion on the open mar
 
 This article also appears in bne IntelliNews.
 
-If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia
+If you like this story, share it with a friend!",32.5,Very low,Right-center,Russia,0
 16,https://www.rt.com/op-ed/488207-western-journalists-mock-russian-doctors-covid/,RT News,2020-05-08,['Jonny Tickle'],Western journalists & politicians MOCK Russian doctors driven to suicide by Covid-19 pressures,https://cdni.rt.com/files/2020.05/article/5eb5ba3085f5402b72145099.jpg,"By Jonny Tickle , a British journalist living in Moscow. Outside of his work for RT, he travels around the country and produces video content for foreigners interested in Russia. Follow him on twitter @jonnytickle
 
 One of the greatest cons perpetrated by some elements in the Western press and the think-tank racket is that they genuinely care about the average Russian person. But in the time of coronavirus, the mask has truly slipped.
@@ -611,7 +611,7 @@ Many other countries have issues with the mental health of medical professionals
 
 Indeed, it seems like everyone has a free pass when it comes to Russia. In the modern world, where racism, xenophobia, and bigotry are rightly considered disgusting, there's still one final group it's okay to despise. Even amid a global pandemic, there's one thing we're all allowed to do: mock the Russians.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 17,https://www.rt.com/sport/489587-dana-white-conor-mcgregor-video/,RT News,2020-05-23,[],'This sh*t is funny': UFC boss Dana White tweets out hilarious 'Conor McGregor raging bull' video,https://cdni.rt.com/files/2020.05/article/5ec952c085f540187c1eb958.jpg,"Dana White was clearly tickled by a viral video featuring UFC megastar Conor McGregor as a 'rampaging bull', sharing the comedic clip with his millions of followers with the message: “IDK who made this but this sh*t is funny!”
 
 President of the UFC he may be, but White isn’t averse to being the butt of a joke now and then.
@@ -628,7 +628,7 @@ All told, it’s been an interesting weekend so far for McGregor, who earlier in
 
 Also on rt.com Conor McGregor reveals his GOATs of MMA list... and surprisingly he's not top of the pile
 
-McGregor is no doubt in Dana White’s good books after he took to social media earlier this week to tell his millions of fans how impressed he was by the UFC rallying to put on three shows in a week in Jacksonville this month despite the global lockdown due to coronavirus.",32.5,Very low,Right-center,Russia
+McGregor is no doubt in Dana White’s good books after he took to social media earlier this week to tell his millions of fans how impressed he was by the UFC rallying to put on three shows in a week in Jacksonville this month despite the global lockdown due to coronavirus.",32.5,Very low,Right-center,Russia,0
 18,https://www.rt.com/sport/489576-la-liga-return-june-8/,RT News,2020-05-23,[],Green light: Spanish government gives go-ahead for La Liga resumption from June 8,https://cdni.rt.com/files/2020.05/article/5ec927ff85f54023fc78e4f4.JPG,"Spanish football appears set to emerge from its coronavirus hiatus next month after government officials gave their blessing to the resumption of football after a two-month break amid the ongoing coronavirus pandemic.
 
 Spanish Prime Minister Pedro Sanchez has given his blessing for the return of football from the week starting June 8 after it had been suspended since mid-March, but football authorities have been assessing the situation in a bid to conclude the campaign should the public health situation allow for it.
@@ -657,7 +657,7 @@ Widespread Covid-19 tests have been made available for players in Spain's top tw
 
 Following the lead from other European leagues which have resumed play, most notably the German Bundesliga, La Liga games will take place behind closed doors - though Spanish national team coach Luis Enrique has signalled his disapproval of the safety measure, saying this week that playing football in an empty stadium is akin to ""dancing with your own sister.""
 
-""But you have to understand that football is a business – and it will help to pass the time during lockdown,"" he conceded.",32.5,Very low,Right-center,Russia
+""But you have to understand that football is a business – and it will help to pass the time during lockdown,"" he conceded.",32.5,Very low,Right-center,Russia,0
 19,https://www.rt.com/sport/489565-paige-van-zant-money-fight/,RT News,2020-05-23,[],UFC bombshell Paige VanZant forecasts 'money fight' with Amanda Ribas amid contract negotiations,https://cdni.rt.com/files/2020.05/article/5ec9242585f540187c1eb931.jpg,"Sports Illustrated stunner and MMA knockout Paige VanZant is eager to prove her worth to the UFC amid ongoing contract negotiations with the company, after revealing she makes more money via Instagram than she does in the cage.
 
 Despite only boasting what could be describing as an average record in the Ultimate Fighting Championship, the 26-year-old VanZant has become one of the faces of the female fight game.
@@ -688,7 +688,7 @@ Also on rt.com 'It's not a social media stunt': UFC knockout Paige VanZant opens
 
 ""If I were to stop everything I do outside of fighting and just fight, I would be at a loss. By a long shot,"" VanZant said in 2019.
 
-And it seems likely that if Dana White is unwilling to cut the star an improved check, there is a realistic scenario where VanZant lines up alongside her husband as the latest UFC refugee to move to Bellator in pursuit of a sturdier salary.",32.5,Very low,Right-center,Russia
+And it seems likely that if Dana White is unwilling to cut the star an improved check, there is a realistic scenario where VanZant lines up alongside her husband as the latest UFC refugee to move to Bellator in pursuit of a sturdier salary.",32.5,Very low,Right-center,Russia,0
 20,https://www.rt.com/sport/489566-danish-football-aarhus-virtual-grandstand/,RT News,2020-05-23,[],The future of football? Danish club unveil first-ever 'Virtual Grandstand' to allow fans to attend games via Zoom,https://cdni.rt.com/files/2020.05/article/5ec90aa72030277e897f921b.JPG,"After two months without football, Danish Superliga team AGF Aarhus are now offering virtual tickets to their upcoming game against rivals Randers FC, meaning watching fans will appear on giant screens inside the stadium.
 
 As if the world of sport hadn’t got surreal enough in these unusual times what with spectators being replaced by cardboard cut-outs and sex dolls, fans of one team in Denmark are now able to grab free tickets for their games - and cheer them on inside the ground via online chat platform Zoom.
@@ -705,7 +705,7 @@ The screens and technology involved will take 23 people to operate and the secti
 
 AGF’s CEO Jacob Nielsen certainly seems excited about the project, saying: “It will be the first tournament match in a long time. We are celebrating that with a historic digital initiative, and we are proud to be the first club in the world to use it.
 
-""Now it seems that we have to do without spectators for a while, so maybe we can inspire a similar initiative at other clubs that can also benefit from it in the coming time.”",32.5,Very low,Right-center,Russia
+""Now it seems that we have to do without spectators for a while, so maybe we can inspire a similar initiative at other clubs that can also benefit from it in the coming time.”",32.5,Very low,Right-center,Russia,0
 21,https://www.rt.com/sport/489562-nba-legend-patrick-ewing-coronavirus/,RT News,2020-05-23,[],NBA legend Patrick Ewing in hospital after testing positive for Covid-19,https://cdni.rt.com/files/2020.05/article/5ec8fd8920302707a401e96d.JPG,"Basketball icon Patrick Ewing, 57, has revealed he has tested positive for the coronavirus, urging fans ""not to take the virus lightly"" as he received treatment in hospital.
 
 The current head coach of Georgetown University men’s team sent out a statement on Twitter that revealed his result alongside a message that read:
@@ -724,7 +724,7 @@ Was such a thrill when we had Patrick Ewing on #TheJump a couple weeks ago - now
 
 Officially one of the NBA’s 50 greatest players of all time, Ewing spent the majority of his 17-year playing career at the New York Knicks, before a spell at Seattle Sounders and Orlando Magic. He has been Georgetown’s Head Coach since 2017.
 
-The statement from Georgetown also revealed that Ewing is currently receiving care while isolated at a local hospital and that no other members of staff or players tested positive.",32.5,Very low,Right-center,Russia
+The statement from Georgetown also revealed that Ewing is currently receiving care while isolated at a local hospital and that no other members of staff or players tested positive.",32.5,Very low,Right-center,Russia,0
 22,https://www.rt.com/sport/489558-ufc-dana-white-live-fight-island-month/,RT News,2020-05-23,[],UFC boss Dana White says he'll live on Fight Island 'for entire month' - but location remains a mystery,https://cdni.rt.com/files/2020.05/article/5ec8f6f820302707a401e967.JPG,"Dana White says he is planning to spend the whole of July on the UFC's fabled 'Fight Island' as the promotion switches events there during the Covid-19 fallout - but the location of the island remains a closely-guarded secret.
 
 The UFC recently got back up and running with three events in a week in Jacksonville, Florida, and has another card planned for May 30 at its own Apex venue in Las Vegas - subject to Nevada state approval.
@@ -747,7 +747,7 @@ While no official cards have been confirmed for the venue, one person excited to
 
 Also on rt.com 'Coming to an island near you': UFC's Paige VanZant FINALLY teases fight after spending covid lockdown training & posting nudes
 
-Elsewhere, Amanda Nunes is officially confirmed to defend her featherweight title against Felicia Spencer in the headline bout of the landmark UFC 250 on June 6, although a venue has not yet been confirmed for the event.",32.5,Very low,Right-center,Russia
+Elsewhere, Amanda Nunes is officially confirmed to defend her featherweight title against Felicia Spencer in the headline bout of the landmark UFC 250 on June 6, although a venue has not yet been confirmed for the event.",32.5,Very low,Right-center,Russia,0
 23,https://www.rt.com/sport/489242-khabib-father-abdulmanap-nurmagomedov-coronavirus-gadzhiev/,RT News,2020-05-20,[],'Why didn't they help him?' MMA promoter claims Khabib's father Abdulmanap was sick for 10 DAYS before receiving assistance,https://cdni.rt.com/files/2020.05/article/5ec5567c2030271003627b35.jpg,"Abdulmanap Nurmagomedov, who is in a medically-induced coma with heart problems complicated by COVID-19, suffered without treatment for 10 days in Dagestan before receiving the necessary medical assistance.
 
 The UFC lightweight champion’s father was feeling ill in Dagestan but faced a long wait before receiving medical attention because of a lack of understanding about the deadly virus in his homeland, Russian MMA promotion Fight Nights Global boss Kamil Gadzhiev has claimed.
@@ -780,7 +780,7 @@ Asking them to pray for him and observe health guidelines aimed at curbing the s
 
 “Many people I know have died, the parents of people close to me. This virus has affected everyone.
 
-""This virus doesn't ask what your surname or name is, this virus doesn't ask where you work, if you are rich or poor. Everyone has got ill. We can only overcome this together.""",32.5,Very low,Right-center,Russia
+""This virus doesn't ask what your surname or name is, this virus doesn't ask where you work, if you are rich or poor. Everyone has got ill. We can only overcome this together.""",32.5,Very low,Right-center,Russia,0
 24,https://www.rt.com/op-ed/489371-feminists-women-bear-emotional-brunt/,RT News,2020-05-21,['Damian Wilson'],"For tone-deaf feminists it doesn’t matter that Covid-19 kills almost twice as many men, because ‘women bear the emotional brunt’",https://cdni.rt.com/files/2020.05/article/5ec6a49c2030275a5b1bdbef.jpg,"is a UK journalist, ex-Fleet Street editor, financial industry consultant and political communications special advisor in the UK and EU.
 
 is a UK journalist, ex-Fleet Street editor, financial industry consultant and political communications special advisor in the UK and EU.
@@ -839,7 +839,7 @@ There is no mention anywhere among these concerns about who the majority of vict
 
 It’s strange, because they are the grandfathers, fathers, husbands and sons of the gender-obsessed feminist brigade who insist on propagating nonsense like this week’s poll results.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 25,https://www.rt.com/op-ed/488827-michael-jordan-documentary-last-dance/,RT News,2020-05-17,['Michael Mccaffrey'],"Be Like Mike? Who’d wanna be after watching sycophantic, nostalgia-porn Michael Jordan 'documentary' The Last Dance...",https://cdni.rt.com/files/2020.05/article/5ec13f8c2030277d5e245f08.JPG,"Michael McCaffrey is a writer and cultural critic who lives in Los Angeles. His work can be read at RT, Counterpunch and at his website mpmacting.com/blog . He is also the host of the popular cinema podcast Looking California and Feeling Minnesota. Follow him on Twitter @MPMActingCo
 
 Michael McCaffrey is a writer and cultural critic who lives in Los Angeles. His work can be read at RT, Counterpunch and at his website mpmacting.com/blog . He is also the host of the popular cinema podcast Looking California and Feeling Minnesota. Follow him on Twitter @MPMActingCo
@@ -890,7 +890,7 @@ Or that since his retirement, his main claim to fame has been a TV advert for Ga
 
 The bottom line is this: Jordan is undeniably one of the most aesthetically and athletically dynamic icons in sports history, but 'The Last Dance' isn’t an investigation or even contemplation of the man and his legacy, but rather a cultish coronation that unquestioningly embraces previously manufactured mythmaking. That’s not sports journalism, it’s self-serving sycophancy, and NBA fans deserve much better.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 26,https://www.rt.com/usa/489548-elderly-beating-nursing-home-coronavirus/,RT News,2020-05-23,[],‘Someone dropped the ball’: Suspect in beating of 75yo nursing home patient was moved to facility AFTER contracting Covid-19,https://cdni.rt.com/files/2020.05/article/5ec8b4ac85f540189834f9cd.JPG,"The 20-year-old man accused of beating an elderly patient in a Detroit nursing home – captured in a shocking viral video – was inexplicably moved to the facility after testing positive for Covid-19.
 
 The young man, who has not been named, was transferred from an Ann Arbor hospital to Detroit’s Westwood Nursing Center last week after contracting the coronavirus, his father told local media. He later appeared in disturbing footage repeatedly punching an elderly man in the face. While the suspect has since been arrested for the assault, it remains unclear how or why he ended up at the nursing home in the first place, given that seniors are among the most vulnerable to the lethal illness.
@@ -915,7 +915,7 @@ And put a violent schizophrenic in a room w/ probable dementia patient. #JadonHa
 
 When local reporters contacted the Westwood Nursing Center on Friday, a man answering the phone – presumably a staff member – would only say the facility’s director was busy with meetings.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 27,https://www.rt.com/shows/watching-the-hawks/489492-covid-19-plague-of-corruption/,RT News,2020-05-23,[],‘Plague of Corruption’ & climbing Covid numbers,https://cdni.rt.com/files/2020.05/article/5ec907b2203027026b12a893.png,"Dr Judy Mikovits and Kent Heckenlively discuss their new book, ‘Plague of Corruption.’ Covid-19 numbers continue to skyrocket as scientists race for a vaccine. And SpaceX is about to make history.
 
 'Like' us on Facebook:
@@ -938,7 +938,7 @@ https://soundcloud.com/rttv/sets/watching-the-hawks-2
 
 Subscribe:
 
-http://bit.ly/WatchingTheHawks",32.5,Very low,Right-center,Russia
+http://bit.ly/WatchingTheHawks",32.5,Very low,Right-center,Russia,0
 28,https://www.rt.com/shows/going-underground/489495-public-private-partnerships-covid-vaccine/,RT News,2020-05-23,[],"Dr Ngozi Okonjo-Iweala: Coronavirus vaccine WILL be a public good, WON’T be available for just rich countries! (E881)",https://cdni.rt.com/files/2020.05/article/5ec90737203027509376823f.png,"On this episode of Going Underground, we speak to Dr Ngozi Okonjo-Iweala, the board chair of the Global Alliance for Vaccines and Immunization, as well as the special envoy for ACT Accelerator. She discusses the public-private partnerships working on a coronavirus vaccine, what ACT (Access to Covid-19 Tools) Accelerator is, and the work they are doing to develop vaccines, therapeutics and diagnostics that will be accessible to all. She also explains why Africa’s coronavirus death rate is so low, how the coronavirus vaccine will be a public good, and whether Big Pharma is involved for the sake of earning massive profits. Next, we speak to Alexander Zevin, author of ‘Liberalism at Large: The World According to The Economist.’ He exposes the Economist’s deep involvement in promoting free trade and the laissez-faire disaster in Ireland during the Irish famine, pushing Western foreign policy goals such as the Pinochet coup in Chile, to the coup in Iran in 1953, to US-backed regime-change operations in Venezuela today. He also discusses the class dimension to the rise of the Economist magazine, and why it is so highly sought after for advertising purposes.
 
 LIKE
@@ -955,7 +955,7 @@ Afshin Rattansi on Twitter http://twitter.com/AfshinRattansi
 
 PODCAST
 
-https://soundcloud.com/rttv/sets/going-underground-1",32.5,Very low,Right-center,Russia
+https://soundcloud.com/rttv/sets/going-underground-1",32.5,Very low,Right-center,Russia,0
 29,https://www.rt.com/op-ed/489511-university-california-standardized-testing-woke/,RT News,2020-05-22,['Helen Buyniski'],California university system burnishes ‘woke cred’ by ditching standardized tests…and dodges a looming lawsuit,https://cdni.rt.com/files/2020.05/article/5ec8311a85f5401daf63c568.jpg,"The University of California system has dropped standardized testing as an admission requirement, an unprecedented move that could spell the end of the SAT and ACT. While achingly ‘woke’, it won’t solve the inequality problem.
 
 The ten-campus public university system voted on Thursday to axe the SAT and ACT standardized tests from its admission requirements for the next two years and plans to drop it entirely for in-state students after that.
@@ -994,7 +994,7 @@ But doing away with standardized testing is not going to fix that problem. It me
 
 Prizing a superficially-diverse student body over a competent one ends up disadvantaging everyone in the class: the high achievers lose patience and tune out, the low achievers struggle to keep up (and tune out), and the teacher starts daydreaming about alternate career paths, handing out As and Bs because it’s easier than trying to fix a lifetime of substandard schooling. Graduates – assuming they do graduate – emerge utterly unprepared for the real world. Perhaps the UC system will hire them?
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 30,https://www.rt.com/uk/489513-covid-pandemic-over-herd-immunity/,RT News,2020-05-22,['Peter Andrews'],"Covid-19 pandemic is all but OVER and we already have HERD IMMUNITY, says top Oxford scientist",https://cdni.rt.com/files/2020.05/article/5ec806d420302777be184a24.jpg,"By Peter Andrews , Irish science journalist and writer based in London. He has a background in the life sciences, and graduated from the University of Glasgow with a degree in genetics
 
 The UK government was one of many that reacted to the coronavirus outbreak based on worst-case scenario predictions. But the author of an alternative model has restated her position, saying the virus is already “on its way out.”
@@ -1033,7 +1033,7 @@ As if to put the tin hat on her dismantling of the government’s actions to thi
 
 The full interview is well worth listening to, especially as Prof. Ferguson is no longer gracing the airwaves with his opinions. His model was done at Imperial College London – a very great university, no doubt. But the modellers at the University of Oxford report are hardly dunces either. Make up your own mind as to who was closer to the truth. Hopefully, history will bear it out; after all, it is usually written by the victors.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 31,https://www.rt.com/uk/489573-police-chief-slam-cummings-lockdown-durham/,RT News,2020-05-23,[],‘Most unwise’: Police chief slams PM adviser Cummings’ 250-mile lockdown-breaking trip,https://cdni.rt.com/files/2020.05/article/5ec91670203027013539edd0.JPG,"Boris Johnson’s top adviser Dominic Cummings has been scolded by a police chief after traveling over 250 miles (400 km) to his parents’ home despite the UK’s coronavirus lockdown being in place.
 
 Downing Street confirmed on Saturday that Cummings had undertaken the seemingly flagrant lockdown-breaching journey from London to Durham in March, after news of it broke on Friday night.
@@ -1052,7 +1052,7 @@ To beat this crisis, we need to be selfless as millions have been. The response 
 
 The BBC has also come under fire for its reporting of the fiasco, with political editor Laura Kuenssberg accused of acting as a spokesperson for the government.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 32,https://www.rt.com/uk/489522-court-rules-state-vaccinate-care/,RT News,2020-05-22,[],"Children in care can be vaccinated against their parents’ wishes without court order, UK judges rule",https://cdni.rt.com/files/2020.05/article/5ec8158b85f54076cd46e6d8.jpg,"A UK appeals court has ruled that children in state care may receive “routine vaccinations” even when parents are opposed, adding that no court order is needed for the shots because they are in the child’s “best interests.”
 
 Children in foster care may be vaccinated without a court order, against parental wishes, because vaccination is not considered a “serious medical treatment” that would justify High Court intervention, a three-judge appeals court panel ruled on Friday. Absent any “significant” or “unusual” reason a shot might not be in the child’s “best interests,” the London Borough of Tower Hamlets had full authority to arrange for a nine-month-old child in foster care to be vaccinated, the judges said in their decision.
@@ -1073,7 +1073,7 @@ The UK has an especially poor history with vaccines being rushed to market – t
 
 No statements have been made yet as to whether the coronavirus vaccine will be mandatory, but a significant minority of respondents to polls in the US and France have balked at both the rushed development timetable – vaccines usually take upwards of 10 years to go through clinical trials and safety testing – and their respective governments’ politicization of the process.
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 33,https://www.rt.com/uk/489503-downing-street-twitter-social-distancing/,RT News,2020-05-22,[],How about ‘1 coffin’? BoJo’s office ridiculed after suggesting people social distance ‘3 fridges’ apart,https://cdni.rt.com/files/2020.05/article/5ec7f62385f5407b281fe949.JPG,"No. 10 Downing Street’s Twitter account was brutally mocked after recommending UK citizens visualize household items such as beds, benches, fridges and chairs to help them stick to the two-meter Covid-19 social distancing rule.
 
 The strict regulation has been a key feature of coronavirus-mitigating restrictions imposed by countries around the globe, including the UK. In what was perhaps an attempt to communicate the physical distancing rule in a more relatable way, the PM’s office tweeted on Friday: “Keep 2 metres apart when you go outside. That’s 1 bed; 2 benches; 3 fridges; 4 chairs.”
@@ -1090,7 +1090,7 @@ UK lockdown measures – including social distancing rules – have been in plac
 
 Also on rt.com It is ‘not safe’ for England’s schools to reopen on June 1, former UK chief scientific adviser’s group warns
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 34,https://www.rt.com/uk/489510-scientist-criticizes-government-coronavirus-handling/,RT News,2020-05-22,[],"‘We have lions on the front line, we need lions in leadership’: Nobel Prize-winning scientist SLAMS UK govt response to Covid-19",https://cdni.rt.com/files/2020.05/article/5ec7f61785f54036cd699a3c.JPG,"Top scientist Sir Paul Nurse has blasted the UK government for lacking proper leadership over the Covid-19 outbreak, saying Westminster has been “increasingly playing catch-up” and “firefighting” its way through successive crises.
 
 In an interview with BBC Radio 4 on Friday, Nurse claimed that he believed that the UK government has not responded effectively to the outbreak of Covid-19.
@@ -1113,7 +1113,7 @@ Also on rt.com It is ‘not safe’ for England’s schools to reopen on June 1,
 
 The UK is currently the worst hit country in Europe by the pandemic, with 36,393 deaths and over 254,000 confirmed coronavirus infections.
 
-Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia
+Think your friends would be interested? Share this story!",32.5,Very low,Right-center,Russia,0
 35,https://www.rt.com/uk/489430-schools-safe-reopen-scientific-adviser/,RT News,2020-05-22,[],"It is ‘not safe’ for England’s schools to reopen on June 1, former UK chief scientific adviser’s group warns",https://cdni.rt.com/files/2020.05/article/5ec7b2f3203027495061d68b.JPG,"A group of top scientists led by a former UK government chief scientific adviser has warned against reopening English schools on June 1, saying it is too soon for kids to return to classrooms safely amid the threat of Covid-19.
 
 A report published by the 'Independent Sage' committee, chaired by Sir David King, says that “well-functioning local test, trace, and isolate protocols” – key conditions for the UK government to relax lockdown restrictions – will not be in place by the start of June.
@@ -1140,7 +1140,7 @@ The latest data published by the Department for Health and Social Care on Thursd
 
 Think your friends would be interested? Share this story!
 
-to RT newsletter to get stories the mainstream media won’t tell you.",32.5,Very low,Right-center,Russia
+to RT newsletter to get stories the mainstream media won’t tell you.",32.5,Very low,Right-center,Russia,0
 36,https://www.rt.com/news/489577-spain-international-tourism-resume-july-coronavirus/,RT News,2020-05-23,[],All aboard! Spain is reopening to international TOURISM from July,https://cdni.rt.com/files/2020.05/article/5ec91e9085f540187c1eb927.JPG,"Spain took a major step towards the return of normality on Saturday, as Prime Minister Pedro Sanchez announced that the country will reopen to international tourism from July.
 
 Spain was among the nations worst affected by the Covid-19 pandemic, racking up more than 28,000 deaths from the disease. However, it’s now emerging from one of Europe’s most stringent lockdowns, which was implemented on March 14.
@@ -1151,7 +1151,7 @@ And the good news didn’t end there, as Sanchez also gave the La Liga football 
 
 Also on rt.com Bars & restaurants set to reopen in Madrid as Spain sheds more lockdown measures
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 37,https://www.rt.com/news/489547-china-zero-new-cases-coronavirus/,RT News,2020-05-23,[],China reports zero new Covid-19 cases for FIRST TIME as pandemic finds new ‘epicenter’ in South America,https://cdni.rt.com/files/2020.05/article/5ec8a12c85f5401daf63c5cf.JPG,"Beijing has reported no new Covid-19 infections for the first time since the pandemic erupted last year, but as the virus dies out in its original epicenter, South America has quickly emerged as a major hotspot.
 
 China’s National Health Commission said it confirmed zero new cases of the virus on Saturday – a first since the country began tallying infections in January – and reported only two suspected cases, one of them imported from abroad.
@@ -1174,7 +1174,7 @@ Since the pandemic broke out last December, more than 5.2 million people have be
 
 Also on rt.com Bolsonaro says experimental Covid-19 drug could save 'thousands of lives' & thanks India for approving exports of raw ingredients
 
-Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia
+Like this story? Share it with a friend!",32.5,Very low,Right-center,Russia,0
 38,http://rtd.rt.com/stories/post-virus-future-4-economy-politics-trends/,RT News,2020-05-21,['Gita Gopinath'],Post-virus future: 4 trends that will shape the global economy,https://rtd.rt.com/files/stories/post-virus-future-4-economy-politics-trends/15-br.jpeg,"Killer hornets threaten US ecosystem
 
 When living in a crisis is a job: lockdown survival tips from seasoned pros. Part 3: Polar Explorer
@@ -1283,7 +1283,7 @@ Speaking about scenarios global economies might be pressured to follow after the
 
 The pandemic has opened a window to creating new ways and institutions to deal with the suffering, including more effective measures to stop the trend toward greater inequality. Robert J. Shiller Winner of the 2013 Nobel Prize in economics
 
-Well, crises do shape history. Hopefully, this one doesn't go to waste.",32.5,Very low,Right-center,Russia
+Well, crises do shape history. Hopefully, this one doesn't go to waste.",32.5,Very low,Right-center,Russia,0
 39,http://rtd.rt.com/stories/lockdown-survival-tips-from-polar-explorer/,RT News,2020-05-19,[],When living in a crisis is a job: lockdown survival tips from seasoned pros. Part 3: Polar Explorer,https://rtd.rt.com/files/stories/lockdown-survival-tips-from-polar-explorer/3-br.jpg,"Post-virus future: 4 trends that will shape the global economy
 
 A graphic designer, a paper clip box and a toilet: How the home pregnancy test changed women's lives
@@ -1340,4 +1340,4 @@ During our major expedition, when we walked to Antarctica, the prevailing fear w
 
 As for resources, in an expedition, they are calculated according to how much supplies one person needs per day. Sometimes, you run out of food. But today, you can always request help from the station. They either bring you supplies or take you from there.
 
-If someone hurts himself, the rest share his work among them. But if a person feels really sick, you can call for a rescue plane. Later, when this person gets better, they make up for lost time – do a day's worth of work in half a day, and so on.",32.5,Very low,Right-center,Russia
+If someone hurts himself, the rest share his work among them. But if a person feels really sick, you can call for a rescue plane. Later, when this person gets better, they make up for lost time – do a day's worth of work in half a day, and so on.",32.5,Very low,Right-center,Russia,0

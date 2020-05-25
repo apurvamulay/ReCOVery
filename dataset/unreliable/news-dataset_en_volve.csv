@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://en-volve.com/2020/05/22/dr-fauci-sends-liberal-media-democrats-into-histeria-with-one-simple-truth/,En Volve,2020-05-22,['Doyle Alexander'],Dr. Fauci Sends Liberal Media/Democrats Into Histeria With One Simple Truth!,https://en-volve.com/wp-content/uploads/2020/05/AP_20104792498672-730x487-1.jpg,"You'll only get the best stuff we have!
 
 Get the best Trump news straight to your inbox!
@@ -53,7 +53,7 @@ Neither has the necessary discussion about suicides related to economic misery.
 
 We’re past time for all that.
 
-Via PJMedia",7.5,Very low,Right,
+Via PJMedia",7.5,Very low,Right,,0
 1,https://en-volve.com/2020/05/22/trump-assures-americans-were-not-going-to-close-the-country-if-covid-wave-returns/,En Volve,2020-05-22,['Doyle Alexander'],Trump Assures Americans: ‘We’re Not Going To Close The Country’ If COVID Wave Returns,https://en-volve.com/wp-content/uploads/2020/05/donald-trump-february-2020-1TRUMP-.jpg,"You'll only get the best stuff we have!
 
 President Trump acknowledged Thursday that there could be a second wave of the coronavirus epidemic later this year, but flatly stated he wouldn’t let any further outbreaks shutter the economy again.
@@ -70,4 +70,4 @@ During his speech, the president also lashed out at China for its role in the co
 
 “It came in from China and it should have been stopped in China,” he said.
 
-The first reports of the contagion surfaced late last year in Wuhan, the sprawling capital of Central China’s Hubei province, and the disease quickly spread across the globe. As of Thursday, over 5 million people have been infected worldwide with over 329,000 deaths, according to the Center for Systems Science and Engineering at Johns Hopkins University. – READ MORE",7.5,Very low,Right,
+The first reports of the contagion surfaced late last year in Wuhan, the sprawling capital of Central China’s Hubei province, and the disease quickly spread across the globe. As of Thursday, over 5 million people have been infected worldwide with over 329,000 deaths, according to the Center for Systems Science and Engineering at Johns Hopkins University. – READ MORE",7.5,Very low,Right,,0

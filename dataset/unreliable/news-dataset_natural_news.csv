@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://www.naturalnews.com/2020-05-23-cannabis-can-help-fight-coronavirus.html,Natural News,2020-05-23,['Franz Walker'],"Cannabis can help fight coronavirus, study says",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Cbd-Oil-Cannabis-Cannabidiol-Hemp-Medical-Marijuana.jpg,"(Natural News) Cannabis could be a new weapon in the fight against the Wuhan coronavirus (COVID-19),Â researchers say.Â A new study by scientists at theÂ University of Lethbridge in AlbertaÂ says that cannabidiol (CBD) — the main non-psychoactive component of marijuana —Â can help fight the coronavirus by lowering the number of cell receptors available for the latter to attach to.
 
 âThereâs a lot of documented information about cannabis in cancer, cannabis in inflammation, anxiety, obesity and whatnot,â said Dr. Igor Kovalchuk, who co-authored the study alongside his wife, Dr. Olga Kovalchuck, and a team of other researchers from Lethbridge. âWhen COVID-19 started, Olga had the idea to revisit our data, and see if we can utilize it for COVID.â
@@ -49,7 +49,7 @@ DailyMail.co.uk
 
 Preprints.org
 
-Calgary.CTVNews.ca",12.5,Very low,,USA
+Calgary.CTVNews.ca",12.5,Very low,,USA,0
 1,https://www.naturalnews.com/2020-05-23-new-asian-coronavirus-clusters-shows-signs-of-mutation.html,Natural News,2020-05-23,['Arsenio Toledo'],"New coronavirus outbreak in China points to possible mutation, while second wave of cases hit Singapore, South Korea",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Man-Transportation-China-Pandemic.jpg,"(Natural News) As the United States andÂ several European countries take steps to reopen their economies after being onÂ lockdown, several Asian countries are nowÂ battling new clusters of the Wuhan coronavirus (COVID-19). Furthermore,Â some of these outbreaks may be a sign that the coronavirus is mutating.
 
 As of press time, the world has over five million confirmed cases of COVID-19, including 333,212 deaths.
@@ -106,7 +106,7 @@ FT.com
 
 StraitsTimes.com
 
-Asia.Nikkei.com",12.5,Very low,,USA
+Asia.Nikkei.com",12.5,Very low,,USA,0
 2,https://www.naturalnews.com/2020-05-23-trump-orders-churches-worship-to-reopen.html,Natural News,2020-05-23,['Arsenio Toledo'],President Trump orders houses of worship to reopen … threatens to override states that refuse,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Trump-Briefing-Covid-19.jpg,"(Natural News) President Donald Trump has declared places of worship, such as churches, synagogues and mosques, as essential services and has called on governors to allow these religious institutions to reopen. The president has also said he will âoverrideâ the decisions of any state leaders who don’t agree to reopen churches.
 
 âThe ministers, pastors, rabbis, imams and other faith leaders will make sure their congregations are safe as they gather and pray,â said Trump at a hastily scheduled appearance Friday in the briefing room of the White House.
@@ -163,7 +163,7 @@ WSJ.com
 
 Politico.com
 
-CDC.gov",12.5,Very low,,USA
+CDC.gov",12.5,Very low,,USA,0
 3,https://www.naturalnews.com/2020-05-23-cuomo-shipped-off-coronavirus-patients-to-ny-nursing-home.html,Natural News,2020-05-23,['Michael Alexander'],"Report: Cuomo shipped off 4,300 coronavirus patients to NY nursing homes",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Sick-Woman-Hospital-Bed.jpg,"(Natural News) Over 4,300 recovering COVID-19 patients were shipped off to New Yorkâs nursing homes and long-term care facilities as a result of a controversial state directive, according to The Associated Press.
 
 In a count published on its site Friday, the news organization tallied the number of COVID-19 patients discharged from hospitals and transferred to nursing homes under Gov. Andrew Cuomoâs March 25 directive after the New York State Health Department declined to release the figures gleaned from its internal survey, conducted two weeks ago.
@@ -214,7 +214,7 @@ APNews.com 2
 
 NPR.org
 
-NYTimes.com",12.5,Very low,,USA
+NYTimes.com",12.5,Very low,,USA,0
 4,https://www.naturalnews.com/2020-05-23-plandemic-google-drive-delete.html,Natural News,2020-05-23,['Ethan Huff'],"If you have a copy of Plandemic in your Google Drive, Google might try to surreptitiously delete it",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/google-logo-biased.png,"(Natural News) Fake news empire The Washington Post is on a mission to make sure that every single copy of the popular Plandemic documentary film is removed from every last crevice of the internet.
 
 The Jeff Bezos-owned, left-wing rag recently published an article in its “technology” section explaining that fake news employees of the paper are basically being paid to scour the web in search of Plandemic so they can report it to the hosting website and try to have it removed.
@@ -251,7 +251,7 @@ Sources for this article include:
 
 WashingtonPost.com
 
-NaturalNews.com",12.5,Very low,,USA
+NaturalNews.com",12.5,Very low,,USA,0
 5,https://www.naturalnews.com/2020-05-22-confirmation-president-trump-is-not-controlled-by-big-pharma-vaccines.html,Natural News,2020-05-22,['Mike Adams'],BREAKING: Confirmation that President Trump is NOT controlled by Big Pharma and is completely opposed to coercive vaccine mandates,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Trump-World-Outbreak.jpg,"This is a tremendous relief because Trump is our last hope to fight against the vaccine deep state and the evil “death science” establishment. Sadly, he’s surrounded by evil and corruption in Washington D.C., and he’s made some mistakes, especially in picking the wrong people who turned out to be traitors (Jeff Sessions, anyone?). But from what I’ve learned, Trump is still fighting for humanity, and he hasn’t gone over to the dark side as many of us had feared.
 
 In summary, although my fears were grounded in honestly observed actions involving Trump, his “vaccine czar” and Dr. Fauci’s influence at the White House, I have now learned from reliable sources that Trump is fully aware of the risks of vaccines, the dangers of the Big Pharma drug cartels and the need to respect health freedom across America.
@@ -332,7 +332,7 @@ TruthWiki.org
 
 Search engine:
 
-Webseed.com",12.5,Very low,,USA
+Webseed.com",12.5,Very low,,USA,0
 6,https://www.naturalnews.com/2020-05-22-plandemic-documentary-with-judy-mikovits-in-portuguese-greek-spanish-danish-french-lithuanian-turkish-italian.html,Natural News,2020-05-22,['Mike Adams'],"Where to find the Plandemic documentary with Judy Mikovits in Portuguese, Greek, Spanish, Danish, French, Lithuanian, Turkish, Italian and English",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/plandemic.png,"(Natural News) While YouTube, Facebook, Google, Vimeo, Apple and Twitter are working overtime to destroy your ability to see this eye-opening documentary film, users have been uploading the movie to Brighteon.com, the free speech video platform that’s owned and run by patriots like me.
 
 Plandemic features Dr. Judy Mikovits, a virologist and former National Cancer Institute researcher, whose career was destroyed by Dr. Anthony Fauci, the evil “death science” enabler who funneled NIH money to China’s Wuhan virology lab that engineered the coronavirus biological weapon that’s now devastating our world. (See Mikovits’ book Plague of Corruption at PlagueTheBook.com)
@@ -401,7 +401,7 @@ https://www.brighteon.com/642ee371-80de-4dc0-aabb-69f5eb068d3f
 
 Enjoy and share everywhere. Just realize that Facebook will block you from sharing these links, so be creative in the ways you get this out. We will do our best to keep funding the bandwidth on all this, which is costing us tens of thousands of dollars a month.
 
-DONATE to Brighteon to help us cover the costs, if you can. Thank you.",12.5,Very low,,USA
+DONATE to Brighteon to help us cover the costs, if you can. Thank you.",12.5,Very low,,USA,0
 7,https://www.naturalnews.com/2020-05-22-mutated-virus-coronavirus-outbreak-in-northeast-china.html,Natural News,2020-05-22,['Michael Alexander'],Experts: “Mutated” virus involved in new coronavirus outbreak in northeast China,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-China-Border-Fence-Prison-Lockdown.jpg,"(Natural News) A new cluster of COVID-19 cases has emerged in the northeastern provinces of Chinaâs Rust Belt region, with doctors noting that the virus involved in the new cases is behaving differently compared to the one first encountered in Wuhan late last year.
 
 According to Qiu Haibo, an expert in critical care medicine who is part of the National Health Commission expert group, the virus found in patients in the provinces of Jilin and Heilongjiang was unique, in that its incubation period was longer compared to that of the patients in Wuhan.
@@ -460,7 +460,7 @@ Bloomberg.com 2
 
 AlJazeera.com
 
-Coronavirus.JHU.edu",12.5,Very low,,USA
+Coronavirus.JHU.edu",12.5,Very low,,USA,0
 8,https://www.naturalnews.com/2020-05-22-sweden-coronavirus-death-rate-overtakes-uk-italy.html,Natural News,2020-05-22,['Michael Alexander'],"Sweden’s coronavirus death rate overtakes UK, Italy",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Dying-Hospital-Ill-Terminally-Aged-Bed-Care.jpg,"(Natural News) Denmark, Finland and Norway are still eyeing the possibility of maintaining travel restrictions on Sweden in light of the exponential climb in the latter countryâs coronavirus death toll.
 
 Sweden, unlike its Nordic neighbors — and the rest of the world, for that matter — has largely taken a softer and non-draconian approach to fighting the ongoing pandemic, opting instead to leave schools, shops and restaurants open to the general public. Social distancing and good hygiene, meanwhile, two factors needed to successfully mitigate the continued spread of the virus, are encouraged but not enforced.
@@ -515,7 +515,7 @@ AlJazeera.com
 
 BBC.com
 
-BusinessInsider.com",12.5,Very low,,USA
+BusinessInsider.com",12.5,Very low,,USA,0
 9,https://www.naturalnews.com/2020-05-22-washington-state-loses-millions-to-nigerian-unemployment-fraud.html,Natural News,2020-05-22,['Franz Walker'],Washington state loses hundreds of millions to Nigerian unemployment claims fraud,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Hacker-Scam-Hack-Phishing-Internet-Web-Stolen.jpg,"(Natural News) Officials in the state of Washington have acknowledged the loss of âhundreds of millions of dollarsâ to an international scheme that hammered the state’s unemployment insurance system. The attack, which is thought to have originated in Nigeria, could mean even longer delays for thousands of unemployed workers still waiting for legitimate benefits.
 
 The staggering losses were disclosed by Washington state Employment Security Department (ESD) Commissioner Suzi LeVine during a news conference Thursday afternoon. LeVine declined to specify exactly how much money was stolen during the scam. She conceded, however, that the amount was âorders of magnitude above the $1.6 million that the ESD reported as having lost to fraud in April.
@@ -564,7 +564,7 @@ Politico.com
 
 TaxFoundation.org
 
-TripWire.com",12.5,Very low,,USA
+TripWire.com",12.5,Very low,,USA,0
 10,https://www.naturalnews.com/2020-05-22-protect-yourself-and-others-from-covid-19.html,Natural News,2020-05-22,['Divina Ramirez'],5 Small steps you can take to protect yourself and your family from COVID-19,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Friends-Medical-Mass-Social.jpg,"(Natural News) WithÂ experts still scrambling to develop a viable cure for the Wuhan coronavirus (COVID-19), different so-called solutions to beat the disease have started cropping up.
 
 FromÂ vinegar to radiation, professionals have toutedÂ a host of products and practices alleged to be effective against COVID-19.
@@ -631,7 +631,7 @@ IDF.org
 
 TobaccoInducedDiseases.org
 
-MedlinePlus.gov",12.5,Very low,,USA
+MedlinePlus.gov",12.5,Very low,,USA,0
 11,https://www.naturalnews.com/2020-05-21-coronavirus-vaccines-will-contain-aborted-human-babies.html,Natural News,2020-05-21,['Ethan Huff'],CONFIRMED: Coronavirus vaccines will contain aborted human babies,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Covid-19-Vaccine-Syringe-Lab.jpg,"(Natural News) Pro-lifers everywhere had better think long and hard about what they plan to do in the event that state or local governments try to mandate vaccination for the Wuhan coronavirus (COVID-19) once a jab is commercially released because chances are those syringes will contain the remnants of aborted babies.
 
 Even though President Trump has said that Wuhan coronavirus (COVID-19) vaccines will not be mandated at the federal level, there is still the possibility that some states may try to force them locally, which will put not just those opposed to vaccination in a tough position but also those who recognize the sanctity of unborn human life.
@@ -666,7 +666,7 @@ LifeSiteNews.com
 
 NaturalNews.com
 
-NaturalNews.com",12.5,Very low,,USA
+NaturalNews.com",12.5,Very low,,USA,0
 12,https://www.naturalnews.com/2020-05-21-mikovits-adams-and-kalcker-powerful-executive-strategies-president-trump-big-pharma.html,Natural News,2020-05-21,['Mike Adams'],"APPEALS to the President: Mikovits, Adams and Kalcker lay out powerful executive strategies President Trump can use to abolish Big Pharma’s death grip on America",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Trump-World-Outbreak.jpg,"(Natural News) During a recent interview on IAMTV, with Alan Keyes and Bob Sissen, three health freedom advocates offered a list of executive actions that President Trump could take to end Big Pharma’s death grip on the USA and save countless lives from the pharma “death industry.”
 
 Dr. Judy Mikovits, Andreas Kalcker and myself, Mike Adams, offered a comprehensive list that could radically improved humanity’s survival, health and prosperity. Here’s a partial transcript from the video:
@@ -679,7 +679,7 @@ Andreas Kalcker: I would put to that that when you have the patents, you cannot 
 
 Judy Mikovits: And restore our economy. These gross natural products. This HHS. This whole corrupt monster. Just knock it down. And give us back our freedom.
 
-In the IAMTV video below, you can hear the suggestions for President Trump beginning at around 28:20.",12.5,Very low,,USA
+In the IAMTV video below, you can hear the suggestions for President Trump beginning at around 28:20.",12.5,Very low,,USA,0
 13,https://www.naturalnews.com/2020-05-21-dr-faucis-warp-speed-vaccine-gets-media-applause-concerns-surface.html,Natural News,2020-05-21,['Lance D Johnson'],Dr. Fauci’s “warp speed” vaccine gets media applause but serious concerns are beginning to emerge,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Latex-Gloves-Vaccine-Test-Covid-19.jpg,"(Natural News) Thereâs no better way to get the stock market climbing again than to pump billions of emergency taxpayer dollars into vaccine companies, while cutting safety regulations for new cell-manipulating, gene-altering biologics. This is exactly what President Donald Trump, the FDA, and the federal coronavirus task force seem to be doing. They are fast-tracking experimental injections through clinical trials so they can be distributed en masse with the assistance of the U.S. military.
 
 The federal government is hastening the scientific process and therefore polluting and corrupting it. The President’s âwarp speedâ demands for mass-produced biologics will inevitably cause unintended consequences, as biologics are unavoidably unsafe. (1 Bruesewitz v. Wyeth LLC)
@@ -732,7 +732,7 @@ NYPost.com
 
 Independent.co.uk
 
-Journals.Plos.org",12.5,Very low,,USA
+Journals.Plos.org",12.5,Very low,,USA,0
 14,https://www.naturalnews.com/2020-05-21-china-finally-admits-it-destroyed-coronavirus-samples.html,Natural News,2020-05-21,['Isabelle Z.'],China finally admits it destroyed coronavirus samples but claims it was done for “safety”,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Scientist-Lab-Samples-Coronavirus.jpg,"(Natural News) China has finally admitted to destroying samples of coronavirus early in the outbreak, but theyâre insisting they did it out of safety concerns rather than as part of any sort of coverup. Given their track record, however, doubts remain about the true motivation behind the move.
 
 A supervisor for Chinaâs National Health Commission, Liu Dengfeng, finally admitted in a news conference that the government there issued an order on January 3 directing some facilities to dispose of coronavirus samples. Liu said the order was a measure that aimed to âprevent the risk to laboratory biological safety and prevent secondary disasters caused by unidentified pathogens.”
@@ -769,7 +769,7 @@ Newsweek.com
 
 DailyMail.co.uk
 
-PewResearch.org",12.5,Very low,,USA
+PewResearch.org",12.5,Very low,,USA,0
 15,https://www.naturalnews.com/2020-05-21-italian-leader-calls-bill-gates-vaccine-criminal.html,Natural News,2020-05-21,['Ethan Huff'],"Italian leader calls Bill Gates a “vaccine criminal,” demands his arrest for crimes against humanity",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Bill-Gates.jpg,"(Natural News) Just a few days after it was revealed through an intercepted human intelligence report that Bill Gates is attempting to bribe Nigerian politicians into passing a mandatory vaccination bill for the Wuhan coronavirus (COVID-19), an Italian politician has come forward to demand that the billionaire software tycoon be immediately handed over to international courts to be tried for committing crimes against humanity.
 
 Sara Cunial, who previously sounded the alarm about how Gates has been pushing his vaccine agenda in Africa and India for years, says that this “vaccine criminal” needs to be taken off the streets and dealt with for the protection of humanity. In essence, she declared that he is a threat to human civilization and the safety of children.
@@ -802,7 +802,7 @@ Sources for this article include:
 
 GreatGameIndia.com
 
-NaturalNews.com",12.5,Very low,,USA
+NaturalNews.com",12.5,Very low,,USA,0
 16,https://www.naturalnews.com/2020-05-21-restaurants-struggling-where-restrictions-lifted-patrons-staying-home.html,Natural News,2020-05-21,['Ethan Huff'],Restaurants still struggling in areas where restrictions have been lifted as many patrons still voluntarily staying home,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Empty-Restaurant-Food.jpg,"(Natural News) A growing handful of states have begun their reopening phases, in some cases allowing for dine-in patrons at restaurants. But reservations are still down in many areas to such a degree that some restaurant owners are unsure if their businesses will survive.
 
 In Georgia, for instance, which was the first state to end the lockdowns and restart its economy, dine-in business has plummeted to as low as just eight percent of what it was a year prior. And in Texas, which is only allowing restaurants to open at 25 percent capacity, in some cases with airport-style “security” at the door, reservations are consequently down about 83 percent.
@@ -839,7 +839,7 @@ Sources for this article include:
 
 DailyMail.co.uk
 
-NaturalNews.com",12.5,Very low,,USA
+NaturalNews.com",12.5,Very low,,USA,0
 17,https://www.naturalnews.com/2020-05-21-chinese-propaganda-centers-currently-operating-in-the-us.html,Natural News,2020-05-21,[],Here are the Chinese ‘propaganda’ centers currently operating in the US,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/China-Chinese-Flag-Read-Yellow-Stars.jpg,"(Natural News) Dozens of Chinese “propaganda” centers still operate across the United States, even as U.S. lawmakers debate how to hold the communist country accountable for withholding information about the coronavirus, which originated in China’s Wuhan province.
 
 (Article by Jon Street republished from CampusReform.org)
@@ -862,7 +862,7 @@ And now, nearly two years after that legislation became law, more than 75 Confuc
 
 Based on data from theÂ National Association of Scholars,Â along with records maintained byÂ Campus Reform, the interactive map below shows the locations where Confucius Institutes still operate. Hover your cursor over each dot to reveal the name of each college or school that currently hosts one of these centers.
 
-Read more at:Â CampusReform.org",12.5,Very low,,USA
+Read more at:Â CampusReform.org",12.5,Very low,,USA,0
 18,https://www.naturalnews.com/2020-05-20-facebook-blacklists-free-speech-video-platform-brighteon.html,Natural News,2020-05-20,['Mike Adams'],Facebook blacklists free speech video platform Brighteon.com to silence humanitarian voices of pioneering women like Judy Mikovits – TAKE ACTION,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Brighteon-11.jpg,"(Natural News) Brighteon.com is a popular, independent video platform that features humanitarian free speech videos including those of pioneering women like Dr. Judy Mikovits and Chinese freedom leader Jennifer Zeng.
 
 As part of its war against courageous women who dare to challenge the status quo, Facebook has now blacklisted all links from Brighteon.com and NaturalNews.com following the user posting of a documentary featuring Dr. Mikovits — “Plandemic” — which questions the standard narrative about the coronavirus vaccine and the W.H.O.
@@ -979,7 +979,7 @@ If you are able, consider donating funds to Brighteon in our fight against censo
 
 Click here for the PayPal donation page.
 
-Please also consider contacting your representatives in Washington D.C. and demanding anti-trust investigations into Facebook, Google, Twitter and YouTube. We thank Senators Hawley and Cruz, among others, for their current efforts to hold Big Tech accountable and held create a level playing field for online speech.",12.5,Very low,,USA
+Please also consider contacting your representatives in Washington D.C. and demanding anti-trust investigations into Facebook, Google, Twitter and YouTube. We thank Senators Hawley and Cruz, among others, for their current efforts to hold Big Tech accountable and held create a level playing field for online speech.",12.5,Very low,,USA,0
 19,https://www.naturalnews.com/2020-05-20-must-see-video-judy-mikovits-andreas-kalcker-health-ranger-iamtv.html,Natural News,2020-05-20,['Mike Adams'],"Must-see video triple play: Dr. Judy Mikovits, Andreas Kalcker and the Health Ranger join Alan Keyes and Bob Sisson on IAMTV – Coronavirus vaccines SAFE or DEADLY?",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/chlorine-dioxide-trial-covid-19-cure-andreas-kalcker.png,"You won’t hear this kind of interview anywhere else, period. This is pro-human, pro-science and pro-truth. That’s why Facebook has now banned the sharing of all Brighteon.com video links in order to suppress this information. So when you share this with others, send it to them via email or text, or use Gab.com or AllSocial.com for uncensored social media sharing.
 
 This interview brings you truly critical, pro-human information that’s now being banned by all the techno-fascist platforms, including Facebook , YouTube, Google, Apple, Vimeo and Twitter. They don’t want you to know the truth about chlorine dioxide treatment trials or the dangers of a rushed, “warp speed” coronavirus vaccine.
@@ -1060,7 +1060,7 @@ TruthWiki.org
 
 Search engine:
 
-Webseed.com",12.5,Very low,,USA
+Webseed.com",12.5,Very low,,USA,0
 20,https://www.naturalnews.com/2020-05-20-plandemic-video-super-viral-brighteon-facebook-banning-cleansing-content-wuhan-coronavirus.html,Natural News,2020-05-20,['Mike Adams'],"After “Plandemic” video goes super viral on Brighteon.com, Facebook bans all Brighteon links, regardless of content",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/plandemic.png,"(Natural News) Facebook has initiated a whole new level of tyranny and censorship to try to eliminate any information about the Wuhan coronavirus that disagrees with the World Health Organization, which is largely run by communist China and is currently led by a former member of a violent communist group.
 
 Late last night, Facebook began banning all links from Brighteon.com, regardless of the content of the videos, claiming that videos about gardening and smoothie recipes and backyard chickens now violate Facebook’s “community guidelines.”
@@ -1123,7 +1123,7 @@ No, you won’t be able to share this story on Facebook. That’s by design. You
 
 Trump.news/2020-05-20-plandemic-video-super-viral-brighteon-facebook-banning-cleansing-content-wuhan-coronavirus.html
 
-Help us protest Facebook’s punitive, illegal blacklisting of Brighteon and NaturalNews by taking action at this link. Thank you for your support.",12.5,Very low,,USA
+Help us protest Facebook’s punitive, illegal blacklisting of Brighteon and NaturalNews by taking action at this link. Thank you for your support.",12.5,Very low,,USA,0
 21,https://naturalnewsblogs.com/are-cancer-patients-at-higher-risk-of-covid-19-what-can-we-do/,Natural News,2020-04-03,['Karen Berrios'],Are cancer patients at higher risk of COVID-19? What can we do?,https://naturalnewsblogs.com/wp-content/uploads/2016/05/Cancer-Cell-Attack-Body-Virus-Bacteria.jpg,"It is incredible, to say the least, everything that is happening worldwide. Undoubtedly it is hard to believe that this is even real. Sometimes I think we are in a bad dream hoping to wake up soon. As a mother, the first thing that comes to mind is my family’s safety. Understanding and implementing every precaution possible to protect my children is my top priority. Of course, due to my personal journey and now as a wellness blogger and health advocate I can’t help to wonder how much of impact this COVID-19 disease may have on cancer patients.
 
 We already know that cancer patients are immune-compromised, to begin with. Therefore, cancer patients automatically fall in the higher risk category. But what about those that are in the treatment and those that are in remission? According to a small study conducted in Wuhan, China, “Cancer patients show deteriorating conditions and poor outcomes from the COVID-19 infection,” the study, which was recently published in the Annals of Oncology, states. “It is recommended that cancer patients receiving anti-tumor treatments should have vigorous screening for COVID-19 infection and should avoid treatments causing immunosuppression or have their dosages decreased in case of COVID-19 co-infection.”
@@ -1178,7 +1178,7 @@ Colloidal Silver
 
 Water
 
-If you like to learn more about each one of those recommendations read my article on “How to fight the Coronavirus Naturally.” I hope you find this blog article helpful and as always I welcome your comments and I really appreciate you sharing your experiences with me. Sending much love, blessings, peace and protection prayers for you and your families. Stay strong, stay safe, and stay healthy.",12.5,Very low,,USA
+If you like to learn more about each one of those recommendations read my article on “How to fight the Coronavirus Naturally.” I hope you find this blog article helpful and as always I welcome your comments and I really appreciate you sharing your experiences with me. Sending much love, blessings, peace and protection prayers for you and your families. Stay strong, stay safe, and stay healthy.",12.5,Very low,,USA,0
 22,https://naturalnewsblogs.com/how-to-fight-the-coronavirus-naturally/,Natural News,2020-03-27,['Karen Berrios'],How to Fight the Coronavirus Naturally,https://naturalnewsblogs.com/wp-content/uploads/2013/06/Vitamin-D-Fruits.jpg,"As this global concern grows by the minute so should your concern to take action into protecting yourself and your loved ones from this worldwide threat. According to the most recently published article by JAMA (An International peer-reviewed medical journal association), the Coronavirus disease 2019 (COVID-19) is a respiratory illness that results from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. Furthermore, the article shares that following initial reports of disease outbreak in China, COVID-19 has spread worldwide with cases identified in at least 67 countries across 6 continents. So if this is an acute respiratory illness why is the world-wide population running out of toilet paper? Ok, I must admit this is funny but not really!
 
 What is coronavirus disease 2019?
@@ -1289,4 +1289,4 @@ Conclusion
 
 I sincerely hope you have found this article helpful and as always I encourage you to send me your comments in the box below. Sending you lots of love and peace during this difficult season. Stay safe and stay healthy!
 
-“May the Lord turn His face toward you and give you peace” Numbers 6:26",12.5,Very low,,USA
+“May the Lord turn His face toward you and give you peace” Numbers 6:26",12.5,Very low,,USA,0
