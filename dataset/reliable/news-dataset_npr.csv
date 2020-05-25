@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://www.npr.org/sections/coronavirus-live-updates/2020/05/17/857512288/obama-malala-jonas-brothers-send-off-class-of-2020-in-virtual-graduation,National Public Radio (NPR),2020-05-17,['Emma Bowman'],"Obama, Malala, Jonas Brothers Send Off Class Of 2020 In Virtual Graduation",https://media.npr.org/assets/img/2020/05/17/gettyimages-1225292515_wide-0f5fcc59771ededddf6dc140c508a0a645260886.jpg?s=1400,"Obama, Malala, Jonas Brothers Send Off Class Of 2020 In Virtual Graduation
 
 Enlarge this image toggle caption Getty Images for EIF & XQ Getty Images for EIF & XQ
@@ -45,7 +45,7 @@ Musicians stepped in front of green screens that featured videos of seniors danc
 
 Broadway star Ben Platt and his brothers, Henry and Jonah Platt, sang an a cappella medley of popular graduation anthems — supported by students' backing vocals — including Vitamin C's ""Graduation (Friends Forever)"" and the Beatles' ""In My Life.""
 
-The Jonas Brothers closed out the show with a new song, ""X,"" featuring Karol G, joined by students dancing in sync via video.",100,Very high,Center,USA
+The Jonas Brothers closed out the show with a new song, ""X,"" featuring Karol G, joined by students dancing in sync via video.",100,Very high,Center,USA,1
 1,https://www.npr.org/2020/05/17/852719312/she-wasn-t-alone-a-doctor-reflects-on-new-york-city-s-coronavirus-peak,National Public Radio (NPR),2020-05-17,['Meg Anderson'],"'She Wasn't Alone,' A Doctor Reflects On New York City's Coronavirus Peak",https://media.npr.org/assets/img/2020/05/13/covid_diary_drlorenzoni_015_wide-989bcccdb476b3af83ea577582ccc8d8e1faa7f4.jpg?s=1400,"'She Wasn't Alone,' A Doctor Reflects On New York City's Coronavirus Peak
 
 Enlarge this image toggle caption Elias Williams for NPR Elias Williams for NPR
@@ -110,7 +110,7 @@ Many of the people who have died from COVID-19 in New York had underlying health
 
 ""These are people that we know. These are people that we're related to,"" he says. ""It's either yourself, or your neighbor, or people that you work with.""
 
-Hospitalizations and deaths from COVID-19 have been decreasing for a few weeks now in New York, and Lorenzoni is back on pediatrics. It's a welcome relief for now, but he says if there's another surge, he could be called back.",100,Very high,Center,USA
+Hospitalizations and deaths from COVID-19 have been decreasing for a few weeks now in New York, and Lorenzoni is back on pediatrics. It's a welcome relief for now, but he says if there's another surge, he could be called back.",100,Very high,Center,USA,1
 2,https://www.npr.org/sections/coronavirus-live-updates/2020/05/17/857612249/pharma-bro-martin-shkreli-denied-release-from-prison-to-research-coronavirus-cur,National Public Radio (NPR),2020-05-17,['Jason Slotkin'],'Pharma Bro' Martin Shkreli Denied Release From Prison To Research Coronavirus Cure,https://media.npr.org/assets/img/2020/05/17/ap_17181832761201_wide-e3c2452c89d5957baeccb226f24e08d1be928c39.jpg?s=1400,"'Pharma Bro' Martin Shkreli Denied Release From Prison To Research Coronavirus Cure
 
 Enlarge this image toggle caption Greg Allen/Greg Allen/Invision/AP Greg Allen/Greg Allen/Invision/AP
@@ -133,7 +133,7 @@ In her ruling, Matsumoto cited the fraud conviction — and Shkreli's public beh
 
 ""With regard to the nature and circumstances of his offenses, defendant intentionally deceived and manipulated individual and public investors, and before sentencing, made disparaging remarks about the government and the sentencing process that showed little regard for the rule of law,"" the judge said.
 
-Shkreli is currently serving a seven-year sentence.",100,Very high,Center,USA
+Shkreli is currently serving a seven-year sentence.",100,Very high,Center,USA,1
 3,https://www.npr.org/2020/05/17/856767177/coronavirus-may-mean-lights-out-for-summer-camps-this-year,National Public Radio (NPR),2020-05-17,['Tovia Smith'],Coronavirus May Mean Lights Out For Summer Camps This Year,https://media.npr.org/assets/img/2020/05/15/gettyimages-511095945_wide-3c47da3d9b7bb75824988b0dcbb1e62cec08a5d9.jpg?s=1400,"Coronavirus May Mean Lights Out For Summer Camps This Year
 
 Enlarge this image toggle caption PeopleImages/E+/Getty Images PeopleImages/E+/Getty Images
@@ -188,7 +188,7 @@ The prospect of a watered-down camp experience gives pause even to die-hard camp
 
 ""Trust me, I want camp more than anyone,"" said Sasha. ""It's just that we can't have camp like this. Like it's taunting us.""
 
-A month ago, Amanda said, her friends were all in favor of going to camp this summer no matter what. But now, she said, rather than a heavily compromised and shortened 2020, most would rather wait and have a ""normal"" summer in 2021.",100,Very high,Center,USA
+A month ago, Amanda said, her friends were all in favor of going to camp this summer no matter what. But now, she said, rather than a heavily compromised and shortened 2020, most would rather wait and have a ""normal"" summer in 2021.",100,Very high,Center,USA,1
 4,https://www.npr.org/sections/goatsandsoda/2020/05/17/856016429/senegal-pledges-a-bed-for-every-coronavirus-patient-and-their-contacts-too,National Public Radio (NPR),2020-05-17,['Ricci Shryock'],"Senegal Pledges A Bed For Every Coronavirus Patient — And Their Contacts, Too",https://media.npr.org/assets/img/2020/05/15/gettyimages-1210807226-10_wide-19b6be9e43f6324fb0ab1db4a2589fc4ba839382.jpg?s=1400,"Senegal Pledges A Bed For Every Coronavirus Patient — And Their Contacts, Too
 
 Enlarge this image toggle caption John Wessels /AFP via Getty Images John Wessels /AFP via Getty Images
@@ -257,7 +257,7 @@ He's also realistic about how hard that might be.
 
 ""We can stop the fire in our country but the fire is still going in other countries.."" he says, trailing off before he has to run to another urgent meeting.
 
-Ricci Shryock is a freelance photographer and journalist based in Dakar, Senegal. Follow her on Instagram at @ricci_s.",100,Very high,Center,USA
+Ricci Shryock is a freelance photographer and journalist based in Dakar, Senegal. Follow her on Instagram at @ricci_s.",100,Very high,Center,USA,1
 5,https://www.npr.org/2020/05/16/857110011/veterans-see-caregivers-as-even-more-crucial-in-the-covid-19-era,National Public Radio (NPR),2020-05-16,['Quil Lawrence'],Veterans See Caregivers As Even More Crucial In The COVID-19 Era,https://media.npr.org/assets/img/2020/05/15/vaquil_wide-2b6a72a66830c809e2fb7e4862f1f0db9ec05787.jpg?s=1400,"Veterans See Caregivers As Even More Crucial In The COVID-19 Era
 
 Enlarge this image toggle caption Courtesy of Rob Grier Courtesy of Rob Grier
@@ -306,7 +306,7 @@ He says VA shouldn't need a new IT system to see that a triple amputee like Joyn
 
 Kabat says it's crucial for the VA to be transparent in how it implements the caregiver expansion.
 
-""If I'm the caregiver of a veteran, I have to have a sense of whether we're going to qualify even before we apply. To do that VA has to make it crystal clear, more black and white,"" Kabat says. ""It's a trade-off, though. The result of that may be that some veterans who were in the program previously may no longer meet that criteria.""",100,Very high,Center,USA
+""If I'm the caregiver of a veteran, I have to have a sense of whether we're going to qualify even before we apply. To do that VA has to make it crystal clear, more black and white,"" Kabat says. ""It's a trade-off, though. The result of that may be that some veterans who were in the program previously may no longer meet that criteria.""",100,Very high,Center,USA,1
 6,https://www.npr.org/sections/health-shots/2020/03/16/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s,National Public Radio (NPR),2020-03-16,"['Daniel Wood', 'Elena Renken']",Tracking The Pandemic: How Quickly Is The Coronavirus Spreading State By State?,https://media.npr.org/assets/img/2020/05/10/us-map-promo-0510_wide-2d2c268fcf63e123fa26e808804daf6e35944b1f.png?s=1400,"Tracking The Pandemic: How Quickly Is The Coronavirus Spreading State By State?
 
 This page is updated regularly.
@@ -341,7 +341,7 @@ Loading...
 
 The data used here are compiled by the Center for Systems Science and Engineering at Johns Hopkins University from several sources, including the Centers for Disease Control and Prevention; the World Health Organization; national, state and local government health departments; 1point3acres; and local media reports. The JHU team automates its data uploads and regularly checks them for anomalies. State-by-state testing and hospitalization data are still being assessed for reliability. State-by-state recovery data are unavailable at this time. There may be discrepancies between what you see here and what you see on your local health department's website.
 
-Stephanie Adeline, Alyson Hurt, Connie Hanzhang Jin, Ruth Talbot and Thomas Wilburn contributed to this story.",100,Very high,Center,USA
+Stephanie Adeline, Alyson Hurt, Connie Hanzhang Jin, Ruth Talbot and Thomas Wilburn contributed to this story.",100,Very high,Center,USA,1
 7,https://www.npr.org/sections/goatsandsoda/2020/03/30/822491838/coronavirus-world-map-tracking-the-spread-of-the-outbreak,National Public Radio (NPR),2020-03-30,"['Daniel Wood', 'Stephanie Adeline', 'Ruth Talbot']",Coronavirus World Map: Tracking The Spread Of The Outbreak,https://media.npr.org/assets/img/2020/05/02/seamus-coronavirus-d3-world-map-20200323_wide-8b220cdad15a9d3ae39b0c9830e793d5ddc46ef0.png?s=1400,"Coronavirus World Map: Tracking The Spread Of The Outbreak
 
 This page is updated regularly.
@@ -364,7 +364,7 @@ This particular virus, officially known as SARS-CoV-2, is only the third strain 
 
 Click here to see the state-by-state breakdown of cases in the United States.
 
-This story was originally published on March 30, 2020.",100,Very high,Center,USA
+This story was originally published on March 30, 2020.",100,Very high,Center,USA,1
 8,https://www.npr.org/sections/coronavirus-live-updates/2020/05/16/857415236/gop-officials-say-theyre-expecting-50-000-in-charlotte-for-republican-convention,National Public Radio (NPR),2020-05-16,['Sarah Mccammon'],"GOP Officials Say They're Expecting 50,000 In Charlotte For Republican Convention",https://media.npr.org/assets/img/2020/05/16/gettyimages-687193138_wide-92a1e7fb1da4fccd2dd1b4119d7b8e9bccbfc0ad.jpg?s=1400,"GOP Officials Say They're Expecting 50,000 In Charlotte For Republican Convention
 
 Enlarge this image toggle caption David Hume Kennerly/Getty Images David Hume Kennerly/Getty Images
@@ -393,7 +393,7 @@ Democrats have already taken steps to allow delegates to participate remotely an
 
 In an interview with NPR, the Democratic convention's chief executive, Joe Solmonese, said it's too soon for organizers to know exactly how plans will need to be adjusted because of the virus.
 
-""How many people we do that in front of, how many hotel rooms we occupy in the city of Milwaukee, how many buses and what sort of security infrastructure we end up having in terms of the uncertainty of the public health environment remains to be seen,"" Solmonese said.",100,Very high,Center,USA
+""How many people we do that in front of, how many hotel rooms we occupy in the city of Milwaukee, how many buses and what sort of security infrastructure we end up having in terms of the uncertainty of the public health environment remains to be seen,"" Solmonese said.",100,Very high,Center,USA,1
 9,https://www.npr.org/sections/coronavirus-live-updates/2020/05/16/857157196/bike-sales-gear-up-as-the-homebound-try-socially-distant-exercise,National Public Radio (NPR),2020-05-16,['James Doubek'],Bike Sales Gear Up As The Homebound Try Socially Distant Exercise,https://media.npr.org/assets/img/2020/05/16/ap_20133726918175_wide-6d3aee52b3feae3b00c5f5a7a45a4507552b5bf2.jpg?s=1400,"Bike Sales Gear Up As The Homebound Try Socially Distant Exercise
 
 Enlarge this image toggle caption Tony Dejak/AP Tony Dejak/AP
@@ -430,7 +430,7 @@ The vast majority of bicycles and parts in the U.S. come from China. But the Tru
 
 Many bike products have since been granted exclusions to tariffs, but the exclusions are set to expire in August and September.
 
-""The industry is generally worried that if those exclusions expire, those additional tariffs will be put back on those products,"" Lommele says. ""And that will really harm our ability to provide a safe, low-cost product to Americans who want to ride bikes.""",100,Very high,Center,USA
+""The industry is generally worried that if those exclusions expire, those additional tariffs will be put back on those products,"" Lommele says. ""And that will really harm our ability to provide a safe, low-cost product to Americans who want to ride bikes.""",100,Very high,Center,USA,1
 10,https://www.npr.org/2020/05/15/854774681/congress-has-approved-3-trillion-for-coronavirus-relief-so-far-heres-a-breakdown,National Public Radio (NPR),2020-05-15,['Kelsey Snell'],Here's How Much Congress Has Approved For Coronavirus Relief So Far And What It's For,https://media.npr.org/assets/img/2020/05/15/screen-shot-2020-05-15-at-12.22.55-pm_wide-ac9f131b66be11e9fa04d0bbd8d3592682ab421c.png?s=1400,"Here's How Much Congress Has Approved For Coronavirus Relief So Far And What It's For
 
 Loading...
@@ -553,7 +553,7 @@ Child nutrition: There is $8.8 billion in the CARES Act to give schools more fle
 
 Food stamps: CARES also included $15.5 billion for the Supplemental Nutrition Assistance Program, also known as SNAP. The money will help cover the expected cost of new applications to the program as a result of the coronavirus. That bill also included $450 million more for food banks and other community food distribution programs.
 
-Government administration: CARES included $10 billion in lending for the Postal Service, the Families First Coronavirus bill gave the IRS $15 million to implement programs – the filing date was extended to July 15.",100,Very high,Center,USA
+Government administration: CARES included $10 billion in lending for the Postal Service, the Families First Coronavirus bill gave the IRS $15 million to implement programs – the filing date was extended to July 15.",100,Very high,Center,USA,1
 11,https://www.npr.org/sections/coronavirus-live-updates/2020/05/15/857165715/us-vs-them-in-a-pandemic-researchers-warn-divisions-could-get-dangerous,National Public Radio (NPR),2020-05-15,['Hannah Allam'],'Us Vs. Them' In A Pandemic: Researchers Warn Divisions Could Get Dangerous,https://media.npr.org/assets/img/2020/05/15/protest_wide-23ea4a1aa95b430c94e084183dcc5ffac7d92108.jpg?s=1400,"'Us Vs. Them' In A Pandemic: Researchers Warn Divisions Could Get Dangerous
 
 Enlarge this image toggle caption Paul Sancya/AP Paul Sancya/AP
@@ -578,7 +578,7 @@ Phillips said Beyond Conflict, in conjunction with the University of Pennsylvani
 
 ""When we see the armed militia in Michigan, when we see people sort of defying the police — not just mayors and governors — to open up their stores or open up other locations, we tend to think that that's representative of the other side, that they must all think that way,"" Phillips said.
 
-""And yet there's polling in the last two weeks, last week, in the United States that across the Republican-Democratic divide, the majority of Americans recognize that there's a public health crisis and we have to do something about it.""",100,Very high,Center,USA
+""And yet there's polling in the last two weeks, last week, in the United States that across the Republican-Democratic divide, the majority of Americans recognize that there's a public health crisis and we have to do something about it.""",100,Very high,Center,USA,1
 12,https://www.npr.org/sections/coronavirus-live-updates/2020/05/13/855096128/alaskan-grocer-takes-longer-to-stock-supplies-because-of-covid-19-restrictions,National Public Radio (NPR),2020-05-13,"['Emma Bowman', 'Chad Campbell']",14 Hours And A Costco Card: How A Grocer In Alaska Feeds His Town In A Pandemic,https://media.npr.org/assets/img/2020/05/14/gettyimages-521871010_wide-c23b146729b1cb1777e39e42fe329a44499b4f18.jpg?s=1400,"14 Hours And A Costco Card: How A Grocer In Alaska Feeds His Town In A Pandemic
 
 Enlarge this image toggle caption Steve Proehl/Getty Images Steve Proehl/Getty Images
@@ -613,7 +613,7 @@ In the comments, grateful customers express their thanks.
 
 ""We are fortunate to have such dedicated people keeping us fed and supplied,"" wrote one commenter. ""Stoked for flour!!!!"" wrote another.
 
-As the country faces meat shortages triggered by plant shutdowns and outbreaks amid suppliers, the general store is looking ahead. Last week, ToshCo notified its customers that it's stocked aplenty with ammunition for hunting.",100,Very high,Center,USA
+As the country faces meat shortages triggered by plant shutdowns and outbreaks amid suppliers, the general store is looking ahead. Last week, ToshCo notified its customers that it's stocked aplenty with ammunition for hunting.",100,Very high,Center,USA,1
 13,https://www.npr.org/sections/coronavirus-live-updates/2020/05/12/852376351/there-was-so-little-information-polio-survivors-offer-pandemic-perspective,National Public Radio (NPR),2020-05-12,['Apoorva Mittal'],'There Was So Little Information': Polio Survivors Offer Pandemic Perspective,https://media.npr.org/assets/img/2020/05/12/pinkney_3_wide-c3e76e9f1657091b6756e782768f3e11b38d1447.jpg?s=1400,"'There Was So Little Information': Polio Survivors Offer Pandemic Perspective
 
 Enlarge this image toggle caption Erick Williams, George Theoharis, Takashi Yagihashi Erick Williams, George Theoharis, Takashi Yagihashi
@@ -656,7 +656,7 @@ Dr. Jonas Salk began work on a live virus vaccine in 1947. And in 1955, a safe a
 
 Now, riding through another epidemic, Pinkney says that a coronavirus vaccine may not instantly reverse things to normalcy but ""there will be a great sense of relief.""
 
-And surviving that earlier epidemic has given her perspective: ""I live with hope and I live with anticipation that we will [get] on the other side of this. I don't know what it looks like. It doesn't even matter, as long as people are not getting sick and people are not dying.""",100,Very high,Center,USA
+And surviving that earlier epidemic has given her perspective: ""I live with hope and I live with anticipation that we will [get] on the other side of this. I don't know what it looks like. It doesn't even matter, as long as people are not getting sick and people are not dying.""",100,Very high,Center,USA,1
 14,https://www.npr.org/2020/05/12/854879092/south-korea-postpones-school-reopening-as-the-number-of-new-coronavirus-cases-so,National Public Radio (NPR),2020-05-12,['Anthony Kuhn'],South Korea Postpones School Reopening As The Number Of New Coronavirus Cases Soars,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"South Korea Postpones School Reopening As The Number Of New Coronavirus Cases Soars
 
 South Korea planned to reopen schools on Wednesday. But with a new spike in cases, the country has had to delay school starting by a week and close down all bars and clubs.
@@ -697,7 +697,7 @@ Anthony Kuhn, NPR News, Seoul.
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 15,https://www.npr.org/2020/05/12/854735065/house-democrats-unveil-3-trillion-proposal-for-coronavirus-relief,National Public Radio (NPR),2020-05-12,"['Claudia Grisales', 'Kelsey Snell', 'Susan Davis']",House Democrats Unveil $3 Trillion Proposal For Coronavirus Relief,https://media.npr.org/assets/img/2020/05/12/ap_20133558178074_wide-0640ed8d1abb1106c604ff3a9e54159a0c5ef76b.jpg?s=1400,"House Democrats Unveil $3 Trillion Proposal For Coronavirus Relief
 
 Enlarge this image toggle caption Steven Senne/AP Steven Senne/AP
@@ -746,7 +746,7 @@ The plan ""is a further response to this unprecedented challenge to our people, 
 
 The House is also planning to vote separately on Friday on a Democratic plan that would allow some members to vote by proxy when they are unable to return to the Capitol because of the health crisis. The proposal also sets up procedures for lawmakers to participate in hearings remotely.
 
-The House Rules Committee is slated to take up the funding bill, as well as the remote voting and hearings bill, on Thursday to ready the measures for Friday's floor action.",100,Very high,Center,USA
+The House Rules Committee is slated to take up the funding bill, as well as the remote voting and hearings bill, on Thursday to ready the measures for Friday's floor action.",100,Very high,Center,USA,1
 16,https://www.npr.org/sections/coronavirus-live-updates/2020/05/11/854014516/health-officials-close-colorado-cafe-that-hosted-a-huge-crowd-on-mothers-day,National Public Radio (NPR),2020-05-11,['Bill Chappell'],A Colorado Restaurant Hosted A Crowd On Mother's Day. It's Now Been Closed Down,https://media.npr.org/assets/img/2020/05/11/coronavirus-restaurant-coffee-colorado_wide-8de53fd94346527a361420c2381186a967dddec7.jpg?s=1400,"A Colorado Restaurant Hosted A Crowd On Mother's Day. It's Now Been Closed Down
 
 Enlarge this image toggle caption Nick Puckett/via Reuters Nick Puckett/via Reuters
@@ -795,7 +795,7 @@ Arellano's decision to reopen her restaurant at full capacity came days after th
 
 On Friday, Polis said restaurants may be able to reopen by the time Memorial Day weekend arrives at the end of May, depending on the latest data about the coronavirus outbreak.
 
-In a news conference Monday afternoon, Polis said a decision on opening restaurants will be made on May 25.",100,Very high,Center,USA
+In a news conference Monday afternoon, Polis said a decision on opening restaurants will be made on May 25.",100,Very high,Center,USA,1
 17,https://www.npr.org/sections/coronavirus-live-updates/2020/05/10/853538566/boris-johnson-outlines-plan-to-ease-coronavirus-restrictions-in-u-k,National Public Radio (NPR),2020-05-10,['Hannah Hagemann'],Boris Johnson Outlines Plan To Ease Coronavirus Restrictions In England,https://media.npr.org/assets/img/2020/05/10/johnsonyeeyey_wide-440fbee26efaf4377dfe29246442ca032b68421b.jpg?s=1400,"Boris Johnson Outlines Plan To Ease Coronavirus Restrictions In England
 
 Enlarge this image toggle caption Andrew Parsons/AP Andrew Parsons/AP
@@ -830,7 +830,7 @@ Johnson said during his Sunday address that he had ""consulted across the politi
 
 But leaders in Scotland, Northern Ireland and Wales have rejected his new messaging on coronavirus restrictions, which advises, ""stay alert, control the virus, save lives."" As the BBC reported, they are sticking with the message, ""stay at home.""
 
-""We mustn't squander our progress by easing up too soon or by sending mixed messages that result in people thinking that it's okay to ease up,"" said Nicola Sturgeon, Scotland's first minister. ""Now, let me be very blunt about the consequences if we were to do that. People will die unnecessarily.""",100,Very high,Center,USA
+""We mustn't squander our progress by easing up too soon or by sending mixed messages that result in people thinking that it's okay to ease up,"" said Nicola Sturgeon, Scotland's first minister. ""Now, let me be very blunt about the consequences if we were to do that. People will die unnecessarily.""",100,Very high,Center,USA,1
 18,https://www.npr.org/2020/05/11/852645612/in-coronavirus-war-of-words-china-pulls-no-punches,National Public Radio (NPR),2020-05-11,"['Emily Feng', 'Amy Cheng']","In Coronavirus War Of Words With The U.S., China Pulls No Punches",https://media.npr.org/assets/img/2020/05/11/gettyimages-1206421934_wide-2711d6bd073d4c2445e2d201ddff950966d68b85.jpg?s=1400,"In Coronavirus War Of Words With The U.S., China Pulls No Punches
 
 Enlarge this image toggle caption Kevin Frayer/Getty Images Kevin Frayer/Getty Images
@@ -885,7 +885,7 @@ Instead of collaborating on a global health crisis, the two countries are now ev
 
 The voices of reason are increasingly being censored and silenced in China, leaving only those at the extremes of the political spectrum, Zi lamented.
 
-""And as for the ignorant and the shameless online thugs,"" she wrote, ""well, they get a free pass.""",100,Very high,Center,USA
+""And as for the ignorant and the shameless online thugs,"" she wrote, ""well, they get a free pass.""",100,Very high,Center,USA,1
 19,https://www.npr.org/sections/coronavirus-live-updates/2020/05/10/853378193/in-time-for-mothers-day-belgium-will-allow-up-to-4-guests-at-home,National Public Radio (NPR),2020-05-10,['Teri Schultz'],"In Time For Mother's Day, Belgium Will Allow Up To 4 Guests At Home",https://media.npr.org/assets/img/2020/05/09/ap_20118764712260_wide-02ed06a567511f388300f5bd831d904879919173.jpg?s=1400,"In Time For Mother's Day, Belgium Will Allow Up To 4 Guests At Home
 
 Enlarge this image toggle caption Francisco Seco/AP Francisco Seco/AP
@@ -918,7 +918,7 @@ Veronique Petit says she and her husband will do some creative counting so that 
 
 ""It's impossible"" to follow these rules, Petit says in exasperation. ""So we're going to cheat a little. I think all Belgians are going to cheat.""
 
-Police have admitted they won't be able to verify whether visitations are being carried out correctly, but authorities say if infections spike, restrictions will have to be tightened again.",100,Very high,Center,USA
+Police have admitted they won't be able to verify whether visitations are being carried out correctly, but authorities say if infections spike, restrictions will have to be tightened again.",100,Very high,Center,USA,1
 20,https://www.npr.org/sections/coronavirus-live-updates/2020/05/08/852487751/how-a-virtual-powwow-helped-heal-a-spirit-broken-during-the-pandemic,National Public Radio (NPR),2020-05-08,"['Rose Friedman', 'Ted Robbins']",How A Virtual Powwow Helped Heal A Spirit Broken During The Pandemic,https://media.npr.org/assets/img/2020/05/07/oxendine_wide-991332b2b6ad215c2f1e82322d1ab851052a2c63.jpg?s=1400,"How A Virtual Powwow Helped Heal A Spirit Broken During The Pandemic
 
 Enlarge this image toggle caption Courtesy of Kay Oxendine Courtesy of Kay Oxendine
@@ -951,7 +951,7 @@ So Oxendine got up and danced.
 
 It was just what her spirit needed.
 
-""It was it was just the most beautiful thing I think I've ever encountered. It helped me. It really helped me heal a lot.""",100,Very high,Center,USA
+""It was it was just the most beautiful thing I think I've ever encountered. It helped me. It really helped me heal a lot.""",100,Very high,Center,USA,1
 21,https://www.npr.org/2020/05/06/851019441/the-irs-sent-coronavirus-relief-payments-to-dead-people,National Public Radio (NPR),2020-05-06,['Tim Mak'],The IRS Sent Coronavirus Relief Payments To Dead People,https://media.npr.org/assets/img/2020/05/05/gettyimages-1221870440_wide-fe781a78f1040842f55134557b7200fd37ebf909.jpg?s=1400,"The IRS Sent Coronavirus Relief Payments To Dead People
 
 Enlarge this image toggle caption Chip Somodevilla/Getty Images Chip Somodevilla/Getty Images
@@ -998,7 +998,7 @@ After multiple requests, the IRS declined to answer questions and directed them 
 
 Wednesday morning, after this story first published, the Treasury Department told NPR that payments made to people who died before the payment was received should be returned to the IRS, and it published instructions on its website.
 
-Huo Jingnan contributed to this report.",100,Very high,Center,USA
+Huo Jingnan contributed to this report.",100,Very high,Center,USA,1
 22,https://www.npr.org/sections/coronavirus-live-updates/2020/04/30/848856259/passengers-must-wear-masks-on-major-airlines-to-cut-spread-of-coronavirus,National Public Radio (NPR),2020-04-30,['David Schaper'],Passengers Must Wear Masks On Major Airlines To Cut Spread Of Coronavirus,https://media.npr.org/assets/img/2020/04/30/gettyimages-1211379693_wide-8983c4e073308751db5ea361f11f78370d479a7e.jpg?s=1400,"Passengers Must Wear Masks On Major Airlines To Cut Spread Of Coronavirus
 
 Enlarge this image toggle caption Greg Baker/AFP via Getty Images Greg Baker/AFP via Getty Images
@@ -1031,7 +1031,7 @@ Earnest would not say if the airline will deny boarding to passengers who refuse
 
 Earnest added that social norms are changing to the new coronavirus realities, ""and I think those changing norms will carry over into the social environment on board an aircraft.""
 
-Delta will make masks mandatory on Monday, too. Frontier's requirement goes into effect May 8, and American will require passengers to wear masks as of May 11.",100,Very high,Center,USA
+Delta will make masks mandatory on Monday, too. Frontier's requirement goes into effect May 8, and American will require passengers to wear masks as of May 11.",100,Very high,Center,USA,1
 23,https://www.npr.org/sections/coronavirus-live-updates/2020/04/30/848144570/los-angeles-city-and-county-offer-free-coronavirus-testing-to-all-residents,National Public Radio (NPR),2020-04-30,['Scott Neuman'],Los Angeles City And County Offer Free Coronavirus Testing To All Residents,https://media.npr.org/assets/img/2020/04/30/ap_20121082615552_wide-51aef5b18b06735f5bf50c7c38b5e17d3619e1ac.jpg?s=1400,"Los Angeles City And County Offer Free Coronavirus Testing To All Residents
 
 Enlarge this image toggle caption Marcio Jose Sanchez/AP Marcio Jose Sanchez/AP
@@ -1056,7 +1056,7 @@ But he added that people showing symptoms would still be given priority for test
 
 Garcetti said Los Angeles currently accounts for about 9% of all the tests nationwide.
 
-NPR's Adrian Florido in Los Angeles contributed to this report.",100,Very high,Center,USA
+NPR's Adrian Florido in Los Angeles contributed to this report.",100,Very high,Center,USA,1
 24,https://www.npr.org/sections/health-shots/2020/04/30/847416695/a-next-generation-coronavirus-test-raises-hopes-and-concerns,National Public Radio (NPR),2020-04-30,['Rob Stein'],A Next-Generation Coronavirus Test Raises Hopes And Concerns,https://media.npr.org/assets/img/2020/04/29/antigen-1_wide-17d355a0f0db82b283ce1ed9d00fe7e590be88c5.jpg?s=1400,"A Next-Generation Coronavirus Test Raises Hopes And Concerns
 
 Enlarge this image toggle caption Sergii Iaremenko/Science Photo Library/Getty Images Sergii Iaremenko/Science Photo Library/Getty Images
@@ -1119,7 +1119,7 @@ In an email, the company's medical director, Joe Fitchett, noted that genetic te
 
 During a briefing Wednesday announcing a $1.5 billion effort to speed the development of new coronavirus tests, National Institutes of Health Director Francis Collins said it could be possible to develop reliable antigen tests.
 
-""While traditionally, antigen-based tests have lower sensitivity and specificity than do nucleic acid tests, I don't believe there's any law of physics that says that has to be the case,"" Collins said.",100,Very high,Center,USA
+""While traditionally, antigen-based tests have lower sensitivity and specificity than do nucleic acid tests, I don't believe there's any law of physics that says that has to be the case,"" Collins said.",100,Very high,Center,USA,1
 25,https://www.npr.org/sections/coronavirus-live-updates/2020/04/28/847457974/hospital-ship-usns-comfort-scheduled-to-sail-from-new-york-city,National Public Radio (NPR),2020-04-28,['Philip Ewing'],Hospital Ship USNS Comfort Scheduled To Sail From New York City,https://media.npr.org/assets/img/2020/04/28/200423-n-om642-1022_wide-fa07748dd727a5fa92e6d3a506fc3f063c96cee8.jpeg?s=1400,"Hospital Ship USNS Comfort Scheduled To Sail From New York City
 
 Enlarge this image toggle caption Chief Petty Officer Gary Keen/U.S. Navy Chief Petty Officer Gary Keen/U.S. Navy
@@ -1138,7 +1138,7 @@ The ship's roughly 1,000 patient beds were first to be used as spillover capacit
 
 Later, New York Gov. Andrew Cuomo and public health officials asked that the ship, which had not seen many cases, begin taking suspected pandemic patients, the first of which came aboard on April 6. There was no immediately available accounting about how many total patients the Comfort accommodated during its deployment to New York.
 
-The Comfort's sibling, the West Coast-based hospital ship USNS Mercy, deployed to Los Angeles to help with the pandemic there. The crew of the Mercy also had to try to manage a COVID-19 outbreak among its own personnel.",100,Very high,Center,USA
+The Comfort's sibling, the West Coast-based hospital ship USNS Mercy, deployed to Los Angeles to help with the pandemic there. The crew of the Mercy also had to try to manage a COVID-19 outbreak among its own personnel.",100,Very high,Center,USA,1
 26,https://www.npr.org/2020/04/14/834460094/human-life-is-literally-quieter-due-to-coronavirus-lockdown,National Public Radio (NPR),2020-04-14,[],Human Life Is Literally Quieter Due To Coronavirus Lockdown,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"Human Life Is Literally Quieter Due To Coronavirus Lockdown
 
 Humans around the world are stuck inside due to the coronavirus. How is the natural world reacting in the absence of all the noise we usually make?
@@ -1239,7 +1239,7 @@ SHAPIRO: That's Abby Wendle. The new season of NPR's Invisibilia is out now. You
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 27,https://www.npr.org/sections/health-shots/2020/04/20/837120101/coronavirus-crisis-spurs-access-to-online-treatment-for-opioid-addiction,National Public Radio (NPR),2020-04-20,['Phil Galewitz'],Coronavirus Crisis Spurs Access To Online Treatment For Opioid Addiction,https://media.npr.org/assets/img/2020/04/17/gettyimages-530530538_wide-607672362fa1bc656b716584e517150820827143.jpg?s=1400,"Coronavirus Crisis Spurs Access To Online Treatment For Opioid Addiction
 
 Enlarge this image toggle caption Ian Hooton/Getty Images/Science Photo Library Ian Hooton/Getty Images/Science Photo Library
@@ -1314,7 +1314,7 @@ Providers who specialize in addiction medicine and have recently turned to telem
 
 ""There are always times you wish you could reach out and hold someone's hand, and you can't do that,"" says Boulder's Smith. ""But we feel like we are more skilled at a virtual hand-holding and really connect with people — and they feel well supported in return.""
 
-Kaiser Health News is a nonprofit, editorially independent program of the Kaiser Family Foundation. KHN is not affiliated with Kaiser Permanente.",100,Very high,Center,USA
+Kaiser Health News is a nonprofit, editorially independent program of the Kaiser Family Foundation. KHN is not affiliated with Kaiser Permanente.",100,Very high,Center,USA,1
 28,https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/846046185/germany-backs-away-from-compiling-coronavirus-contacts-in-a-central-database,National Public Radio (NPR),2020-04-27,['Matthew S. Schwartz'],Germany Backs Away From Compiling Coronavirus Contacts In A Central Database,https://media.npr.org/assets/img/2020/04/27/ap_20118390380820_wide-1d5d86d4174dd0aea42f3d5620c6921507e818f1.jpg?s=1400,"Germany Backs Away From Compiling Coronavirus Contacts In A Central Database
 
 Enlarge this image toggle caption Michael Sohn/AP Michael Sohn/AP
@@ -1341,7 +1341,7 @@ Earlier this month, hundreds of academics from around the world warned of the po
 
 The European Parliament supports a decentralized approach, and it has cautioned that there is a ""potential risk of abuse"" if data is stored in a centralized database.
 
-Editor's note: Apple and Google are among NPR's sponsors.",100,Very high,Center,USA
+Editor's note: Apple and Google are among NPR's sponsors.",100,Very high,Center,USA,1
 29,https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/845304917/new-zealand-says-it-has-won-battle-against-covid-19,National Public Radio (NPR),2020-04-27,['Scott Neuman'],New Zealand Says It Has Won 'Battle' Against COVID-19,https://media.npr.org/assets/img/2020/04/27/gettyimages-1211047497_wide-dd31667ffb75306ef4b0b3fcd6fb8cac198369e3.jpg?s=1400,"New Zealand Says It Has Won 'Battle' Against COVID-19
 
 Enlarge this image toggle caption Mark Mitchell/Pool/Getty Images Mark Mitchell/Pool/Getty Images
@@ -1380,7 +1380,7 @@ Australia has also seen a precipitous decline in new cases since a peak nearly a
 
 Speaking on Sunday, Australia's home affairs minister, Peter Dutton, suggested that New Zealand and Australia could reopen travel between them even as restrictions on inbound air passengers from other countries remained.
 
-""You could look at an arrangement with New Zealand given they're at a comparable stage as we are in the fight against this virus,"" Dutton told Sky News, as reported by Radio New Zealand. ""You could look at other nations in our region if they've enjoyed the same success, but New Zealand might be the natural partner.""",100,Very high,Center,USA
+""You could look at an arrangement with New Zealand given they're at a comparable stage as we are in the fight against this virus,"" Dutton told Sky News, as reported by Radio New Zealand. ""You could look at other nations in our region if they've enjoyed the same success, but New Zealand might be the natural partner.""",100,Very high,Center,USA,1
 30,https://www.npr.org/2020/04/23/842706630/congress-passes-latest-economic-relief-package-to-confront-coronavirus,National Public Radio (NPR),2020-04-23,"['Susan Davis', 'Claudia Grisales', 'Kelsey Snell', 'Alana Wise']","Trump Signs Latest Coronavirus Economic Relief Package, Aimed At Small Businesses",https://media.npr.org/assets/img/2020/04/24/ap_20115604651951_wide-7bc0f630d80defea29d8d383c24ea89d216d7968.jpg?s=1400,"Trump Signs Latest Coronavirus Economic Relief Package, Aimed At Small Businesses
 
 Enlarge this image toggle caption Evan Vucci/AP Evan Vucci/AP
@@ -1431,7 +1431,7 @@ This is the fourth measure Congress has approved since March 1 to confront coron
 
 Senate Majority Leader Mitch McConnell, R-Ky., has said he wants a ""pause"" before Congress considers additional legislation, and that it is unlikely additional measures will be able to pass the Senate by unanimous consent, which is generally reserved for noncontroversial bills. He has also indicated he will oppose any no-strings-attached funding for states and that he supports a new legal channel for states to declare bankruptcy to address their fiscal woes.
 
-Among the measures Congress is expected to debate for inclusion in future legislation is funding for state and local governments to make up for budget shortfalls, additional cash payments to American workers and families, extended unemployment benefits, aid for the U.S. Postal Service and first responders, and new infrastructure spending.",100,Very high,Center,USA
+Among the measures Congress is expected to debate for inclusion in future legislation is funding for state and local governments to make up for budget shortfalls, additional cash payments to American workers and families, extended unemployment benefits, aid for the U.S. Postal Service and first responders, and new infrastructure spending.",100,Very high,Center,USA,1
 31,https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/842013672/federal-doctor-says-he-was-removed-for-resisting-unproven-coronavirus-treatments,National Public Radio (NPR),2020-04-22,['Benjamin Swasey'],Federal Scientist Says He Was Removed For Resisting Unproven Coronavirus Treatments,https://media.npr.org/assets/img/2020/04/22/ap_20098745936805_wide-c5810c72dd983d7f3e4e9df65c4f9092550cc17e.jpg?s=1400,"Federal Scientist Says He Was Removed For Resisting Unproven Coronavirus Treatments
 
 Enlarge this image toggle caption David J. Phillip/AP David J. Phillip/AP
@@ -1466,7 +1466,7 @@ Bright said in his statement that he is ""speaking out because to combat this de
 
 Bright's attorneys, Debra Katz and Lisa Banks, added that they are seeking a stay of his termination. The attorneys have also represented several high-profile whistleblowers and #MeToo accusers, including Christine Blasey Ford, who accused Supreme Court Justice Brett Kavanaugh of sexual assault.
 
-The New York Times, which first reported Bright's statement, said he had led BARDA since 2016. The online health publication STAT first reported he was no longer leading the agency on Tuesday.",100,Very high,Center,USA
+The New York Times, which first reported Bright's statement, said he had led BARDA since 2016. The online health publication STAT first reported he was no longer leading the agency on Tuesday.",100,Very high,Center,USA,1
 32,https://www.npr.org/sections/coronavirus-live-updates/2020/04/21/840341224/nih-panel-recommends-against-drug-combination-trump-has-promoted-for-covid-19,National Public Radio (NPR),2020-04-21,['Joe Palca'],NIH Panel Recommends Against Drug Combination Promoted By Trump For COVID-19,https://media.npr.org/assets/img/2020/04/21/gettyimages-1207507939_wide-1b3e7b4656158a9f3647ddfedd5d754915ff1021.jpg?s=1400,"NIH Panel Recommends Against Drug Combination Promoted By Trump For COVID-19
 
 Enlarge this image toggle caption Brendan Smialowski/AFP via Getty Images Brendan Smialowski/AFP via Getty Images
@@ -1501,7 +1501,7 @@ Both hydroxychloroquine and convalescent serum are being studied for the possibl
 
 Patients with mild symptoms should be monitored closely, because more serious symptoms can come on rapidly. Patients with moderate symptoms will likely need hospitalization and supportive therapy. People with severe disease may need oxygen through a cannula, or tube; patients in critical condition may need to be place on a respirator.
 
-The plan is to update the guidelines frequently as new results become available. Swindells said there could be an update about the recommendations regarding remdesivir in the coming week or so.",100,Very high,Center,USA
+The plan is to update the guidelines frequently as new results become available. Swindells said there could be an update about the recommendations regarding remdesivir in the coming week or so.",100,Very high,Center,USA,1
 33,https://www.npr.org/sections/pictureshow/2020/04/17/834245538/isolation-diary-photographers-document-their-experience-with-covid-19,National Public Radio (NPR),2020-04-17,['Emily Bogle'],Isolation Diary: Photographers Document Their Experience With COVID-19,https://media.npr.org/assets/img/2020/04/14/01_covid_ks_0320-0354_wide-9b5c2b3d7694ef122bf1833d275b2e1133743ce7.jpg?s=1400,"Isolation Diary: Photographers Document Their Experience With COVID-19
 
 Enlarge this image Kasia Strek/ITEM Kasia Strek/ITEM
@@ -1626,7 +1626,7 @@ Enlarge this image Kasia Strek/ITEM Kasia Strek/ITEM
 
 — Kasia
 
-Kasia Strek and Pete Kiehart are documentary photographers and are usually based in Paris. Strek is part of ITEM, a French collective of photographers and documentary storytellers.",100,Very high,Center,USA
+Kasia Strek and Pete Kiehart are documentary photographers and are usually based in Paris. Strek is part of ITEM, a French collective of photographers and documentary storytellers.",100,Very high,Center,USA,1
 34,https://www.npr.org/sections/coronavirus-live-updates/2020/04/16/835748673/in-vietnam-there-have-been-fewer-than-300-covid-19-cases-and-no-deaths-heres-why,National Public Radio (NPR),2020-04-16,['Michael Sullivan'],"In Vietnam, There Have Been Fewer Than 300 COVID-19 Cases And No Deaths. Here's Why",https://media.npr.org/assets/img/2020/04/16/gettyimages-1210093280-1-_wide-dde983559edeacb61ef947c2959d86f6851db19c.jpg?s=1400,"In Vietnam, There Have Been Fewer Than 300 COVID-19 Cases And No Deaths. Here's Why
 
 Enlarge this image toggle caption Nhac Nguyen/AFP via Getty Images Nhac Nguyen/AFP via Getty Images
@@ -1647,7 +1647,7 @@ Streets normally buzzing with motorcycles and cars are almost empty in most larg
 
 Some may still be skeptical of Vietnam's relatively low COVID-19 case numbers. The CDC's MacArthur is not.
 
-""Our team up in Hanoi is working very, very closely with their Ministry of Health counterparts,"" he says. ""The communications I've had with my Vietnam team is that at this point in time, [they] don't have any indication that those numbers are false.""",100,Very high,Center,USA
+""Our team up in Hanoi is working very, very closely with their Ministry of Health counterparts,"" he says. ""The communications I've had with my Vietnam team is that at this point in time, [they] don't have any indication that those numbers are false.""",100,Very high,Center,USA,1
 35,https://www.npr.org/sections/health-shots/2020/04/18/835563340/whos-hit-hardest-by-covid-19-why-obesity-stress-and-race-all-matter,National Public Radio (NPR),2020-04-18,['Allison Aubrey'],"Who's Hit Hardest By COVID-19? Why Obesity, Stress And Race All Matter",https://media.npr.org/assets/img/2020/04/17/gettyimages-1209895812_wide-808eae6fc52bd1c8b06541c3fea7293010bee9b2.jpg?s=1400,"Who's Hit Hardest By COVID-19? Why Obesity, Stress And Race All Matter
 
 Enlarge this image toggle caption Bloomberg via Getty Images Bloomberg via Getty Images
@@ -1698,7 +1698,7 @@ Poor nutrition, and the obesity linked to it, is a leading cause of premature de
 
 ""We're seeing the convergence of chronic disease with an infection,"" says UNC's Beck. And the data suggest that the combination of these two can lead to more serious illness. ""We're seeing that obesity can have a great influence on infection,"" she says.
 
-So, will this shine a spotlight on the need to address these issues? ""Hopefully,"" Beck says. ""I think paying attention to these chronic diseases like obesity is in everybody's best interest.""",100,Very high,Center,USA
+So, will this shine a spotlight on the need to address these issues? ""Hopefully,"" Beck says. ""I think paying attention to these chronic diseases like obesity is in everybody's best interest.""",100,Very high,Center,USA,1
 36,https://www.npr.org/2020/04/15/833692377/how-the-coronavirus-has-affected-individual-members-of-congress,National Public Radio (NPR),2020-04-15,"['Claudia Grisales', 'Audrey Carlsen']",How The Coronavirus Has Affected Individual Members Of Congress,https://media.npr.org/assets/img/2020/04/14/gettyimages-1209799486_wide-8be289d006a632ac8c33941a47c0b3dd44077f68.jpg?s=1400,"How The Coronavirus Has Affected Individual Members Of Congress
 
 Enlarge this image toggle caption Al Drago/Bloomberg via Getty Images Al Drago/Bloomberg via Getty Images
@@ -1723,7 +1723,7 @@ Leaders have said members of Congress must take special precautions to return to
 
 Loading...
 
-This story was originally published on April 15, 2020.",100,Very high,Center,USA
+This story was originally published on April 15, 2020.",100,Very high,Center,USA,1
 37,https://www.npr.org/sections/coronavirus-live-updates/2020/04/15/834869831/retail-spending-just-fell-off-a-cliff,National Public Radio (NPR),2020-04-15,['Alina Selyukh'],Retail Spending Just Fell Off A Cliff,https://media.npr.org/assets/img/2020/04/15/ap_20094644427701_wide-6e6230aa3ea2f950878c38c849c640700049de1b.jpg?s=1400,"Retail Spending Just Fell Off A Cliff
 
 Enlarge this image toggle caption Mark Lennihan/AP Mark Lennihan/AP
@@ -1742,7 +1742,7 @@ Best Buy, for example, said on Wednesday that it's temporarily furloughing 51,00
 
 Consumer spending is by far the biggest driver of economic activity, which means all eyes will be on U.S. shoppers to see how quickly their spending may bounce back with potential pent-up demand — or what chains and businesses might not survive the pandemic.
 
-""Don't be surprised if the data going forward shows a worsening situation,"" Jack Kleinhenz, chief economist at the National Retail Federation, said in a statement. ""Even if the economy begins to reopen in May, consumer behavior may take a long time to adjust. The road to recovery could be long and slow.""",100,Very high,Center,USA
+""Don't be surprised if the data going forward shows a worsening situation,"" Jack Kleinhenz, chief economist at the National Retail Federation, said in a statement. ""Even if the economy begins to reopen in May, consumer behavior may take a long time to adjust. The road to recovery could be long and slow.""",100,Very high,Center,USA,1
 38,https://www.npr.org/sections/coronavirus-live-updates/2020/04/13/833672904/lobbyists-descend-on-washington-seeking-coronavirus-relief-money,National Public Radio (NPR),2020-04-13,['James Doubek'],Lobbyists Descend On Washington Seeking Coronavirus Relief Money,https://media.npr.org/assets/img/2020/04/13/gettyimages-1208730175_wide-f80676f96dbdd4f0ec96761ed3ec9dfdfbe0f9db.jpg?s=1400,"Lobbyists Descend On Washington Seeking Coronavirus Relief Money
 
 Enlarge this image toggle caption Andrew Caballero-Reynolds/AFP via Getty Images Andrew Caballero-Reynolds/AFP via Getty Images
@@ -1767,7 +1767,7 @@ Have you spotted any examples of industries that are using this pandemic opportu
 
 Oh, absolutely. The bigger groups with lots of lobbying experience are adept at repackaging their existing agenda. It would be urgent and worthy of relief even when those items have been on the wish list for a long time. So hotels get a tax break they've been pushing for since 2017. Big banks have pushed for deregulation they've long wanted. Tech has pushed for delays in privacy laws and changes for gig workers. So that's being kind of mushed into the package.
 
-Listen to the full interview here.",100,Very high,Center,USA
+Listen to the full interview here.",100,Very high,Center,USA,1
 39,https://www.npr.org/2020/04/13/833073670/mapping-covid-19-millions-rely-on-online-tracker-of-cases-worldwide,National Public Radio (NPR),2020-04-13,['Melissa Block'],Meet The Team Behind The Coronavirus Tracker Watched By Millions,https://media.npr.org/assets/img/2020/04/13/jhu_wide-c74b1282d09c3f9063a9d52bc191bc8ebba342e8.png?s=1400,"Meet The Team Behind The Coronavirus Tracker Watched By Millions
 
 For the latest COVID-19 statistics, updated in near real time, millions of people around the world have been turning to an interactive, Web-based dashboard created by a small team at Johns Hopkins University in Baltimore.
@@ -1830,7 +1830,7 @@ Beyond the snapshot of what is happening now, the data are also being used to do
 
 The Hopkins team also recently joined in a study from NASA, modeling how climate and seasonality are contributing to the coronavirus outbreak.
 
-As the dashboard project goes on, Dong says what began with him worrying about his family in China has flipped. With the U.S. now bearing the brutal brunt of the pandemic, he says, it's his family's turn to worry about him.",100,Very high,Center,USA
+As the dashboard project goes on, Dong says what began with him worrying about his family in China has flipped. With the U.S. now bearing the brutal brunt of the pandemic, he says, it's his family's turn to worry about him.",100,Very high,Center,USA,1
 40,https://www.npr.org/sections/health-shots/2020/04/13/833412729/how-long-does-it-take-to-recover-from-covid-19-and-how-long-are-you-infectious,National Public Radio (NPR),2020-04-13,['Allison Aubrey'],How Long Does It Take To Recover From COVID-19?,https://media.npr.org/assets/img/2020/04/13/gettyimages-1211588943_wide-5416f049267d8d7162c7c05316dc7a986b975298.jpg?s=1400,"How Long Does It Take To Recover From COVID-19?
 
 Enlarge this image toggle caption Justin Paget/Getty Images Justin Paget/Getty Images
@@ -1909,7 +1909,7 @@ So far, there's almost no data, and no long-term data, on the virus that causes 
 
 He says this best guess is informed by what scientists documented in the blood of people who had recovered from SARS and MERS, which also are caused by coronaviruses. Lipsitch says these studies suggest that the people's defenses against the viruses seemed to last a while, about two years for SARS and, for MERS, nearly three years.
 
-Lipsitch says more research is needed to determine how long people are protected after COVID-19. ""We need to design studies where individuals with known COVID-19 infection and without infection are followed over time to assess whether the first group is protected, or partially protected, against COVID-19 infection compared to the second group,"" Lipsitch says. He says these studies are challenging to design, but he and some colleagues are currently trying to do so.",100,Very high,Center,USA
+Lipsitch says more research is needed to determine how long people are protected after COVID-19. ""We need to design studies where individuals with known COVID-19 infection and without infection are followed over time to assess whether the first group is protected, or partially protected, against COVID-19 infection compared to the second group,"" Lipsitch says. He says these studies are challenging to design, but he and some colleagues are currently trying to do so.",100,Very high,Center,USA,1
 41,https://www.npr.org/2020/04/10/830622398/how-colleges-are-grading-students-during-coronavirus,National Public Radio (NPR),2020-04-10,['Mary Retta'],How Colleges Are Grading Students During Coronavirus,https://media.npr.org/assets/img/2020/04/09/gettyimages-97231378_wide-7b445bed732a677097d91580840efda624ae8a12.jpg?s=1400,"How Colleges Are Grading Students During Coronavirus
 
 Enlarge this image CSA Images RF/Getty Images CSA Images RF/Getty Images
@@ -1940,7 +1940,7 @@ Other schools have held back on changing grading policies because they're worrie
 
 While the majority of students seem to be vouching for a universal pass-fail policy, there is also a significant number of students who would prefer to be graded as usual. Some students who are interested in graduate school, for example, might be hoping to boost their GPA this semester, especially as programs like Harvard Medical School have announced that although they will accept pass-fail grading for spring 2020 coursework, they would prefer letter grades if students were given that option at their particular school.
 
-No matter what grading policy a college adopts, said Diego Gomez, a student at Amherst College, it is imperative that schools are understanding towards student's needs and get their input before moving forward. ""Any time I think about it, I cannot believe my schoolwork is being assessed and graded during a pandemic,"" he said. ""Having the chance to get good grades, in my view, should not be one of the reasons I am working to keep myself and my family healthy right now.""",100,Very high,Center,USA
+No matter what grading policy a college adopts, said Diego Gomez, a student at Amherst College, it is imperative that schools are understanding towards student's needs and get their input before moving forward. ""Any time I think about it, I cannot believe my schoolwork is being assessed and graded during a pandemic,"" he said. ""Having the chance to get good grades, in my view, should not be one of the reasons I am working to keep myself and my family healthy right now.""",100,Very high,Center,USA,1
 42,https://www.npr.org/2020/04/11/832331911/special-report-coronavirus-the-weeks-best-from-npr-news,National Public Radio (NPR),2020-04-11,[],Special Report: Coronavirus — The Week's Best from NPR News,https://media.npr.org/assets/img/2020/04/10/Social_Distancing_Sign_Boston_ap_wide-993812e6f3c11017c24efba8a8ba4bb03fdfc1ec.jpg?s=1400,"Special Report: Coronavirus — The Week's Best from NPR News
 
 Special Report: Coronavirus — The Week's Best from NPR News 49:39
@@ -1957,7 +1957,7 @@ The Trump administration is looking at a variety of scientific modeling to try t
 
 But some governors say their states are still struggling to get needed supplies. And critics like retired Army Lt. Gen. Russel Honore, who helped coordinate military relief in response to Hurricane Katrina, say the federal government can still be more aggressive in centralizing the distribution of resources.
 
-Meantime, as Americans settle into wearing masks in public to avoid transmitting the coronavirus, they also need to look after their emotional well-being. A Kaiser Family Foundation Health tracking poll found that an increasing share of Americans — about half now, up from a third — say their mental health has been affected by the coronavirus crisis.",100,Very high,Center,USA
+Meantime, as Americans settle into wearing masks in public to avoid transmitting the coronavirus, they also need to look after their emotional well-being. A Kaiser Family Foundation Health tracking poll found that an increasing share of Americans — about half now, up from a third — say their mental health has been affected by the coronavirus crisis.",100,Very high,Center,USA,1
 43,https://www.npr.org/2020/04/10/828340554/watch-white-house-task-force-briefing-on-coronavirus-response,National Public Radio (NPR),2020-04-10,['Philip Ewing'],"Trump To Announce Advisory Council On Reopening The Country, Shuttered By Coronavirus",https://media.npr.org/assets/img/2020/04/10/ap_20101648693190-1-_wide-5d794b6c7750fe0955269c6248547b8934c0f891.jpg?s=1400,"Trump To Announce Advisory Council On Reopening The Country, Shuttered By Coronavirus
 
 Enlarge this image toggle caption Evan Vucci/AP Evan Vucci/AP
@@ -2060,7 +2060,7 @@ Trump suggested that the United States would ""help Mexico along"" with a cut to
 
 The president said he and López Obrador had agreed on that detail, but other oil-producing nations haven't yet signed on.
 
-""We're working on it,"" Trump said. ""Eventually it's going to work out.""",100,Very high,Center,USA
+""We're working on it,"" Trump said. ""Eventually it's going to work out.""",100,Very high,Center,USA,1
 44,https://www.npr.org/2020/05/01/847413697/midwest-coronavirus-related-restrictions-by-state,National Public Radio (NPR),2020-05-01,['Rachel Treisman'],Midwest: Coronavirus-Related Restrictions By State,https://media.npr.org/assets/img/2020/05/14/ap_20126730959083_wide-64591cb7ce544644a328f8d2f460ba416eb542f9.jpg?s=1400,"Midwest: Coronavirus-Related Restrictions By State
 
 Enlarge this image toggle caption Jim Mone/AP Jim Mone/AP
@@ -2209,7 +2209,7 @@ Midwest: Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebrask
 
 South: Alabama, Arkansas, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, West Virginia
 
-West: Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming",100,Very high,Center,USA
+West: Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming",100,Very high,Center,USA,1
 45,https://www.npr.org/2020/04/09/830474543/an-inmate-in-new-yorks-sing-sing-prison-shares-his-view-on-covid-19,National Public Radio (NPR),2020-04-09,['Noel King'],"At A New York Prison, Social Distancing 'Is Impossible,' Inmate Says",https://media.npr.org/assets/img/2020/04/09/ap_20078470887906_wide-f3777ca98ad486de15eeaeee4d72f332152dd6a6.jpg?s=1400,"At A New York Prison, Social Distancing 'Is Impossible,' Inmate Says
 
 Enlarge this image toggle caption Mark Lennihan/AP Mark Lennihan/AP
@@ -2242,7 +2242,7 @@ I don't know who's being tested. I think the short answer is not many people are
 
 There are people who would say, as far as concern goes, we need to be concerned with people who aren't serving time for serious crimes.
 
-You're talking about the pecking order that we all say we don't have. ... When those gurneys start pulling up to the hospitals from Sing Sing, I think we're all going to know where we are in the pecking order. It's a sobering realization. I think I've done pretty pretty OK for myself in the past 20 years I've been in prison. I was a lowlife when I came to prison. I got quite a future when I get out. I want to live.",100,Very high,Center,USA
+You're talking about the pecking order that we all say we don't have. ... When those gurneys start pulling up to the hospitals from Sing Sing, I think we're all going to know where we are in the pecking order. It's a sobering realization. I think I've done pretty pretty OK for myself in the past 20 years I've been in prison. I was a lowlife when I came to prison. I got quite a future when I get out. I want to live.",100,Very high,Center,USA,1
 46,https://www.npr.org/sections/coronavirus-live-updates/2020/04/09/830450210/inmates-in-washington-state-protest-after-fellow-prisoners-test-positive-for-cov,National Public Radio (NPR),2020-04-09,['Scott Neuman'],Inmates In Washington State Protest After Fellow Prisoners Test Positive For COVID-19,https://media.npr.org/assets/img/2020/04/09/ap_1603010200387790_wide-f37deac020570c6af856db5072b56f18599be1ad.jpg?s=1400,"Inmates In Washington State Protest After Fellow Prisoners Test Positive For COVID-19
 
 Enlarge this image toggle caption Elaine Thompson/AP Elaine Thompson/AP
@@ -2271,7 +2271,7 @@ Longworth, who is an award-winning prison writer, said he fears that the disease
 
 He said he fears an outbreak of COVID-19 could sweep through the facility in the same way as a fire would.
 
-""I've been in fires in the cell block before, it's a scary thing,"" he said. ""And when the virus gets in here, as it has, it feels kind of like that.""",100,Very high,Center,USA
+""I've been in fires in the cell block before, it's a scary thing,"" he said. ""And when the virus gets in here, as it has, it feels kind of like that.""",100,Very high,Center,USA,1
 47,https://www.npr.org/sections/coronavirus-live-updates/2020/04/08/830290047/broadway-to-remain-closed-until-june,National Public Radio (NPR),2020-04-08,['Jeff Lunden'],Broadway To Remain Closed Until June Because Of Coronavirus,https://media.npr.org/assets/img/2020/04/08/gettyimages-1217654631_wide-7abc8982f51f9477833f64b21d58a2a19aa49115.jpg?s=1400,"Broadway To Remain Closed Until June Because Of Coronavirus
 
 Enlarge this image toggle caption Jamie McCarthy/Getty Images Jamie McCarthy/Getty Images
@@ -2282,7 +2282,7 @@ Broadway brought in $1.8 billion in ticket sales and close to 15 million audienc
 
 When performances were suspended, 16 shows were scheduled to open before the Tony Awards deadline in late April – two of them, a revival of Who's Afraid of Virginia Woolf? and Hangmen subsequently announced they were closing. The musical Beetlejuice will not reopen in June, may move to another theater later. Three shows at non-profit venues will postpone their productions to next season.
 
-The pandemic's toll has rocked the community with personal losses, among them Tony Award-winning playwright Terrence McNally, character actor Mark Blum, and composer Adam Schlesinger.",100,Very high,Center,USA
+The pandemic's toll has rocked the community with personal losses, among them Tony Award-winning playwright Terrence McNally, character actor Mark Blum, and composer Adam Schlesinger.",100,Very high,Center,USA,1
 48,https://www.npr.org/2020/04/09/830159777/irs-budget-cuts-and-staffing-challenges-create-coronavirus-payment-headaches,National Public Radio (NPR),2020-04-09,['Kelsey Snell'],"IRS Budget Cuts, Staffing Challenges Create Coronavirus Payment Headaches",https://media.npr.org/assets/img/2020/04/08/gettyimages-517241890_wide-9038162150ec39b10eea219218570cdf8fbdc084.jpg?s=1400,"IRS Budget Cuts, Staffing Challenges Create Coronavirus Payment Headaches
 
 Enlarge this image toggle caption Brendan Smialowski/AFP via Getty Images Brendan Smialowski/AFP via Getty Images
@@ -2347,7 +2347,7 @@ More than 20,000 employees are on temporary leave, but an IRS spokesman said the
 
 Given all of the challenges, Everson and Olson say fully resolving the payments may take until next year. For now, they have some advice: Follow the IRS instructions and avoid calling, remember to file your taxes, and avoid scams that ask for personal information over the phone. The IRS will never call you and ask you for your information, Everson said.
 
-""Anybody who is not comfortable going online themselves needs to find a friend or relative who can help them through interacting with the service,"" Everson said. ""If you do hear from the IRS and it really is the IRS, don't ignore them if they send you a letter.""",100,Very high,Center,USA
+""Anybody who is not comfortable going online themselves needs to find a friend or relative who can help them through interacting with the service,"" Everson said. ""If you do hear from the IRS and it really is the IRS, don't ignore them if they send you a letter.""",100,Very high,Center,USA,1
 49,https://www.npr.org/2020/04/09/829955754/son-of-60s-radicals-is-the-new-d-a-in-san-francisco-facing-the-covid-19-crisis,National Public Radio (NPR),2020-04-09,['Terry Gross'],How San Francisco's D.A. Is Decreasing The Jail Population Amid COVID-19,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"How San Francisco's D.A. Is Decreasing The Jail Population Amid COVID-19
 
 Chesa Boudin's radical leftist parents were imprisoned when he was a toddler. Now he's working to reduce the inmate population in San Francisco — and worrying about his dad, who remains in prison.
@@ -2572,7 +2572,7 @@ REED: (Singing) And the days dwindle down to a precious few - September, Novembe
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 50,https://www.npr.org/sections/coronavirus-live-updates/2020/04/06/828289698/new-york-city-plans-to-temporarily-bury-dead,National Public Radio (NPR),2020-04-06,"['Greg Allen', 'Scott Neuman']",New York City Has Contingency Plan For Temporary Burials Of COVID-19 Dead,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"New York City Has Contingency Plan For Temporary Burials Of COVID-19 Dead
 
 Updated at 2 a.m. ET Tuesday
@@ -2607,7 +2607,7 @@ Asked about the city's plans for dealing with the growing number of bodies, the 
 
 The mayor said the Defense Department had sent personnel and equipment to help, but that ""it's going to be very tough.""
 
-Levine, who is the chairman of the New York City Council Health Committee, conceded it's a tough topic, but one he felt needed to be discussed in public. ""We need more help. We need more resources. We need more staffing for our city's mortuary system, just like we need more doctors and nurses,"" he said.",100,Very high,Center,USA
+Levine, who is the chairman of the New York City Council Health Committee, conceded it's a tough topic, but one he felt needed to be discussed in public. ""We need more help. We need more resources. We need more staffing for our city's mortuary system, just like we need more doctors and nurses,"" he said.",100,Very high,Center,USA,1
 51,https://www.npr.org/sections/coronavirus-live-updates/2020/04/06/826617849/this-quebec-health-official-has-become-a-sensation-with-his-coronavirus-tips,National Public Radio (NPR),2020-04-06,['Emma Jacobs'],This Quebec Health Official Has Become A Sensation With His Coronavirus Tips,https://media.npr.org/assets/img/2020/04/06/m.arruda_01_wide-19af43f5c43eed158227d7de23f07596cd7bcebd.jpg?s=1400,"This Quebec Health Official Has Become A Sensation With His Coronavirus Tips
 
 A month ago, Dr. Horacio Arruda was a relatively unknown bureaucrat in the Canadian province of Quebec.
@@ -2644,7 +2644,7 @@ Deslauriers says Arruda also represents many public and front-line workers peopl
 
 ""We needed a face. We needed a person,"" he says. ""But we do it for all those working in essential services.""
 
-The psychologist, Malboeuf-Hurtubise, honored Arruda in a different way. Her family recently adopted a cat to lift their spirits in self-isolation. They named her ... ""Horacio.""",100,Very high,Center,USA
+The psychologist, Malboeuf-Hurtubise, honored Arruda in a different way. Her family recently adopted a cat to lift their spirits in self-isolation. They named her ... ""Horacio.""",100,Very high,Center,USA,1
 52,https://www.npr.org/2020/03/12/815200313/what-governors-are-doing-to-tackle-spreading-coronavirus,National Public Radio (NPR),2020-03-12,['Rachel Treisman'],Which States Are Reopening? A State-By-State Guide,https://media.npr.org/assets/img/2020/05/11/ap_20129108278737_wide-ce6477468fd8270e2fda23058d9f1f1daf02160a.jpg?s=1400,"Which States Are Reopening? A State-By-State Guide
 
 Enlarge this image toggle caption Mark Lennihan/AP Mark Lennihan/AP
@@ -2671,10 +2671,10 @@ West: Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New
 
 The first version of this page was originally published on March 12. This is a developing story. We will continue to update as new information becomes available.
 
-NPR's Brakkton Booker, Merrit Kennedy, Vanessa Romo, Colin Dwyer, Laurel Wamsley, Aubri Juhasz and Bobby Allyn contributed to this report.",100,Very high,Center,USA
+NPR's Brakkton Booker, Merrit Kennedy, Vanessa Romo, Colin Dwyer, Laurel Wamsley, Aubri Juhasz and Bobby Allyn contributed to this report.",100,Very high,Center,USA,1
 53,https://www.npr.org/2020/04/07/829318450/questions-about-hydroxychloroquine-touted-as-a-covid-19-treatment,National Public Radio (NPR),2020-04-07,['Joe Palca'],"Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment",https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment Dr. Jinoos Yazdany, a rheumatologist from the University of California, San Francisco, and NPR science correspondent Joe Palca answer questions about the drug hydroxychloroquine.
 
-Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment 8:04 Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment 8:04 Medical Treatments Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment 8:04 Dr. Jinoos Yazdany, a rheumatologist from the University of California, San Francisco, and NPR science correspondent Joe Palca answer questions about the drug hydroxychloroquine. Correction A previous version of the Web summary for this story misspelled Dr. Jinoos Yazdany's last name as Yazdanya. NPR thanks our sponsors Become an NPR sponsor",100,Very high,Center,USA
+Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment 8:04 Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment 8:04 Medical Treatments Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment Questions About Hydroxychloroquine, Touted As A COVID-19 Treatment 8:04 Dr. Jinoos Yazdany, a rheumatologist from the University of California, San Francisco, and NPR science correspondent Joe Palca answer questions about the drug hydroxychloroquine. Correction A previous version of the Web summary for this story misspelled Dr. Jinoos Yazdany's last name as Yazdanya. NPR thanks our sponsors Become an NPR sponsor",100,Very high,Center,USA,1
 54,https://www.npr.org/sections/coronavirus-live-updates/2020/04/07/829098870/andrea-bocelli-to-perform-in-an-empty-duomo-cathedral-on-easter-sunday,National Public Radio (NPR),2020-04-07,['Jon Lewis'],Andrea Bocelli To Perform In An Empty Duomo Cathedral On Easter Sunday,https://media.npr.org/assets/img/2020/04/07/gettyimages-534933624_wide-e83dd48b4646a021fc790b93d11e0c2728129219.jpg?s=1400,"Andrea Bocelli To Perform In An Empty Duomo Cathedral On Easter Sunday
 
 Enlarge this image toggle caption Gerard Julien/AFP via Getty Images Gerard Julien/AFP via Getty Images
@@ -2685,7 +2685,7 @@ Plenty of other artists have announced livestreams as venues shut down because o
 
 The stream will not be the Italian tenor's first attempt to help out during the coronavirus crisis. Italy has been hit hard by the pandemic, and Bocelli's foundation has raised more than $140,000 via GoFundMe to help hospitals purchase supplies. He will also be part of Global Citizen's huge One World: Together At Home event on April 18.
 
-In a statement released Tuesday, Bocelli said he hopes that the Easter concert, which will consist mostly of spiritual songs such as ""Ave Maria,"" will provide some comfort to viewers regardless of their religion.",100,Very high,Center,USA
+In a statement released Tuesday, Bocelli said he hopes that the Easter concert, which will consist mostly of spiritual songs such as ""Ave Maria,"" will provide some comfort to viewers regardless of their religion.",100,Very high,Center,USA,1
 55,https://www.npr.org/sections/coronavirus-live-updates/2020/04/06/828506423/could-society-move-toward-normalcy-before-a-coronavirus-vaccine-is-ready,National Public Radio (NPR),2020-04-06,['Joe Palca'],Could Society Move Toward Normalcy Before A Coronavirus Vaccine Is Ready?,https://media.npr.org/assets/img/2020/04/06/fauci_4_6_ap_20097854662142_wide-b2061eeb9a6080413926ebf81ed0c3208690d948.jpg?s=1400,"Could Society Move Toward Normalcy Before A Coronavirus Vaccine Is Ready?
 
 Enlarge this image toggle caption Alex Brandon/AP Alex Brandon/AP
@@ -2716,7 +2716,7 @@ A test that measures people's antibodies, and presumably their immunity, to the 
 
 That kind of test will be ""so important,"" Fauci said, because then health officials will know how widely the virus has spread.
 
-Broader testing capability, including antibody testing, would help the country reduce the kind of COVID-19 mitigation by social distancing that is in effect now. ""We will have in place the capability of identifying [cases], contact tracing and isolating so it never gets out of hand,"" he said.",100,Very high,Center,USA
+Broader testing capability, including antibody testing, would help the country reduce the kind of COVID-19 mitigation by social distancing that is in effect now. ""We will have in place the capability of identifying [cases], contact tracing and isolating so it never gets out of hand,"" he said.",100,Very high,Center,USA,1
 56,https://www.npr.org/2020/04/03/826044608/many-who-need-testing-for-covid-19-fail-to-get-access,National Public Radio (NPR),2020-04-03,['Kirk Siegler'],Many Who Need Testing For COVID-19 Fail To Get Access,https://media.npr.org/assets/img/2020/04/03/picfix_wide-b5d892eb02858a803ef5e8da406c88e89a89d857.jpg?s=1400,"Many Who Need Testing For COVID-19 Fail To Get Access
 
 Enlarge this image toggle caption Courtesy of Melissa Burgess Courtesy of Melissa Burgess
@@ -2765,7 +2765,7 @@ King just hopes people in his community who think they might be sick are heeding
 
 Burgess, however, stresses that she lays no blame on local physicians and health care staff.
 
-""They are working so hard,"" she says. ""They're in a hard position to have to tell people, no, we can't prescribe you a test right now because there aren't enough.""",100,Very high,Center,USA
+""They are working so hard,"" she says. ""They're in a hard position to have to tell people, no, we can't prescribe you a test right now because there aren't enough.""",100,Very high,Center,USA,1
 57,https://www.npr.org/sections/coronavirus-live-updates/2020/04/02/825717204/ellis-marsalis-patriarch-of-new-orleans-most-famous-musical-family-has-died,National Public Radio (NPR),2020-04-02,['Andrew Limbong'],"Ellis Marsalis, Patriarch Of New Orleans' Most Famous Musical Family, Has Died",https://media.npr.org/assets/img/2020/04/01/gettyimages-168640716_wide-37bc951c62f853c887771a8bf29350f4091055d7.jpg?s=1400,"Ellis Marsalis, Patriarch Of New Orleans' Most Famous Musical Family, Has Died
 
 Enlarge this image toggle caption Tyler Kaufman/FilmMagic/Getty Images Tyler Kaufman/FilmMagic/Getty Images
@@ -2784,7 +2784,7 @@ The former Marine put it this way to NPR in 1985: ""There is no such thing as fa
 
 Marsalis went on to become Commonwealth Professor at Virginia Commonwealth University in Richmond before returning to his hometown to teach at the University of New Orleans. Yet he still managed to record more than 15 albums of his own, in addition to collaborations with his sons.
 
-And on top of all that, he played a weekly gig at a small New Orleans club, Snug Harbor Jazz Bistro, for three decades before retiring just this year.",100,Very high,Center,USA
+And on top of all that, he played a weekly gig at a small New Orleans club, Snug Harbor Jazz Bistro, for three decades before retiring just this year.",100,Very high,Center,USA,1
 58,https://www.npr.org/2020/04/01/825499522/tales-of-two-cities-coronavirus-outcomes-differ-between-bay-area-new-york-city,National Public Radio (NPR),2020-04-01,"['John Ruwitch', 'Rebecca Hersher']","Tales Of Two Cities: Coronavirus Outcomes Differ Between Bay Area, New York City",https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"Tales Of Two Cities: Coronavirus Outcomes Differ Between Bay Area, New York City
 
 Early on, Bay Area cities adopted social distancing restrictions to reduce the spread of the coronavirus. Health officials are optimistic about what they see so far — unlike in New York City.
@@ -2845,7 +2845,7 @@ HERSHER: Thanks.
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 59,https://www.npr.org/sections/coronavirus-live-updates/2020/03/30/823987540/fda-oks-addition-to-stockpile-of-malaria-drugs-for-covid-19,National Public Radio (NPR),2020-03-30,['Sydney Lupkin'],FDA OKs Addition To Stockpile Of Malaria Drugs For COVID-19,https://media.npr.org/assets/img/2020/03/30/chloroquine1_wide-7551bed867c99a0d74a45b8e08e261ad867cdb73.jpg?s=1400,"FDA OKs Addition To Stockpile Of Malaria Drugs For COVID-19
 
 Enlarge this image toggle caption Photo Illustration by John Phillips/Getty Images Photo Illustration by John Phillips/Getty Images
@@ -2878,7 +2878,7 @@ If the drugs were helpful, doctors would be pleased to have a treatment option.
 
 Preliminary findings often don't pan out.
 
-""The whole history of infectious disease is littered with drugs we all thought were going to be promising but turned out ... not to be,"" Mass General's Gandhi says, adding that some of these medicines even turned out to be harmful.",100,Very high,Center,USA
+""The whole history of infectious disease is littered with drugs we all thought were going to be promising but turned out ... not to be,"" Mass General's Gandhi says, adding that some of these medicines even turned out to be harmful.",100,Very high,Center,USA,1
 60,https://www.npr.org/sections/coronavirus-live-updates/2020/03/25/821534581/chef-floyd-cardoz-who-elevated-indian-cuisine-has-died-of-coronavirus,National Public Radio (NPR),2020-03-25,['Anastasia Tsioulcas'],"Chef Floyd Cardoz, Who Elevated Indian Cuisine, Has Died Of Coronavirus",https://media.npr.org/assets/img/2020/03/25/gettyimages-614473256_wide-c317149ac5e63f480d472ce079e3aac6f67163be.jpg?s=1400,"Chef Floyd Cardoz, Who Elevated Indian Cuisine, Has Died Of Coronavirus
 
 Enlarge this image toggle caption Kris Connor/Getty Images Kris Connor/Getty Images
@@ -2889,7 +2889,7 @@ Cardoz was born in what was then Bombay, India, and grew up between that metropo
 
 He also became a television favorite. In 2011, he won Bravo's ""Top Chef Masters."" Earlier this month, he was in India to open a new venture. On Instagram, he was also sharing images from shooting an episode of the Netflix program Ugly Delicious with actor Aziz Ansari. On March 17, however, he shared that he had returned to the U.S. for medical treatment on March 8, writing that he was ""feeling feverish.""
 
-In a statement to several media outlets including CNN and the Washington Post, Cardoz' company in India, Hunger Inc. Hospitality, announced that he died from complications from COVID-19 on Wednesday at Mountainside Medical Center in Montclair, N.J.",100,Very high,Center,USA
+In a statement to several media outlets including CNN and the Washington Post, Cardoz' company in India, Hunger Inc. Hospitality, announced that he died from complications from COVID-19 on Wednesday at Mountainside Medical Center in Montclair, N.J.",100,Very high,Center,USA,1
 61,https://www.npr.org/sections/goatsandsoda/2020/03/28/822717664/a-reward-of-liquor-for-coronavirus-heroes-in-china-does-not-bring-cheers,National Public Radio (NPR),2020-03-28,['Yuhan Xu'],A Reward Of Liquor For Coronavirus Heroes In China Does Not Bring Cheers,https://media.npr.org/assets/img/2020/03/27/gettyimages-1180030589-50_wide-6686388ac6348b811c1dcd0092a962f8c26bb836.jpg?s=1400,"A Reward Of Liquor For Coronavirus Heroes In China Does Not Bring Cheers
 
 Enlarge this image toggle caption Zhang Peng/LightRocket via Getty Images Zhang Peng/LightRocket via Getty Images
@@ -2924,7 +2924,7 @@ Others think it's a good deal, especially given the resale market.
 
 As criticism became increasingly heated, the Guizhou government stepped in, asking Guizhou Liquor Exchange to immediately stop using the pandemic for marketing purposes.
 
-The Exchange has not yet commented.",100,Very high,Center,USA
+The Exchange has not yet commented.",100,Very high,Center,USA,1
 62,https://www.npr.org/2020/03/26/822224393/show-me-the-relief-money-no-promises-on-when-coronavirus-checks-are-coming,National Public Radio (NPR),2020-03-26,['Vanessa Romo'],Show Me The Relief Money – No Promises On When Coronavirus Checks Are Coming,https://media.npr.org/assets/img/2020/03/26/gettyimages-1208076292_wide-e341b7dd6c0a1066935a58919b9c96e036900a07.jpg?s=1400,"Show Me The Relief Money – No Promises On When Coronavirus Checks Are Coming
 
 Enlarge this image toggle caption Xinhua News Agency/Getty Images Xinhua News Agency/Getty Images
@@ -2987,7 +2987,7 @@ As she noted in a recent blog post:
 
 All of that may slow distribution of the payments, Holtzblatt said.
 
-She cautioned the public to be patient: ""The IRS will be overburdened and there will be lots of taxpayer confusion ... and all this will collide with the processing of 2019 returns. There will be snafus.""",100,Very high,Center,USA
+She cautioned the public to be patient: ""The IRS will be overburdened and there will be lots of taxpayer confusion ... and all this will collide with the processing of 2019 returns. There will be snafus.""",100,Very high,Center,USA,1
 63,https://www.npr.org/2020/03/24/820598340/afro-funk-saxophonist-manu-dibango-dies-of-covid-19,National Public Radio (NPR),2020-03-24,['Anastasia Tsioulcas'],Afro-Funk Saxophonist Manu Dibango Dies Of COVID-19,https://media.npr.org/assets/img/2020/03/24/gettyimages-541535433_wide-24b809d0152ae9b53bedd5980f953a1078169403.jpg?s=1400,"Afro-Funk Saxophonist Manu Dibango Dies Of COVID-19
 
 Enlarge this image toggle caption Ullstein Bild/Getty Images Ullstein Bild/Getty Images
@@ -3018,7 +3018,7 @@ In 1982, Michael Jackson picked up a version of a line that Dibango declaimed on
 
 The Cameroonian musician sued the American megastar; Jackson settled out of court for an undisclosed amount of money. In 2007, Rihanna sampled Jackson's version of the ""Soul Makossa"" line on her song ""Don't Stop the Music."" (Jackson had given her permission, but not Dibango.) Two years later, Dibango sued Jackson again, as well as Rihanna in France; that time, his case failed, due to the earlier settlement.
 
-Publicly, Dibango did not dwell on his wranglings with Jackson; as he wryly told Fresh Air in 1990, ""I think he wanted to say hello to Africa somewhere.""",100,Very high,Center,USA
+Publicly, Dibango did not dwell on his wranglings with Jackson; as he wryly told Fresh Air in 1990, ""I think he wanted to say hello to Africa somewhere.""",100,Very high,Center,USA,1
 64,https://www.npr.org/sections/coronavirus-live-updates/2020/03/23/820435849/fact-check-trump-says-50-000-could-die-from-flu-so-far-its-half-that,National Public Radio (NPR),2020-03-23,['Scott Hensley'],"FACT CHECK: Trump Says 50,000 Could Die From Flu.",https://media.npr.org/assets/img/2020/03/23/ap_20083855316555_wide-a4ac3455f3cf5cf920a7f4efc9656dc3a3e80aa7.jpg?s=1400,"FACT CHECK: Trump Says 50,000 Could Die From Flu.
 
 Enlarge this image toggle caption Alex Brandon/AP Alex Brandon/AP
@@ -3037,7 +3037,7 @@ The rates of hospitalization for flu ""remain moderate"" overall, according to t
 
 While the flu can send hundreds of thousands of people to the hospital each year, the seasonal effect is reasonably well understood and planned for. The comparison between flu and COVID-19 doesn't capture the strain that the new coronavirus is putting on hospitals.
 
-COVID-19 is a new disease that is hard to predict. And the surge in cases requiring intensive care that was seen in China and now in Italy can lead to a health system's collapse, health officials have said.",100,Very high,Center,USA
+COVID-19 is a new disease that is hard to predict. And the surge in cases requiring intensive care that was seen in China and now in Italy can lead to a health system's collapse, health officials have said.",100,Very high,Center,USA,1
 65,https://www.npr.org/sections/coronavirus-live-updates/2020/03/24/821114834/terrence-mcnally-honored-american-playwright-has-died-of-coronavirus,National Public Radio (NPR),2020-03-24,['Anastasia Tsioulcas'],"Terrence McNally, Honored American Playwright, Has Died Of Coronavirus",https://media.npr.org/assets/img/2020/03/24/gettyimages-1211177019_wide-e7a4de191b9db5ac2c6a2baaceceba3b2b617d36.jpg?s=1400,"Terrence McNally, Honored American Playwright, Has Died Of Coronavirus
 
 Enlarge this image toggle caption Al Pereira/Getty Images Al Pereira/Getty Images
@@ -3056,7 +3056,7 @@ In a 2019 interview, he told Playbill he was ""tone-deaf,"" but that he also con
 
 In a 2003 interview with WHYY's Fresh Air, composer John Kander — who, alongside lyricist Fred Ebb, collaborated with McNally on several shows, including Kiss of the Spider Woman — called him a gracious co-creator. ""[McNally] is very good at writing a scene that has five pages in it that he knows perfectly well we're going to steal and musicalize,"" Kander said, ""but where he will let a character go on in dialogue in a way which is probably unnatural for him emotionally to do. And he does that in order to turn Fred and me on to musicalizing it.""
 
-Among his other awards were an Emmy, two Guggenheim Fellowships, four Drama Desk Awards, two Obies and an induction into the American Academy of Arts and Letters.",100,Very high,Center,USA
+Among his other awards were an Emmy, two Guggenheim Fellowships, four Drama Desk Awards, two Obies and an induction into the American Academy of Arts and Letters.",100,Very high,Center,USA,1
 66,https://www.npr.org/sections/coronavirus-live-updates/2020/03/23/819980899/3-gop-senators-in-self-quarantine-will-be-unable-to-vote-on-coronavirus-relief,National Public Radio (NPR),2020-03-23,['Scott Neuman'],3 GOP Senators In Self-Quarantine Will Be Unable To Vote On Coronavirus Relief,https://media.npr.org/assets/img/2020/03/23/ap_20078651589066_wide-acc191a1787acbb943f93d5630a144f5d33bbe23.jpg?s=1400,"3 GOP Senators In Self-Quarantine Will Be Unable To Vote On Coronavirus Relief
 
 Enlarge this image toggle caption Senate Television via AP Senate Television via AP
@@ -3083,7 +3083,7 @@ Sen. Chuck Schumer, D-N.Y., blocked a vote on the stimulus bill late Thursday, s
 
 Last week, The Louisville Courier-Journal reported that Paul was present at an event on March 7 where two individuals who attended later tested positive for the coronavirus. The newspaper said several of the attendees had subsequently self-quarantined.
 
-Paul's father, the former member of Congress and presidential candidate Ron Paul, who like his son is also a physician, wrote recently suggesting that the epidemic could be ""a big hoax, with the actual danger of the disease massively exaggerated by those who seek to profit — financially or politically — from the ensuing panic.""",100,Very high,Center,USA
+Paul's father, the former member of Congress and presidential candidate Ron Paul, who like his son is also a physician, wrote recently suggesting that the epidemic could be ""a big hoax, with the actual danger of the disease massively exaggerated by those who seek to profit — financially or politically — from the ensuing panic.""",100,Very high,Center,USA,1
 67,https://www.npr.org/sections/health-shots/2020/03/22/817801475/pregnant-and-worried-about-coronavirus-how-to-stay-safe-and-make-a-game-plan,National Public Radio (NPR),2020-03-22,['Katherine Harmon Courage'],Pregnant And Worried About Coronavirus? How To Stay Safe And Make A Game Plan,https://media.npr.org/assets/img/2020/03/18/gettyimages-1203094807_wide-ad7ede81de333afac590d498623150a059eef559.jpg?s=1400,"Pregnant And Worried About Coronavirus? How To Stay Safe And Make A Game Plan
 
 Enlarge this image toggle caption Stringer/Getty Images Stringer/Getty Images
@@ -3146,7 +3146,7 @@ Qiao notes that individuals should also be careful when selecting over-the-count
 
 With the large uptick in the number of cases of the novel virus, researchers are gathering more data about the disease's impact on pregnant people, fetuses and newborns. Synthesizing all of that information will likely take additional time, but it will eventually help better guide public health and health care recommendations.
 
-In the meantime, the best offense remains a good defense. And that means pregnant people — and those around them — should follow the best current personal and social hygiene recommendations. ""We keep pregnant women and their newborns safer by keeping everyone around them healthy as well,"" Pilliod says. ""It takes a village to keep us all safe.""",100,Very high,Center,USA
+In the meantime, the best offense remains a good defense. And that means pregnant people — and those around them — should follow the best current personal and social hygiene recommendations. ""We keep pregnant women and their newborns safer by keeping everyone around them healthy as well,"" Pilliod says. ""It takes a village to keep us all safe.""",100,Very high,Center,USA,1
 68,https://www.npr.org/2020/03/21/819439661/a-look-at-the-covid-19-crisis-from-a-pharmacists-perspective,National Public Radio (NPR),2020-03-21,['Scott Simon'],A Look At The COVID-19 Crisis From A Pharmacist's Perspective,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"A Look At The COVID-19 Crisis From A Pharmacist's Perspective
 
 Twila Boyd, a pharmacist in South Charleston, Ohio, explains what it's like to treat patients in the midst of the coronavirus outbreak.
@@ -3197,7 +3197,7 @@ BOYD: Thank you very much.
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 69,https://www.npr.org/sections/health-shots/2020/03/21/819207625/coronavirus-threatens-rural-hospitals-already-at-the-financial-brink,National Public Radio (NPR),2020-03-21,['Lauren Weber'],Coronavirus Threatens Rural Hospitals Already At The Financial Brink,https://media.npr.org/assets/img/2020/03/20/gettyimages-960990096_wide-4bc1a285e92389dd8cf2f2e4603d800085aa36fe.jpg?s=1400,"Coronavirus Threatens Rural Hospitals Already At The Financial Brink
 
 Enlarge this image toggle caption Cavan Images/Getty Images Cavan Images/Getty Images
@@ -3250,7 +3250,7 @@ And if nothing changes, Rau worries, the country is about to lose this critical 
 
 ""We can talk all we want about the cost of health care in this country in this ridiculous health care system we have,"" she says. ""But at a time like this, who for a minute would think about getting rid of rural hospitals?""
 
-Kaiser Health News is a nonprofit, editorially independent program of the Kaiser Family Foundation. KHN is not affiliated with Kaiser Permanente.",100,Very high,Center,USA
+Kaiser Health News is a nonprofit, editorially independent program of the Kaiser Family Foundation. KHN is not affiliated with Kaiser Permanente.",100,Very high,Center,USA,1
 70,https://www.npr.org/2020/03/19/817971577/trump-governors-to-discuss-coronavirus-strategy-as-fema-takes-bigger-role,National Public Radio (NPR),2020-03-19,"['Philip Ewing', 'Franco Ordoñez']",FDA Seeks To Expand Treatment For Coronavirus As Part Of White House Response,https://media.npr.org/assets/img/2020/03/19/gettyimages-1213518010_wide-70e2ba9d2d1411a365b4ae3b0c01a63bcaf53c1d.jpg?s=1400,"FDA Seeks To Expand Treatment For Coronavirus As Part Of White House Response
 
 Enlarge this image toggle caption Chip Somodevilla/Getty Images Chip Somodevilla/Getty Images
@@ -3361,7 +3361,7 @@ Abe hasn't decide whether to cancel the games, Trump said, but ""we'd live with 
 
 Trump was asked on Thursday when he thought life would get back to normal.
 
-""I hope very soon,"" he said. ""We'll see. This is uncharted territory.""",100,Very high,Center,USA
+""I hope very soon,"" he said. ""We'll see. This is uncharted territory.""",100,Very high,Center,USA,1
 71,https://www.npr.org/2020/03/18/817841085/coronavirus-forces-bureau-to-suspend-census-field-operations-until-april-1,National Public Radio (NPR),2020-03-18,['Hansi Lo Wang'],Coronavirus Forces Bureau To Suspend Census Field Operations Until April 1,https://media.npr.org/assets/img/2020/03/18/_dsc0209_wide-63efadd5f032a03246a0fdec8b94a7514d921bff.jpg?s=1400,"Coronavirus Forces Bureau To Suspend Census Field Operations Until April 1
 
 Enlarge this image toggle caption Amr Alfiky/NPR Amr Alfiky/NPR
@@ -3398,7 +3398,7 @@ In the written statement, Dillingham said that as of Wednesday morning, more tha
 
 Rep. Carolyn Maloney (D-N.Y.), who helps oversee the 2020 census as the chair of the House Oversight and Reform Committee, says she hopes more households will continue to find ways to respond to the census during the temporary pause in field operations.
 
-""Every American should know that this does not affect your ability to self-respond,"" Maloney said in a statement. ""By responding now, you will ensure that the Census Bureau does not need to send a census worker to your door.""",100,Very high,Center,USA
+""Every American should know that this does not affect your ability to self-respond,"" Maloney said in a statement. ""By responding now, you will ensure that the Census Bureau does not need to send a census worker to your door.""",100,Very high,Center,USA,1
 72,https://www.npr.org/sections/goatsandsoda/2020/03/16/816309232/global-deaths-from-coronavirus-surpass-6-000,National Public Radio (NPR),2020-03-16,['Scott Neuman'],"Global Deaths From Coronavirus Surpass 6,000",https://media.npr.org/assets/img/2020/03/16/gettyimages-1205429985-32_wide-ad93a2950f984c4253b5e67b81e46a0a48ca7d55.jpg?s=1400,"Global Deaths From Coronavirus Surpass 6,000
 
 Enlarge this image toggle caption Fatemeh Bahrami/Anadolu Agency via Getty Images Fatemeh Bahrami/Anadolu Agency via Getty Images
@@ -3499,7 +3499,7 @@ Africa
 
 The continent of Africa, which faced the brunt of the 2014 Ebola outbreak, appears thus far to have been largely spared from COVID-19. According to Johns Hopkins University's Center for Systems Science and Engineering, South Africa has had 62 cases, but no deaths, while Algeria has had 54 confirmed cases and four deaths; Senegal has had 24 cases and no deaths.
 
-NPR's Merrit Kennedy contributed to this report.",100,Very high,Center,USA
+NPR's Merrit Kennedy contributed to this report.",100,Very high,Center,USA,1
 73,https://www.npr.org/2020/03/11/814603337/how-the-coronavirus-outbreak-may-impact-the-2020-census,National Public Radio (NPR),2020-03-11,['Hansi Lo Wang'],Coronavirus Is Making It Even Harder For The Census To Count Every U.S. Resident,https://media.npr.org/assets/img/2020/03/14/gettyimages-1206596153_wide-0c41996b70d7ba1ced6c6ae4ee6d259d7398faba.jpg?s=1400,"Coronavirus Is Making It Even Harder For The Census To Count Every U.S. Resident
 
 Enlarge this image toggle caption Yuki Iwamura/Bloomberg via Getty Images Yuki Iwamura/Bloomberg via Getty Images
@@ -3652,7 +3652,7 @@ Before the outbreak, the bureau estimated that about 7.9 million households — 
 
 Bureau officials said in the document that if the bureau ""does not have confidence"" in the records for an unresponsive household because of missing or inconsistent data, they plan to continue sending census workers to knock on the door.
 
-According to the bureau's plans, workers are generally supposed to try to gather information in person in up to six days in total. At a time of outbreak, however, it's hard to say how many visits will actually be possible later this year.",100,Very high,Center,USA
+According to the bureau's plans, workers are generally supposed to try to gather information in person in up to six days in total. At a time of outbreak, however, it's hard to say how many visits will actually be possible later this year.",100,Very high,Center,USA,1
 74,https://www.npr.org/2020/03/14/815039722/trump-steps-in-to-help-oil-industry-facing-its-own-coronavirus-crisis,National Public Radio (NPR),2020-03-14,['Jeff Brady'],Trump Steps In To Help Oil Industry Facing Its Own Coronavirus Crisis,https://media.npr.org/assets/img/2020/03/12/drillingrig1_wide-8e6ffe543734ee760afdd9cb2c37de4bff360977.jpg?s=1400,"Trump Steps In To Help Oil Industry Facing Its Own Coronavirus Crisis
 
 Enlarge this image toggle caption Jeff Brady/NPR Jeff Brady/NPR
@@ -3697,7 +3697,7 @@ Groups focused on climate change have criticized such ideas.
 
 One potential bright spot in all this is gasoline prices. Lower oil prices will mean cheaper gas for motorists in coming months.
 
-Usually when gas prices go down people drive more and choose bigger cars, which increases consumption. But with many limiting travel out of concern over the coronavirus, this time might be the exception.",100,Very high,Center,USA
+Usually when gas prices go down people drive more and choose bigger cars, which increases consumption. But with many limiting travel out of concern over the coronavirus, this time might be the exception.",100,Very high,Center,USA,1
 75,https://www.npr.org/2020/03/13/815405451/negotiations-wear-on-over-coronavirus-relief-bill-republicans-await-trumps-suppo,National Public Radio (NPR),2020-03-13,"['Kelsey Snell', 'Philip Ewing']","Trump, Pelosi Agree On Coronavirus Relief Bill. Next Hurdle: The Senate",https://media.npr.org/assets/img/2020/03/13/ap_20073529262295_wide-a7e369a26d360e29aa5bccb9e73f4394911c1d8a.jpg?s=1400,"Trump, Pelosi Agree On Coronavirus Relief Bill. Next Hurdle: The Senate
 
 Enlarge this image toggle caption J. Scott Applewhite/AP J. Scott Applewhite/AP
@@ -3748,7 +3748,7 @@ Also unclear on Friday is the legislation's fate in the Senate.
 
 Majority Leader Mitch McConnell, R-Ky., cancelled a recess planned for next week meaning that members would be in Washington to be able to vote — but it wasn't immediately clear how he and members might respond to the deal concluded between Pelosi and Mnuchin.
 
-McConnell reacted coolly to the draft of the coronavirus bill as it stood earlier in the week.",100,Very high,Center,USA
+McConnell reacted coolly to the draft of the coronavirus bill as it stood earlier in the week.",100,Very high,Center,USA,1
 76,https://www.npr.org/2020/03/12/815061982/broadway-shutters-its-stages-amid-coronavirus-threat,National Public Radio (NPR),2020-03-12,['Jeff Lunden'],Broadway Shutters Its Stages Amid Coronavirus Threat,https://media.npr.org/assets/img/2020/03/12/gettyimages-1206832479_wide-ecb259421794a1b0b2db2ba4a389a4e44c269c6e.jpg?s=1400,"Broadway Shutters Its Stages Amid Coronavirus Threat
 
 Enlarge this image toggle caption Angela Weiss/AFP via Getty Images Angela Weiss/AFP via Getty Images
@@ -3765,7 +3765,7 @@ The economic impact will be widespread: In addition to ticket receipts of $1.8 b
 
 And the closing couldn't come at a busier time of the year. Six shows were to open before the end of March, while nine others were scheduled to open before April 23, the deadline to qualify for Tony Awards. Some shows, which have been struggling at the box office, may not reopen. According to Deadline, a monthlong shutdown could see Broadway losing more than $100 million.
 
-Theaters and concert halls are offering ticket exchanges or refunds or accepting donations.",100,Very high,Center,USA
+Theaters and concert halls are offering ticket exchanges or refunds or accepting donations.",100,Very high,Center,USA,1
 77,https://www.npr.org/2020/03/09/813845222/u-s-forces-in-south-korea-and-italy-are-told-to-stay-put-as-coronavirus-spreads,National Public Radio (NPR),2020-03-09,['David Welna'],U.S. Army Forces In South Korea And Italy Told To Stay Put As Coronavirus Spreads,https://media.npr.org/assets/img/2020/03/09/ap_20064133035001_wide-0c3ed4850768fc0146c7b0d864775a333d0e35d1.jpg?s=1400,"U.S. Army Forces In South Korea And Italy Told To Stay Put As Coronavirus Spreads
 
 Enlarge this image toggle caption Ahn Young-joon/AP Ahn Young-joon/AP
@@ -3788,7 +3788,7 @@ Nearly a quarter-million uniformed and civilian Americans are stationed with the
 
 Many work at or nearby the Pentagon, located in Washington, D.C.
 
-""We're fully confident that we can continue to perform the functions that the Pentagon needs to perform if we have some type of outbreak in the building,"" Defense Secretary Mark Esper told reporters at the Pentagon last Thursday. ""We don't have that yet — knock wood — but we want to be prepared for everything and we're taking a variety of measures.""",100,Very high,Center,USA
+""We're fully confident that we can continue to perform the functions that the Pentagon needs to perform if we have some type of outbreak in the building,"" Defense Secretary Mark Esper told reporters at the Pentagon last Thursday. ""We don't have that yet — knock wood — but we want to be prepared for everything and we're taking a variety of measures.""",100,Very high,Center,USA,1
 78,https://www.npr.org/2020/03/02/811133716/megachurch-in-south-korea-accused-of-spreading-coronavirus,National Public Radio (NPR),2020-03-02,['Anthony Kuhn'],Megachurch In South Korea Accused Of Spreading Coronavirus,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"Megachurch In South Korea Accused Of Spreading Coronavirus
 
 The church accounts for more than half of the nearly 4,000 coronavirus cases in the region. Critics accuse the church of being a cult and obstructing efforts to fight the outbreak.
@@ -3837,7 +3837,7 @@ Anthony Kuhn, NPR News, Seoul.
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 79,https://www.npr.org/2020/02/28/810501445/stock-market-continues-plummet-as-coronavirus-fears-continue-rise,National Public Radio (NPR),2020-02-28,['Jim Zarroli'],Stock Market Continues Plummet As Coronavirus Fears Continue Rise,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"Stock Market Continues Plummet As Coronavirus Fears Continue Rise
 
 Financial markets have suffered their worst week since the 2008 financial crisis. The drubbing continued as coronavirus spread and fears grew that its impact will damage the global economy.
@@ -3898,7 +3898,7 @@ KELLY: NPR's Jim Zarroli in New York.
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 80,https://www.npr.org/2020/02/28/810339057/lawmakers-press-administration-for-more-transparency-about-coronavirus-response,National Public Radio (NPR),2020-02-28,"['Kelsey Snell', 'Claudia Grisales', 'Miles Parks']",Lawmakers Press Administration For More Transparency About Coronavirus Response,https://media.npr.org/assets/img/2020/02/28/fauci-corona_wide-92f0b48b7f07a2097d8b0fd9f4493710527af83a.jpg?s=1400,"Lawmakers Press Administration For More Transparency About Coronavirus Response
 
 Enlarge this image toggle caption Mark Wilson/Getty Images Mark Wilson/Getty Images
@@ -3961,8 +3961,8 @@ The number two Senate Democratic leader, Sen. Dick Durbin, tweeted Friday that P
 
 And on Friday, lawmakers still tried to project a sense of calm about the virus.
 
-""People shouldn't panic,"" said Rep. Joe Morelle, D-N.Y. ""The risk right now in the United States is very low.""",100,Very high,Center,USA
-81,https://www.npr.org/2020/02/27/809882286/coronavirus-community-transmission-trump-virus-response-deadly-new-delhi-riots,National Public Radio (NPR),2020-02-27,[],"Coronavirus Community Transmission, Trump Virus Response, Deadly New Delhi Riots",https://media.npr.org/assets/img/2020/02/27/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400,"Coronavirus Community Transmission, Trump Virus Response, Deadly New Delhi Riots U.S. confirms coronavirus case of unknown origin. Handling the outbreak is a big political moment for President Trump. And, three days of violence in New Delhi leaves dozens of people dead. Correction: An earlier version of this podcast said the new coronavirus case was in San Francisco. The patient is actually at the UC Davis Medical Center, and is from Solano County, Calif.",100,Very high,Center,USA
+""People shouldn't panic,"" said Rep. Joe Morelle, D-N.Y. ""The risk right now in the United States is very low.""",100,Very high,Center,USA,1
+81,https://www.npr.org/2020/02/27/809882286/coronavirus-community-transmission-trump-virus-response-deadly-new-delhi-riots,National Public Radio (NPR),2020-02-27,[],"Coronavirus Community Transmission, Trump Virus Response, Deadly New Delhi Riots",https://media.npr.org/assets/img/2020/02/27/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400,"Coronavirus Community Transmission, Trump Virus Response, Deadly New Delhi Riots U.S. confirms coronavirus case of unknown origin. Handling the outbreak is a big political moment for President Trump. And, three days of violence in New Delhi leaves dozens of people dead. Correction: An earlier version of this podcast said the new coronavirus case was in San Francisco. The patient is actually at the UC Davis Medical Center, and is from Solano County, Calif.",100,Very high,Center,USA,1
 82,https://www.npr.org/sections/health-shots/2020/02/26/809578063/trump-to-address-response-to-coronavirus,National Public Radio (NPR),2020-02-26,['Vanessa Romo'],Trump Appoints Pence To Lead Government's Coronavirus Response,https://media.npr.org/assets/img/2020/02/26/ap_20057855867096_wide-6d305d9933312fe0fbc297f9ded4475ef88eb3de.jpg?s=1400,"Trump Appoints Pence To Lead Government's Coronavirus Response
 
 Enlarge this image toggle caption Evan Vucci/AP Evan Vucci/AP
@@ -4011,7 +4011,7 @@ Concern over the virus and the United States' preparedness have reached both sid
 
 On Wednesday morning, Democrats and Republicans grilled Health and Human Services Secretary Alex Azar as he appeared before a House Appropriations subcommittee. The administration is requesting an additional $2.5 billion to combat the respiratory virus.
 
-But many lawmakers see that as an inadequate sum to confront the challenges of a potential health crisis and are crafting emergency response packages ranging from $4 billion to $8.5 billion.",100,Very high,Center,USA
+But many lawmakers see that as an inadequate sum to confront the challenges of a potential health crisis and are crafting emergency response packages ranging from $4 billion to $8.5 billion.",100,Very high,Center,USA,1
 83,https://www.npr.org/2020/02/08/804048544/american-with-coronavirus-dies-at-hospital-near-center-of-epidemic,National Public Radio (NPR),2020-02-08,['Christopher Dean Hopkins'],American With Coronavirus Dies At Hospital Near Center Of Epidemic,https://media.npr.org/assets/img/2020/02/08/gettyimages-1201637127_wide-7f36c51f4d77fb0e44ab0065f3ef9de0967be6a1.jpg?s=1400,"American With Coronavirus Dies At Hospital Near Center Of Epidemic
 
 Enlarge this image toggle caption Getty Images Getty Images
@@ -4028,7 +4028,7 @@ It's not known why this patient was not among the evacuees.
 
 The CDC reports that as of Friday, 12 cases of coronavirus have been confirmed in the U.S. across six states: Arizona, California, Illinois, Massachusetts, Washington and Wisconsin.
 
-NPR's Emily Feng contributed to this report.",100,Very high,Center,USA
+NPR's Emily Feng contributed to this report.",100,Very high,Center,USA,1
 84,https://www.npr.org/2020/02/06/803523981/coronavirus-whistleblower-dies-from-the-disease-in-china,National Public Radio (NPR),2020-02-06,['Huo Jingnan'],Coronavirus Whistleblower Dies From The Disease In China,https://media.npr.org/assets/img/2020/02/06/gettyimages-1198896609_wide-f70dd12fd44ae9bc597cc9f3181042d86cdfff61.jpg?s=1400,"Coronavirus Whistleblower Dies From The Disease In China
 
 Enlarge this image toggle caption Barcroft Media/Getty Images Barcroft Media/Getty Images
@@ -4061,10 +4061,10 @@ Li's death has prompted condolences from state media, including the People's Dai
 
 Michael Ryan, head of the World Health Organization's emergencies program said, ""We're very sad to hear of the loss of Dr. Li Wenliang. We're very sorry to hear of the loss of any front line worker who's attempted to care for patients. And we ourselves have lost our friends in the front lines. So we should celebrate his life and mourn his death with his colleagues.""
 
-Li leaves behind one child and his wife, who is pregnant.",100,Very high,Center,USA
+Li leaves behind one child and his wife, who is pregnant.",100,Very high,Center,USA,1
 85,https://www.npr.org/2020/01/30/801107140/trumps-legal-team-shifts-defense-argument-coronavirus-outbreak-pompeo-in-britain,National Public Radio (NPR),2020-01-30,[],"Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain",https://media.npr.org/assets/img/2020/01/30/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400,"Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Correction: In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. — President Trump's legal team shifted its defense strategy during the first day of questions and answers in the Senate. Will there be more changes today? Meanwhile, Republicans are confident that they will have enough votes to block witnesses from testifying. The number of coronavirus cases has now reached nearly 8,000, with more than a dozen countries reporting at least a few cases. What preparations is the U.S. taking to combat the spread of the virus? Also can the Secretary of State Mike Pompeo persuade Britain to overturn its decision to work with the Chinese tech giant Huawei on its 5G infrastructure?
 
-Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Listen · 13:07 13:07 Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain 13:07 Up First Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Listen · 13:07 13:07 Correction: In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. — President Trump's legal team shifted its defense strategy during the first day of questions and answers in the Senate. Will there be more changes today? Meanwhile, Republicans are confident that they will have enough votes to block witnesses from testifying. The number of coronavirus cases has now reached nearly 8,000, with more than a dozen countries reporting at least a few cases. What preparations is the U.S. taking to combat the spread of the virus? Also can the Secretary of State Mike Pompeo persuade Britain to overturn its decision to work with the Chinese tech giant Huawei on its 5G infrastructure? Correction In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. NPR thanks our sponsors Become an NPR sponsor",100,Very high,Center,USA
+Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Listen · 13:07 13:07 Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain 13:07 Up First Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Listen · 13:07 13:07 Correction: In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. — President Trump's legal team shifted its defense strategy during the first day of questions and answers in the Senate. Will there be more changes today? Meanwhile, Republicans are confident that they will have enough votes to block witnesses from testifying. The number of coronavirus cases has now reached nearly 8,000, with more than a dozen countries reporting at least a few cases. What preparations is the U.S. taking to combat the spread of the virus? Also can the Secretary of State Mike Pompeo persuade Britain to overturn its decision to work with the Chinese tech giant Huawei on its 5G infrastructure? Correction In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. NPR thanks our sponsors Become an NPR sponsor",100,Very high,Center,USA,1
 86,https://www.npr.org/2020/01/22/798392172/chinese-health-officials-more-die-from-newly-identified-coronavirus,National Public Radio (NPR),2020-01-22,['Emily Feng'],Chinese Health Officials: More Die From Newly Identified Coronavirus,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,"Chinese Health Officials: More Die From Newly Identified Coronavirus
 
 Chinese health authorities held a briefing Wednesday on a new coronavirus thought to have originated in Wuhan, China. More than 200 cases have been detected globally, including one case in the U.S.
@@ -4115,7 +4115,7 @@ FENG: Thanks, David.
 
 Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
 
-NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",100,Very high,Center,USA,1
 87,https://www.npr.org/2020/03/17/816504058/a-list-of-live-virtual-concerts-to-watch-during-the-coronavirus-shutdown,National Public Radio (NPR),2020-03-17,['Lars Gotrich'],A List Of Live Virtual Concerts To Watch During The Coronavirus Shutdown,https://media.npr.org/assets/img/2020/03/17/gettyimages-1212241393_wide-5aa9105c64e197a8d3d663dd56241e616f5b5c14.jpg?s=1400,"A List Of Live Virtual Concerts To Watch During The Coronavirus Shutdown
 
 Enlarge this image toggle caption Carlos Alvarez/Getty Images Carlos Alvarez/Getty Images
@@ -5126,7 +5126,7 @@ Time: 12 a.m. - 11:59 p.m. ET
 
 Link: YouTube
 
-Note: KCON has not yet announced a detailed lineup or schedule. Check the festival's website for more details.",100,Very high,Center,USA
+Note: KCON has not yet announced a detailed lineup or schedule. Check the festival's website for more details.",100,Very high,Center,USA,1
 88,https://www.npr.org/sections/coronavirus-live-updates/2020/05/16/857344021/eurovision-song-contest-to-shine-a-light-with-pandemic-special,National Public Radio (NPR),2020-05-16,['Joanna Kakissis'],Eurovision Song Contest To 'Shine A Light' With Pandemic Special,https://media.npr.org/assets/img/2020/05/16/eurovision-photo_wide-660d02d16a5c92fb715c37aa55b101c7462f2b9b.jpeg?s=1400,"Eurovision Song Contest To 'Shine A Light' With Pandemic Special
 
 Enlarge this image toggle caption EBU/Kris Pouw EBU/Kris Pouw
@@ -5153,7 +5153,7 @@ The Eurovision Song Contest has also expanded far beyond Europe and now includes
 
 Hungary's national public broadcasting association said it wanted to focus its resources on ""Hungarian pop singers"" though one report said pro government media called the contest a ""homosexual flotilla."" Hungary has never won the contest but came in fourth in 1994 with this ballad sung by Friderika Bayer.
 
-Many fans observing social distancing cannot hold Eurovision parties at home this year. Some made up for it with online watch parties, which involved tuning in remotely to watch reruns of previous contests. At Saturday night's Eurovision alternative, a featured performance will be the unity anthem Love Shine a Light by Katrina and the Waves, the 1997 winner. The super fans might sing along and also hope that ABBA will too.",100,Very high,Center,USA
+Many fans observing social distancing cannot hold Eurovision parties at home this year. Some made up for it with online watch parties, which involved tuning in remotely to watch reruns of previous contests. At Saturday night's Eurovision alternative, a featured performance will be the unity anthem Love Shine a Light by Katrina and the Waves, the 1997 winner. The super fans might sing along and also hope that ABBA will too.",100,Very high,Center,USA,1
 89,https://www.npr.org/sections/coronavirus-live-updates/2020/05/15/856995815/tanglewood-has-canceled-its-2020-live-season,National Public Radio (NPR),2020-05-15,['Anastasia Tsioulcas'],Tanglewood Has Canceled Its 2020 Live Season,https://media.npr.org/assets/img/2020/05/15/tanglewood_wide-92f0ec1f3309575321d3cc53c9ec350d1aa19d17.jpg?s=1400,"Tanglewood Has Canceled Its 2020 Live Season
 
 Enlarge this image toggle caption Courtesy of the Boston Symphony Orchestra Courtesy of the Boston Symphony Orchestra
@@ -5172,7 +5172,7 @@ The BSO has already been forced to take significant measures to curtail its fina
 
 Last month, the orchestra announced it was furloughing 70 of its 300 full-time employees, and its musicians took pay cuts. Additionally, BSO president and CEO Mark Volpe took a 50% salary reduction, and its music director, Andris Nelsons, was not paid for canceled performances.
 
-Tanglewood was founded in 1937; the only other times that the festival has been curtailed or canceled completely were during World War II.",100,Very high,Center,USA
+Tanglewood was founded in 1937; the only other times that the festival has been curtailed or canceled completely were during World War II.",100,Very high,Center,USA,1
 90,https://www.npr.org/2020/05/14/855122795/wuhan-diary-brings-account-of-chinas-coronavirus-outbreak-to-english-speakers,National Public Radio (NPR),2020-05-14,['Emily Feng'],'Wuhan Diary' Brings Account Of China's Coronavirus Outbreak To English Speakers,https://media.npr.org/assets/img/2020/05/13/wuhan_wide-dd65b008c99dc5c96c9a0390526450c554d9934b.jpg?s=1400,"'Wuhan Diary' Brings Account Of China's Coronavirus Outbreak To English Speakers
 
 Enlarge this image toggle caption HarperVia HarperVia
@@ -5211,7 +5211,7 @@ China today is more globalized and more confident than ever. It has also become 
 
 Voices like Fang Fang's — who remember well the brutal decade of the Cultural Revolution, when adolescent Maoists tortured, persecuted and beat to death the politically incorrect, as well as the subsequent prosperity of economic reform and opening— are increasingly rare in China. But in the context of larger conversations being had about China and its place in the world, American readers would do well to remember they exist.
 
-Emily Feng is NPR's Beijing correspondent.",100,Very high,Center,USA
+Emily Feng is NPR's Beijing correspondent.",100,Very high,Center,USA,1
 91,https://www.npr.org/sections/coronavirus-live-updates/2020/05/08/852867847/watch-andy-serkis-reads-entirety-of-the-hobbit-for-charity,National Public Radio (NPR),2020-05-08,['Jason Slotkin'],Andy Serkis Reads Aloud The Entirety Of 'The Hobbit' For Charity,https://media.npr.org/assets/img/2020/05/08/ap_20034071513450_wide-9875d5fa3fa3349365f26cbf76e8b79ff4789718.jpg?s=1400,"Andy Serkis Reads Aloud The Entirety Of 'The Hobbit' For Charity
 
 Enlarge this image toggle caption Vianney Le Caer/Vianney Le Caer/Invision/AP Vianney Le Caer/Vianney Le Caer/Invision/AP
@@ -5232,4 +5232,4 @@ This time around, Serkis worked without the digital effects but with a likeness 
 
 Serkis says proceeds from the reading — which has surpassed £240,000 (or nearly $298,000) at the time of writing — will be split evenly between two charities, the NHS Charities Together and Best Beginnings, which provides supports to pregnant women and families with young children.
 
-In addition The Hobbit and the Lords of The Rings trilogy, Serkis has portrayed characters in Stars Wars: The Last Jedi, Black Panther and the most recent series of Planet of the Apes films.",100,Very high,Center,USA
+In addition The Hobbit and the Lords of The Rings trilogy, Serkis has portrayed characters in Stars Wars: The Last Jedi, Black Panther and the most recent series of Planet of the Apes films.",100,Very high,Center,USA,1

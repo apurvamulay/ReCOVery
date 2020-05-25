@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://www.reuters.com/article/us-health-coronavirus-trump-who/trump-threatens-to-halt-who-funding-review-u-s-membership-idUSKBN22V0B0,Reuters,2020-05-19,[],"Trump threatens to halt WHO funding, review U.S. membership",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519107550&w=1200&r=LYNXMPEG4I08J,"(Reuters) - U.S. President Donald Trump threatened on Monday to permanently halt funding for the World Health Organization (WHO) if it did not commit to improvements within 30 days, and to reconsider his country’s membership of the agency.
 
 Trump suspended U.S. contributions to the WHO last month, accusing it of promoting Chinese “disinformation” about the novel coronavirus outbreak, although WHO officials denied the accusation and China said it was transparent and open.
@@ -35,7 +35,7 @@ FILE PHOTO: U.S. President Donald Trump holds a meeting on ""opportunity zones""
 
 The United States traditionally provides several hundred million dollars annually in voluntary funding tied to specific WHO programmes like polio eradication, vaccine-preventable disease, HIV and hepatitis, tuberculosis, and maternal and child and health.
 
-It was not clear how much voluntary funding the United States has provided for WHO programmes in 2020.",100,Very high,Center,UK
+It was not clear how much voluntary funding the United States has provided for WHO programmes in 2020.",100,Very high,Center,UK,1
 1,https://www.reuters.com/article/us-health-coronavirus-usa/promising-virus-vaccine-results-reported-as-trump-takes-anti-malaria-drug-idUSKBN22U26H,Reuters,2020-05-19,"['Maria Caspani', 'Rajesh Kumar Singh']",Promising virus vaccine results reported as Trump takes anti-malaria drug,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519091643&w=1200&r=LYNXMPEG4I02J,"NEW YORK (Reuters) - The phased reopening of U.S. business and social life gained traction on Monday with more Americans emerging from coronavirus lockdowns and financial markets boosted by promising early results from the first U.S. vaccine trial in humans.
 
 News of a possible vaccine breakthrough was somewhat overshadowed by President Donald Trump’s surprise announcement hours later that he is taking hydroxychloroquine as a COVID-19 preventive treatment, contrary to medical warnings about such use of the anti-malaria drug. The disclosure came during Trump’s White House meeting with restaurant executives.
@@ -94,7 +94,7 @@ The auto industry is widely watched as a test case for whether workers across a 
 
 “I’m a little nervous,” said Larry Smith, 53, who works on wheel alignment away from the assembly line. “They made all the precautions (and) they’ve done everything they can to prepare .... I’m trusting in God.”
 
-GRAPHIC: Where U.S. coronavirus cases are on the rise - here",100,Very high,Center,UK
+GRAPHIC: Where U.S. coronavirus cases are on the rise - here",100,Very high,Center,UK,1
 2,https://www.reuters.com/article/us-health-coronavirus-trump-drug/trump-says-he-is-taking-hydroxychloroquine-despite-fda-warning-idUSKBN22U2Y5,Reuters,2020-05-19,"['Jeff Mason', 'Steve Holland']",Trump says he is taking hydroxychloroquine despite FDA warning,https://s3.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519072798&w=1200&r=LYNXMPEG4H296,"WASHINGTON (Reuters) - U.S. President Donald Trump, in a surprise announcement, said on Monday he is taking hydroxychloroquine as a preventive medicine against the coronavirus despite medical warnings about the use of the malaria drug.
 
 Trump volunteered the disclosure during a question-and-answer session with reporters at the White House as he met restaurant executives whose businesses are reeling from the impact of the virus.
@@ -133,7 +133,7 @@ U.S. President Donald Trump talks about taking daily doses of hydroxychloroquine
 
 Trump said he also took a single dose of azithromycin, an antibiotic meant to prevent infection. In conjunction with hydroxychloroquine, Trump said he was taking zinc.
 
-“All I can tell you is so far I seem to be OK,” he said.",100,Very high,Center,UK
+“All I can tell you is so far I seem to be OK,” he said.",100,Very high,Center,UK,1
 3,https://www.reuters.com/article/us-health-coronavirus-testing-cdc-exclus/exclusive-cdc-plans-sweeping-covid-19-antibody-study-in-25-metropolitan-areas-idUSKBN22U2TZ,Reuters,2020-05-19,['Nick Brown'],Exclusive: CDC plans sweeping COVID-19 antibody study in 25 metropolitan areas,https://s2.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519067966&w=1200&r=LYNXMPEG4H27H,"(Reuters) - The U.S. Centers for Disease Control and Prevention (CDC) plans a nationwide study of up to 325,000 people to track how the new coronavirus is spreading across the country into next year and beyond, a CDC spokeswoman and researchers conducting the effort told Reuters.
 
 FILE PHOTO: A healthcare professional takes blood to test for antibodies at Mt. Sinai Hospital as the spread of the coronavirus disease (COVID-19) continues in the Manhattan borough of New York City, U.S., April 25, 2020. REUTERS/Lucas Jackson/File Photo
@@ -182,7 +182,7 @@ FILE PHOTO: A general view of the Centers for Disease Control and Prevention (CD
 
 Some local governments have done their own seroprevalence research. New York in April found antibodies in more than 20% of some 3,000 test subjects, suggesting the number of residents exposed to the virus in the hardest-hit state is much higher than the 355,000 who have tested positive.
 
-Last week, an antibody study by the city of Boston and Massachusetts General Hospital found 10% of the population had COVID-19 antibodies. The Spanish government ran a study showing exposure in 5% of people - suggesting 10 times the number of confirmed positive cases.",100,Very high,Center,UK
+Last week, an antibody study by the city of Boston and Massachusetts General Hospital found 10% of the population had COVID-19 antibodies. The Spanish government ran a study showing exposure in 5% of people - suggesting 10 times the number of confirmed positive cases.",100,Very high,Center,UK,1
 4,https://www.reuters.com/article/us-health-coronavirus-snapshot/what-you-need-to-know-about-the-coronavirus-right-now-idUSKBN22V0KY,Reuters,2020-05-19,[],What you need to know about the coronavirus right now,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519113521&w=1200&r=LYNXMPEG4I0CS,"(Reuters) - Here’s what you need to know about the coronavirus right now:
 
 A man wearing a protective mask makes his way under the rain amid the coronavirus disease (COVID-19) outbreak in Tokyo, Japan, May 19, 2020.REUTERS/Kim Kyung-Hoon
@@ -217,7 +217,7 @@ Israeli inventors have developed a mask with a remote control mouth that lets di
 
 A squeeze of a lever opens a slot in the front of the mask so food can pass through.
 
-The process could get messy with ice cream or sauces, but more solid morsels can be gobbled up a la Pac-Man in the arcade game.",100,Very high,Center,UK
+The process could get messy with ice cream or sauces, but more solid morsels can be gobbled up a la Pac-Man in the arcade game.",100,Very high,Center,UK,1
 5,https://www.reuters.com/article/us-health-coronavirus-restaurants-chains/as-coronavirus-crushes-small-restaurants-big-chains-see-room-to-move-in-idUSKBN22V1J5,Reuters,2020-05-19,['Hilary Russ'],"As coronavirus crushes small restaurants, big chains see room to move in",https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519147466&w=1200&r=LYNXMPEG4I0W9,"NEW YORK (Reuters) - Prime storefronts left empty by failed businesses. Cheaper or even flexible rents. Landlords willing to add drive-thru lanes.
 
 FILE PHOTO: Signage for a Chipotle Mexican Grill is seen in Los Angeles, California, United States, April 25, 2016. REUTERS/Lucy Nicholson/File Photo
@@ -262,7 +262,7 @@ Nonetheless, Shake Shack Inc (SHAK.N) CEO Randy Garutti said during a May 4 earn
 
 Wendy’s Co (WEN.O), Papa John’s International Inc (PZZA.O) and Yum China Holdings Inc (YUMC.N) also discussed post-coronavirus expansion during recent Wall Street calls.
 
-“If there’s opportunities that make sense for us on the real estate side, we will pursue those,” said David Hoffmann, Dunkin’ Brands Group Inc (DNKN.O) chief executive officer in an April 30 earnings call. “But you also want to balance being a good corporate citizen and sticking to your values, and not being a shark either.”",100,Very high,Center,UK
+“If there’s opportunities that make sense for us on the real estate side, we will pursue those,” said David Hoffmann, Dunkin’ Brands Group Inc (DNKN.O) chief executive officer in an April 30 earnings call. “But you also want to balance being a good corporate citizen and sticking to your values, and not being a shark either.”",100,Very high,Center,UK,1
 6,https://www.reuters.com/article/us-health-coronavirus-usa-response/powell-mnuchin-to-face-senate-grilling-on-u-s-coronavirus-response-idUSKBN22V0G7?il=0,Reuters,2020-05-19,['David Lawder'],"Powell, Mnuchin to face Senate grilling on U.S. coronavirus response",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519141906&w=1200&r=LYNXMPEG4I0A6,"WASHINGTON (Reuters) - The U.S. government’s handling of its massive economic response to the coronavirus pandemic will come under scrutiny on Tuesday as Treasury Secretary Steven Mnuchin and Federal Reserve Chair Jerome Powell testify before the Senate Banking Committee.
 
 FILE PHOTO: U.S. Treasury Secretary Steve Mnuchin (R) and Federal Reserve Chairman Jerome Powell pose for G-20 finance ministers and central banks governors family photo during the IMF/World Bank spring meeting in Washington, U.S., April 20, 2018. REUTERS/Yuri Gripas/File Photo
@@ -285,7 +285,7 @@ Mnuchin also will face questions by the Senate banking panel over processing gli
 
 A separate congressional oversight board issued its first report here on the response, consisting largely of questions that could be asked in Tuesday's hearing.
 
-Among them are how the agencies will measure success and isolate the effects of the measures from other state and federal efforts.",100,Very high,Center,UK
+Among them are how the agencies will measure success and isolate the effects of the measures from other state and federal efforts.",100,Very high,Center,UK,1
 7,https://www.reuters.com/article/us-health-coronavirus-southwest/southwest-says-bookings-outpace-cancellations-in-may-idUSKBN22V1GT?il=0,Reuters,2020-05-19,[],Southwest says bookings outpace cancellations in May,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519145243&w=1200&r=LYNXMPEG4I0UZ,"FILE PHOTO: A number of grounded Southwest Airlines Boeing 737 MAX 8 aircraft are shown parked at Victorville Airport in Victorville, California, U.S., March 26, 2019. REUTERS/Mike Blake/File Photo
 
 (Reuters) - Southwest Airlines Co (LUV.N) said on Tuesday it recorded positive bookings on a net basis so far this month as passenger reservations outpaced trip cancellations, helping the company slow its cash burn rate.
@@ -296,7 +296,7 @@ Southwest said although it continues to estimate its average daily core cash spe
 
 “The company has also recently experienced a modest improvement in passenger demand and bookings in June 2020,” Southwest said in a regulatory filing.
 
-The U.S. carrier said it expects June capacity to fall between 45% and 55% from with a year ago, compared with a decline of 60% to 70% in May capacity. (bit.ly/3cK8UvT)",100,Very high,Center,UK
+The U.S. carrier said it expects June capacity to fall between 45% and 55% from with a year ago, compared with a decline of 60% to 70% in May capacity. (bit.ly/3cK8UvT)",100,Very high,Center,UK,1
 8,https://www.reuters.com/article/us-kohls-results/kohls-losses-surge-on-coronavirus-closures-idUSKBN22V1JT?il=0,Reuters,2020-05-19,[],Kohl's losses surge on coronavirus closures,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519147766&w=1200&r=LYNXMPEG4I0WM,"FILE PHOTO: The sign outside a Kohl's store is seen in Broomfield, Colorado February 27, 2014. REUTERS/Rick Wilking
 
 (Reuters) - Kohl’s Corp (KSS.N) reported a bigger-than-expected loss on Tuesday, as the department store chain’s stores remained shut for most of the first quarter due to the COVID-19 lockdowns.
@@ -313,7 +313,7 @@ Kohl’s said net sales fell to $2.16 billion from $3.82 billion a year earlier.
 
 For the quarter ended May 2, the company reported net loss of $541 million, or $3.50 per share, compared with a profit of $62 million, or 38 cents per share, a year earlier.
 
-Excluding one-time items, it lost $3.20 per share, missing Wall Street estimates of a $1.80 loss, according to IBES data from Refinitiv.",100,Very high,Center,UK
+Excluding one-time items, it lost $3.20 per share, missing Wall Street estimates of a $1.80 loss, according to IBES data from Refinitiv.",100,Very high,Center,UK,1
 9,https://www.reuters.com/article/us-health-coronavirus-insurance-auto-fac/factbox-insurers-return-part-of-auto-premiums-as-coronavirus-cuts-driving-idUSKBN22V1K9?il=0,Reuters,2020-05-19,[],Factbox: Insurers return part of auto premiums as coronavirus cuts driving,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519148446&w=1200&r=LYNXMPEG4I0X6,"(Reuters) - Major U.S. insurers are offering credit to auto and motorcycle policyholders following a decline in driving, as most Americans stay at home under widespread orders to help contain the spread of the novel coronavirus.
 
 FILE PHOTO: An Allstate insurance office is shown in San Francisco, California February 10, 2010. REUTERS/Robert Galbraith
@@ -378,14 +378,14 @@ USAA
 
 USAA, America’s fifth largest property-casualty insurer, said it will return a total of $800 million to its members.
 
-Source: Company data",100,Very high,Center,UK
+Source: Company data",100,Very high,Center,UK,1
 10,https://www.reuters.com/article/us-health-coronavirus-asda/asdas-first-quarter-sales-boosted-by-coronavirus-stocking-up-idUSKBN22V1K5?il=0,Reuters,2020-05-19,['James Davey'],Asda's first-quarter sales boosted by coronavirus stocking-up,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519148306&w=1200&r=LYNXMPEG4I0WZ,"An Asda employee makes a delivery in Keele, as the spread of the coronavirus disease (COVID-19) continues, Keele, Britain, April 1, 2020. REUTERS/Carl Recine
 
 LONDON (Reuters) - Asda, the British supermarket arm of the world’s biggest retailer Walmart (WMT.N), said on Tuesday its first-quarter comparable sales rose 3.5%, boosted by consumers stocking-up on food in response to the coronavirus crisis.
 
 It said higher growth in food was partially offset by weaker demand for apparel.
 
-Asda also said it gross profit rate declined, primarily as a result of a change in mix towards lower margin categories in response to COVID-19. It also had incremental costs related to the pandemic.",100,Very high,Center,UK
+Asda also said it gross profit rate declined, primarily as a result of a change in mix towards lower margin categories in response to COVID-19. It also had incremental costs related to the pandemic.",100,Very high,Center,UK,1
 11,https://www.reuters.com/article/us-health-coronavirus-safrica-malaicha/zimbabweans-in-south-africa-use-app-to-send-food-home-after-border-restrictions-idUSKBN22V1JH?il=0,Reuters,2020-05-19,"['Emma Rumney', 'MacDonald Dzirutwe']",Zimbabweans in South Africa use app to send food home after border restrictions,https://s4.reutersmedia.net/resources_v2/images/rcom-default.png,"JOHANNESBURG/HARARE (Reuters) - Petronella Mabhena, a domestic worker in South Africa, has been paying bus drivers to ferry food to her relatives in Zimbabwe for over a decade.
 
 As with many other families from Zimbabwe whose members depend on food from South Africa, the supplies were abruptly halted when the two countries restricted movement across their border in March to prevent the spread of COVID-19.
@@ -416,7 +416,7 @@ He brought cooking oil and diapers to Mabhena’s daughter, Epiphania Moyo, and 
 
 The family is all too familiar with the frustration of traditional malaicha deliveries, which they said cost more and don’t always arrive on time or in full. Their experience with the app was different.
 
-“They are very fast; they delivered everything. I will use it again,” Moyo added.",100,Very high,Center,UK
+“They are very fast; they delivered everything. I will use it again,” Moyo added.",100,Very high,Center,UK,1
 12,https://www.reuters.com/article/us-health-coronavirus-spain/spain-lifts-ban-on-flights-from-italy-but-tourism-still-off-cards-idUSKBN22V13E?il=0,Reuters,2020-05-19,"['Emma Pinedo', 'Inti Landauro']","Spain lifts ban on flights from Italy, but tourism still off cards",https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519148138&w=1200&r=LYNXMPEG4I0WE,"A woman wearing a protective mask walks past a sculpture wearing traditional ""Chulapo"" attire and a mask as she leaves a lottery shop amid the coronavirus disease (COVID-19) outbreak, in Madrid, Spain, May 19, 2020. REUTERS/Juan Medina
 
 MADRID (Reuters) - Spain lifted on Tuesday a ban on direct flights and ships from Italy imposed since March 11 to curb the coronavirus, but tourism restrictions and a 14-day quarantine for inbound travellers remained in place.
@@ -431,7 +431,7 @@ At the peak of the outbreak, Spain was losing hundreds of citizens a day as stre
 
 But the overnight death toll reported on Monday was 59, the lowest in two months, bringing the known total to 27,709.
 
-The United States, United Kingdom, Italy and France have all reported more fatalities than Spain.",100,Very high,Center,UK
+The United States, United Kingdom, Italy and France have all reported more fatalities than Spain.",100,Very high,Center,UK,1
 13,https://www.reuters.com/article/us-health-coronavirus-airlines-factbox/factbox-new-measures-being-put-in-place-for-air-travel-differ-by-country-idUSKBN22V0B7?il=0,Reuters,2020-05-19,[],Factbox: New measures being put in place for air travel differ by country,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519147533&w=1200&r=LYNXMPEG4I07M,"(Reuters) - Governments, airlines and airports around the world are putting in place new measures to help protect travellers and allow for a return to the air during the global coronavirus pandemic.
 
 A man in protective suit works on disinfecting the aircraft cabin for a Hainan Airlines flight, as the country is hit by an outbreak of the novel coronavirus, at the Haikou Meilan International Airport in Haikou, Hainan province, China February 7, 2020. cnsphoto via REUTERS
@@ -474,7 +474,7 @@ The aviation regulator requires airlines to leave at least one seat empty betwee
 
 PHILIPPINES
 
-The government requires passengers to wear masks upon entering the airport, mandatory temperature checks and for social distancing measures to be observed at queuing points. Security screenings should be done with minimal contact. Passengers need to fill out an electronic health declaration form.",100,Very high,Center,UK
+The government requires passengers to wear masks upon entering the airport, mandatory temperature checks and for social distancing measures to be observed at queuing points. Security screenings should be done with minimal contact. Passengers need to fill out an electronic health declaration form.",100,Very high,Center,UK,1
 14,https://www.reuters.com/article/us-health-coronavirus-airlines/empty-middle-seat-depends-on-which-country-you-are-flying-in-idUSKBN22V0B5?il=0,Reuters,2020-05-19,"['Jamie Freed', 'Stella Qiu', 'Anne Kauranen']",Empty middle seat? Depends on which country you are flying in,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519147534&w=1200&r=LYNXMPEG4I09H,"SYDNEY/BEIJING/HELSINKI (Reuters) - In Thailand, you cannot have food or water in flight and must wear a mask. In Malaysia and Indonesia, the plane needs to be half-empty. In the United States and Europe, it’s not mandatory for airlines to leave the middle seat open.
 
 FILE PHOTO - Rows of empty seats of an American Airline flight are seen, as coronavirus disease (COVID-19) disruption continues across the global industry, during a flight between Washington D.C. and Miami, in Washington, U.S., March 18, 2020. REUTERS/Carlos Barria
@@ -523,7 +523,7 @@ U.S. carriers are among those requiring passengers and crew to wear facial cover
 
 In Europe, airlines are largely resisting calls to leave the middle seat empty but have publicised other changes designed to reassure passengers.
 
-“You have to remember an aircraft is not the natural place to do social-distancing, so you need to mitigate the health risks by other means, and facial masks are a good example of those means,” Finnair Plc (FIA1S.HE) Chief Executive Topi Manner told Reuters.",100,Very high,Center,UK
+“You have to remember an aircraft is not the natural place to do social-distancing, so you need to mitigate the health risks by other means, and facial masks are a good example of those means,” Finnair Plc (FIA1S.HE) Chief Executive Topi Manner told Reuters.",100,Very high,Center,UK,1
 15,https://www.reuters.com/article/us-eu-vietnam-trade/eu-trade-pact-to-support-vietnams-coronavirus-recovery-world-bank-idUSKBN22V1J9?il=0,Reuters,2020-05-19,[],EU trade pact to support Vietnam's coronavirus recovery: World Bank,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519147275&w=1200&r=LYNXMPEG4I0WB,"European Union and Vietnamese flags are seen at the signing ceremony of EU-Vietnam Free Trade Agreement at the government office in Hanoi, Vietnam June 30, 2019. REUTERS/Kham
 
 HANOI (Reuters) - A free trade agreement with the European Union set to soon be ratified by Vietnam should boost the Asian nation’s economic recovery from the coronavirus pandemic, the World Bank said on Tuesday, while urging faster reforms.
@@ -538,7 +538,7 @@ The European Union-Vietnam Free Trade Agreement (EVFTA) could boost Vietnam’s 
 
 “Such benefits are particularly urgent to lock in positive economic gains as the country responds to the COVID-19 pandemic,” the bank said.
 
-It said now was the perfect time for Vietnam to initiate deeper reforms and fix legal gaps and implementation issues to reap the full benefits of the agreement.",100,Very high,Center,UK
+It said now was the perfect time for Vietnam to initiate deeper reforms and fix legal gaps and implementation issues to reap the full benefits of the agreement.",100,Very high,Center,UK,1
 16,https://www.reuters.com/article/us-health-coronavirus-energy-ppp/few-u-s-oil-and-gas-firms-return-small-business-covid-19-loans-idUSKBN22V1IG?il=0,Reuters,2020-05-19,['David French'],Few U.S. oil and gas firms return small-business COVID-19 loans,https://s1.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519146924&w=1200&r=LYNXMPEG4I0W0,"NEW YORK (Reuters) - U.S. securities filings show that only three of 12 listed oil and gas companies that received emergency government aid made available for small businesses said they would return it ahead of a deadline for firms that do not need the funds to do so.
 
 FILE PHOTO: An oil pumpjack is seen in Velma, Oklahoma U.S. April 7, 2016. REUTERS/Luc Cohen/File Photo
@@ -567,7 +567,7 @@ The quartet, along with the other five listed oil and gas firms that received PP
 
 Energy companies have also benefited from emergency tax reform enacted in the wake of the pandemic.
 
-More than $2 billion of benefits were recorded by a combined 43 companies due to two changes in the tax code, including one allowing current losses to be offset against past income tax bills, a Reuters review of first-quarter earnings statements found.",100,Very high,Center,UK
+More than $2 billion of benefits were recorded by a combined 43 companies due to two changes in the tax code, including one allowing current losses to be offset against past income tax bills, a Reuters review of first-quarter earnings statements found.",100,Very high,Center,UK,1
 17,https://www.reuters.com/article/us-health-coronavirus-delta-strategy-exc/exclusive-delta-will-add-flights-to-keep-planes-no-more-than-60-full-as-demand-rises-sources-idUSKBN22V08T,Reuters,2020-05-19,['Tracy Rucinski'],Exclusive: Delta will add flights to keep planes no more than 60% full as demand rises - sources,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519144728&w=1200&r=LYNXMPEG4I05G,"(Reuters) - Delta Air Lines Inc (DAL.N) will keep planes no more than 60% full through at least July, adding more flights to its schedule than demand would usually justify, people familiar with the matter said.
 
 FILE PHOTO: Delta Air Lines passenger planes are seen parked due to flight reductions made to slow the spread of coronavirus disease (COVID-19), at Birmingham-Shuttlesworth International Airport in Birmingham, Alabama, U.S. March 25, 2020. REUTERS/Elijah Nouvelage/File Photo
@@ -592,7 +592,7 @@ Industrywide, U.S. airline load factors have recently been about 33%, with some 
 
 Adding more flights could bring in more revenues but also costs. Delta, which does not expect air travel to recover for two or three years, has said it aims to halve its daily cash burn to $50 million in June.
 
-In an effort to reassure passengers, U.S. airlines have also intensified cabin cleaning protocols, in many cases using electrostatic cleaning and fogging procedures. They have also endorsed temperature screenings by the U.S. Transportation Security Administration (TSA), though this has yet to be implemented.",100,Very high,Center,UK
+In an effort to reassure passengers, U.S. airlines have also intensified cabin cleaning protocols, in many cases using electrostatic cleaning and fogging procedures. They have also endorsed temperature screenings by the U.S. Transportation Security Administration (TSA), though this has yet to be implemented.",100,Very high,Center,UK,1
 18,https://www.reuters.com/article/us-health-coronavirus-japan-cinemas/at-the-movies-ben-hur-and-wizard-of-oz-as-japan-reopens-idUSKBN22V0HV,Reuters,2020-05-19,['Chris Gallagher'],At the movies: 'Ben Hur' and 'Wizard of Oz' as Japan reopens,https://s1.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519110523&w=1200&r=LYNXMPEG4I0B1,"TOKYO (Reuters) - The chariots of 1959 epic “Ben Hur” and the yellow brick road of 1939 fantasy “The Wizard of Oz” are back on the big screen in Japan as cinemas begin reopening from the coronavirus crisis with a slate heavy on Hollywood classics.
 
 FILE PHOTO: The head of Godzilla, a Japanese monster movie character, is seen on a building of Toho Cinema in Tokyo, Japan, February 18, 2019. REUTERS/Kim Kyung-hoon
@@ -617,7 +617,7 @@ But Sun Street Hamakita was also showing Steven Spielberg’s sci-fi classic “
 
 Western “Rio Bravo” (1959), starring John Wayne, was also playing in some theatres.
 
-Asked about the selection of films on show, a Toho official simply said: “We’re playing films that are popular.”",100,Very high,Center,UK
+Asked about the selection of films on show, a Toho official simply said: “We’re playing films that are popular.”",100,Very high,Center,UK,1
 19,https://www.reuters.com/article/us-health-coronavirus-southkorea-kpop/south-koreas-bts-boyband-management-apologises-over-bar-visit-idUSKBN22V0IH,Reuters,2020-05-19,[],South Korea's BTS boyband management apologises over bar visit,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519110910&w=1200&r=LYNXMPEG4I0BQ,"SEOUL (Reuters) - The manager of South Korea’s popular boyband BTS has apologised on behalf of one of its members who went to a bar in April, contrary to government advice, just as the country is trying to contain a recent coronavirus outbreak around Seoul’s club scene.
 
 Jungkook, the BTS’ main vocalist, visited a restaurant and a bar in the Itaewon neighbourhood with friends on April 25, the boyband’s management Big Hit Entertainment said on Monday.
@@ -642,7 +642,7 @@ The managers of all three issued statements confirming they were in Itaewon on t
 
 As of Monday, 170 cases have been traced to the Itaewon outbreak, with several hundreds in self isolation, according to the Korea Centers for Disease Control and Prevention.
 
-The seven-member BTS suspended their world tour over coronavirus concerns last month.",100,Very high,Center,UK
+The seven-member BTS suspended their world tour over coronavirus concerns last month.",100,Very high,Center,UK,1
 20,https://www.reuters.com/article/us-health-coronavirus-china-fashion/protection-in-style-chinese-designer-makes-silk-coronavirus-masks-idUSKBN22V0KR,Reuters,2020-05-19,"['Irene Wang', 'Tingshu Wang', 'Carlos Garcia']",Protection in style: Chinese designer makes silk coronavirus masks,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519114445&w=1200&r=LYNXMPEG4I0D7,"Fashion Designer Zhou Li wearing her designed silk face mask poses for pictures, at a studio in Beijing, following the novel coronavirus disease (COVID-19) outbreak, China May 17, 2020. REUTERS/Tingshu Wang
 
 BEIJING (Reuters) - Adorned with intricate designs of orchids, camellias and Chinese characters symbolising good luck, the stylish silk masks created by Chinese fashion designer Zhou Li have become coveted items during the coronavirus outbreak.
@@ -661,7 +661,7 @@ Zhou is also designing personal protective suits, many also featuring flowers, a
 
 The company can make around 600 masks a day, and sells them online at 118 yuan ($16) a piece. Zhou plans to market them by inviting influencers to participate in live-streaming on e-commerce platforms, and hopes to expand sales in England and Italy.
 
-“I hope people can wear my masks that protect them, make them look beautiful, bring them good luck and keep them safe,” she said.",100,Very high,Center,UK
+“I hope people can wear my masks that protect them, make them look beautiful, bring them good luck and keep them safe,” she said.",100,Very high,Center,UK,1
 21,https://www.reuters.com/article/us-usa-election-biden-warren/as-biden-crafts-u-s-coronavirus-response-proposals-warren-has-his-ear-idUSKBN22U2PS,Reuters,2020-05-18,"['Trevor Hunnicutt', 'Joseph Ax', 'James Oliphant']","As Biden crafts U.S. coronavirus response proposals, Warren has his ear",https://s1.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519068576&w=1200&r=LYNXMPEG4H280,"WASHINGTON (Reuters) - Presumptive Democratic U.S. presidential nominee Joe Biden has been speaking regularly with former rival Elizabeth Warren on public health and economic relief ideas as he crafts more ambitious proposals aimed at helping Americans through the coronavirus crisis.
 
 FILE PHOTO: Democratic 2020 U.S. presidential candidate billionaire activist Tom Steyer looks on as Senator Elizabeth Warren (D-MA) shakes hands with former Vice President Joe Biden at the conclusion of the seventh Democratic 2020 presidential debate at Drake University in Des Moines, Iowa, U.S., January 14, 2020. REUTERS/Shannon Stapleton
@@ -702,7 +702,7 @@ But Biden remains opposed to some Warren priorities such as her proposed Medicar
 
 Former President Barack Obama, under whom Biden served as vice president, last month praised Warren in the context of the pandemic, writing on Twitter that her proposals should serve as a model for policymakers. Biden and Obama speak regularly about his campaign.
 
-“Joe Biden has more license now to go really big with bold systematic economic polices and not be accused of flip-flopping in any way, but instead be admired for meeting the moment,” said Adam Green, a co-founder of the Progressive Change Campaign Committee, a policy advocacy group that backed Warren during the primary campaign.",100,Very high,Center,UK
+“Joe Biden has more license now to go really big with bold systematic economic polices and not be accused of flip-flopping in any way, but instead be admired for meeting the moment,” said Adam Green, a co-founder of the Progressive Change Campaign Committee, a policy advocacy group that backed Warren during the primary campaign.",100,Very high,Center,UK,1
 22,https://www.reuters.com/article/us-health-coronavirus-wef-report/long-lasting-global-recession-likely-due-to-covid-19-says-world-economic-forum-report-idUSKBN22V0GR,Reuters,2020-05-19,[],"Long-lasting global recession likely due to COVID-19, says World Economic Forum report",https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519111987&w=1200&r=LYNXMPEG4I0AG,"FILE PHOTO: A closed sign is seen in a shop window in Dunham Massey, following the outbreak of the coronavirus disease (COVID-19), Dunham Massey, Britain, May 7, 2020. REUTERS/Phil Noble/File Photo
 
 LONDON (Reuters) - Risk managers expect a prolonged global recession as a result of the coronavirus pandemic, a report by the World Economic Forum showed on Tuesday.
@@ -719,7 +719,7 @@ Environmental goals risk being discarded as a result of the pandemic, the report
 
 The report was compiled by the World Economic Forum’s Global Risks Advisory Board together with Marsh & McLennan Companies Inc and Zurich Insurance Group.
 
-Risk managers were surveyed between April 1 and 13.",100,Very high,Center,UK
+Risk managers were surveyed between April 1 and 13.",100,Very high,Center,UK,1
 23,https://www.reuters.com/article/us-health-coronavirus-white-house-jobs/white-house-panel-build-new-tech-infrastructure-for-future-jobs-idUSKBN22V0DA,Reuters,2020-05-19,"['David Shepardson', 'Alexandra Alper']",White House panel: Build new tech infrastructure for future jobs,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519106046&w=1200&r=LYNXMPEG4I08Y,"WASHINGTON (Reuters) - A White House advisory panel on Tuesday will call for the government and private industry to work together to build new technological infrastructure to support future jobs and provide the underpinnings critical to a solid economic recovery from the coronavirus pandemic, an official briefed on the plans said.
 
 FILE PHOTO: People who lost their jobs wait in line to file for unemployment benefits, following an outbreak of the coronavirus disease (COVID-19), at Arkansas Workforce Center in Fort Smith, Arkansas, U.S. April 6, 2020. REUTERS/Nick Oxford/File Photo
@@ -742,7 +742,7 @@ Ivanka Trump said in a separate statement the board will work to find “solutio
 
 “By rallying around this call to action, leaders in business and government can help more people build skills that lead to good jobs, promote hiring that is based on skills not just degrees, and build a national skills infrastructure to connect workers with opportunities,” IBM’s Rometty said in a statement.
 
-Four major companies — Walmart Inc (WMT.N), Salesforce (CRM.N), IBM Corp (IBM.N) and Workday Inc (WDAY.O) — are announcing Tuesday they are creating “Interoperable Learning Records” to help workers and employers match applicants with jobs, the official said.",100,Very high,Center,UK
+Four major companies — Walmart Inc (WMT.N), Salesforce (CRM.N), IBM Corp (IBM.N) and Workday Inc (WDAY.O) — are announcing Tuesday they are creating “Interoperable Learning Records” to help workers and employers match applicants with jobs, the official said.",100,Very high,Center,UK,1
 24,https://www.reuters.com/article/us-health-coronavirus-centralbanks-rates/amid-rising-talk-of-negative-rates-policies-in-japan-europe-get-subtle-tweaks-idUSKBN22V0HP,Reuters,2020-05-19,"['Leika Kihara', 'Francesco Canepa', 'Howard Schneider']","Amid rising talk of negative rates, policies in Japan, Europe get subtle tweaks",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519123318&w=1200&r=LYNXMPEG4I0BO,"TOKYO/FRANKFURT/WASHINGTON (Reuters) - After years of applying plenty of stick to commercial lenders unhappy with negative interest rate policies, central bankers in the euro zone and Japan are experimenting with some carrot, too.
 
 FILE PHOTO: Bank of Japan Governor Haruhiko Kuroda takes questions from reporters at the annual meetings of the International Monetary Fund and World Bank in Washington, U.S., October 18, 2019. REUTERS/James Lawler Duggan/File Photo
@@ -801,7 +801,7 @@ In its role as the euro zone’s bank supervisor, the ECB has also let banks eat
 
 For a watchdog set up to clean up the banking sector after the financial crisis more than a decade ago, it was a major change of tack.
 
-“Unlike in the 2008 financial crisis, banks are not the source of the problem this time,” said Andrea Enria, the ECB’s chief supervisor. “But we need to ensure that they can be part of the solution.",100,Very high,Center,UK
+“Unlike in the 2008 financial crisis, banks are not the source of the problem this time,” said Andrea Enria, the ECB’s chief supervisor. “But we need to ensure that they can be part of the solution.",100,Very high,Center,UK,1
 25,http://in.reuters.com/article/health-coronavirus-india-cases/india-coronavirus-infections-surge-past-100000-deaths-top-3000-idINKBN22V0BR,Reuters,2020-05-19,['Jane Wardell'],"India coronavirus infections surge past 100,000, deaths top 3,000",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519103286&w=1200&r=LYNXMPEG4I07O,"(Reuters) - Coronavirus cases in India reached 100,000 on Tuesday, matching its number of intensive care beds, and the rate of increase of new infections showed little sign of slowing.
 
 A woman and her baby wait for a bus to take them to a railway station to board a train to their home state of Uttar Pradesh, after a limited reopening of India's giant rail network following a nearly seven-week lockdown to slow the spreading of the coronavirus disease (COVID-19), in Ghaziabad in the outskirts of New Delhi, India, May 18, 2020. REUTERS/Adnan Abidi
@@ -826,7 +826,7 @@ While not every coronavirus patient needs an ICU bed, health experts worry about
 
 India has not provided a detailed breakdown on the condition of people who have been diagnosed with COVID-19, the disease caused by the virus, although authorities have reported that about 37,000 people have recovered.
 
-India’s death rate is less than that of some other big countries, at 3%, compared with about 6% for the United States, where some 89,000 people have died, and 14% for Britain.",100,Very high,Center,UK
+India’s death rate is less than that of some other big countries, at 3%, compared with about 6% for the United States, where some 89,000 people have died, and 14% for Britain.",100,Very high,Center,UK,1
 26,http://in.reuters.com/article/health-coronavirus-india/indias-capital-reopens-public-transport-as-nearby-chinese-owned-factory-is-hit-by-outbreak-idINKBN22U1NJ,Reuters,2020-05-18,"['Devjyot Ghoshal', 'Sankalp Phartiyal']",India's capital reopens public transport as nearby Chinese-owned factory is hit by outbreak,https://s3.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519015626&w=1200&r=LYNXMPEG4H1BN,"NEW DELHI (Reuters) - India’s capital New Delhi and some other state governments ordered the re-opening of public transport on Monday in a further easing of a nearly two-month coronavirus shutdown.
 
 A man wearing a protective gear sprays disinfectant on a bus before passengers board, after the state government resumed public bus service on limited routes after nearly seven-week lockdown to slow the spreading of the coronavirus disease (COVID-19), in Kolkata, India, May 14, 2020. REUTERS/Rupak De Chowdhuri
@@ -865,7 +865,7 @@ After a series of road and rail accidents, where dozens of workers died, authori
 
 In Chennai, construction worker M.D. Rustom queued along with hundreds of others for a bus and train trip back to Bihar, some 2,000 km away.
 
-“We don’t have money to eat,” he said. “It has been over 50 days, we just want to go back now.",100,Very high,Center,UK
+“We don’t have money to eat,” he said. “It has been over 50 days, we just want to go back now.",100,Very high,Center,UK,1
 27,http://in.reuters.com/article/us-health-coronavirus-india-stimulus-ana/cash-strapped-indias-economic-plan-unlikely-to-soften-coronavirus-blow-idINKBN22U1W3,Reuters,2020-05-18,"['Aftab Ahmed', 'Abhirup Roy']",Cash-strapped India's economic plan unlikely to soften coronavirus blow,https://s3.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519025819&w=1200&r=LYNXMPEG4H1I6,"NEW DELHI (Reuters) - India’s $266 billion economic rescue package rests mostly on boosting company credit but contains scant new public spending, tax breaks or cash support to revive demand and prevent firms from collapsing, business leaders and economists say.
 
 FILE PHOTO: Migrant workers rest as they wait to cross the border to reach their home state of Uttar Pradesh, during an extended nationwide lockdown to slow the spread of the coronavirus disease (COVID-19), on the outskirts of New Delhi, India, May 18, 2020. REUTERS/Danish Siddiqui
@@ -914,7 +914,7 @@ With the lockdown now extended to the end of May, only one thing seems certain: 
 
 “A steep fall in output this year is certain. And we continue to believe that the recovery will be slow,” said Shilan Shah from research firm Capital Economics.
 
-($1 = 75.7770 Indian rupees)",100,Very high,Center,UK
+($1 = 75.7770 Indian rupees)",100,Very high,Center,UK,1
 28,http://in.reuters.com/article/health-coronavirus-soccer-italy/ronaldo-returns-to-juventus-training-after-two-months-idINKBN22V1IA?il=0,Reuters,2020-05-19,[],Ronaldo returns to Juventus training after two months,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519147248&w=1200&r=LYNXMPEG4I0VU,"TURIN, Italy (Reuters) - Five-times World Player of the Year Cristiano Ronaldo rejoined Serie A champions Juventus for training on Tuesday after an absence of 72 days that included the last two weeks in quarantine.
 
 The 35-year-old was filmed arriving at the Turin club’s Continassa training ground in a black car and was due to undergo a medical before joining coach Maurizio Sarri and his team mates.
@@ -927,7 +927,7 @@ Serie A clubs returned to training on May 4 but are restricted to training in sm
 
 The government is still deliberating on whether to allow Serie A to restart but said on Monday that it would not happen before at least June 14, one day after the league had hoped to begin.
 
-The squad is still without forward Gonzalo Higuain who only returned to Italy from Argentina last Thursday and must spend another 10 days in quarantine.",100,Very high,Center,UK
+The squad is still without forward Gonzalo Higuain who only returned to Italy from Argentina last Thursday and must spend another 10 days in quarantine.",100,Very high,Center,UK,1
 29,http://in.reuters.com/article/us-asia-results-graphic/coronavirus-leads-to-43-first-quarter-drop-in-asian-company-profits-idINKBN22V1G4?il=0,Reuters,2020-05-19,"['Patturaja Murugaboopathy', 'Gaurav Dogra']",Coronavirus leads to 43% first quarter drop in Asian company profits,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519145626&w=1200&r=LYNXMPEG4I0V9,"BENGALURU (Reuters) - Profits at Asian companies have plunged by an average of 43% in the first quarter, the steepest decline in at least 9 years, with the oil and consumer sector hardest hit as the coronavirus pandemic kept people at home.
 
 FILE PHOTO: A CRH (China Railway High-speed) bullet train runs past Beijing's central business area, China December 13, 2017. REUTERS/Jason Lee
@@ -956,7 +956,7 @@ Among the outliers was Chinese tech giant Tencent (0700.HK) as people spent mone
 
 Analysts, according to Refinitiv data, cut their profit forecast for the next 12 months by 2% in the past 30 days. In the 30 days before that, they lowered their estimate by 9% for the period.
 
-(GRAPHIC: Country wise profit growth - here)",100,Very high,Center,UK
+(GRAPHIC: Country wise profit growth - here)",100,Very high,Center,UK,1
 30,http://in.reuters.com/article/health-coronavirus-soccer-england-deeney/watfords-deeney-says-no-to-training-over-covid-19-concerns-idINKBN22V1H4?il=0,Reuters,2020-05-19,[],Watford's Deeney says no to training over COVID-19 concerns,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519145864&w=1200&r=LYNXMPEG4I0V7,"LONDON (Reuters) - Watford captain Troy Deeney says he will not resume training this week out of concern for his son’s health during the COVID-19 pandemic.
 
 FILE PHOTO: Soccer Football - Premier League - Manchester United v Watford - Old Trafford, Manchester, Britain - February 23, 2020 Watford's Troy Deeney Action Images via Reuters/Lee Smith /File Photo
@@ -977,7 +977,7 @@ About a third of Premier League players are from a Black, Asian and Minority Eth
 
 “I can’t get a haircut until mid-July, but I can go and get in a box with 19 people and jump for a header. I don’t know how that works. No one could answer the questions, not because they didn’t want to, just because they don’t know the information.”
 
-The United Kingdom’s COVID-19 official death toll has reached nearly 43,000, according to a Reuters tally of data that includes suspected cases and confirms the country’s status as the worst-hit in Europe.",100,Very high,Center,UK
+The United Kingdom’s COVID-19 official death toll has reached nearly 43,000, according to a Reuters tally of data that includes suspected cases and confirms the country’s status as the worst-hit in Europe.",100,Very high,Center,UK,1
 31,http://in.reuters.com/article/health-coronavirus-soccer-mad/real-bayern-inter-join-forces-to-boost-healthcare-in-italy-and-spain-idINKBN22V1H2?il=0,Reuters,2020-05-19,[],"Real, Bayern, Inter join forces to boost healthcare in Italy and Spain",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519145863&w=1200&r=LYNXMPEG4I0V5,"(Reuters) - Real Madrid, Bayern Munich and Inter Milan have announced a mini tournament called the ‘European Solidarity Cup - Football for Heroes’, to raise funds for health care resources in Italy and Spain which have been depleted by the COVID-19 pandemic.
 
 FILE PHOTO: Soccer Football - Champions League Semi Final Second Leg - Real Madrid v Bayern Munich - Santiago Bernabeu, Madrid, Spain - May 1, 2018 Real Madrid's Gareth Bale in action with Bayern Munich's Joshua Kimmich REUTERS/Michael Dalder/File Photo
@@ -1000,7 +1000,7 @@ Last Saturday, the Bundesliga became the first major soccer league in Europe to 
 
 Bayern will host Real at the Allianz Arena in Munich, Real will play against Inter at their Santiago Bernabeu stadium, while Inter would host Bayern at the San Siro.
 
-The three clubs added that healthcare professionals who have fought against the pandemic would be invited to the matches, which will take place when it is safe for supporters to return to stadiums without risk of being infected by the virus.",100,Very high,Center,UK
+The three clubs added that healthcare professionals who have fought against the pandemic would be invited to the matches, which will take place when it is safe for supporters to return to stadiums without risk of being infected by the virus.",100,Very high,Center,UK,1
 32,http://in.reuters.com/article/health-coronavirus-oil-maintenance-analy/coronavirus-creates-repair-headache-for-oil-and-gas-industry-idINKBN22V0N4,Reuters,2020-05-19,"['Olga Yagova', 'Libby George', 'Bozorgmehr Sharagedin']",Coronavirus creates repair headache for oil and gas industry,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519116303&w=1200&r=LYNXMPEG4I0F8,"MOSCOW/LAGOS/LONDON (Reuters) - The coronavirus pandemic has disrupted maintenance at oil and gas projects and refineries from Russia’s Far East to the coast of Canada, storing up problems for an industry already reeling from slumping prices, analysts say.
 
 FILE PHOTO: A vessel leaves the Orlan oil plattform at Sakhalin-1's off-shore rig at the Chaivo field, some 11 km (7 miles) off the east cost of Sakhalin island October 10, 2006. REUTERS/Sergei Karpukhin
@@ -1061,7 +1061,7 @@ Related Coverage Factbox: Oil and gas industry delays repairs amid virus lockdow
 
 The Rivers movement restrictions have also trapped pipes and other needed materials that are needed at oil fields outside the state, industry sources told Reuters.
 
-Impact of Covid-19 on European refineries here",100,Very high,Center,UK
+Impact of Covid-19 on European refineries here",100,Very high,Center,UK,1
 33,http://in.reuters.com/article/health-coronavirus-cricket-india/india-delay-call-on-sri-lanka-tour-amid-travel-restrictions-idINKBN22V0E5,Reuters,2020-05-19,['Amlan Chakraborty'],India delay call on Sri Lanka tour amid travel restrictions,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519107929&w=1200&r=LYNXMPEG4I09E,"Cricket - New Zealand v India - First Test - Basin Reserve, Wellington, New Zealand - February 24, 2020 India's Virat Kohli with teammates before the match REUTERS/Martin Hunter/File Photo
 
 NEW DELHI (Reuters) - India’s cricket board (BCCI) will wait for more clarity on international travel restrictions before making a call on the limited-overs tour of Sri Lanka in July, a top board official told Reuters.
@@ -1080,7 +1080,7 @@ Bangladesh are being similarly cautious for their three-test series in Sri Lanka
 
 “We have to be mindful of the players’ readiness ... we have to figure out other details about this tour.”
 
-Sri Lanka have already had to postpone home series against England and South Africa because of the global health crisis.",100,Very high,Center,UK
+Sri Lanka have already had to postpone home series against England and South Africa because of the global health crisis.",100,Very high,Center,UK,1
 34,http://in.reuters.com/article/us-health-coronavirus-travel-breakingvie/breakingviews-its-a-long-jump-back-onto-the-travel-bandwagon-idINKBN22V0CJ,Reuters,2020-05-19,['Sharon Lam'],Breakingviews - It’s a long jump back onto the travel bandwagon,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519103990&w=1200&r=LYNXMPEG4I086,"HONG KONG (Reuters Breakingviews) - It has never been truer that the journey is the destination. Travelling has proven resilient after previous crises, which suggests that once a Covid-19 vaccine, treatment or other solution is found, antsy globetrotters will pack their Samsonites in nearly full force again. Notable changes are likely to be in health checks and corporate flyers.
 
 Travellers in protective suits are seen at Wuhan Tianhe International Airport after the lockdown was lifted in Wuhan, the capital of Hubei province and China's epicentre of the novel coronavirus disease (COVID-19) outbreak, April 10, 2020. REUTERS/Aly Song TPX IMAGES OF THE DAY
@@ -1101,7 +1101,7 @@ Mobility will be more difficult, however. Countries wary of future contagion may
 
 Business travel looks especially vulnerable. Such spending had been projected to reach $1.7 trillion worldwide by 2022, according to industry estimates. Serious concerns are evidenced, however, by two investors recently backing out of a proposed deal to buy a stake in a corporate airfare and hotel booking enterprise half-owned by American Express at a $5 billion valuation.
 
-By the time the pandemic blows over, companies also will be more accustomed to remote working, and happy to keep costs down by using videoconferencing to meet with clients over first-class tickets and conference boondoggles. Even a modest 5% long-term hit to this segment of the market would upend many business strategies. For the beaten-up travel complex, this area will leave the most lasting scars.",100,Very high,Center,UK
+By the time the pandemic blows over, companies also will be more accustomed to remote working, and happy to keep costs down by using videoconferencing to meet with clients over first-class tickets and conference boondoggles. Even a modest 5% long-term hit to this segment of the market would upend many business strategies. For the beaten-up travel complex, this area will leave the most lasting scars.",100,Very high,Center,UK,1
 35,http://in.reuters.com/article/health-coronavirus-israel-mask/mask-in-a-restaurant-this-one-can-gobble-like-pac-man-idINKBN22U255,Reuters,2020-05-19,['Eli Berlzon'],Mask in a restaurant? This one can gobble like Pac-Man,https://s1.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519035425&w=1200&r=LYNXMPEG4H1P1,"OR YEHUDA, Israel (Reuters) - Israeli inventors have developed a coronavirus mask with a remote control mouth that lets diners eat food without taking it off, a device they say could make a visit to a restaurant less risky.
 
 A squeeze of a lever, much like a cyclist operates a handbrake, opens a slot in the front of the mask so that food can pass through.
@@ -1124,7 +1124,7 @@ But eating an ice cream cone, Ron Silberstein, a 29-year-old musician, said: “
 
 Israel has largely reopened its economy after a dramatic drop in cases of the novel coronavirus. Restaurants are open only for takeout for the time being.
 
-(Corrects day to Monday from Tuesday in paragraph)",100,Very high,Center,UK
+(Corrects day to Monday from Tuesday in paragraph)",100,Very high,Center,UK,1
 36,http://in.reuters.com/article/health-coronavirus-germany-economy/german-economy-to-shrink-by-at-least-10-dihk-idINKBN22V0Y1,Reuters,2020-05-19,[],German economy to shrink by at least 10% - DIHK,https://s1.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519127200&w=1200&r=LYNXMPEG4I0K0,"BERLIN (Reuters) - Germany’s DIHK chambers of industry and commerce expect Europe’s largest economy to shrink at least 10% this year due to the coronavirus crisis, its president said on Tuesday, a much more pessimistic view than the government’s forecast.
 
 FILE PHOTO: A traveler is seen at the airport in Frankfurt, Germany, April 2, 2020, as the spread of the coronavirus disease (COVID-19) continues. REUTERS/Kai Pfaffenbach
@@ -1145,7 +1145,7 @@ Due to the disruptions caused by the outbreak in many countries across the globe
 
 DIHK trade expert Volker Treier said he expected German exports to decline by 15% this year, due to weaker demand from major export markets such as the United States.
 
-For 2021, DIHK is expecting the economy to grow by roughly 5%, Schweitzer said.",100,Very high,Center,UK
+For 2021, DIHK is expecting the economy to grow by roughly 5%, Schweitzer said.",100,Very high,Center,UK,1
 37,http://in.reuters.com/article/health-coronavirus-pakistan-lockdown/coronavirus-not-a-pandemic-in-pakistan-says-top-court-ordering-curbs-lifted-idINKBN22V090,Reuters,2020-05-19,['Asif Shahzad'],"Coronavirus 'not a pandemic in Pakistan' says top court, ordering curbs lifted",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519100238&w=1200&r=LYNXMPEG4I05J,"ISLAMABAD (Reuters) - Pakistan’s Supreme Court ordered the government on Monday to lift some of the remaining restrictions imposed on business to halt the spread of the coronavirus, even as the country recorded a rise in infections since beginning to emerge from lockdown.
 
 A man wears a protective mask as he gets sanitized before entering a shopping mall, after Pakistan started easing the lockdown restrictions, amid the coronavirus disease (COVID-19) outbreak, in Karachi, Pakistan May 18, 2020. REUTERS/Akhtar Soomro
@@ -1172,7 +1172,7 @@ The court said that as long as markets were open, there was no justification to 
 
 The court order came as the country’s railway announced that it will resume limited train operations from May 20, and two of the four Pakistani provinces started opening public transport.
 
-With the Muslim Eid al-Fitr holidays coming up on Sunday or Monday subject to sighting of moon, the transport and retail shopping are expected to draw massive crowds.",100,Very high,Center,UK
+With the Muslim Eid al-Fitr holidays coming up on Sunday or Monday subject to sighting of moon, the transport and retail shopping are expected to draw massive crowds.",100,Very high,Center,UK,1
 38,https://www.reuters.com/article/uk-factcheck-factories-fire-magnesium/false-claim-two-factories-producing-magnesium-stearate-an-ingredient-used-in-a-drug-touted-as-a-potential-covid-19-treatment-blown-up-simultaneously-idUSKBN22U2C9,Reuters,2020-05-18,[],"False claim: Two factories producing magnesium stearate, an ingredient used in a drug touted as a potential COVID-19 treatment, blown up simultaneously",https://s3.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519041768&w=1200&r=LYNXMPEG4H1SN,"Users on social media claim two factories producing magnesium stearate - a chemical component used in a drug being trialed as a potential COVID-19 treatment - were “blown up at the same time”. The various iterations of the claim misleadingly refer to two unrelated fires at plants in Illinois and in Nuevo León, Mexico. The factories referenced in the claim do not produce magnesium stearate.
 
 Reuters Fact Check. REUTERS/Axel Schmidt
@@ -1221,7 +1221,7 @@ VERDICT
 
 False. These two unrelated fires did not affect plants that produce magnesium stearate.
 
-This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts here .",100,Very high,Center,UK
+This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts here .",100,Very high,Center,UK,1
 39,https://www.reuters.com/article/uk-factcheck-covid-19-vaccine-modify/false-claim-a-covid-19-vaccine-will-genetically-modify-humans-idUSKBN22U2BZ,Reuters,2020-05-18,[],False claim: A COVID-19 vaccine will genetically modify humans,https://s2.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519041238&w=1200&r=LYNXMPEG4H1R4,"Widely shared claims on social media link to a video alleging that a future vaccine against COVID-19 would “genetically modify” humans. This claim is scientifically untrue.
 
 Reuters Fact Check. REUTERS/Axel Schmidt
@@ -1254,7 +1254,7 @@ VERDICT
 
 False. A future COVID-19 vaccine will not genetically modify humans. DNA vaccines do not integrate the virus’ DNA into the cell nucleus of its recipient but instead inject part of the virus’ DNA/RNA into tissues to stimulate an immune response in the body.
 
-This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts www.reuters.com/fact-check/about .",100,Very high,Center,UK
+This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts www.reuters.com/fact-check/about .",100,Very high,Center,UK,1
 40,https://www.reuters.com/article/uk-factcheck-morgue-patient/false-claim-family-of-covid-19-victim-broke-into-morgue-to-find-her-still-breathing-inside-body-bag-idUSKBN22R30I,Reuters,2020-05-15,[],False claim: Family of COVID-19 victim broke into morgue to find her still breathing inside body bag,https://s3.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518801743&w=1200&r=LYNXMPEG4E1X7,"A number of Facebook users have shared a video falsely claiming it shows a woman alive and breathing in a body bag at a morgue after her family were told she had died from COVID-19.
 
 Reuters Fact Check. REUTERS/Axel Schmidt
@@ -1287,7 +1287,7 @@ VERDICT
 
 False. The video does not show a woman being found alive in a body bag in the morgue after her family were told she had died from COVID-19.
 
-This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts here .",100,Very high,Center,UK
+This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts here .",100,Very high,Center,UK,1
 41,https://www.reuters.com/article/uk-fact-check-testing-kits-scam/true-claim-phone-calls-offering-coronavirus-test-kits-and-asking-for-social-security-numbers-come-from-scammers-not-the-center-for-medicare-and-medicaid-services-idUSKBN22R2HZ,Reuters,2020-05-15,[],"True claim: Phone calls offering coronavirus test kits and asking for social security numbers come from scammers, not the Center for Medicare and Medicaid Services",https://s2.reutersmedia.net/resources/r/?m=02&d=20200515&t=2&i=1518780740&w=1200&r=LYNXMPEG4E1KI,"Posts circulating widely on Facebook claim that scammers are making calls posing as Medicare representatives, offering coronavirus test kits and asking for social security numbers. Such calls are not from the Center for Medicare & Medicaid Services (CMS) and are indeed perpetrated by fraudsters.
 
 Reuters Fact Check. REUTERS/Axel Schmidt
@@ -1308,7 +1308,7 @@ VERDICT
 
 True. Unsolicited phone calls purportedly from the Office for Medicare & Medicaid Services offering free coronavirus test kits and asking for social security numbers come from fraudsters.
 
-This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts here .",100,Very high,Center,UK
+This article was produced by the Reuters Fact Check team. Read more about our work to fact-check social media posts here .",100,Very high,Center,UK,1
 42,http://uk.reuters.com/article/uk-health-coronavirus-britain-toll/uk-covid-19-death-toll-nears-43000-as-scrutiny-over-strategy-grows-idUKKBN22V12Q,Reuters,2020-05-19,['Andy Bruce'],"UK COVID-19 death toll nears 43,000 as scrutiny over strategy grows",https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519131220&w=1200&r=LYNXMPEG4I0LT,"LONDON (Reuters) - The United Kingdom’s COVID-19 death toll has reached nearly 43,000, underlining the country’s status as the worst-hit in Europe and raising more questions about Prime Minister Boris Johnson’s handling of the crisis.
 
 FILE PHOTO: An NHS worker wearing a protective face mask opens an ambulance during the Clap for our Carers campaign in support of the NHS, following the outbreak of the coronavirus disease (COVID-19), Liverpool, Britain, May 14, 2020. REUTERS/Phil Noble
@@ -1331,7 +1331,7 @@ Ministers dislike international comparisons of the death toll because Britain’
 
 They say excess mortality - deaths from all causes that exceed the seasonal average - is more meaningful because it is internationally comparable. But Britain is faring poorly on this measure, too.
 
-Excess deaths across the UK are now close to 55,000, ONS statistician Nick Stripe told the BBC.",100,Very high,Center,UK
+Excess deaths across the UK are now close to 55,000, ONS statistician Nick Stripe told the BBC.",100,Very high,Center,UK,1
 43,http://uk.reuters.com/article/uk-health-coronavirus-britain-epidemiolo/some-signs-children-may-not-transmit-covid-19-two-uk-epidemiologists-say-idUKKBN22V1JV,Reuters,2020-05-19,['Guy Faulconbridge'],"Some signs children may not transmit COVID-19, two UK epidemiologists say",https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519148549&w=1200&r=LYNXMPEG4I0X5,"FILE PHOTO: A man and children wearing protective face masks walk near a Chessington World of Adventures car park, which has been turned into a testing facility as the spread of the coronavirus disease (COVID-19) continues, Chessington, Britain, March 28, 2020. REUTERS/Peter Nicholls
 
 LONDON (Reuters) - There are tentative signs that children may not spread the novel coronavirus as much as adults, two top epidemiologists said on Tuesday, though they cautioned that the bad news was that human immunity may not last that long.
@@ -1348,7 +1348,7 @@ John Edmunds, a member of Britain’s Scientific Advisory Group for Emergencies 
 
 “There is only one documented outbreak associated with a school - which is amazing,” Edmunds said.
 
-But he added there was potentially bad news, though, that human immunity to the novel coronavirus may not last long.",100,Very high,Center,UK
+But he added there was potentially bad news, though, that human immunity to the novel coronavirus may not last long.",100,Very high,Center,UK,1
 44,http://uk.reuters.com/article/uk-health-coronavirus-antler/british-luggage-brand-antler-collapses-as-pandemic-hits-travel-idUKKBN22V16F,Reuters,2020-05-19,[],British luggage brand Antler collapses as pandemic hits travel,https://s4.reutersmedia.net/resources_v2/images/rcom-default.png,"LONDON (Reuters) - British luggage brand Antler has collapsed into administration, becoming the latest victim of the coronavirus crisis and its devastating impact on international travel.
 
 Restructuring firm KPMG said on Tuesday it had been appointed administrator to the 106-year old brand, which operates 18 retail stores and one concession outlet.
@@ -1361,7 +1361,7 @@ KPMG has already made 164 of Antler’s 199 workforce redundant.
 
 “With uncertainty over the lifting of travel restrictions placing further financial strain on the business, the directors concluded that they had no option but to appoint administrators.”
 
-KPMG will continue to trade the business via its online channels while it assesses options for the brand.",100,Very high,Center,UK
+KPMG will continue to trade the business via its online channels while it assesses options for the brand.",100,Very high,Center,UK,1
 45,http://uk.reuters.com/article/uk-health-coronavirus-britain-economy/uk-jobless-claims-jump-to-highest-since-1996-as-covid-hits-idUKKBN22V0NK,Reuters,2020-05-19,"['David Milliken', 'William Schomberg']",UK jobless claims jump to highest since 1996 as COVID hits,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519132450&w=1200&r=LYNXMPEG4I0FD,"LONDON (Reuters) - The number of people claiming unemployment benefits in Britain leapt in April to its highest level in nearly 24 years, giving the clearest sign yet of the hit from the coronavirus to jobs which is set to deepen in the coming months.
 
 FILE PHOTO: Workers are seen in the More London district, with Tower Bridge behind during the morning rush hour in London, Britain, September 25, 2018. REUTERS/Toby Melville
@@ -1400,7 +1400,7 @@ Growth in pay slowed but employment expanded by a much stronger-than-expected 21
 
 But with much of the economy shut down by the government, Britain could be heading for its sharpest economic slump in more than 300 years, the Bank of England has warned.
 
-The country’s budget forecasters say unemployment could hit 10% in the April-June period, even with millions of workers shielded by the government’s wage subsidy scheme.",100,Very high,Center,UK
+The country’s budget forecasters say unemployment could hit 10% in the April-June period, even with millions of workers shielded by the government’s wage subsidy scheme.",100,Very high,Center,UK,1
 46,http://uk.reuters.com/article/uk-homeserve-results/homeserve-sees-no-rise-in-cancellations-amid-covid-19-pandemic-idUKKBN22V0QI?il=0,Reuters,2020-05-19,[],HomeServe sees no rise in cancellations amid COVID-19 pandemic,https://s4.reutersmedia.net/resources_v2/images/rcom-default.png,"(Reuters) - British home repair services provider HomeServe Plc (HSV.L) said on Tuesday it has not yet seen any noticeable increase in cancellations despite the coronavirus crisis, but has paused most large scale marketing campaigns.
 
 The company’s adjusted pretax profit for the year ended March 31 rose to 181 million pounds ($221.60 million) from 161.7 million pounds a year ago, while revenue jumped 13% to 1.13 billion pounds.
@@ -1415,7 +1415,7 @@ HomeServe said it was now working with over 950 utilities, up from 700 in fiscal
 
 “HomeServe has proven resilient during the COVID-19 crisis, making further progress in signing new affinity partners and customers, as well as continuing to complete emergency repairs,” J.P. Morgan analysts wrote in a note as they upgraded the stock to “overweight”.
 
-($1 = 0.8168 pounds)",100,Very high,Center,UK
+($1 = 0.8168 pounds)",100,Very high,Center,UK,1
 47,http://uk.reuters.com/article/uk-health-coronavirus-iberdrola-britain/iberdrola-says-to-enter-6-5-billion-wind-project-in-british-subsidy-auction-idUKKBN22V1JP?il=0,Reuters,2020-05-19,['Susanna Twidale'],Iberdrola says to enter £6.5 billion wind project in British subsidy auction,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519148264&w=1200&r=LYNXMPEG4I0X4,"LONDON (Reuters) - Iberdrola (IBE.MC) will enter a 6.5 billion pound ($8 billion) offshore wind project in Britain’s renewable auction next year, the company’s offshore wind head told Reuters.
 
 FILE PHOTO: Scroby Sands offshore wind farm can be seen off of the coast at Great Yarmouth, Britain, October 24, 2018. REUTERS/Chris Radburn/File Photo
@@ -1438,7 +1438,7 @@ Iberdrola is already developing the East Anglia One project in the same region a
 
 The 714 megawatt project will be fully operational in the next few months, he said.
 
-($1 = 0.8161 pounds)",100,Very high,Center,UK
+($1 = 0.8161 pounds)",100,Very high,Center,UK,1
 48,http://uk.reuters.com/article/uk-eu-vietnam-trade/eu-trade-pact-to-support-vietnams-coronavirus-recovery-world-bank-idUKKBN22V1IR?il=0,Reuters,2020-05-19,[],EU trade pact to support Vietnam's coronavirus recovery - World Bank,https://s1.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519146950&w=1200&r=LYNXMPEG4I0W2,"European Union and Vietnamese flags are seen at the signing ceremony of EU-Vietnam Free Trade Agreement at the government office in Hanoi, Vietnam June 30, 2019. REUTERS/Kham
 
 HANOI (Reuters) - A free trade agreement with the European Union set to soon be ratified by Vietnam should boost the Asian nation’s economic recovery from the coronavirus pandemic, the World Bank said on Tuesday, while urging faster reforms.
@@ -1453,7 +1453,7 @@ The European Union-Vietnam Free Trade Agreement (EVFTA) could boost Vietnam’s 
 
 “Such benefits are particularly urgent to lock in positive economic gains as the country responds to the COVID-19 pandemic,” the bank said.
 
-It said now was the perfect time for Vietnam to initiate deeper reforms and fix legal gaps and implementation issues to reap the full benefits of the agreement.",100,Very high,Center,UK
+It said now was the perfect time for Vietnam to initiate deeper reforms and fix legal gaps and implementation issues to reap the full benefits of the agreement.",100,Very high,Center,UK,1
 49,http://uk.reuters.com/article/uk-health-coronavirus-russia-cases/u-s-to-send-russia-200-ventilators-as-russian-coronavirus-cases-near-300000-idUKKBN22V0UP?il=0,Reuters,2020-05-19,"['Tom Balmforth', 'Maria Kiselyova']","U.S. to send Russia 200 ventilators as Russian coronavirus cases near 300,000",https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519123381&w=1200&r=LYNXMPEG4I0HV,"MOSCOW (Reuters) - The United States said on Tuesday it would this week start delivering 200 medical ventilators to Russia, which has the world’s second highest number of confirmed coronavirus cases.
 
 FILE PHOTO: Russia's Emergencies Ministry members wearing personal protective equipment (PPE) spray disinfectant while sanitizing the platforms of the Kievsky Railway Station amid the outbreak of the coronavirus disease (COVID-19) in Moscow, Russia May 18, 2020. Sofya Sandurskaya/Moscow News Agency/Handout via REUTERS
@@ -1474,7 +1474,7 @@ Russia sent a batch of its own ventilators to the United States in early April, 
 
 The Russian ventilator in question, the Aventa-M, came into the spotlight last week after it was reported to have caused fires in hospital in Moscow and St Petersburg.
 
-That prompted Russia to suspend the use of Aventa-M ventilators produced after April 1.",100,Very high,Center,UK
+That prompted Russia to suspend the use of Aventa-M ventilators produced after April 1.",100,Very high,Center,UK,1
 50,http://uk.reuters.com/article/us-health-coronavirus-aircraft-air/as-flying-returns-jetmakers-seek-to-quell-fears-over-cabin-air-idUKKBN22U2VJ,Reuters,2020-05-18,['Tim Hepher'],"As flying returns, jetmakers seek to quell fears over cabin air",https://s1.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519070858&w=1200&r=LYNXMPEG4H282,"PARIS (Reuters) - Jet manufacturers and airlines are launching an urgent initiative to convince nervous travelers that the air they breathe on planes is safe, believing this is critical to rebuilding a travel industry floored by the novel coronavirus.
 
 FILE PHOTO: Flight attendants talk in a nearly empty cabin on a Delta Airlines flight operated by SkyWest Airlines as travel has cutback, amid concerns of the coronavirus disease (COVID-19), during a flight departing from Salt Lake City, Utah, U.S. April 11, 2020. REUTERS/Jim Urquhart/File Photo
@@ -1527,7 +1527,7 @@ In March that year, a 72-year-old man infected with SARS, which is also a corona
 
 It was the only significant case of in-flight transmission but prompted measures to prevent ill passengers boarding planes.
 
-Such “kerb-to-kerb” measures must again be part of the strategy to keep the new virus off planes, Delaney said. Research on technology like ultraviolet-cleaning systems and anti-microbial materials may join the fight in the future.",100,Very high,Center,UK
+Such “kerb-to-kerb” measures must again be part of the strategy to keep the new virus off planes, Delaney said. Research on technology like ultraviolet-cleaning systems and anti-microbial materials may join the fight in the future.",100,Very high,Center,UK,1
 51,http://uk.reuters.com/article/uk-health-coronavirus-soccer-england-mun/manchester-united-urge-fans-to-stay-away-from-stadiums-idUKKBN22V1F0,Reuters,2020-05-19,[],Manchester United urge fans to stay away from stadiums,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519145720&w=1200&r=LYNXMPEG4I0V8,"FILE PHOTO: April 19, 2009 SOCCER - Manchester United defender Rio Ferdinand walks back to his team mates after missing a penalty in a shootout against Everton during their FA Cup semi-final at Wembley Stadium. REUTERS/Darren Staples/File Photo
 
 MANCHESTER, England (Reuters) - Manchester United have urged fans to stay away from their Old Trafford stadium should the venue be used for behind closed doors games during the Premier League’s resumption of play.
@@ -1540,19 +1540,19 @@ In an email to supporters, United confirmed they will refund season ticket and t
 
 “We also ask for your co-operation not to travel to any stadiums at which we are playing on matchdays. By supporting from home and following government guidance, you will be playing your part to keep your friends, your family and all United fans safe.”
 
-The Premier League is exploring a number of options for broadcasting of behind closed doors games including use of audio effects and computer generated “fans”.",100,Very high,Center,UK
+The Premier League is exploring a number of options for broadcasting of behind closed doors games including use of audio effects and computer generated “fans”.",100,Very high,Center,UK,1
 52,http://uk.reuters.com/article/uk-health-coronavirus-china-usa/china-says-u-s-trying-to-shift-blame-and-smear-beijing-over-who-idUKKBN22V0ZZ,Reuters,2020-05-19,[],China says U.S. trying to shift blame and smear Beijing over WHO,https://s4.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519132734&w=1200&r=LYNXMPEG4I0KT,"FILE PHOTO: Chinese Foreign Ministry spokesman Zhao Lijian attends a news conference in Beijing, China April 8, 2020. REUTERS/Carlos Garcia Rawlins/File Photo
 
 BEIJING (Reuters) - China said the United States was trying to shift the blame for Washington’s own mishandling of the COVID-19 crisis, responding to President Donald Trump’s letter threatening to halt funding to the World Health Organization.
 
 Trump threatened on Monday to reconsider the United States’ membership of the World Health Organization (WHO) if the organisation did not commit to improvements within 30 days, and said the body had shown an “alarming lack of independence” from China.
 
-Chinese Foreign ministry spokesman Zhao Lijian told reporters on Tuesday that the United States was trying to smear China and had miscalculated by trying to use China to avoid its own responsibility.",100,Very high,Center,UK
+Chinese Foreign ministry spokesman Zhao Lijian told reporters on Tuesday that the United States was trying to smear China and had miscalculated by trying to use China to avoid its own responsibility.",100,Very high,Center,UK,1
 53,http://uk.reuters.com/article/uk-health-coronavirus-britain-loans/uk-says-14-billion-pounds-approved-so-far-in-100-state-backed-covid-loans-idUKKBN22V18P,Reuters,2020-05-19,[],UK says 14 billion pounds approved so far in 100% state-backed COVID loans,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519139645&w=1200&r=LYNXMPEG4I0QQ,"FILE PHOTO: Britain's Chancellor of the Exchequer Rishi Sunak speaks at a news conference on the ongoing coronavirus outbreak, London, Britain, March 17, 2020. Matt Dunham/Pool via REUTERS/File Photo
 
 LONDON (Reuters) - Britain’s finance ministry said a 100% state-backed Bounce Back Loan Scheme to help small companies survive the coronavirus hit to the economy has seen 14.18 billion pounds in loans approved.
 
-That was around double the 7.25 billion pounds approved under another scheme, the Coronavirus Business Interruption Loan Scheme which offers 80% guarantees. It was launched before the BBLS but has made slower progress.",100,Very high,Center,UK
+That was around double the 7.25 billion pounds approved under another scheme, the Coronavirus Business Interruption Loan Scheme which offers 80% guarantees. It was launched before the BBLS but has made slower progress.",100,Very high,Center,UK,1
 54,https://www.reuters.com/article/us-health-coronavirus-switzerland-breaki/breakingviews-cox-quarantine-in-switzerland-is-surprise-luxury-idUSKBN22V1HQ,Reuters,2020-05-19,['Rob Cox'],Breakingviews - Cox: Quarantine in Switzerland is surprise luxury,https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519145869&w=1200&r=LYNXMPEG4I0VG,"ZURICH (Reuters Breakingviews) - The queue stretched from behind the former convent for European aristocratic women an entire city block to the affluent shopping street of Bahnhofstrasse. Lines like this are common in the coronavirus era. Consumers across the world have had to wait to enter stores and limit purchases of staples like toilet paper or pasta. Saturday’s human traffic jam in downtown Zurich was different.
 
 A flag flutters on the Swiss Parliament Building (Bundeshaus), after the weekly governmental meeting in Bern, Switzerland, November 27, 2019.
@@ -1581,7 +1581,7 @@ This partly validates the cliché of the prying Swiss neighbour. Before moving t
 
 This is a culture that conditions the Swiss to be on their best behaviour in ways that might feel constraining across the border in Italy. But it also means that government can play a less obvious role in enforcing orders. Though the police have broken up some anti-lockdown protests in Zurich, Bern and other cities, they’re not visibly monitoring social distancing.
 
-Citizens appear to take responsibility for following guidelines, as community mobility reports compiled by Google suggest. During the week of May 7, visits to retail and recreation facilities in Zurich were down 54% from the baseline. By comparison, in my native Fairfield County, in Connecticut, the comparative decline was 34%. Where Zurichers excelled was in their visits to parks, up 90% from the baseline. That compared with 68% back home. This is perhaps unsurprising in a country where only around a fifth of adults are obese, compared with 36% of Americans. An ounce of prevention indeed.",100,Very high,Center,UK
+Citizens appear to take responsibility for following guidelines, as community mobility reports compiled by Google suggest. During the week of May 7, visits to retail and recreation facilities in Zurich were down 54% from the baseline. By comparison, in my native Fairfield County, in Connecticut, the comparative decline was 34%. Where Zurichers excelled was in their visits to parks, up 90% from the baseline. That compared with 68% back home. This is perhaps unsurprising in a country where only around a fifth of adults are obese, compared with 36% of Americans. An ounce of prevention indeed.",100,Very high,Center,UK,1
 55,https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi/breakingviews-corona-capital-julius-baer-baidu-imperial-idUSKBN22V1D0,Reuters,2020-05-19,[],"Breakingviews - Corona Capital: Julius Baer, Baidu, Imperial",https://s2.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519141721&w=1200&r=LYNXMPEG4I0TB,"MILAN/HONG KONG/LONDON (Reuters Breakingviews) - Corona Capital is a daily column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.
 
 A Baidu sign is seen during the fourth World Internet Conference in Wuzhen, Zhejiang province, China, December 4, 2017.
@@ -1604,7 +1604,7 @@ The $37 billion company doesn’t break out financial figures for its nascent sm
 
 DYING EMBERS. Tobacco company Imperial Brands on Tuesday said it will cut its dividend by one-third as it struggles to contain a 13.5 billion pound adjusted net debt pile. The move should save the company about 650 million pounds. But with EBITDA expected to be around 4.1 billion pounds this year, using Refinitiv estimates, net debt of 3.3 times EBITDA is still way off its target of 2.5 by the end of 2022.
 
-As well as further tarnishing Imperial’s “dividend stock” moniker, the cut points to more fundamental threats. The company last year dropped its dividend growth target, focusing instead on investing in the business. Imperial on Tuesday admitted that it has cut investments into its vaping product after poor returns last year. Net revenue fell 43% to 83 million pounds in that division. One of tobacco’s key survival strategies is going up in smoke. (By Dasha Afanasieva)",100,Very high,Center,UK
+As well as further tarnishing Imperial’s “dividend stock” moniker, the cut points to more fundamental threats. The company last year dropped its dividend growth target, focusing instead on investing in the business. Imperial on Tuesday admitted that it has cut investments into its vaping product after poor returns last year. Net revenue fell 43% to 83 million pounds in that division. One of tobacco’s key survival strategies is going up in smoke. (By Dasha Afanasieva)",100,Very high,Center,UK,1
 56,https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi/breakingviews-corona-capital-travel-companies-oil-idUSKBN22U2WF,Reuters,2020-05-18,[],"Breakingviews - Corona Capital: Travel companies, Oil",https://s2.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519069411&w=1200&r=LYNXMPEG4H28B,"NEW YORK/DALLAS/LONDON/HONG KONG (Reuters Breakingviews) - Corona Capital is a daily column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.
 
 Airplanes of German Carrier Lufthansa and United Airlines land and take off at Frankfurt Airport, Germany March 2, 2020. REUTERS/Kai Pfaffenbach
@@ -1645,7 +1645,7 @@ There are plenty of impediments, not least tensions between their respective hom
 
 RECKLESS DRIVING. Tianqi Lithium, a producer of the key ingredient for electric-vehicle batteries, is in talks with lenders to restructure its debt. Prices for the white metal have collapsed on the back of rapid expansion of mines. China’s easing of subsidies for battery-powered vehicles meant demand was already moderating, and the coronavirus promises to delay any recovery.
 
-That’s left the Shenzhen-listed company in a rut. Its market value is now less than the $4.1 billion it paid for a minority stake in Chilean miner SQM in 2018. Total debt will remain at nearly 9 times EBITDA over the next 12 months, Moody’s wrote in April. Selling equity and strategic assets will help, but a reset of loans is a tacit admission that any proceeds will be underwhelming in a buyer’s market. (By Sharon Lam)",100,Very high,Center,UK
+That’s left the Shenzhen-listed company in a rut. Its market value is now less than the $4.1 billion it paid for a minority stake in Chilean miner SQM in 2018. Total debt will remain at nearly 9 times EBITDA over the next 12 months, Moody’s wrote in April. Selling equity and strategic assets will help, but a reset of loans is a tacit admission that any proceeds will be underwhelming in a buyer’s market. (By Sharon Lam)",100,Very high,Center,UK,1
 57,https://www.reuters.com/article/us-health-coronavirus-autos-breakingview/breakingviews-carmakers-green-future-gets-revved-up-by-covid-19-idUSKBN22U1YW,Reuters,2020-05-18,['Christopher Thompson'],Breakingviews - Carmakers’ green future gets revved up by Covid-19,https://s2.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519028401&w=1200&r=LYNXMPEG4H1JC,"New cars drive during a ceremony marking start of the production of a new electric Volkswagen model ID.3 in Zwickau, Germany, November 4, 2019.
 
 LONDON (Reuters Breakingviews) - Few things would please the world’s big automakers more than customers quickly returning to dealers’ lots to buy new cars once pandemic-induced lockdowns are lifted. What would top that is if many were to drive away in the battery-powered cars manufacturers have devoted hundreds of billions of dollars to develop. It may take state aid to tip the balance in electric vehicles’ favour.
@@ -1660,7 +1660,7 @@ But battery-powered cars are in general more expensive, even though the affordab
 
 Governments can help by, say, rehashing for electric vehicles the popular cash-for-clunkers programmes rolled out after 2009 in the United States, United Kingdom and Germany. Tripling the number of electric cars sold last year to 6.5 million with a $6,500 subsidy per vehicle, roughly the upper limit of what Germany currently offers, according to Deutsche Bank, would cost some $42 billion, or less than 1% of the combined 2019 GDP of the Organisation for Economic Co-operation and Development countries.
 
-Pricey, yes, but hardly prohibitive. Faced with widespread economic devastation, states can afford to accelerate towards a lower-carbon future.",100,Very high,Center,UK
+Pricey, yes, but hardly prohibitive. Faced with widespread economic devastation, states can afford to accelerate towards a lower-carbon future.",100,Very high,Center,UK,1
 58,https://www.reuters.com/article/us-health-coronavirus-jp-morgan/jpmorgan-hands-out-30-billion-in-loans-to-small-businesses-memo-idUSKBN22V1BI,Reuters,2020-05-19,[],JPMorgan hands out $30 billion in loans to small businesses: memo,https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519140651&w=1200&r=LYNXMPEG4I0RK,"FILE PHOTO: A J.P. Morgan logo is seen in New York City, U.S., January 10, 2017. REUTERS/Stephanie Keith/File Photo
 
 (Reuters) - JPMorgan Chase & Co (JPM.N) has given out more than $30 billion in loans to over 250,000 businesses as part of the United States’ coronavirus aid program for small businesses, Chief Executive Officer Jamie Dimon said in a memo on Tuesday.
@@ -1673,7 +1673,7 @@ The U.S. Justice Department has sent grand jury subpoenas to big banks seeking r
 
 Dimon, who has been CEO of JPMorgan for over a decade, also said the bank’s strategy for returning more employees to work on-site hinges on using the latest data and information and prioritizes the health and safety of its employees.
 
-(This story changes story link in paragraph 4)",100,Very high,Center,UK
+(This story changes story link in paragraph 4)",100,Very high,Center,UK,1
 59,http://widerimage.reuters.com/story/cut-off-by-coronavirus-hondurans-in-packed-prison-suffer-mental-toll,Reuters,,"['Adrees Latif', 'Sarah Kinosian']",Cut off by coronavirus: Hondurans in packed prison suffer mental toll,https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQ7nWIC9SHUweya-_vjbHgLEAwpZKVwwFG85oc2mR9BV5O59ZEWPZMq7vBUVqdknSJbMhPxwocQUwvdpQPR3IxuNsoF5vtCG12kA3WALvmbRn,"For Yerbin Estrada (pictured below), the worst part of the day is when the sun begins to set. The hundreds of inmates of La Esperanza prison in central Honduras must leave its small courtyard and file back to their cramped cells.
 
 Throughout the night, packed into a room with 130 other men, Estrada hears his neighbors' muffled whimpering as rats scuttle by.
@@ -1738,10 +1738,10 @@ The one cell for six women has four beds and space for three people to stand. Th
 
 In the men's section, 132 men sleep in a room with fewer than 50 beds. Newer inmates sleep wherever they can find a patch, often sharing the floor with cockroaches and rats. The wait for a bed is around three years.
 
-""You never get used to it, just resigned,"" Estrada said. ""Each day you wake up at 5 AM, wait in line for water and food, survive, and it means one day fewer, one day closer to family.""",100,Very high,Center,UK
+""You never get used to it, just resigned,"" Estrada said. ""Each day you wake up at 5 AM, wait in line for water and food, survive, and it means one day fewer, one day closer to family.""",100,Very high,Center,UK,1
 60,http://widerimage.reuters.com/story/in-the-amazon-an-indigenous-nurse-volunteers-in-coronavirus-fight,Reuters,,['Bruno Kelly'],"In the Amazon, an indigenous nurse volunteers in coronavirus fight",https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQyYvzog9ey6MFHhYzRe9BbhmgPdNkqYAZMpKtpb-mINm5Sv4yfGQ3rKYrUHehjJK-n87EGhofLwL-mPMQedMitFk3_t8s-uDzRDNtrZkekMj,"It took a stern word from a trained nurse in his community to convince him he would die if he refused a ride with her to the emergency room.
 
-Vanderlecia Ortega dos Santos, or Vanda to her neighbours, has volunteered to provide the only frontline care protecting her indigenous community of 700 families from the COVID-19 outbreak ravaging the Brazilian city of Manaus.",100,Very high,Center,UK
+Vanderlecia Ortega dos Santos, or Vanda to her neighbours, has volunteered to provide the only frontline care protecting her indigenous community of 700 families from the COVID-19 outbreak ravaging the Brazilian city of Manaus.",100,Very high,Center,UK,1
 61,http://widerimage.reuters.com/story/in-italy-four-generations-in-a-coronavirus-lockdown,Reuters,,"['Marzio Toniolo', 'Philip Pullella']","In Italy, four generations in a coronavirus lockdown",https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQ2RCOZvHiAv3iG6liIZljun2XlnCByoHlDSHCSn9KNhPp_tWnXwFTdQESlFEwKcg4oP4-iB2avJzmcNuMlqJt-YTYyNthMq3W4vpHT4mjFRb,"Advertisement
 
 Even in Italy, where extended family relations run deep, Marzio Toniolo's tale of a coronavirus lockdown is unusual - four generations cooped up in one house.
@@ -1768,7 +1768,7 @@ Marzio takes a picture as he participates in a video conference call with collea
 
 Marzio takes a picture of Bianca painting his toenails.
 
-Story Toniolo, his wife and daughter look forward to moving into their new home when possible, knowing that, if needed, they are just metres away from the older generation. It will continue to be a family affair.",100,Very high,Center,UK
+Story Toniolo, his wife and daughter look forward to moving into their new home when possible, knowing that, if needed, they are just metres away from the older generation. It will continue to be a family affair.",100,Very high,Center,UK,1
 62,http://widerimage.reuters.com/story/from-home-to-hospital-giving-birth-during-the-us-coronavirus-outbreak,Reuters,,['Callaghan OHare'],From home to hospital: giving birth during the U.S. coronavirus outbreak,https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQ4G2zJ85VQvNm8MC2aQpyvVCeYV2KY2wfhP4mPbgjzb3hcQ-4nsy0q6ZFKEyrFIM3GGueUIH7D_VUol8eZFNJAwEEBgc3oQ6xutxjSDaHViy,"Advertisement
 
 As a first-time mother with no idea what to expect, Nancy Pedroza was convinced the hospital was the safest place to have her baby.
@@ -1793,7 +1793,7 @@ Prouty watches 2-day old footage of the birth of Kai Rohan Morgan, recorded by h
 
 Taylor takes two-day old Kai's temperature while checking if he has tongue tie, an oral condition that can potentially cause issues with feeding, during a newborn screening at the house of Kai's maternal grandparents.
 
-Story ""It's already kind of scary thinking that it's a possibility that you're going to be in an environment that is contaminated or that puts you at risk or your baby at risk,"" Pedroza said. ""What puts me on edge more is seeing everyone with that attire and being very adamant about wearing it.""",100,Very high,Center,UK
+Story ""It's already kind of scary thinking that it's a possibility that you're going to be in an environment that is contaminated or that puts you at risk or your baby at risk,"" Pedroza said. ""What puts me on edge more is seeing everyone with that attire and being very adamant about wearing it.""",100,Very high,Center,UK,1
 63,http://widerimage.reuters.com/story/a-day-fighting-the-coronavirus-us-hospital-staff-share-hardest-moments-on-shift,Reuters,,['Rosem Morton'],A day fighting the coronavirus: US hospital staff share hardest moments on shift,https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQyZraaUmv_ctDY9K0mfyggt8aiValhTpWa5ut0MYa2-t06cfIVnKPpbnogyPSTfVEjlzZvhHuAVJECQ0U_6uFGSEXhtn1ni-18hdTRYKdk5A,"Advertisement
 
 The shifts are long and the scenes are heartbreaking inside a Maryland hospital where nurses and doctors have been treating coronavirus patients for weeks, unable to let family inside to visit loved ones on their death beds.
@@ -1818,7 +1818,7 @@ Bell, 41, poses for a photograph after a six-hour shift. ""The hardest thing in 
 
 Dr. Bontempo, 50, poses for a photograph after a nine-hour shift. ""I'm used to treating sick patients. I treat sick patients all the time. It's very different knowing that the patient you are treating, is actually a risk to you as well. That's the main difference here. No one who works in hospitals is afraid of treating sick people. Just want to keep staff safe and the patients safe at the same time,"" said Bontempo. Laura Bontempo, an emergency medicine physician, says she removes her work clothing and gear in a decontamination tent she has set up outside her home, and then wraps herself in a towel and runs inside to shower. Then she puts the scrubs in the washing machine by themselves to not contaminate any other items.
 
-Sheehan, 27, poses for a photograph after a 12-hour shift. ""I think the hardest moment has been the fear that lives within all of us. There is a lot of unknown right now. We fear what's going to happen tomorrow, how the emergency department will look next week when we come in. We have fears about our own colleagues, whether they will fall ill. We also fear that we could be asymptomatic carriers and bring this virus home to our families and our loved ones. There has been a lot of fear over our supplies and whether we'll run out. And then obviously there is the fear that we will see patients and not be able to do everything we normally can to help save patients' lives,"" said Sheehan.",100,Very high,Center,UK
+Sheehan, 27, poses for a photograph after a 12-hour shift. ""I think the hardest moment has been the fear that lives within all of us. There is a lot of unknown right now. We fear what's going to happen tomorrow, how the emergency department will look next week when we come in. We have fears about our own colleagues, whether they will fall ill. We also fear that we could be asymptomatic carriers and bring this virus home to our families and our loved ones. There has been a lot of fear over our supplies and whether we'll run out. And then obviously there is the fear that we will see patients and not be able to do everything we normally can to help save patients' lives,"" said Sheehan.",100,Very high,Center,UK,1
 64,http://widerimage.reuters.com/story/high-noon-in-a-coronavirus-stricken-world,Reuters,,['Aly Song'],High noon in a coronavirus-stricken world,https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQ-ClAZyoSrCg_zZc-tFwltotnh9VEXT25oNucxpnbkoD2TKD6Zh02T26pHJxW7CzMgIddkMyFtsyDQl1jUQHWxAegJ4IRA9zhs9bbNNlzzqa,"Lockdowns to halt the spread of the coronavirus have brought an uncanny silence to some of the world's busiest places. Transport hubs that should be teeming with travellers such as New York's Grand Central station or Istanbul's Eminonu ferry docks are all but deserted.
 
 The main concourse of the Grand Central Terminal in Manhattan, New York City, U.S.
@@ -1829,7 +1829,7 @@ Our best loved tourist sites or promenades, the Malecon seafront in the Cuban ca
 
 Cairo's Tahrir Square and Kiev's Maidan, squares where just a few years ago people swarmed in their masses to bring about revolution, are clear.
 
-Reuters photographers have captured the hush that has descended on some of the world's best-known sites on the same day, at noon.",100,Very high,Center,UK
+Reuters photographers have captured the hush that has descended on some of the world's best-known sites on the same day, at noon.",100,Very high,Center,UK,1
 65,http://widerimage.reuters.com/story/in-cambodian-casino-town-chinese-bet-on-future-after-coronavirus,Reuters,,"['Jorge Silva', 'Clare Baldwin']","In Cambodian casino town, Chinese bet on future after coronavirus",https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQ2o6ehbJGwr9JVj3KQ1iO_RXPf7Xgl_sb2jWcO_9xBvrcQuiE8Aaavb357hrqlHiqLKZlS48mrq1tNgCdpWOacAn9XQYjqKLfD7UrRwpqOkz,"Advertisement
 
 When casino owner Kang Qiang (pictured below) looks out the window of his 20th floor office in this city on the remote Cambodian coast, he sees construction cranes sitting idle.
@@ -1864,7 +1864,7 @@ Before & After 18 May 2019 . Sihanoukville, Cambodia. Reuters/Jorge Silva 27 Feb
 
 After: New buildings stand in the same location in 2020.
 
-Story Casino manager Yin has been making ""at least double"" what he would in China by working in Sihanoukville, but he acknowledges the flood of Chinese money has led to surging prices and the growing piles of rubbish. Still, he says the Chinese money has sparked the economy in what he sees as a forgotten country. ""It seems like other countries are not interested in Cambodia, like America and Europe,"" he says. ""China is interested."" Kang, the casino owner, is from Guangzhou, one of China's biggest and most-developed cities. But he is convinced his future is on the dusty streets of Sihanoukville despite his casino losing money since November. ""Persistence means victory,"" he says.",100,Very high,Center,UK
+Story Casino manager Yin has been making ""at least double"" what he would in China by working in Sihanoukville, but he acknowledges the flood of Chinese money has led to surging prices and the growing piles of rubbish. Still, he says the Chinese money has sparked the economy in what he sees as a forgotten country. ""It seems like other countries are not interested in Cambodia, like America and Europe,"" he says. ""China is interested."" Kang, the casino owner, is from Guangzhou, one of China's biggest and most-developed cities. But he is convinced his future is on the dusty streets of Sihanoukville despite his casino losing money since November. ""Persistence means victory,"" he says.",100,Very high,Center,UK,1
 66,https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-lawsuit-seeks-absentee-ballot-forms-other-poll-changes-amid-coronavirus-concerns-idUSKBN22U2WL,Reuters,2020-05-18,['Joseph Ax'],"Wisconsin lawsuit seeks absentee ballot forms, other poll changes amid coronavirus concerns",https://s3.reutersmedia.net/resources/r/?m=02&d=20200518&t=2&i=1519070576&w=1200&r=LYNXMPEG4H28P,"(Reuters) - Advocacy groups sued Wisconsin election officials on Monday, seeking to force the state to send every voter an absentee ballot request form, hire more poll workers and launch a public education effort to ensure voters understand their options ahead of November’s presidential election.
 
 FILE PHOTO: Voting sign is seen outside The Rock Dam Rod and Gun Club, which serves as the polling place for 96 voters during the midterm election, in Foster Township, Wisconsin, U.S. November 6, 2018. REUTERS/Nick Oxford
@@ -1885,4 +1885,4 @@ The two lawsuits join a plethora of others as activists warn that the ongoing co
 
 Many of the lawsuits are backed by Democrats, who argue they are trying to protect voters’ rights in a public health crisis and that Republican resistance is intended to disenfranchise minority and other voters who tend to vote Democratic. Marc Elias, the attorney leading the party’s efforts, has pending cases in 17 different states
 
-Republicans have argued that loosening restrictions could increase the potential for voter fraud, though examples in the United States are exceedingly rare. President Donald Trump, a Republican, has echoed those arguments, saying without evidence that mail-in voting is rampant with fraud.",100,Very high,Center,UK
+Republicans have argued that loosening restrictions could increase the potential for voter fraud, though examples in the United States are exceedingly rare. President Donald Trump, a Republican, has echoed those arguments, saying without evidence that mail-in voting is rampant with fraud.",100,Very high,Center,UK,1

@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
 0,https://www.dailynews.com/2020/05/18/lausd-superintendent-says-budget-cuts-could-be-just-as-real-a-threat-as-coronavirus/,Los Angeles Daily News,2020-05-18,['Olga Grigoryants'],LAUSD superintendent says budget cuts could be ‘just as real a threat’ as coronavirus,https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-VIRUS-GRAB-0421-11-SR-3.jpg?w=1024&h=683,"Los Angeles Unified Superintendent Austin Beutner warned Monday, May, 18, that state budget cuts could harm students, while the district is bracing for its own budget shortfalls due to the COVID-19 pandemic.
 
 “The harm children are facing is just as real a threat to them as is the coronavirus,” he said in a prepared weekly address.
@@ -25,7 +25,7 @@ Beutner also discussed the efforts to assist students who are learning English. 
 
 On Monday, the district released the results of a survey to study the needs of nearly 12,000 families in East Los Angeles completed in early May, which found that roughly 75% felt schools and the district are doing a good job handling the crisis, officials said. About 80% of the families are receiving help three or more times a week from schools, including homework and health care and food.
 
-Beutner pointed out that the biggest challenge for families was access to the internet and technology, with 50% lacking reliable internet and 25% a device.",100,High,Right-center,USA
+Beutner pointed out that the biggest challenge for families was access to the internet and technology, with 50% lacking reliable internet and 25% a device.",100,High,Right-center,USA,1
 1,https://www.dailynews.com/2020/03/16/this-map-shows-how-coronavirus-has-struck-much-of-la-county/,Los Angeles Daily News,2020-03-16,['Nikie Johnson'],This map shows how coronavirus has struck much of LA County,https://www.dailynews.com/wp-content/uploads/2020/04/LAcovidmap0429-1.png?w=997&h=560,"Los Angeles County releases information daily about how many people in its cities and other communities have tested positive for coronavirus. Here is the latest as of Thursday, May 21.
 
 Health officials have been cautioning all along that the number of confirmed cases, and the list of locations, don’t show the disease’s true prevalence. Researchers working in L.A. County found in April that the number of people who have actually contracted COVID-19 was probably 28 to 55 times higher than the number of confirmed cases.
@@ -84,7 +84,7 @@ Hispanic/Latino: 36% of cases, 39% of deaths
 
 4% of cases, 1.1% of deaths Under investigation: 35% of cases, 0.6% of deaths
 
-Use the chart below to explore what locations have the most or fewest confirmed cases and deaths, as well as the highest and lowest rate of cases and deaths relative to their population. (Note, there are also 2,008 cases and 13 deaths where officials have not determined where the person lives.)",100,High,Right-center,USA
+Use the chart below to explore what locations have the most or fewest confirmed cases and deaths, as well as the highest and lowest rate of cases and deaths relative to their population. (Note, there are also 2,008 cases and 13 deaths where officials have not determined where the person lives.)",100,High,Right-center,USA,1
 2,https://www.dailynews.com/2020/03/20/sign-up-for-our-coronavirus-update-newsletter/,Los Angeles Daily News,2020-03-20,['Sara Hoffman'],Sign up for our Coronavirus Update newsletter,https://www.dailynews.com/wp-content/uploads/2017/09/img_3776.jpg,"The amount of coverage every day on coronavirus is immense. We’re here to help.
 
 In addition to giving everyone free access to all of our articles about the pandemic, we’ve created a newsletter to help you stay informed about how COVID-19 is impacting your community and the world.
@@ -101,7 +101,7 @@ Worried about traffic? No need, freeway traffic is light while Southern Californ
 
 We’re here to provide all of the essential information you need to know as it’s happening.
 
-Get Coronavirus Update delivered to your inbox: Sign Up Here.",100,High,Right-center,USA
+Get Coronavirus Update delivered to your inbox: Sign Up Here.",100,High,Right-center,USA,1
 3,https://www.dailynews.com/2020/05/21/l-a-countys-coronavirus-death-toll-tops-2000/,Los Angeles Daily News,2020-05-21,['Hayley Munguia'],"L.A. County’s coronavirus death toll tops 2,000",https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-LA-VIRUS-HEALTH-0306-DC-2-1.jpg?w=1024&h=683,"Another 46 Los Angeles County residents have died after testing positive for the coronavirus, officials announced Thursday, May 21, pushing the county’s death toll above 2,000.
 
 The number of fatalities linked to the coronavirus as of Thursday was 2,016.
@@ -132,7 +132,7 @@ The average number of deaths per day is also shrinking, and officials are meetin
 
 Moving forward, she said, it will be important for people to continue taking those precautions as they take advantage of opportunities to get outside.
 
-“As we hike our trails, go to our beaches and use our other outdoor spaces, we can all take responsibility for creating safety for the people who work at those sites and others who are using these spaces,” she said. “I know we can do this. Of this I’m certain because we’ve done it. We’ve worked together. We’ve been doing our part, and we’ve saved lives as a result.”",100,High,Right-center,USA
+“As we hike our trails, go to our beaches and use our other outdoor spaces, we can all take responsibility for creating safety for the people who work at those sites and others who are using these spaces,” she said. “I know we can do this. Of this I’m certain because we’ve done it. We’ve worked together. We’ve been doing our part, and we’ve saved lives as a result.”",100,High,Right-center,USA,1
 4,https://www.dailynews.com/2020/05/21/coronavirus-ventura-county-gets-green-light-for-faster-opening-while-la-county-sticks-to-cautious-easing/,Los Angeles Daily News,2020-05-21,['Ryan Carter'],"Coronavirus: Ventura County gets green light for faster opening, while LA County sticks to cautious easing",https://www.dailynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1-1-4.jpg?w=1024&h=688,"Ventura County, Santa Barbara and San Diego counties have received the OK to move more quickly than other Southern California counties to re-open their economies, highlighting the longer road massive Los Angeles County has to travel to gain approval for more significant easing of stay-at-home restrictions.
 
 Ventura and Santa Barbara got the green light under Gov. Gavin Newsom’s newly amended criteria that accounts for regional variance among the state’s 58 counties, some of which say they are more ready than others to re-open economies and ease stay-home restrictions in place since March.
@@ -175,7 +175,7 @@ County officials say they are trying to balance the urgency to re-open the regio
 
 In Ventura, officials will start by opening with dine-in restaurants and in-store shopping, which must observe social distancing orders. Destination shopping, such as malls, will not immediately open, according to the county’s plan.
 
-“With reopening and more Ventura County residents coming into contact with one another, we are concerned that cases of COVID-19 may increase, along with hospitalizations, and even deaths,” Ventura officials’ opening plan notes.",100,High,Right-center,USA
+“With reopening and more Ventura County residents coming into contact with one another, we are concerned that cases of COVID-19 may increase, along with hospitalizations, and even deaths,” Ventura officials’ opening plan notes.",100,High,Right-center,USA,1
 5,https://www.dailynews.com/2020/05/22/what-an-attendance-cap-could-mean-for-crowded-disney-parks-in-the-covid-19-era/,Los Angeles Daily News,2020-05-22,['Brady Macdonald'],What an attendance cap could mean for crowded Disney parks in the COVID-19 era,https://www.dailynews.com/wp-content/uploads/2020/05/OCR-L-RISE-0118-02-1.jpg?w=1024&h=682,"Complaints about crowding at Disneyland and Disney World won’t fly in the court of public opinion or in state houses in Sacramento or Tallahassee when Disney’s U.S. theme parks eventually reopen in the COVID-19 era.
 
 Disney, Universal, SeaWorld, Six Flags, Cedar Fair, Legoland and regional U.S. theme parks are expected to operate with social distancing-friendly attendance caps in place once they reopen following their extended coronavirus closures.
@@ -246,7 +246,7 @@ Calculating theme park capacity depends on two key factors: Open space and attra
 
 “They don’t have enough rides or restaurants to support that level of attendance with reasonable waits,” Testa said via email. “So that’s what limits capacity.”
 
-Disney officials, who declined to comment, rarely discuss visitor attendance or capacity.",100,High,Right-center,USA
+Disney officials, who declined to comment, rarely discuss visitor attendance or capacity.",100,High,Right-center,USA,1
 6,https://www.dailynews.com/2020/05/22/memorial-day-2020-observances-go-mostly-online-on-may-25-due-to-coronavirus-restrictions/,Los Angeles Daily News,2020-05-22,['Holly Andres'],Memorial Day 2020 observances go (mostly) online on May 25 due to coronavirus restrictions,https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-MCCARTHY-NO-FLAGS-06-1.jpg?w=1024&h=700,"Here is a sampling of area Memorial Day events, by time, on May 25 honoring and remembering the men and women who died while serving in the United States armed forces.
 
 Memorial Day observance from the City of Whittier: City officials give their thoughts on Memorial Day, 9 a.m. on the city’s Facebook page: www.facebook.com/whittiercitygov and Instagram: www.instagram.com/whittiercitygov Email: pks@cityofwhittier.org. 562-567-9470. www.cityofwhittier.org
@@ -273,7 +273,7 @@ Virtual Remembrance from Rose Hills Memorial Park & Mortuary: Patriotic collecti
 
 In case you missed Dennis McCarthy’s column on the Los Angeles National Cemetery and the cancellation of area Boy and Girl scouts saluting and planting flags on graves in advance of Memorial Day, read it here bit.ly/2TpJqMs
 
-Also, if you happen to be in the following areas you may see an 18 group of historic warbirds flyover that begins at noon:",100,High,Right-center,USA
+Also, if you happen to be in the following areas you may see an 18 group of historic warbirds flyover that begins at noon:",100,High,Right-center,USA,1
 7,http://www.dailynews.com/2020/05/20/unkindest-cut-coronavirus-has-stolen-from-us-a-flag-waving-annual-tribute-to-our-fallen-servicemembers/,Los Angeles Daily News,2020-05-20,['Dennis Mccarthy'],Memorial Day tradition of placing flags on veterans’ graves canceled due to coronavirus,https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-MCCARTHY-NO-FLAGS-FILE01-1.jpg?w=1024&h=820,"For more than 30 years, the small American flags placed on the gravesites at the LA National Cemetery by Boy and Girl Scouts every Memorial Day weekend have captured the heart and imagination of this city.
 
 It’s impossible for the half a million motorists driving by the cemetery everyday on the 405 freeway – the nation’s busiest – not to be moved by the sight of 90,000 small flags rippling in the wind, commemorating the men and women service members buried there.
@@ -324,7 +324,7 @@ See a veteran a safe distance away? Shout “Thank you for your service.” And 
 
 Got a family member who served? Call them and say “I love you.” A couple of times.
 
-And post all over social media: “Thank you for your service.” And plug in a flag photo, too. Lots of them.",100,High,Right-center,USA
+And post all over social media: “Thank you for your service.” And plug in a flag photo, too. Lots of them.",100,High,Right-center,USA,1
 8,https://www.dailynews.com/2020/05/21/la-supervisors-want-inspector-general-to-oversee-skilled-nursing-facilities-in-wake-of-covid-19/,Los Angeles Daily News,2020-05-21,['City News Service'],LA supervisors want inspector general to oversee skilled nursing facilities in wake of coronavirus,https://www.dailynews.com/wp-content/uploads/2020/05/PAS-L-VIRUS-JASMIN-0514-02-SRA-2.jpg?w=1024&h=683,"LOS ANGELES — Supervisor Mark Ridley-Thomas and Board of Supervisors Chair Kathryn Barger will ask the board to appoint an inspector general to oversee skilled nursing facilities, which account for more than half of all deaths from COVID-19 in Los Angeles County.
 
 The motion also calls for bringing in the county’s auditor-controller to ensure closer monitoring of skilled nursing facilities immediately. The inspector general would be tasked with developing recommendations on how to strengthen oversight for skilled nursing facilities, and how to improve their operations long-term, according to a statement.
@@ -351,7 +351,7 @@ Skilled nursing facilities have also received close attention from L.A. City gov
 
 Nursing facilities, senior living homes and other facilities that care for people 65 and older have been potential “death traps,” Garcetti said.
 
-Garcetti said the facilities can request assistance with testing from the city’s Emergency Operations Center if they’re unable to obtain it themselves. The tests will be required to be administered at least once a month.",100,High,Right-center,USA
+Garcetti said the facilities can request assistance with testing from the city’s Emergency Operations Center if they’re unable to obtain it themselves. The tests will be required to be administered at least once a month.",100,High,Right-center,USA,1
 9,https://www.dailynews.com/2020/05/21/san-manuel-casino-extends-coronavirus-closure-implements-furloughs-and-layoffs/,Los Angeles Daily News,2020-05-21,['Alex Groves'],"San Manuel Casino extends coronavirus closure, implements furloughs and layoffs",https://www.dailynews.com/wp-content/uploads/2020/05/SBS-L-SANMANUEL-0521-PHOTOA-1.jpg?w=1024&h=706,"San Manuel Casino announced Thursday, May 21, that the casino’s closure because of the novel coronavirus pandemic will be extended into June and that for the first time in the casino’s 34-year history it will have to implement furloughs and layoffs for some of its employees.
 
 A news release said casino officials will look to local and state health and safety guidance to find a path to reopening and that while the casino could open on a June date, it is too early to tell.
@@ -376,7 +376,7 @@ San Manuel, which closed March 15, has extended its closure as other casinos in 
 
 Pechanga Resort Casino; Cahuilla Casino Hotel; Soboba Casino Resort; Valley View Casino & Hotel; Harrah’s Resort Southern California; Spotlight 29 Casino; Tortoise Rock Casino and the Agua Caliente Casinos in Rancho Mirage and Palm Springs have all announced reopening plans.
 
-One other casino, Casino Pauma, announced that it plans to remain closed until further notice.",100,High,Right-center,USA
+One other casino, Casino Pauma, announced that it plans to remain closed until further notice.",100,High,Right-center,USA,1
 10,https://www.dailynews.com/2020/05/21/coronavirus-jolted-finances-may-be-worse-than-feared-la-officials-say/,Los Angeles Daily News,2020-05-21,['City News Service'],"Coronavirus-jolted finances may be worse than feared, LA officials say",https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-LIGHTITBLUE-0507-KB2-5.jpg?w=1024&h=621,"By ERIC HEINZ, City News Service
 
 Los Angeles may find itself in a worse financial situation than envisioned in the mayor’s proposed budget for the next fiscal year due to the COVID-19 pandemic, city officials said Thursdsay, May 21.
@@ -433,7 +433,7 @@ The city has enacted a hiring freeze, estimated to save $42 million next year, a
 
 Councilman David Ryu said as the city considers the budget, it should not make cuts to services that help homeless people, the elderly, victims of domestic violence and other vulnerable populations.
 
-“If we make cuts to departments and services that serve low-income and working families, we will be paying for those cuts for decades to come,” Ryu said.",100,High,Right-center,USA
+“If we make cuts to departments and services that serve low-income and working families, we will be paying for those cuts for decades to come,” Ryu said.",100,High,Right-center,USA,1
 11,https://www.dailynews.com/2020/05/21/ucla-report-says-minorities-disproportionately-affected-by-coronavirus/,Los Angeles Daily News,2020-05-21,['Deepa Bharath'],UCLA report says minorities disproportionately affected by coronavirus,https://www.dailynews.com/wp-content/uploads/2020/05/OCR-L-VIRUS-COVIDRACE-0522-1.jpg?w=1024&h=683,"California’s minority communities, particularly Latinos, Pacific Islanders and African Americans, are experiencing higher rates of coronavirus cases compared to Caucasians, according to a report released Thursday, May 21, by UCLA’s Center for the Study of Latino Health and Culture.
 
 The report, based on a study of COVID-19 exposure by six different age groups, found that almost in every age category, Latinos, African Americans and Native Hawaiian/Pacific Islanders have higher case rates for COVID-19 than whites. This is an indicator that these racial populations are experiencing varying degrees of greater exposure to the virus than whites, said David E. Hayes-Bautista, professor of medicine and the center’s director.
@@ -470,7 +470,7 @@ Members of the undocumented community perform essential jobs, she said.
 
 With eviction moratoriums ending on May 31, she also fears there will be significant increases in the homeless population.
 
-“The people who are in power need to use it for all residents who live in their region,” Gallegos said.",100,High,Right-center,USA
+“The people who are in power need to use it for all residents who live in their region,” Gallegos said.",100,High,Right-center,USA,1
 12,https://www.dailynews.com/2020/05/21/coronavirus-testing-coming-to-a-drugstore-urgent-care-living-room-near-you/,Los Angeles Daily News,2020-05-21,['Teri Sforza'],"Coronavirus testing: Coming to a drugstore, urgent care, living room near you",https://www.dailynews.com/wp-content/uploads/2020/05/RPE-L-VIRUS-TESTING-0321-WP13-1.jpg?w=1024&h=683,"Coronavirus testing continues to trickle down to the masses.
 
 CVS is opening 14 more drive-thru sites in California where people can self-administer the nasal swab test for diagnosing active virus, even as more antibody tests — designed to detect past infections — come to consumers. The pharmacy chain promised more drive-thru sites by the end of May, aiming for 1,000 COVID-19 testing sites nationwide.
@@ -533,8 +533,8 @@ Testing helps determine risk, illuminates the disease’s impact, identifies tho
 
 A list of CVS Pharmacy drive-thru test sites can be found at cvshealth.com/covid-19/testing-locations. Exer sites are at exerurgentcare.com/.
 
-For more testing sites in Orange County, see occovid19.ochealthinfo.com/covid-19-testing-and-screening. In Los Angeles County, see covid19.lacounty.gov/testing/. In Riverside County, see rivcoph.org/coronavirus and temeculaca.gov/1384/Local-COVID-19-Testing-Sites. In San Bernardino, see sbcovid19.com/community-drive-through-events/.",100,High,Right-center,USA
-13,https://www.dailynews.com/2020/05/10/photos-during-coronavirus-spurred-intermission-theater-marquees-share-funny-encouraging-messages/,Los Angeles Daily News,2020-05-10,['Keith Birmingham'],"Photos: During coronavirus-spurred intermission, theater marquees share funny, hopeful messages",https://www.dailynews.com/wp-content/uploads/2020/05/Theatre-Project1-1.jpg?w=1024&h=783,"A man riding a bike and wearing a mask due to the Coronavirus Pandemic walks past the Los Feliz theatre along Vermont Ave. as the marquee has many different quotes including “Fasten your seatbelts, its going to be a bumpy ride” by Bette Davis from the movie All About Eve in Los Angeles on Wednesday, April 22, 2020. (Photo by Keith Birmingham, Pasadena Star-News/ SCNG)",100,High,Right-center,USA
+For more testing sites in Orange County, see occovid19.ochealthinfo.com/covid-19-testing-and-screening. In Los Angeles County, see covid19.lacounty.gov/testing/. In Riverside County, see rivcoph.org/coronavirus and temeculaca.gov/1384/Local-COVID-19-Testing-Sites. In San Bernardino, see sbcovid19.com/community-drive-through-events/.",100,High,Right-center,USA,1
+13,https://www.dailynews.com/2020/05/10/photos-during-coronavirus-spurred-intermission-theater-marquees-share-funny-encouraging-messages/,Los Angeles Daily News,2020-05-10,['Keith Birmingham'],"Photos: During coronavirus-spurred intermission, theater marquees share funny, hopeful messages",https://www.dailynews.com/wp-content/uploads/2020/05/Theatre-Project1-1.jpg?w=1024&h=783,"A man riding a bike and wearing a mask due to the Coronavirus Pandemic walks past the Los Feliz theatre along Vermont Ave. as the marquee has many different quotes including “Fasten your seatbelts, its going to be a bumpy ride” by Bette Davis from the movie All About Eve in Los Angeles on Wednesday, April 22, 2020. (Photo by Keith Birmingham, Pasadena Star-News/ SCNG)",100,High,Right-center,USA,1
 14,https://www.dailynews.com/2020/05/01/la-city-hall-protestors-plan-to-decry-coronavirus-stay-home-order/,Los Angeles Daily News,2020-05-01,"['Ryan Carter', 'Elizabeth Chou', 'Pierce Singgih']",Tensions flare at LA Civic Center over coronavirus stay-home orders,https://www.dailynews.com/wp-content/uploads/2020/05/LDN-L-MAYDAYSHUTDOWN-0502-01-SR-1.jpg?w=1024&h=683,"People protest California’s stay at home orders at Los Angeles City Hall on Friday, May 1, 2020 during the coronavirus pandemic. (Photo by Sarah Reingewirtz, Los Angeles Daily News/SCNG)
 
 People protest California’s stay at home orders at Los Angeles City Hall on Friday, May 1, 2020 during the coronavirus pandemic. (Photo by Sarah Reingewirtz, Los Angeles Daily News/SCNG)
@@ -687,7 +687,7 @@ As it stands, Los Angeles County Public Health Director Barbara Ferrer said the 
 
 Such orders have not persuaded such groups around the nation, however.
 
-Thousands of flag-waving, honking protesters drove past the Michigan Capitol in mid-April to show their displeasure with the state’s Gov. Gretchen Whitmer’s orders to keep people at home and businesses locked. On Thursday, a mostly peaceful repeat demonstration led to some angry protesters — many without face coverings and some with guns — entering the Michigan Capitol and demanding to be let onto the House floor, which is not allowed.",100,High,Right-center,USA
+Thousands of flag-waving, honking protesters drove past the Michigan Capitol in mid-April to show their displeasure with the state’s Gov. Gretchen Whitmer’s orders to keep people at home and businesses locked. On Thursday, a mostly peaceful repeat demonstration led to some angry protesters — many without face coverings and some with guns — entering the Michigan Capitol and demanding to be let onto the House floor, which is not allowed.",100,High,Right-center,USA,1
 15,https://www.dailynews.com/2020/04/26/despite-coronavirus-limits-it-was-best-birthday-party-ever-for-105-year-old-d-day-vet-sam-sachs/,Los Angeles Daily News,2020-04-26,['Rich Archbold'],"Despite coronavirus limits, it was “best birthday party ever” for 105-year-old D-Day vet Sam Sachs",https://www.dailynews.com/wp-content/uploads/2020/04/LPT-L-ARCHBOLD-SAM-0427-1_8-1.jpg?w=1024&h=708,"Stepping onto the porch of his Lakewood dwelling on Sunday, April 26, retired Lt. Col. Sam Sachs could not believe his eyes.
 
 Stretching for almost two miles were more than 300 vehicles — decorated with balloons, American flags and hand-made signs, all wishing Sachs a happy 105th birthday. Drivers honked, passengers whooped and waved flags as they slowly rolled by on Conquista Avenue.
@@ -900,7 +900,7 @@ Did the day measure up? Sachs called it “the most magical time in my life.”
 
 And he’ll be back for his 106th, he vowed.
 
-“I hope I see all of you here again next year,” Sachs said with a smile. “I’m going to work on it.”",100,High,Right-center,USA
+“I hope I see all of you here again next year,” Sachs said with a smile. “I’m going to work on it.”",100,High,Right-center,USA,1
 16,https://www.dailynews.com/2020/04/17/families-line-up-for-hot-vegetarian-meals-in-pacoima-during-coronavirus-crisis/,Los Angeles Daily News,2020-04-17,['Hans Gutknecht'],Families line up for hot vegetarian meals in Pacoima during coronavirus crisis,https://www.dailynews.com/wp-content/uploads/2020/04/LDN-L-VIRUS-KHALSA-005-0418-1.jpg?w=1024&h=683,"Cars lined up early along Laurel Canyon Blvd in Pacoima on Friday afternoon, April 17. Everyone was there for free hot vegetarian delicacies prepared by the Khalsa Care Foundation.
 
 Khalsa Care Foundation, in partnership with Councilwoman Monica Rodriguez’s office, was ready with 3,000 such meals prepared for anyone that needed a warm bite to eat.
@@ -963,7 +963,7 @@ Councilwoman Monica Rodriguez, chair of the city’s Public Safety Committee, ha
 
 “We have a great deal of need; I think that COVID-19 has daylighted for a lot of families what we knew to be true — that a lot of families are housing and food insecure,” she said. “So we are helping to provide all the resources they need to get through these difficult times.”
 
-Rodriguez’ District 7 includes the neighborhoods of Pacoima, Lake View Terrace, Mission Hills, North Hills, Sunland-Tujunga and Sylmar.",100,High,Right-center,USA
+Rodriguez’ District 7 includes the neighborhoods of Pacoima, Lake View Terrace, Mission Hills, North Hills, Sunland-Tujunga and Sylmar.",100,High,Right-center,USA,1
 17,https://www.dailynews.com/2020/04/09/la-oc-light-up-blue-in-tribute-to-workers-on-frontline-of-coronavirus-fight/,Los Angeles Daily News,2020-04-09,['Ryan Carter'],"LA, OC light up blue in tribute to workers on frontline of coronavirus fight",https://www.dailynews.com/wp-content/uploads/2020/04/LDN-L-LIGHTITBLUE-0418-KB11-1.jpg?w=1024&h=577,"Southern California has never been bluer.
 
 And on Thursday night at 8 p.m., you could actually see it — in lights.
@@ -1054,7 +1054,7 @@ The effort came out of the UK, the #LightItBlue volunteer effort has been organi
 
 All activations were executed using existing resources in accordance with local stay-at-home mandates. After this Thursday’s kickoff, the #LightItBlue effort will continue weekly on Thursday nights across the U.S.
 
-The Associated Press contributed to this story.",100,High,Right-center,USA
+The Associated Press contributed to this story.",100,High,Right-center,USA,1
 18,https://www.dailynews.com/2020/04/14/photos-you-can-still-see-the-stars-but-no-people-on-hollywood-boulevard-during-coronavirus-pandemic/,Los Angeles Daily News,2020-04-14,['David Crane'],"Photos: You can still see the stars, but no people on Hollywood Boulevard during coronavirus pandemic",https://www.dailynews.com/wp-content/uploads/2020/04/LDN-L-VIRUS-HOLLYWOODCLOSED-0414-DC-1-1.jpg?w=1024&h=682,"While Hollywood and most areas of Los Angeles, other than any Trader Joe’s, continued to look like a ghost town Tuesday, April 14, California Gov. Gavin Newsom outlined six goals that must be achieved for California to begin to relax its shelter at home order due to COVID-19.
 
 At Hollywood and Highland where vendors usually sell all types of Hollywood-themed items, only a vendor hawking masks can make sales Monday, April 13, 2020. (Photo by David Crane, Los Angeles Daily News/SCNG)
@@ -1081,7 +1081,7 @@ Under normal circumstances, there would be no room to skateboard on the sidewalk
 
 During his press conference, Gov. Newsom said, “At some point in the future, we will need to modify our stay-at-home order. … As we contemplate reopening parts of our state, we must be guided by science and data, and we must understand that things will look different than before.”
 
-Outside of Madame Tussauds Hollywood Wax Museum, the marquee flashed, “Stay Strong Hollywood. We will prevail together, see you soon!”",100,High,Right-center,USA
+Outside of Madame Tussauds Hollywood Wax Museum, the marquee flashed, “Stay Strong Hollywood. We will prevail together, see you soon!”",100,High,Right-center,USA,1
 19,https://www.dailynews.com/2020/05/21/first-florida-theme-parks-set-post-coronavirus-reopening-dates-in-june/,Los Angeles Daily News,2020-05-21,['Brady Macdonald'],First Florida theme parks set post-coronavirus reopening dates in June,https://www.dailynews.com/wp-content/uploads/2020/05/Mako-SWO-16x9-1-1.jpg?w=1024&h=576,"Florida theme parks are preparing to reopen in June after extended coronavirus closures in a move that is certain to put pressure on California to allow Disney, Universal and other theme parks to swing open their gates in the coming weeks.
 
 Disney, Universal, SeaWorld, Busch Gardens and Legoland theme parks in Central Florida have presented reopening plans to local governments with proposed reopening dates or are preparing to do so in the coming days.
@@ -1144,4 +1144,4 @@ Upon approval, Swanson said park officials would be ready to reopen in June foll
 
 SEE ALSO: Will baboons still jump on cars when drive-thru safari returns to Six Flags Great Adventure?
 
-California Gov. Gavin Newsom unveiled a four-stage plan for reopening the state economy that didn’t specifically mention theme parks and offered no details on what restrictions would be put in place when Disneyland, Universal and other parks eventually reopen their gates.",100,High,Right-center,USA
+California Gov. Gavin Newsom unveiled a four-stage plan for reopening the state economy that didn’t specifically mention theme parks and offered no details on what restrictions would be put in place when Disneyland, Universal and other parks eventually reopen their gates.",100,High,Right-center,USA,1
