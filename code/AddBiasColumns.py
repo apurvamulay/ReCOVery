@@ -2,7 +2,8 @@ import pandas as pd
 import os
 import json
 
-columns = ['news_guard_score', 'mbfc_level', 'political_bias']
+
+columns = ['news_guard_score', 'mbfc_level', 'political_bias', 'country', 'reliability']
 CSV_FILE_DIR_HEAD = "../"
 
 REL_JSON_FILE = "reliable_web_statistics.json"
@@ -26,6 +27,8 @@ def insert_statistics_columns(jsonfile, directory):
             df['news_guard_score'] = pub['news_guard_score']
             df['mbfc_level'] = pub['mbfc_level']
             df['political_bias'] = pub['political_bias']
+            df['country'] = pub['country']
+            df['reliability'] = pub['reliability']
             df.to_csv(fileName, index=False)
 
 
