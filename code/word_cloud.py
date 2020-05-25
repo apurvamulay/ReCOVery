@@ -62,22 +62,14 @@ for idx, body in enumerate(bodies):
 ## remove stop words
 
 text_tokens = word_tokenize(words.strip().lower())
-
 tokens_without_sw = [word for word in text_tokens if not word in stopWords]
-
 counter_words = nltk.Counter(tokens_without_sw)
-
-# fp = open("wordcloud.txt", "w+")
-# fp.write(str(counter_words.most_common()))
-# fp.close()
-tokens_without_sw_str = ''.join(tokens_without_sw)
-
-
+tokens_without_sw_str = str(tokens_without_sw)
 
 
 '''
 Word Cloud
 '''
-data = WordCloud(background_color="white", max_words=300 )
+data = WordCloud(background_color="white", max_words=200 )
 data.generate(tokens_without_sw_str)
 data.to_file(CSV_FILE_DIR_HEAD + 'figure/wordcloud.eps')
