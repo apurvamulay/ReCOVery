@@ -45,7 +45,7 @@ for idx, body in enumerate(bodies):
     if str(body) != 'nan':
         words += body
 
-## remove stop words
+# remove stop words
 
 '''
 Word Cloud
