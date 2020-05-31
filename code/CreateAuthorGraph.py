@@ -3,7 +3,23 @@ import itertools
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 from netwulf import visualize
+
+SMALL_SIZE = 16
+MEDIUM_SIZE = 18
+BIGGER_SIZE = 20
+
+plt.rc('font', size=SMALL_SIZE)          # controls default text sizes
+plt.rc('axes', titlesize=SMALL_SIZE)     # fontsize of the axes title
+plt.rc('axes', labelsize=MEDIUM_SIZE)    # fontsize of the x and y labels
+plt.rc('xtick', labelsize=SMALL_SIZE)    # fontsize of the tick labels
+plt.rc('ytick', labelsize=SMALL_SIZE)    # fontsize of the tick labels
+plt.rc('legend', fontsize=MEDIUM_SIZE)    # legend fontsize
+plt.rc('figure', titlesize=BIGGER_SIZE)
+
+sns.set_style(style="darkgrid")
+
 
 
 def get_list_authors(authors):
@@ -72,7 +88,7 @@ for authors1 in list_auth_dict:
         for pair in pairs:
             G.add_edge(pair[0],pair[1])
 
-
+'''
 #Display the graph
 degrees = networkx.degree(G)
 pos = networkx.spring_layout(G,k=0.20,iterations=30, scale=200)
@@ -98,6 +114,25 @@ for degree in degrees:
 #
 # plt.draw()
 # plt.show()
+'''
 
-visualize(G)
 
+'''
+Visualize the graph G
+'''
+# visualize(G)
+
+'''
+Degree distribution of author collaboration network
+'''
+_, degrees = zip(*networkx.degree(G))
+
+hist_kws = {'alpha': 1}
+
+plt.figure(figsize=(7,6))
+ax = sns.distplot(degrees, hist=True, kde=False, rug=False, fit=None, norm_hist=False, hist_kws=hist_kws)
+plt.xlabel('# Collaborations')
+plt.ylabel('# Authors')
+ax.set_yscale('log')
+plt.savefig('../figure/au_net_degrees.eps', bbox_inches='tight')
+plt.show()
