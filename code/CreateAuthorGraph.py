@@ -27,7 +27,7 @@ def get_list_authors(authors):
     string_auth = authors[1:len(authors) - 1]
     string_auth = string_auth.strip()
     string_auth = string_auth.replace('\'', '')
-    list_auth = string_auth.split(",")
+    list_auth = string_auth.split(", ")
     return list_auth
 
 
@@ -120,7 +120,7 @@ for degree in degrees:
 '''
 Visualize the graph G
 '''
-# visualize(G)
+visualize(G)
 
 '''
 Degree distribution of author collaboration network
