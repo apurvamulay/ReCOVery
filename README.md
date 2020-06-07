@@ -35,7 +35,11 @@ Each of the above CSV files is comma separated file and have the following respe
  
  2.recovery-social-media-data.csv (confirm if we need other fields)
  - `news_id` - Unique identifider for each news article.
- - `tweet_id`- Unique identifider for every tweet
+ - `tweet_id`- Unique identifider for every tweet.
+ - `user_id`- Unique identifider for user posting the tweet.
+ - `followers_count`- Number of followers for the above user_id
+ - `friends_count`- Number of followers for the above user_id
+ - `reliability`- reliability of news articles for which the tweets are posted
  
 
 
@@ -48,7 +52,7 @@ Each of the above CSV files is comma separated file and have the following respe
  The twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
  [https://developer.twitter.com/en]. Once account is created, create the app. On successful creation of app, the keys will be  available in the `keys and tokens` section of the app.
  
- To start using twitter apis, add the keys to the `get_twitter_data.py` anf run function set_creds(). This will add keys to api-credentials.yaml file.
+ To start using twitter apis, add the keys to the `get_twitter_data.py` anf run function set_creds(). This will add keys to  api-credentials.yaml file.
 
 Install all the libraries in `requirements.txt` using the following command
     
@@ -56,7 +60,7 @@ Install all the libraries in `requirements.txt` using the following command
    
 
 ## References
-If you use this dataset, please cite the following papers:
+If you use this dataset, please cite the following paper:
 ~~~~
 
 ~~~~
