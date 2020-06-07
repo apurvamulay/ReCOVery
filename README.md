@@ -60,50 +60,7 @@ Install all the libraries in `requirements.txt` using the following command
 # TODO: List files to execute
 
 
-### Dataset Structure
-The downloaded dataset will have the following  folder structure,
-```bash
-├── code
-│   ├── news_articles
-│   │   ├── recovery-news-data.csv
-│   │	
-│   └── social_media
-│      ├── gossipcop-1
-│      │	
-│      │	
-│      │	
-│		└── ....		
-├── dataset
-│   ├── news_articles
-│   │   ├── recovery-news-data.csv
-│   │   │	
-│   │   │	
-│   │   │	
-│   │		
-│   │
-│   └── real
-│      ├── poliifact-2
-│      │	├── news content.json
-│      │	├── tweets
-│      │	└── retweets
-│      └── ....					
-├── feature
-│		├── 374136824.json
-│		├── 937649414600101889.json
-│   		└── ....
-├── figure
-│		├── 374136824.json
-│		├── 937649414600101889.json
-│	   	└── ....
-└── user_followers
-│		├── 374136824.json
-│		├── 937649414600101889.json
-│	   	└── ....
-└──user_following
-        	├── 374136824.json
-		├── 937649414600101889.json
-	   	└── ....
-```
+
 **News Content**
 
 `news content.json`:
