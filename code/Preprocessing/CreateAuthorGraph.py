@@ -58,33 +58,15 @@ for author in all_authors:
     list_auth_dict.append(num_auth_dict)
 
 print(list_auth_dict)
-# print(authors_list)
-
-#     #print(list_author)
-#     flag=False
-#     num_auth = {}
-#     multiple_authors = []
-#     for index, each_author in enumerate(list_author):
-#         if each_author not in num_auth:
-#             flag = True
-#             count+=1
-#             num_auth[count] = each_author
-#
-#     if flag == True:
-#         all_authors.append(num_auth)
-#
-# print(all_authors)
 
 for authors1 in list_auth_dict:
     keys_array = []
     for key in authors1.keys():
         keys_array.append(key)
         G.add_node(key)
-    #print(keys_array)
 
     if len(authors1) > 1:
         pairs = list(itertools.combinations(keys_array, 2))
-        #print(pairs)
         for pair in pairs:
             G.add_edge(pair[0],pair[1])
 
@@ -134,5 +116,5 @@ ax = sns.distplot(degrees, hist=True, kde=False, rug=False, fit=None, norm_hist=
 plt.xlabel('# Collaborations')
 plt.ylabel('# Authors')
 ax.set_yscale('log')
-plt.savefig('../figure/au_net_degrees.eps', bbox_inches='tight')
+plt.savefig('../../figure/au_net_degrees.eps', bbox_inches='tight')
 plt.show()
