@@ -44,12 +44,9 @@ Each of the above CSV files is comma separated file and have the following respe
 ###  Requirements:
 ## TODO: ADD
 
- Data download scripts are writtern in python and requires `python 3.6 +` to run.
- 
-Twitter API keys are used for collecting data from Twitter.  Make use of the following link to get Twitter API keys    
-https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html   
-
-Script make use of keys from  _tweet_keys_file.json_ file located in `code/resources` folder. So the API keys needs to be updated in `tweet_keys_file.json` file.  Provide the keys as array of JSON object with attributes `app_key,app_secret,oauth_token,oauth_token_secret` as mentioned in sample file.
+ All the scripts are writtern in python and requires `python 3.6 +` to run.
+ The twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
+ [https://developer.twitter.com/en]. Create the app following twitter account creation. Once app is created, the keys will be available in the keys and tokens section of the app.
 
 Install all the libraries in `requirements.txt` using the following command
     
