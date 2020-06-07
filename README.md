@@ -33,6 +33,10 @@ Each of the above CSV files is comma separated file and have the following respe
  - `country` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
  - `reliability` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
  
+ 2.recovery-social-media-data.csv
+ - `news_id` - Unique identifider for each news article.
+ - `tweet_id`- Unique identifider for every tweet
+ 
 
 
 ## Installation    
@@ -59,36 +63,6 @@ Install all the libraries in `requirements.txt` using the following command
 ## Running Code
 # TODO: List files to execute
 
-
-
-**News Content**
-
-`news content.json`:
-This json includes all the meta information of the news articles collected using the provided news source URLs. This is a JSON object with attributes including:
-
- - `text` is the text of the body of the news article. 
- - `images` is a list of the URLs of all the images in the news article web page. 
- - `publish date`  indicate the date that news article is published.
-
-**Social Context**
-
-**`tweets` folder**:
-This folder contains all tweets related to the news sample. This contains the tweet objects of the all the tweet ids provided in the tweet_ids attribute of the dataset csv. All the files in this folder are named as `<tweet_id>.json` . Each `<tweet_id>.json` file is a JSON file with format mentioned in [https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html).
-
-**`retweets` folder**:
-This folder contains the retweets of the all tweets posted sharing a particular news article. This folder contains files named as  `<tweet_id>.json` and it contains a array of the retweets for a particular tweets.  Each object int the retweet array have format mentioned in [https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/get-statuses-retweets-id](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/get-statuses-retweets-id).
-
-**`user_profiles` folder**:
-This folder contains all the user profiles of the users posting tweets related to all news articles. This same folder is used for both datasources ( Politifact and GossipCop). It contains files named as `<user_id>.json` and have JSON formated mentioned in [https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object.html](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object.html)
-
-**`user_timeline_tweets` folder**:
-This folder contains files representing the time line of tweets of users posting tweets related to fake and real news. All files in the folder are named as `<user_id>.json` and have JSON array of upto 200 recent tweets of the users. The files have format mentioned same as [https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline.html](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline.html).
-
-**`user_followers` folder**:
-This folder contains all the user followers ids of the users posting tweets related to all news articles. This same folder is used for both datasources ( Politifact and GossipCop). It contains files named as `<user_id>.json` and have JSON data with `user_id` and `followers` attributes.
-
-**`user_following` folder**:
-This folder contains all the user following ids of the users posting tweets related to all news articles. This same folder is used for both datasources ( Politifact and GossipCop). It contains files named as `<user_id>.json` and have JSON data with `user_id` and `following` attributes.
 
 
 ## References
