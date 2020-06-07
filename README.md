@@ -60,9 +60,8 @@ Install all the libraries in `requirements.txt` using the following command
    
 
 ## References
-If you use this dataset, please cite the following paper:
+If you are using this dataset, please cite the following paper:
 ~~~~
-
 ~~~~
 
 
