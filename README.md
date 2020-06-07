@@ -42,20 +42,16 @@ Each of the above CSV files is comma separated file and have the following respe
 ## Installation    
 
 ###  Requirements:
-## TODO: ADD
 
  All the scripts are writtern in python and requires `python 3.6 +` to run.
+ 
  The twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
- [https://developer.twitter.com/en]. Create the app following twitter account creation. Once app is created, the keys will be available in the keys and tokens section of the app.
+ [https://developer.twitter.com/en]. Once account is created, create the app. On successful creation of app, the keys will be  available in the `keys and tokens` section of the app.
 
 Install all the libraries in `requirements.txt` using the following command
     
     pip install -r requirements.txt
-
-
-###  Configuration:
-
-## TODO: ADD
+    
 
 ## Running Code
 # TODO: List files to execute
@@ -65,32 +61,7 @@ Install all the libraries in `requirements.txt` using the following command
 ## References
 If you use this dataset, please cite the following papers:
 ~~~~
-@article{shu2018fakenewsnet,
-  title={FakeNewsNet: A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media},
-  author={Shu, Kai and  Mahudeswaran, Deepak and Wang, Suhang and Lee, Dongwon and Liu, Huan},
-  journal={arXiv preprint arXiv:1809.01286},
-  year={2018}
-}
-~~~~
-~~~~
-@article{shu2017fake,
-  title={Fake News Detection on Social Media: A Data Mining Perspective},
-  author={Shu, Kai and Sliva, Amy and Wang, Suhang and Tang, Jiliang and Liu, Huan},
-  journal={ACM SIGKDD Explorations Newsletter},
-  volume={19},
-  number={1},
-  pages={22--36},
-  year={2017},
-  publisher={ACM}
-}
-~~~~
-~~~~
-@article{shu2017exploiting,
-  title={Exploiting Tri-Relationship for Fake News Detection},
-  author={Shu, Kai and Wang, Suhang and Liu, Huan},
-  journal={arXiv preprint arXiv:1712.07709},
-  year={2017}
-}
+
 ~~~~
 
 
