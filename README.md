@@ -29,17 +29,17 @@ Each of the above CSV files is comma separated file and have the following respe
  - `body_text` - The full body content of the news article.
  - `news_guard_score` - The score given by NewsGuard for the news source.
  - `mbfc_level` - Media Bias/Fact Check level for each news source.
- - `political_bias` - Political bias for each news source
- - `country` - Country of the publisher website
- - `reliability` - reliability score of the news publisher
+ - `political_bias` - Political bias for each news source.
+ - `country` - The country of the publisher website.
+ - `reliability` - reliability score of the news publisher (1 = reliable, 0 = unreliable).
  
  2. recovery-social-media-data.csv
  - `news_id` - Unique identifier for each news article.
  - `tweet_id`- Unique identiider for every tweet.
  - `user_id`- Unique identifier for user posting the tweet.
- - `followers_count`- Number of followers for the above user_id
- - `friends_count`- Number of followers for the above user_id
- - `reliability`- reliability of news articles for which the tweets are posted
+ - `followers_count`- Number of followers for the above user_id.
+ - `friends_count`- Number of followers for the above user_id.
+ - `reliability`- reliability of news articles for which the tweets are posted (1 = reliable, 0 = unreliable).
  
 
 
