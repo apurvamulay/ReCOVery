@@ -53,6 +53,8 @@ Each of the above CSV files is comma separated file and have the following respe
  [https://developer.twitter.com/en]. Once account is created, create the app. On successful creation of app, the keys will be  available in the `keys and tokens` section of the app.
  
  To start using twitter apis, add the keys to the `get_twitter_data.py` anf run function set_creds(). This will add keys to  `api-credentials.yaml` file.
+ 
+ The twitter data is gathered using premium search apis.
 
 Install all the libraries in `requirements.txt` using the following command
     
