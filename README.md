@@ -33,7 +33,7 @@ Each of the above CSV files is comma separated file and have the following respe
  - `country` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
  - `reliability` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
  
- 2.recovery-social-media-data.csv (confirm if we need other fields)
+ 2. recovery-social-media-data.csv
  - `news_id` - Unique identifider for each news article.
  - `tweet_id`- Unique identifider for every tweet.
  - `user_id`- Unique identifider for user posting the tweet.
