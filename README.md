@@ -21,22 +21,22 @@ Each of the above CSV files is comma separated file and have the following respe
 
 1. recovery-news-data.csv
  - `news_id` - Unique identifider for each news article.
- - `url` - Url of the article from web that published that news. 
+ - `url` - Url of the article from website that published respective news. 
  - `publisher` - Publisher of the news article.
  - `author` - Author or authors of the article. This field is a list of names of authors separated by command.
- - `title` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
+ - `title` - Title of the nwes article
  - `image` - Head image of the news article.
  - `body_text` - The full body content of the news article.
  - `news_guard_score` - The score given by NewsGuard for the news source.
  - `mbfc_level` - Media Bias/Fact Check level for each news source.
  - `political_bias` - Political bias for each news source
- - `country` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
- - `reliability` - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
+ - `country` - Country of the publisher website
+ - `reliability` - reliability score of the news publisher
  
  2. recovery-social-media-data.csv
- - `news_id` - Unique identifider for each news article.
- - `tweet_id`- Unique identifider for every tweet.
- - `user_id`- Unique identifider for user posting the tweet.
+ - `news_id` - Unique identifier for each news article.
+ - `tweet_id`- Unique identiider for every tweet.
+ - `user_id`- Unique identifier for user posting the tweet.
  - `followers_count`- Number of followers for the above user_id
  - `friends_count`- Number of followers for the above user_id
  - `reliability`- reliability of news articles for which the tweets are posted
