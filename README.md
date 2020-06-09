@@ -24,19 +24,20 @@ Each of the above CSV files is comma separated file and have the following respe
  - `url` - Url of the article from website that published respective news. 
  - `publisher` - Publisher of the news article.
  - `author` - Author or authors of the article. This field is a list of names of authors separated by command.
- - `title` - Title of the nwes article
+ - `title` - Title of the news article.
  - `image` - Head image of the news article.
  - `body_text` - The full body content of the news article.
  - `news_guard_score` - The score given by NewsGuard for the news source.
  - `mbfc_level` - Media Bias/Fact Check level for each news source.
  - `political_bias` - Political bias for each news source.
- - `country` - The country of the publisher website.
+ - `country` - The country of the news publisher website.
  - `reliability` - reliability score of the news publisher (1 = reliable, 0 = unreliable).
  
  2. recovery-social-media-data.csv
  - `news_id` - Unique identifier for each news article.
  - `tweet_id`- Unique identifier for every tweet.
 
+`dataset/reliable-unreliable-news-sources.txt` contains list of all reliable and unreliable news websites used for the project.
 
 ## Installation    
 
