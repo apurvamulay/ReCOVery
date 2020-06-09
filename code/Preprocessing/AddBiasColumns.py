@@ -33,7 +33,7 @@ def insert_statistics_columns(jsonfile, directory):
 
 
 # Reliable websites
-#insert_statistics_columns(REL_JSON_FILE, CSV_FILE_DIR_RELIABLE)
+insert_statistics_columns(REL_JSON_FILE, CSV_FILE_DIR_RELIABLE)
 
 # Unreliable websites
 insert_statistics_columns(UNREL_JSON_FILE, CSV_FILE_DIR_UNRELIABLE)
