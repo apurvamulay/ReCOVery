@@ -57,7 +57,7 @@ Install all the libraries in `requirements.txt` using the following command
     pip install -r requirements.txt
    
 
-## References
+## Reference
 If you are using this dataset, please cite the following paper:
 ~~~~
 ~~~~
