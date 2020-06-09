@@ -20,10 +20,10 @@ The dataset provided in this repository (located in `dataset` folder) include fo
 Each of the above CSV files is comma separated file and have the following respective columns:
 
 1. recovery-news-data.csv
- - `news_id` - Unique identifider for each news article.
+ - `news_id` - Unique identifier for each news article.
  - `url` - Url of the article from website that published respective news. 
  - `publisher` - Publisher of the news article.
- - `author` - Author or authors of the article. This field is a list of names of authors separated by command.
+ - `author` - Author or authors of the article. This field is a list of names of authors separated by comma.
  - `title` - Title of the news article.
  - `image` - Head image of the news article.
  - `body_text` - The full body content of the news article.
