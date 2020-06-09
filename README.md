@@ -36,11 +36,6 @@ Each of the above CSV files is comma separated file and have the following respe
  2. recovery-social-media-data.csv
  - `news_id` - Unique identifier for each news article.
  - `tweet_id`- Unique identifier for every tweet.
- - `user_id`- Unique identifier for user posting the tweet.
- - `followers_count`- Number of followers for the above user_id.
- - `friends_count`- Number of followers for the above user_id.
- - `reliability`- reliability of news articles for which the tweets are posted (1 = reliable, 0 = unreliable).
- 
 
 
 ## Installation    
