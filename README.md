@@ -17,7 +17,7 @@ The dataset provided in this repository (located in `dataset` folder) includes t
  - `recovery-news-data.csv` -  Samples of all news articles collected from 21 reliable and 38 unreliable websites 
  - `recovery-social-media-data.csv` -  Samples of social media information of news articles from the above websites
 
-Each of the above CSV files is comma separated file and have the following respective columns:
+Each of the above CSV files is a comma-separated file and have the following respective columns:
 
 1. recovery-news-data.csv
  - `news_id` - Unique identifier for each news article.
@@ -37,7 +37,7 @@ Each of the above CSV files is comma separated file and have the following respe
  - `news_id` - Unique identifier for each news article.
  - `tweet_id`- Unique identifier for every tweet.
 
-`dataset/reliable-unreliable-news-sources.txt` contains a list of all reliable and unreliable news websites used for the project.
+`dataset/reliable-unreliable-news-sources.txt` contains a list of all the reliable and unreliable news websites used for the project.
 
 ## Installation    
 
