@@ -48,9 +48,11 @@ Each of the above CSV files is comma separated file and have the following respe
  Twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
  [https://developer.twitter.com/en]. Once the account is created, you can create the app. On successful creation of the app, the keys will be  available in the `keys and tokens` section of the app.
  
- To start using twitter APIs, add the keys to the `get_twitter_data.py` and run function set_creds(). This will add keys to the `api-credentials.yaml` file.
+ To start using twitter APIs, add the keys to the `get_twitter_data.py` and run function set_creds(). This will add keys to the `code/credentials/api-credentials.yaml` file.
  
  Twitter data is gathered using premium search APIs.
+ 
+ `code/collect_articles.ipynb` - The code to collect news articles from the news url.
 
 Install all the libraries in `requirements.txt` using the following command
     
