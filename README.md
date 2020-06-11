@@ -2,7 +2,7 @@
 
 ## ReCOVery
 
-***The latest dataset paper with detailed analysis on the dataset can be found at [https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research]***
+***The latest dataset paper with detailed analysis on the dataset can be found at [here](https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research)***
 
 This is the first version of the dataset and will be updated timely.
 
