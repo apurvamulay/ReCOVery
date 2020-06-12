@@ -2,7 +2,7 @@
 
 ## ReCOVery
 
-***The latest dataset paper with detailed analysis on the dataset can be found at [Add link]***
+***The latest dataset paper with detailed analysis on the dataset can be found at [here](https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research)***
 
 This is the first version of the dataset and will be updated timely.
 
@@ -62,6 +62,12 @@ Install all the libraries in `requirements.txt` using the following command
 ## Reference
 If you are using this dataset, please cite the following paper:
 ~~~~
+@article{zhou2020repository,
+  title={ReCOVery: A Multimodal Repository for COVID-19 News Credibility Research},
+  author={Zhou, Xinyi and Mulay, Apurva and Ferrara, Emilio and Zafarani, Reza},
+  journal={arXiv preprint arXiv:2006.05557},
+  year={2020}
+}
 ~~~~
 
 
