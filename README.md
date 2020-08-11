@@ -14,7 +14,7 @@ The repository contains 4 folders namely - code, dataset, features, and figure.
 
 The dataset provided in this repository (located in `dataset` folder) includes the following files:
 
- - `recovery-news-data.csv` -  Samples of all news articles collected from 21 reliable and 38 unreliable websites 
+ - `recovery-news-data.csv` -  Samples of all news articles collected from 22 reliable and 38 unreliable websites 
  - `recovery-social-media-data.csv` -  Samples of social media information of news articles from the above websites
 
 Each of the above CSV files is a comma-separated file and have the following respective columns:
