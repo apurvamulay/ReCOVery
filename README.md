@@ -31,7 +31,7 @@ Each of the above CSV files is a comma-separated file and have the following res
  - `mbfc_level` - Media Bias/Fact Check level for each news source.
  - `political_bias` - Political bias for each news source.
  - `country` - The country of the news publishing website.
- - `reliability` - reliability label of news article (1 = reliable, 0 = unreliable).
+ - `reliability` - reliability label of the news article (1 = reliable, 0 = unreliable).
  
  2. recovery-social-media-data.csv
  - `news_id` - Unique identifier for each news article.
