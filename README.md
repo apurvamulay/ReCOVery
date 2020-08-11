@@ -62,10 +62,11 @@ Install all the libraries in `requirements.txt` using the following command
 ## Reference
 If you are using this dataset, please cite the following paper:
 ~~~~
-@article{zhou2020repository,
+@inproceedings{zhou2020recovery,
   title={ReCOVery: A Multimodal Repository for COVID-19 News Credibility Research},
   author={Zhou, Xinyi and Mulay, Apurva and Ferrara, Emilio and Zafarani, Reza},
-  journal={arXiv preprint arXiv:2006.05557},
+  booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20)},
+  doi={10.1145/3340531.3412880},
   year={2020}
 }
 ~~~~
