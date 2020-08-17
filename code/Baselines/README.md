@@ -40,11 +40,11 @@ The overall dataset is randomly divided into training and testing datasets with 
   </tr>
   <tr>
     <td></td>
-    <th>Pre.</th>
-    <th>Rec.</th>
+    <th>Precision</th>
+    <th>Recall</th>
     <td>F1</td>
-    <th>Pre.</th>
-    <th>Rec.</th>
+    <th>Precision</th>
+    <th>Recall</th>
     <td>F1</td>
   </tr>
   <tr>
