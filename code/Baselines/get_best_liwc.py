@@ -8,7 +8,7 @@ from newshat import *
 
 REPEAT_NUM = 100
 
-# Load LIWC data and leave those news_id in nids_cleaned
+# Load LIWC data
 liwc_title = pd.read_csv('../../dataset/liwc_title.csv')
 liwc_body = pd.read_csv('../../dataset/liwc_body.csv')
 
