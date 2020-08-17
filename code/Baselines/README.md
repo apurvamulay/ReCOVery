@@ -15,7 +15,7 @@ RST (Rhetorical Structure Theory) organizes a piece of content as a tree that ca
 Text-CNN relies on a Convolutional Neural Networks for text classification, which contains a convolutional layer and max pooling.
 
 ## SAFE
-SAFE is a neural-network-based method that utilizes news multimodal information for fake news detection, where news representation is learned jointly by news textual and visual information along with their relationship. SAFE facilitates recognizing the news falseness in its text, images, and/or the ``irrelevance'' between the text and images. Original codes of SAFE are from: https://github.com/Jindi0/SAFE. Please cite the following paper if you use the codes.
+SAFE is a neural-network-based method that utilizes news multimodal information for fake news detection, where news representation is learned jointly by news textual and visual information along with their relationship. SAFE facilitates recognizing the news falseness in its text, images, and/or the "irrelevance" between the text and images. Original codes of SAFE are from: https://github.com/Jindi0/SAFE. Please cite the following paper if you use the codes.
 ```
 @inproceedings{zhou2020multimodal,
   title={SAFE: Similarity-Aware Multi-modal Fake News Detection},
