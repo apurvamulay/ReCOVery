@@ -19,8 +19,8 @@ The repository contains 4 folders namely - code, dataset, features, and figure.
 
 The dataset provided in this repository (located in `dataset` folder) includes the following files:
 
- - `recovery-news-data.csv` -  Samples of all news articles collected from 22 reliable and 38 unreliable websites 
- - `recovery-social-media-data.csv` -  Samples of social media information of news articles from the above websites
+ - [`recovery-news-data.csv`](https://github.com/apurvamulay/ReCOVery/blob/master/dataset/recovery-news-data.csv) -  Samples of all news articles collected from 22 reliable and 38 unreliable websites 
+ - [`recovery-social-media-data.csv`](https://github.com/apurvamulay/ReCOVery/blob/master/dataset/recovery-social-media-data.csv) -  Samples of social media information of news articles from the above websites
 
 Each of the above CSV files is a comma-separated file and have the following respective columns:
 
@@ -35,14 +35,14 @@ Each of the above CSV files is a comma-separated file and have the following res
  - `news_guard_score` - The score given by NewsGuard for the news source.
  - `mbfc_level` - Media Bias/Fact Check level for each news source.
  - `political_bias` - Political bias for each news source.
- - `country` - The country of the news publishing website.
+ - `country` - The country of the news source.
  - `reliability` - reliability label of the news article (1 = reliable, 0 = unreliable).
  
  2. recovery-social-media-data.csv
  - `news_id` - Unique identifier for each news article.
  - `tweet_id`- Unique identifier for every tweet.
 
-`dataset/reliable-unreliable-news-sources.txt` contains a list of all the reliable and unreliable news websites used for the project.
+[`dataset/reliable-unreliable-news-sources.txt`](https://github.com/apurvamulay/ReCOVery/blob/master/dataset/reliable-unreliable-news-sources.txt) contains a list of all the reliable and unreliable news websites used for the project.
 
 ## Installation    
 
@@ -53,7 +53,7 @@ Each of the above CSV files is a comma-separated file and have the following res
  Twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
  [https://developer.twitter.com/en]. Once the account is created, you can create the app. On successful creation of the app, the keys will be  available in the `keys and tokens` section of the app.
  
- To start using twitter APIs, add the keys to the `get_twitter_data.py` and run function set_creds(). This will add keys to the `code/credentials/api-credentials.yaml` file.
+ To start using twitter APIs, add the keys to the `get_twitter_data.py` and run function set_creds(). This will add keys to the [`code/credentials/api-credentials.yaml`](https://github.com/apurvamulay/ReCOVery/blob/master/code/credentials/api-credentials.yaml) file.
  
  Twitter data is gathered using premium search APIs.
  
