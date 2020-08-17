@@ -6,7 +6,7 @@
 
 ***Note:*** The final version of the paper will be available soon! The link will be added once it is available.
 
-The final version of the paper contains new baselines and code is available in [`code/Baselines`](https://github.com/apurvamulay/ReCOVery/tree/master/code/Baselines).  
+The final version of the paper contains new baselines and the code is available in [`code/Baselines`](https://github.com/apurvamulay/ReCOVery/tree/master/code/Baselines).  
 
 
 This is the first version of the dataset and will be updated timely.
@@ -75,5 +75,8 @@ If you are using this dataset, please cite the following paper:
   year={2020}
 }
 ~~~~
+
+## Contact
+Please contact zhouxinyi@data.syr.edu if you have any question on the paper, data or the code.
 
 
