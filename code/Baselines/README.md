@@ -32,5 +32,57 @@ The overall dataset is randomly divided into training and testing datasets with 
 
 ## Results
 
-
+<table style="width:100%">
+  <tr>
+    <th>Method</th>
+    <th colspan="3">Reliable News</th>
+    <th colspan="3">Unreliable News</th>
+  </tr>
+  <tr>
+    <td></td>
+    <th>Pre.</th>
+    <th>Rec.</th>
+    <td>F1</td>
+    <th>Pre.</th>
+    <th>Rec.</th>
+    <td>F1</td>
+  </tr>
+  <tr>
+    <th>LIWC+DT</td>
+    <td>0.779</td>
+    <td>0.771</td>
+    <td>0.775</td>
+    <td>0.540</td>
+    <td>0.552</td>
+    <td>0.545</td>
+  </tr>
+  <tr>
+    <th>RST+DT</td>
+    <td>0.721</td>
+    <td>0.705</td>
+    <td>0.712</td>
+    <td>0.421</td>
+    <td>0.441</td>
+    <td>0.430</td>
+  </tr>
+    <tr>
+    <th>Text-CNN</td>
+    <td>0.746</td>
+    <td>0.782</td>
+    <td>0.764</td>
+    <td>0.522</td>
+    <td>0.472</td>
+    <td>0.496</td>
+  </tr>
+    <tr>
+    <th>SAFE</td>
+    <td>0.836</td>
+    <td>0.829</td>
+    <td>0.833</td>
+    <td>0.667</td>
+    <td>0.677</td>
+    <td>0.672</td>
+  </tr>
+  
+</table>
 
