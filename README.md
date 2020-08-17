@@ -15,7 +15,7 @@ This is the first version of the dataset and will be updated timely.
 
 The complete dataset cannot be distributed because of Twitter privacy policies and news publisher copyrights.  Social engagements and user information are not disclosed because of Twitter Policy. The code in this repository can be used to download news articles from published websites and relevant social media data from Twitter. 
 
-The repository contains 4 folders namely - code, dataset, features, and figure.
+The repository contains 2 folders namely - code and dataset.
 
 The dataset provided in this repository (located in `dataset` folder) includes the following files:
 
