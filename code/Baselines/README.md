@@ -6,10 +6,10 @@ We provide the benchmark performance of methods using ReCOVery data:
 - [SAFE](https://arxiv.org/pdf/2003.04981.pdf)
 
 ## LIWC
-LIWC (Linguistic Inquiry and Word Count) is a widely-accepted psycholinguistic lexicon. Given a news story, LIWC can count the words in the text falling into one or more of 93 linguistic, psychological, and topical categories, based on which 93 features are extracted and often classified within a traditional statistical learning framework.
+LIWC (Linguistic Inquiry and Word Count) is a widely-accepted psycholinguistic lexicon. Given a news story, LIWC can count the words in the text falling into one or more of 93 linguistic, psychological, and topical categories, based on which 93 features are extracted and often classified within a traditional statistical learning framework. To obtain liwc_title.csv and liwc_body.csv necessary for running get_best_liwc.py, please download the LIWC software at https://liwc.wpengine.com/.
 
 ## RST
-RST (Rhetorical Structure Theory) organizes a piece of content as a tree that captures the rhetorical relation among its phrases and sentences. We use a [pretrained RST parser](https://github.com/jiyfeng/DPLP}) to obtain the tree for each news article and count each rhetorical relation (in total, 45) within a tree, based on which 45 features are extracted and classified in a traditional statistical learning framework.
+RST (Rhetorical Structure Theory) organizes a piece of content as a tree that captures the rhetorical relation among its phrases and sentences. We use a [pretrained RST parser](https://github.com/jiyfeng/DPLP}) to obtain the tree for each news article and count each rhetorical relation (in total, 45) within a tree, based on which 45 features are extracted (saved as rst-features.npy) and classified in a traditional statistical learning framework.
 
 ## Text-CNN
 Text-CNN relies on a Convolutional Neural Networks for text classification, which contains a convolutional layer and max pooling.
