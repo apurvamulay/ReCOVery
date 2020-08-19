@@ -2,9 +2,7 @@
 
 ## ReCOVery
 
-***The latest dataset paper with detailed analysis on the dataset can be found at [here](https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research)***
-
-***Note:*** The final version of the paper will be available soon! The link will be added once it is available.
+***The final version of the latest dataset paper with detailed analysis on the dataset can be found at [here](https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research)***
 
 The final version of the paper contains new baselines and the code is available in [`code/Baselines`](https://github.com/apurvamulay/ReCOVery/tree/master/code/Baselines).  
 
