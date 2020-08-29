@@ -60,7 +60,14 @@ Each of the above CSV files is a comma-separated file and have the following res
 Install all the libraries in `requirements.txt` using the following command
     
     pip install -r requirements.txt
-   
+
+[**Hydrator**] (https://github.com/DocNow/hydrator) can be used to rehydrate Tweet ids
+
+**Steps to Hydrate:**
+1. Navigate to [hydrator](https://github.com/DocNow/hydrator) and follow readme OR download the installer from [hydrator executable] (https://github.com/DocNow/hydrator/releases)
+2. Run the installer and open the application 
+3. Link the twitter account in the settings tab
+4. In the dataset section, upload the file containing just the tweets. It will download csv with twitter information
 
 ## Reference
 If you are using this dataset, please cite the following paper:
