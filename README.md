@@ -61,7 +61,7 @@ Install all the libraries in `requirements.txt` using the following command
     
     pip install -r requirements.txt
 
-[**Hydrator**] (https://github.com/DocNow/hydrator) can be used to rehydrate Tweet ids
+[**Hydrator**](https://github.com/DocNow/hydrator) can be used to rehydrate Tweet ids
 
 **Steps to Hydrate:**
 1. Navigate to [hydrator](https://github.com/DocNow/hydrator) and follow readme OR download the installer from [hydrator executable] (https://github.com/DocNow/hydrator/releases)
