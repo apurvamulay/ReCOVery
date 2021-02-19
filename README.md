@@ -26,6 +26,7 @@ Each of the above CSV files is a comma-separated file and have the following res
  - `news_id` - Unique identifier for each news article.
  - `url` - URL of the article from the website that published respective news. 
  - `publisher` - Publisher of the news article.
+ - `publish_date` - The publishing date of the news article.
  - `author` - Author or authors of the article. This field is a list of names of authors separated by a comma.
  - `title` - Title of the news article.
  - `image` - The head image of the news article.
