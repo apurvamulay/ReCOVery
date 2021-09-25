@@ -1,5 +1,5 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
-0,https://www.mercurynews.com/2020/05/18/coronavirus-trump-predicts-a-vaccine-by-end-of-2020-experts-offer-a-different-timetable/,The Mercury News,2020-05-18,['Lisa M. Krieger'],Coronavirus: Trump predicts vaccine delivery by end of 2020. Experts say that’s not likely,https://www.mercurynews.com/wp-content/uploads/2020/03/browning2.jpeg?w=1024&h=683,"The Trump administration on Friday formally announced a hyper-ambitious plan to develop and manufacture hundreds of millions of doses of a COVID-19 vaccine that would be widely available by the end of this year.
+,news_id,url,publisher,publish_date,author,title,image,body_text,mbfc_level,political_bias,country,reliability
+0,0,https://www.mercurynews.com/2020/05/18/coronavirus-trump-predicts-a-vaccine-by-end-of-2020-experts-offer-a-different-timetable/,The Mercury News,2020-05-18,['Lisa M. Krieger'],Coronavirus: Trump predicts vaccine delivery by end of 2020. Experts say that’s not likely,https://www.mercurynews.com/wp-content/uploads/2020/03/browning2.jpeg?w=1024&h=683,"The Trump administration on Friday formally announced a hyper-ambitious plan to develop and manufacture hundreds of millions of doses of a COVID-19 vaccine that would be widely available by the end of this year.
 
 The reason behind the plan’s optimism was unveiled on Monday morning: The leading candidate vaccine, developed by the drug maker Moderna in conjunction with the National Institutes of Allergy and Infectious Disease (NIAID) Vaccine Research Center, appeared to generate an immune response in eight healthy volunteers.
 
@@ -69,8 +69,8 @@ Source: May 7 UCSF Medical Grand Rounds presentation, https://www.youtube.com/wa
 
 Phillip S. Pang, chief medical officer, Vir Biotechnology Inc.:
 
-“There’s been a lot of companies — including ours, including Regeneron, Eli Lilly, AstraZeneca, and so on — who have really accelerated the development of (therapeutic) antibodies. Many of these will enter testing this summer. And it may be possible, therefore, that they will have an Emergency Use Authorization by the end of this year (2020).”",100,High,Left-center,USA,1
-1,https://www.mercurynews.com/2020/03/04/map-coronavirus-cases-in-the-bay-area/,The Mercury News,2020-03-04,"['Alejandra Armstrong', 'Harriet Blair Rowan']","Bay Area coronavirus map: 11,279 cases, 392 deaths, in 10 counties",https://www.mercurynews.com/wp-content/uploads/2020/03/Bay-Area-covid-19-map.png?w=1024&h=576,"This article was last updated on May 18 at 5:50 p.m. The map has been changed to show the rate of cases per 100,000 residents.
+“There’s been a lot of companies — including ours, including Regeneron, Eli Lilly, AstraZeneca, and so on — who have really accelerated the development of (therapeutic) antibodies. Many of these will enter testing this summer. And it may be possible, therefore, that they will have an Emergency Use Authorization by the end of this year (2020).”",High,Left-center,USA,1
+1,1,https://www.mercurynews.com/2020/03/04/map-coronavirus-cases-in-the-bay-area/,The Mercury News,2020-03-04,"['Alejandra Armstrong', 'Harriet Blair Rowan']","Bay Area coronavirus map: 11,279 cases, 392 deaths, in 10 counties",https://www.mercurynews.com/wp-content/uploads/2020/03/Bay-Area-covid-19-map.png?w=1024&h=576,"This article was last updated on May 18 at 5:50 p.m. The map has been changed to show the rate of cases per 100,000 residents.
 
 
 
@@ -112,8 +112,8 @@ Santa Cruz County
 
 Solano County
 
-Sonoma County",100,High,Left-center,USA,1
-2,https://www.mercurynews.com/2020/05/18/coronavirus-parking-lots-reopen-at-27-california-state-parks/,The Mercury News,2020-05-18,['Paul Rogers'],Coronavirus: Parking lots reopen at 27 California state parks,https://www.mercurynews.com/wp-content/uploads/2020/04/SJM-L-BEACHCLOSED-0XXX-2b.jpg?w=1024&h=679,"Parking lots are slowly beginning to re-open at some of California’s state parks.
+Sonoma County",High,Left-center,USA,1
+2,2,https://www.mercurynews.com/2020/05/18/coronavirus-parking-lots-reopen-at-27-california-state-parks/,The Mercury News,2020-05-18,['Paul Rogers'],Coronavirus: Parking lots reopen at 27 California state parks,https://www.mercurynews.com/wp-content/uploads/2020/04/SJM-L-BEACHCLOSED-0XXX-2b.jpg?w=1024&h=679,"Parking lots are slowly beginning to re-open at some of California’s state parks.
 
 Over the weekend, and without an official announcement, the state began to partially reopen lots at 27 state parks and beaches in Santa Cruz, San Benito, Sonoma, Riverside and Orange counties, along with the Lake Tahoe Area, and several other mostly rural parts of the state.
 
@@ -213,8 +213,8 @@ On Monday, as he relaxed some rules around California, Gov. Gavin Newsom was ask
 
 “There are 27 proof points that that was done in the last few days,” Newsom said.
 
-Newsom and parks officials continue to urge state parks visitors to practice physical distancing and avoid congregating with people outside their immediate household.",100,High,Left-center,USA,1
-3,https://www.mercurynews.com/2020/05/18/coronavirus-more-new-cases-in-san-francisco-san-mateo-but-hospitalization-rates-continue-to-fall/,The Mercury News,2020-05-18,['Evan Webeck'],"Coronavirus: More new cases in Bay Area, but hospitalization rates continue to fall",https://www.mercurynews.com/wp-content/uploads/2020/04/TEASER_coronavirus_BAY_AREA-1-2.jpg?w=1024&h=688,"New cases of COVID-19 continued to tick upward in the Bay Area, but the death toll remained static and hospitalization numbers in some areas showed positive trends.
+Newsom and parks officials continue to urge state parks visitors to practice physical distancing and avoid congregating with people outside their immediate household.",High,Left-center,USA,1
+3,3,https://www.mercurynews.com/2020/05/18/coronavirus-more-new-cases-in-san-francisco-san-mateo-but-hospitalization-rates-continue-to-fall/,The Mercury News,2020-05-18,['Evan Webeck'],"Coronavirus: More new cases in Bay Area, but hospitalization rates continue to fall",https://www.mercurynews.com/wp-content/uploads/2020/04/TEASER_coronavirus_BAY_AREA-1-2.jpg?w=1024&h=688,"New cases of COVID-19 continued to tick upward in the Bay Area, but the death toll remained static and hospitalization numbers in some areas showed positive trends.
 
 Alameda County added 65 new cases on Monday. That number was only four fewer than the number of new cases added in San Mateo County (69), which issued its first update since Saturday.
 
@@ -246,8 +246,8 @@ Hospitalizations in San Mateo County had fallen to a new low late last week befo
 
 Statewide, the number of cases topped 80,000 on Sunday, with just over 10,000 in the Bay Area. With all Bay Area jurisdictions modifying their local orders, only Los Angeles and Sacramento counties remain in Phase 1 of Gov. Gavin Newsom’s reopening plan.
 
-Staff writer Jason Green contributed to this report.",100,High,Left-center,USA,1
-4,https://www.mercurynews.com/2020/05/18/coronavirus-bay-area-counties-to-universally-allow-storefront-retail-pickup-associated-businesses-to-reopen/,The Mercury News,2020-05-18,"['Fiona Kelliher', 'Robert Salonga', 'Maggie Angst']","Coronavirus: All Bay Area counties to allow storefront retail pickup, associated businesses to reopen",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-PHASE2-0519-49.jpg?w=1024&h=683,"CLICK HERE if you’re having a problem viewing the photos on a mobile device.
+Staff writer Jason Green contributed to this report.",High,Left-center,USA,1
+4,4,https://www.mercurynews.com/2020/05/18/coronavirus-bay-area-counties-to-universally-allow-storefront-retail-pickup-associated-businesses-to-reopen/,The Mercury News,2020-05-18,"['Fiona Kelliher', 'Robert Salonga', 'Maggie Angst']","Coronavirus: All Bay Area counties to allow storefront retail pickup, associated businesses to reopen",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-PHASE2-0519-49.jpg?w=1024&h=683,"CLICK HERE if you’re having a problem viewing the photos on a mobile device.
 
 After sticking with some of the strictest stay-at-home orders in California to curb the spread of coronavirus, the entire Bay Area is advancing in lockstep through the second phase of reopening the state by allowing curbside retail pickup to start on Friday.
 
@@ -293,8 +293,8 @@ Outdoor gear store Stevens Creek Surplus has remained open during the stay-at-ho
 
 As of Monday, Santa Clara County had confirmed 2,470 cases of COVID-19, Alameda County 2,457, San Francisco 2,131, San Mateo County 1,671 and Contra Costa County 1,155.
 
-Staff writers Evan Webeck and Vytas Mazeika contributed reporting.",100,High,Left-center,USA,1
-5,https://www.mercurynews.com/2020/05/18/humboldt-county-coronavirus-protesters-slaves-sign-goes-viral-2/,The Mercury News,2020-05-18,['Shomik Mukherjee'],Humboldt County coronavirus protester’s ‘slaves’ sign goes viral,https://www.mercurynews.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-18-at-5.41.19-PM-1.jpg?w=409&h=325,"Warning: This article contains imagery that readers may find offensive.
+Staff writers Evan Webeck and Vytas Mazeika contributed reporting.",High,Left-center,USA,1
+5,5,https://www.mercurynews.com/2020/05/18/humboldt-county-coronavirus-protesters-slaves-sign-goes-viral-2/,The Mercury News,2020-05-18,['Shomik Mukherjee'],Humboldt County coronavirus protester’s ‘slaves’ sign goes viral,https://www.mercurynews.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-18-at-5.41.19-PM-1.jpg?w=409&h=325,"Warning: This article contains imagery that readers may find offensive.
 
 A photograph of a Humboldt County resident holding a sign that compares California’s ongoing stay-at-home order to the slave trade has exploded online to widespread reactions calling the sign racist and deeply offensive.
 
@@ -328,8 +328,8 @@ Blanck criticized local news outlets consistently covering recent protests of th
 
 “The media really needs to look at why they cover some things and not other things, and do an analysis of whether or not they cover events with people of color instead of events that are predominantly white,” Blanck said.
 
-Shomik Mukherjee can be reached at 707-441-0504.",100,High,Left-center,USA,1
-6,https://www.mercurynews.com/2020/05/15/housing-advocates-breathe-sigh-of-relief-after-californias-coronavirus-budget-cuts/,The Mercury News,2020-05-15,['Marisa Kendall'],Housing advocates breathe sigh of relief after California’s coronavirus budget cuts,https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-GAVIN-0507.jpg?w=1024&h=683,"After Gov. Gavin Newsom rolled out his new coronavirus-decimated budget proposal this week, some affordable housing advocates expressed relief the damage wasn’t worse.
+Shomik Mukherjee can be reached at 707-441-0504.",High,Left-center,USA,1
+6,6,https://www.mercurynews.com/2020/05/15/housing-advocates-breathe-sigh-of-relief-after-californias-coronavirus-budget-cuts/,The Mercury News,2020-05-15,['Marisa Kendall'],Housing advocates breathe sigh of relief after California’s coronavirus budget cuts,https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-GAVIN-0507.jpg?w=1024&h=683,"After Gov. Gavin Newsom rolled out his new coronavirus-decimated budget proposal this week, some affordable housing advocates expressed relief the damage wasn’t worse.
 
 Staring down a $54 billion budget shortfall, Newsom on Thursday rolled back several ambitious plans he’d laid out just four months before to tackle the state’s homelessness and affordable housing crisis. But he didn’t gut everything — and what he did cut, he attempted to fill in using federal money.
 
@@ -363,15 +363,15 @@ Humboldt County coronavirus protester’s ‘slaves’ sign goes viral At the sa
 
 Assemblyman David Chiu, D-San Francisco, was pleased the revised budget kept the $500 million in low-income housing tax credits, but expressed frustration at the loss of funding to help cities combat homelessness.
 
-“I am deeply concerned that we are shifting away from addressing our housing and homelessness crises, which affects all other aspects of life for everyday Californians,” he wrote in a statement. “Our housing crisis has made people poorer, sicker, and more vulnerable to COVID-19. We cannot let up on addressing this issue.”",100,High,Left-center,USA,1
-7,https://www.mercurynews.com/2020/05/18/photos-all-bay-area-counties-join-coronavirus-phase-2-reopening-allowing-storefront-retail-pickup/,The Mercury News,2020-05-18,"['Dai Sugano', 'Randy Vazquez', 'Nhat V. Meyer', 'Karl Mondon', 'Jane Tyska']","Photos: All Bay Area counties join coronavirus phase 2 reopening, allowing storefront retail pickup",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-PHASE2-0519-104.jpg?w=1024&h=683,"CLICK HERE if you’re having a problem viewing the photos on a mobile device.
+“I am deeply concerned that we are shifting away from addressing our housing and homelessness crises, which affects all other aspects of life for everyday Californians,” he wrote in a statement. “Our housing crisis has made people poorer, sicker, and more vulnerable to COVID-19. We cannot let up on addressing this issue.”",High,Left-center,USA,1
+7,7,https://www.mercurynews.com/2020/05/18/photos-all-bay-area-counties-join-coronavirus-phase-2-reopening-allowing-storefront-retail-pickup/,The Mercury News,2020-05-18,"['Dai Sugano', 'Randy Vazquez', 'Nhat V. Meyer', 'Karl Mondon', 'Jane Tyska']","Photos: All Bay Area counties join coronavirus phase 2 reopening, allowing storefront retail pickup",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-PHASE2-0519-104.jpg?w=1024&h=683,"CLICK HERE if you’re having a problem viewing the photos on a mobile device.
 
 After sticking with some of the strictest stay-at-home orders in California to curb the spread of coronavirus, the entire Bay Area is advancing in lockstep through the second phase of reopening the state by allowing curbside retail pickup to start on Friday.
 
 The new directive, signed Monday by six public health officials in Alameda, Contra Costa, Marin, San Francisco and Santa Clara counties and the city of Berkeley, replaces one issued just two weeks ago that permitted construction and other outdoor businesses and activities to resume.
 
-Click here to continue reading",100,High,Left-center,USA,1
-8,https://www.mercurynews.com/2020/05/18/coronavirus-fremont-neighborhood-thanks-postal-waste-workers/,The Mercury News,2020-05-18,['Dylan Bouscher'],"Coronavirus: Fremont neighborhood thanks postal, waste workers",https://www.mercurynews.com/wp-content/uploads/2020/05/EBT-L-CLOGIFTS-0519-005.jpg?w=1024&h=683,"CLICK HERE if you’re having trouble viewing media on a mobile device.
+Click here to continue reading",High,Left-center,USA,1
+8,8,https://www.mercurynews.com/2020/05/18/coronavirus-fremont-neighborhood-thanks-postal-waste-workers/,The Mercury News,2020-05-18,['Dylan Bouscher'],"Coronavirus: Fremont neighborhood thanks postal, waste workers",https://www.mercurynews.com/wp-content/uploads/2020/05/EBT-L-CLOGIFTS-0519-005.jpg?w=1024&h=683,"CLICK HERE if you’re having trouble viewing media on a mobile device.
 
 FREMONT — Rishica Awasthi and her brother Reyansh each handed one of three men an envelope as they lined up beside the blue Republic Services waste-collection trucks they parked on Greenhills Way just before noon Monday.
 
@@ -397,8 +397,8 @@ Republic Services has launched a $20 million “Committed to Serve” initiative
 
 Guadalupe Davila, who has been picking up trash in the Heritage Heights neighborhood for more than 20 years, didn’t know who was behind the gifts and food the workers were receiving on Wednesdays and Fridays when the community drive started last month.
 
-“I really respect this. I really appreciate what they are doing,” Davila said, adding that the increased kindness reflects the difficult times. “On holidays we get a lot of gifts, but with this pandemic, we really got a lot of things within the last few months.”",100,High,Left-center,USA,1
-9,https://www.mercurynews.com/2020/05/18/ex-as-manager-art-howe-hospitalized-with-covid-19-returns-home/,The Mercury News,2020-05-18,['Gary Peterson'],"Ex-A’s manager Art Howe, hospitalized with COVID-19, returns home",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-HOWE.jpg?w=1024&h=742,"CLICK HERE if you’re having a problem viewing the photos on a mobile device.
+“I really respect this. I really appreciate what they are doing,” Davila said, adding that the increased kindness reflects the difficult times. “On holidays we get a lot of gifts, but with this pandemic, we really got a lot of things within the last few months.”",High,Left-center,USA,1
+9,9,https://www.mercurynews.com/2020/05/18/ex-as-manager-art-howe-hospitalized-with-covid-19-returns-home/,The Mercury News,2020-05-18,['Gary Peterson'],"Ex-A’s manager Art Howe, hospitalized with COVID-19, returns home",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-HOWE.jpg?w=1024&h=742,"CLICK HERE if you’re having a problem viewing the photos on a mobile device.
 
 Former A’s manager Art Howe, who tested positive for COVID-19 on May 5 is out of the ICU and back home, according to Yahoo Sports.
 
@@ -428,8 +428,8 @@ Kurtenbach: The real reason sports need to return ASAP
 
 ‘The Masked Singer’: The latest reveal is … who? He wound up managing the A’s to the postseason the final three of his seven years with the club. He also led them to a 20-game win streak in 2002. He played 11 seasons with the Pirates, Astros and Cardinals. Perhaps his highlight as a player came at the end of the 1980 season when the Astros and Dodgers tied for the N.L. West and were forced into a one-game playoff.
 
-In the playoff, Howe had three hits, one a home run, and drove in four runs as Houston won 7-1.",100,High,Left-center,USA,1
-10,https://www.mercurynews.com/2020/05/18/coronavirus-another-bay-area-tech-firm-says-employees-can-work-from-home-permanently/,The Mercury News,2020-05-18,['Ethan Baron'],Coronavirus: Another Bay Area tech firm says employees can work from home permanently,https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-SQUAREWORK-0519-1.jpg?w=1024&h=685,"San Francisco mobile payments giant Square will let employees work from home permanently after coronavirus restrictions are lifted, the company said Monday.
+In the playoff, Howe had three hits, one a home run, and drove in four runs as Houston won 7-1.",High,Left-center,USA,1
+10,10,https://www.mercurynews.com/2020/05/18/coronavirus-another-bay-area-tech-firm-says-employees-can-work-from-home-permanently/,The Mercury News,2020-05-18,['Ethan Baron'],Coronavirus: Another Bay Area tech firm says employees can work from home permanently,https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-SQUAREWORK-0519-1.jpg?w=1024&h=685,"San Francisco mobile payments giant Square will let employees work from home permanently after coronavirus restrictions are lifted, the company said Monday.
 
 “We want employees to be able to work where they feel most creative and productive,” Square said in an emailed statement. “Squares will be able to work from home permanently, even once offices begin to reopen.”
 
@@ -445,14 +445,14 @@ Will the Bay Area ever go back to the office or is work-from-home here to stay?
 
 Coronavirus economy: Remote workforces here to stay in Bay Area A few roles at Square, such as office security and in-office support, can only be done properly in the office, the company noted.
 
-Square’s most recent annual report said it had 3,835 full-time employees at the end of 2019.",100,High,Left-center,USA,1
-11,https://www.mercurynews.com/2020/05/18/watch-california-gov-gavin-newsom-provides-update-on-coronavirus-response-may-18/,The Mercury News,2020-05-18,['Pueng Vongs'],"Watch: California Gov. Gavin Newsom provides update on coronavirus response, May 18",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-CVJOBLESS-xxxx-01.jpg?w=1024&h=632,"If you cannot view this on your mobile device. Click here.
+Square’s most recent annual report said it had 3,835 full-time employees at the end of 2019.",High,Left-center,USA,1
+11,11,https://www.mercurynews.com/2020/05/18/watch-california-gov-gavin-newsom-provides-update-on-coronavirus-response-may-18/,The Mercury News,2020-05-18,['Pueng Vongs'],"Watch: California Gov. Gavin Newsom provides update on coronavirus response, May 18",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-CVJOBLESS-xxxx-01.jpg?w=1024&h=632,"If you cannot view this on your mobile device. Click here.
 
 
 
-California Governor Gavin Newsom provides an update on the COVID-19 response on May 18 at noon PT.",100,High,Left-center,USA,1
-12,https://www.mercurynews.com/2020/05/18/watch-santa-clara-county-public-health-department-gives-updates-on-the-coronavirus-crisis-may-18/,The Mercury News,2020-05-18,['Pueng Vongs'],"Watch: Santa Clara County Public Health Department gives updates on COVID-19 and next steps for reopening, May 18",https://www.mercurynews.com/wp-content/uploads/2020/03/SJM-L-COVID19PRESSER-0314-1.jpg?w=1024&h=683,"WASHINGTON (AP) — President Donald Trump said Monday that he is taking a malaria drug to protect against the coronavirus, despite warnings from his own government that it should only be administered for COVID-19 in a hospital or research setting due to potentially fatal side effects.",100,High,Left-center,USA,1
-13,https://www.mercurynews.com/2020/05/18/incarcerated-in-worst-federal-prison-for-covid-19-death-row-records-founder-asks-for-compassionate-release/,The Mercury News,2020-05-18,['Nate Gartrell'],"Incarcerated in worst federal prison for COVID-19, Death Row Records founder asks for compassionate release",https://www.mercurynews.com/wp-content/uploads/2020/02/HARRYO-1.jpg?w=958&h=480,"LOMPOC — A federal judge is expected to decide within weeks whether to free Michael “Harry-O” Harris, the incarcerated former Los Angeles cocaine kingpin who financed the creation of Death Row Records in the 1990s.
+California Governor Gavin Newsom provides an update on the COVID-19 response on May 18 at noon PT.",High,Left-center,USA,1
+12,12,https://www.mercurynews.com/2020/05/18/watch-santa-clara-county-public-health-department-gives-updates-on-the-coronavirus-crisis-may-18/,The Mercury News,2020-05-18,['Pueng Vongs'],"Watch: Santa Clara County Public Health Department gives updates on COVID-19 and next steps for reopening, May 18",https://www.mercurynews.com/wp-content/uploads/2020/03/SJM-L-COVID19PRESSER-0314-1.jpg?w=1024&h=683,"WASHINGTON (AP) — President Donald Trump said Monday that he is taking a malaria drug to protect against the coronavirus, despite warnings from his own government that it should only be administered for COVID-19 in a hospital or research setting due to potentially fatal side effects.",High,Left-center,USA,1
+13,13,https://www.mercurynews.com/2020/05/18/incarcerated-in-worst-federal-prison-for-covid-19-death-row-records-founder-asks-for-compassionate-release/,The Mercury News,2020-05-18,['Nate Gartrell'],"Incarcerated in worst federal prison for COVID-19, Death Row Records founder asks for compassionate release",https://www.mercurynews.com/wp-content/uploads/2020/02/HARRYO-1.jpg?w=958&h=480,"LOMPOC — A federal judge is expected to decide within weeks whether to free Michael “Harry-O” Harris, the incarcerated former Los Angeles cocaine kingpin who financed the creation of Death Row Records in the 1990s.
 
 For Harris, 58, this is only the latest attempt for a release. For decades, he has been incarcerated in federal and state prison for various convictions related to a massive international cocaine trafficking he built in the 1980s, which at its peak generated an estimated $2 million per day. But unlike many in his situation, Harris has the backing not just of justice reform advocates, but law enforcement members and elected officials, who have lobbied for his freedom in recent years.
 
@@ -492,8 +492,8 @@ Harris has publicly apologized for the cocaine dealing of his past numerous time
 
 Harris has also gained the support of numerous public officials — including former Obama advisor Van Jones — as well as politicians like State Sen. Nancy Skinner, D-Berkeley, and Contra Costa Supervisor John Gioia. Former Richmond police Chief Chris Magnus even wrote a letter advocating for Harris to be released from prison, in which Magnus described Harris as a “rare and valuable” person whose influence was “badly needed” in the Richmond community.
 
-Last August, a federal judge denied Harris’ appeal for an early release under early release under Amendment 782, an Obama-era law that changed sentencing guidelines for federal drug convictions. It was widely — and inaccurately — reported at the time that Harris had been granted his freedom.",100,High,Left-center,USA,1
-14,https://www.mercurynews.com/2020/05/18/coronavirus-pro-sports-could-return-in-california-by-june-gov-gavin-newsom-says/,The Mercury News,2020-05-18,"['Evan Webeck', 'Cam Inman']","Coronavirus: Pro sports could return in California by June, Gov. Gavin Newsom says",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-OAKCOLISEUM-04XX-30_73731360.jpg?w=1024&h=683,"Play ball? Maybe so.
+Last August, a federal judge denied Harris’ appeal for an early release under early release under Amendment 782, an Obama-era law that changed sentencing guidelines for federal drug convictions. It was widely — and inaccurately — reported at the time that Harris had been granted his freedom.",High,Left-center,USA,1
+14,14,https://www.mercurynews.com/2020/05/18/coronavirus-pro-sports-could-return-in-california-by-june-gov-gavin-newsom-says/,The Mercury News,2020-05-18,"['Evan Webeck', 'Cam Inman']","Coronavirus: Pro sports could return in California by June, Gov. Gavin Newsom says",https://www.mercurynews.com/wp-content/uploads/2020/05/SJM-L-OAKCOLISEUM-04XX-30_73731360.jpg?w=1024&h=683,"Play ball? Maybe so.
 
 Gov. Gavin Newsom said Monday the state is eyeing the first week of June for live pro sports events to be held. Two conditions: the current “trend lines” in the Covid-19 recovery must continue, and games will be played without spectators in attendance.
 
@@ -527,8 +527,8 @@ The Sharks’ season remains on hold with the rest of the NHL. A restart would n
 
 “Any longer term return-to-play scenarios in our local facilities, whether for this season or next, will be based on the direction and guidance of local health officials,” said Scott Emmert, Sharks vice president of communications.
 
-NHL commissioner Gary Bettman, in a virtual town hall hosted last week by the Sharks, dismissed any notion the league will not be able to resume its season and award the Stanley Cup in the coming months. “States are re-opening, cities are re-opening,” Bettman said. “And if we do the right things, I think we’ll be able to finish the season.”",100,High,Left-center,USA,1
-15,https://www.mercurynews.com/2020/05/15/kristof-americas-true-covid-19-death-toll-already-exceeds-100000/,The Mercury News,2020-05-15,['Nicholas D. Kristof'],"Kristof: America’s true COVID-19 death toll already exceeds 100,000",https://www.mercurynews.com/wp-content/uploads/2020/05/trump.jpg?w=1000&h=667,"Many supporters of President Donald Trump believe that the figures for coronavirus fatalities are inflated, and Trump himself shared a tweet doubting the accuracy of some virus figures.
+NHL commissioner Gary Bettman, in a virtual town hall hosted last week by the Sharks, dismissed any notion the league will not be able to resume its season and award the Stanley Cup in the coming months. “States are re-opening, cities are re-opening,” Bettman said. “And if we do the right things, I think we’ll be able to finish the season.”",High,Left-center,USA,1
+15,15,https://www.mercurynews.com/2020/05/15/kristof-americas-true-covid-19-death-toll-already-exceeds-100000/,The Mercury News,2020-05-15,['Nicholas D. Kristof'],"Kristof: America’s true COVID-19 death toll already exceeds 100,000",https://www.mercurynews.com/wp-content/uploads/2020/05/trump.jpg?w=1000&h=667,"Many supporters of President Donald Trump believe that the figures for coronavirus fatalities are inflated, and Trump himself shared a tweet doubting the accuracy of some virus figures.
 
 He’s right that the death toll seems off — but not in the direction he would suggest. We’ve crunched the numbers, state by state, and it appears that somewhere around 100,000 to 110,000 Americans have already died as a result of the pandemic, rather than the 83,000 whose deaths have been attributed to the disease, COVID-19.
 
@@ -584,8 +584,8 @@ Given the uncertainty and the lags in data, why go through this exercise of esti
 
 “We have saved thousands and thousands of lives,” he said on May 1. “Hopefully, we are going to come in below that 100,000 lives lost.” In that context, it seems worthwhile to note that this milestone has already been exceeded.
 
-Nicholas D. Kristof is a New York Times columnist.",100,High,Left-center,USA,1
-16,https://www.mercurynews.com/2020/05/15/opinion-coronavirus-radically-alters-doctor-contact-with-patients/,The Mercury News,2020-05-15,['Blake Gregory'],Opinion: Coronavirus radically alters doctor contact with patients,https://www.mercurynews.com/wp-content/uploads/2020/05/050620-Dr.-Blake-Gregory.jpg?w=374&h=283,"For primary care physicians, laying hands on patients builds connection and trust. The physical exam is both a ritual and a privilege of the doctor-patient relationship, forged out of the assumption that it can guide treatment to improve the patient’s health.
+Nicholas D. Kristof is a New York Times columnist.",High,Left-center,USA,1
+16,16,https://www.mercurynews.com/2020/05/15/opinion-coronavirus-radically-alters-doctor-contact-with-patients/,The Mercury News,2020-05-15,['Blake Gregory'],Opinion: Coronavirus radically alters doctor contact with patients,https://www.mercurynews.com/wp-content/uploads/2020/05/050620-Dr.-Blake-Gregory.jpg?w=374&h=283,"For primary care physicians, laying hands on patients builds connection and trust. The physical exam is both a ritual and a privilege of the doctor-patient relationship, forged out of the assumption that it can guide treatment to improve the patient’s health.
 
 But social distancing of the COVID-19 pandemic has radically altered the way we connect with each other physically – and the way doctors interact with their patients.
 
@@ -619,4 +619,4 @@ Reimbursing remote visits on a par with office visits will help safety-net organ
 
 And it will help us stay close to patients, even at a distance.
 
-Blake Gregory is the medical director of the Highland Wellness primary care clinics at Highland Hospital/Alameda Health System.",100,High,Left-center,USA,1
+Blake Gregory is the medical director of the Highland Wellness primary care clinics at Highland Hospital/Alameda Health System.",High,Left-center,USA,1

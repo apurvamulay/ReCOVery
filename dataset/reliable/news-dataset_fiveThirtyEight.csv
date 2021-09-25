@@ -1,5 +1,5 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
-0,https://fivethirtyeight.com/features/democrats-say-the-worst-of-the-coronavirus-is-yet-to-come-republicans-say-the-worst-is-over/,FiveThirtyEight,2020-05-15,['Dhrumil Mehta'],Democrats Say The Worst Of The Coronavirus Is Yet To Come. Republicans Say The Worst Is Over.,https://fivethirtyeight.com/wp-content/uploads/2020/05/0515_POLLA-16x9-1.png?w=575,"Democrats Say The Worst Of The Coronavirus Is Yet To Come. Republicans Say The Worst Is Over.
+,news_id,url,publisher,publish_date,author,title,image,body_text,mbfc_level,political_bias,country,reliability
+0,0,https://fivethirtyeight.com/features/democrats-say-the-worst-of-the-coronavirus-is-yet-to-come-republicans-say-the-worst-is-over/,FiveThirtyEight,2020-05-15,['Dhrumil Mehta'],Democrats Say The Worst Of The Coronavirus Is Yet To Come. Republicans Say The Worst Is Over.,https://fivethirtyeight.com/wp-content/uploads/2020/05/0515_POLLA-16x9-1.png?w=575,"Democrats Say The Worst Of The Coronavirus Is Yet To Come. Republicans Say The Worst Is Over.
 
 Welcome to Pollapalooza, our weekly polling roundup.
 
@@ -45,8 +45,8 @@ Check out all the polls we’ve been collecting ahead of the 2020 elections.
 
 CORRECTION (May 15, 2020, 10:01 a.m.): A previous version of this article reversed President Trump’s job approval numbers: 43.6 percent of Americans approve of the job he’s doing and 52.0 percent disapprove, not the other way around.
 
-FiveThirtyEight Politics Podcast: Does The U.S. Have A Coronavirus Recovery Plan?",100,High,Center,USA,1
-1,https://fivethirtyeight.com/features/how-one-high-risk-community-in-rural-south-carolina-is-bracing-for-covid-19/,FiveThirtyEight,2020-04-22,['Likhitha Butchireddygari'],How One High-Risk Community In Rural South Carolina Is Bracing For COVID-19,https://fivethirtyeight.com/wp-content/uploads/2020/04/AP_1203290115592-16x9-1.jpg?w=575,"How One High-Risk Community In Rural South Carolina Is Bracing For COVID-19 Hardeeville has one of the country’s highest ratios of vulnerable residents to ICU beds.
+FiveThirtyEight Politics Podcast: Does The U.S. Have A Coronavirus Recovery Plan?",High,Center,USA,1
+1,1,https://fivethirtyeight.com/features/how-one-high-risk-community-in-rural-south-carolina-is-bracing-for-covid-19/,FiveThirtyEight,2020-04-22,['Likhitha Butchireddygari'],How One High-Risk Community In Rural South Carolina Is Bracing For COVID-19,https://fivethirtyeight.com/wp-content/uploads/2020/04/AP_1203290115592-16x9-1.jpg?w=575,"How One High-Risk Community In Rural South Carolina Is Bracing For COVID-19 Hardeeville has one of the country’s highest ratios of vulnerable residents to ICU beds.
 
 Just as some demographic groups are more at risk than others of getting seriously ill from the new coronavirus, some parts of the country are more vulnerable to being hit hard by this pandemic. In places with more sick people, more people over 65 and fewer hospital beds per person, the health care system could easily be swamped, leaving residents who need hospitalization in even greater danger.
 
@@ -82,4 +82,4 @@ But even those who have to go out are doing their best to keep infection rates d
 
 But more people may start leaving their homes soon. Shutting down businesses is having devastating effects on the economy, and the Hilton Head area is a popular vacation destination, so losing that influx of tourism dollars is an especially big blow for places like Hardeeville. South Carolina’s governor announced Monday to allow public beaches and some retail stores to reopen. But experts say relaxing social distancing measures too soon and before testing is widely available might result in another influx of cases, overwhelming the health care system and leading to even more deaths.
 
-Find the full data set on GitHub to see if your area is included and how it compares with other areas.",100,High,Center,USA,1
+Find the full data set on GitHub to see if your area is included and how it compares with other areas.",High,Center,USA,1
