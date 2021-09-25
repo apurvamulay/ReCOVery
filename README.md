@@ -31,7 +31,6 @@ Each of the above CSV files is a comma-separated file and have the following res
  - `title` - Title of the news article.
  - `image` - The head image of the news article.
  - `body_text` - The complete body content of the news article.
- - `news_guard_score` - The score given by NewsGuard for the news source.
  - `mbfc_level` - Media Bias/Fact Check level for each news source.
  - `political_bias` - Political bias for each news source.
  - `country` - The country of the news source.
