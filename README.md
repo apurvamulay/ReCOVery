@@ -27,7 +27,6 @@ Each of the above CSV files is a comma-separated file and have the following res
  - `title` - Title of the news article.
  - `image` - The head image of the news article.
  - `body_text` - The complete body content of the news article.
- - `mbfc_level` - Media Bias/Fact Check level for each news source.
  - `political_bias` - Political bias for each news source.
  - `country` - The country of the news source.
  - `reliability` - reliability label of the news article (1 = reliable, 0 = unreliable).
@@ -40,8 +39,6 @@ Each of the above CSV files is a comma-separated file and have the following res
 ## Installation    
 
 ###  Requirements:
-
- All the scripts are written in python and requires `python 3.6 +` to run.
  
  Twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
  [https://developer.twitter.com/en]. Once the account is created, you can create the app. On successful creation of the app, the keys will be  available in the `keys and tokens` section of the app.
