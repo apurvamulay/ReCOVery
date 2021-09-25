@@ -1,153 +1,131 @@
 {
   "ABC News":{
-    "news_guard_score": 95,
     "mbfc_level": "High",
     "political_bias": "Left-center",
     "country":"USA",
     "reliability": 1
   },
   "Business Insider": {
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "CBS News": {
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "Chicago Sun-Times": {
-    "news_guard_score": 92.5,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "CNBC": {
-    "news_guard_score": 95,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "FiveThirtyEight": {
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Center",
     "country":"USA",
     "reliability": 1
   },
   "National Public Radio (NPR)": {
-    "news_guard_score": 100,
     "mbfc_level":"Very high",
     "political_bias":"Center",
     "country":"USA",
     "reliability": 1
   },
   "PBS NewsHour": {
-    "news_guard_score": 100,
     "mbfc_level":"Very high",
     "political_bias":"Center",
     "country":"USA",
     "reliability": 1
   },
   "Reuters": {
-    "news_guard_score": 100,
     "mbfc_level":"Very high",
     "political_bias":"Center",
     "country":"UK",
     "reliability": 1
   },
   "Slate":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left",
     "country":"USA",
     "reliability": 1
   },
   "The Atlantic":{
-    "news_guard_score": 92.5,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "The Mercury News":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "The New York Times":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left",
     "country":"USA",
     "reliability": 1
   },
   "The New Yorker":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left",
     "country":"USA",
     "reliability": 1
   },
   "The Verge":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "The Washington Post":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "USA Today":{
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Center",
     "country":"USA",
     "reliability": 1
   },
   "Washington Monthly": {
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "Yahoo! News": {
-    "news_guard_score": 95,
     "mbfc_level":"High",
     "political_bias":"Left-center",
     "country":"USA",
     "reliability": 1
   },
   "Los Angeles Daily News": {
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Right-center",
     "country":"USA",
     "reliability": 1
   },
   "The Detroit News": {
-    "news_guard_score": 92.5,
     "mbfc_level":"High",
     "political_bias":"Right-center",
     "country":"USA",
     "reliability": 1
   },
   "Politico": {
-    "news_guard_score": 100,
     "mbfc_level":"High",
     "political_bias":"Center",
     "country":"USA",
