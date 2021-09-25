@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
+news_id,url,publisher,publish_date,author,title,image,body_text,mbfc_level,political_bias,country,reliability
 0,https://www.pravdareport.com/news/society/144575-female_genital_mutilation/?utm_referrer=main_last_news_list,Pravda Report,2020-05-18,[],Russia’s first-ever case of genital mutilation committed against 9-year-old girl is still pending,https://cdn.pravda.ru/eng/image/preview/article//5/7/5/144575_soc.jpeg,"Russiaâs first-ever case of female genital mutilation is still pending
 
 The Investigative Committee of the Russian Federation for the Republic of Ingushetia is looking into the appeal submitted from the Legal Initiative project with a request to investigate into the case of female circumcision, when a nine-year-old girl was circumcised at a local private clinic.
@@ -29,7 +29,7 @@ According to international standards, female genital mutilation may lead to extr
 
 The European Court of Human Rights recognizes female genital mutilation as torture that violates Article 3 of the European Convention on Human Rights.
 
-The Russian Council of Muftis, in turn, explained that female circumcision was alien to Islam, that it was a ""pre-Islamic tradition"", while subduing the lust of the flesh was a matter of moral guidelines of a person.",7.5,Very low,Right,Russia,0
+The Russian Council of Muftis, in turn, explained that female circumcision was alien to Islam, that it was a ""pre-Islamic tradition"", while subduing the lust of the flesh was a matter of moral guidelines of a person.",Very low,Right,Russia,0
 1,https://www.pravdareport.com/news/society/144574-omsk_coronavirus/?utm_referrer=main_last_news_list,Pravda Report,2020-05-18,[],"All 500 tenants of dormitory in Omsk locked up for quarantine, not allowed to go out at all",https://cdn.pravda.ru/eng/image/preview/article//5/7/4/144574_soc.jpeg,"In Omsk, 500 people locked up in dormitory for illegal quarantine
 
 Tenants of a dormitory on 11 Cheredovaya Street in the city of Omsk were locked in the building. All the tenants of the building are not allowed to go outside. Earlier, several cases of the coronavirus infection were registered among those living in the dormitory, and all 500 tenants found themselves under the conditions of strict quarantine.
@@ -42,7 +42,7 @@ Those who do not have anyone to help them, were forced to go from door to door a
 
 Someone reportedly tried to go out to buy groceries through the back door, but the door was soon blocked. Someone else, as it was reported, jumped out of the window on the second storey to be able to go to buy groceries.
 
-The people eventually wrote an open letter to President Putin, as well as to the governor and the prosecutor of the Omsk region, demanding investigation.",7.5,Very low,Right,Russia,0
+The people eventually wrote an open letter to President Putin, as well as to the governor and the prosecutor of the Omsk region, demanding investigation.",Very low,Right,Russia,0
 2,https://www.pravdareport.com/news/world/144572-coronavirus_dagestan/?utm_referrer=main_last_news_list,Pravda Report,2020-05-18,[],"Coronavirus causes catastrophic situation in Dagestan, Russia",https://cdn.pravda.ru/eng/image/preview/article//5/7/2/144572_soc.jpeg,"Coronavirus kills too many in Dagestan
 
 In Dagestan, more than 40 doctors died from community-acquired pneumonia and coronavirus infection, the head of the Republican Ministry of Health, Jamaludin Hajiyibragimov said.
@@ -75,7 +75,7 @@ Gamzatkhanov believes that the coronavirus hit Dagestan so hard because the regi
 
 In Dagestan, there are 3,280 confirmed cases of COVID-19 infection. Officially, 29 people died from the novel virus in the republic; from community-acquired pneumonia - 657 people. In addition, more than 40 doctors have died in Dagestan.
 
-According to Russian President Vladimir Putin, such a large number of positive cases and deaths in the republic of Dagestan have appeared due to self-treatment attempts. In addition, people ask for medical help too late.",7.5,Very low,Right,Russia,0
+According to Russian President Vladimir Putin, such a large number of positive cases and deaths in the republic of Dagestan have appeared due to self-treatment attempts. In addition, people ask for medical help too late.",Very low,Right,Russia,0
 3,https://www.pravdareport.com/news/health/144567-coronavirus_deaths_russia/?utm_referrer=main_last_news_list,Pravda Report,2020-05-14,[],Reports about low coronavirus deaths in Russia are…not true,https://cdn.pravda.ru/eng/image/preview/article//5/6/7/144567_soc.jpeg,"Moscow vehemently denies reports about understated coronavirus deaths
 
 Officials representing the Moscow Department of Health deny that Russia’s official COVID-19 statistics underestimate the number of coronavirus-caused deaths in the country. Such information earlier appeared in a number of publications that analyzed open data on monthly mortality rates.
@@ -100,7 +100,7 @@ The documents are designed to encode COVID-19 as the main cause of death in almo
 
 “A death due to COVID-19 is defined for surveillance purposes as a death resulting from a clinically compatible illness, in a probable or confirmed COVID-19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g. trauma). There should be no period of complete recovery from COVID-19 between illness and death. A death due toCOVID-19 may not be attributed to another disease (e.g. cancer) and should be counted independently of preexisting conditions that are suspected of triggering a severe course of COVID-19,” the document published on the website of the World Health Organization says.
 
-However, the current version of temporary recommendations from the Ministry of Health of the Russian Federation titled “Prevention, Diagnosis and Treatment of the New Coronavirus Infection (COVID-19),” which Russian doctors use as guidelines, say that when formulating a pathoanatomical diagnosis, one should differentiate between deaths caused by COVID-19 as the main disease and deaths against the background of the coronavirus infection, ""but without its clinical and morphological manifestations that could become the cause of death."" Therefore, a significant part of those who died having COVID-19 in Russia may not be included in the stats as those who died from coronavirus.",7.5,Very low,Right,Russia,0
+However, the current version of temporary recommendations from the Ministry of Health of the Russian Federation titled “Prevention, Diagnosis and Treatment of the New Coronavirus Infection (COVID-19),” which Russian doctors use as guidelines, say that when formulating a pathoanatomical diagnosis, one should differentiate between deaths caused by COVID-19 as the main disease and deaths against the background of the coronavirus infection, ""but without its clinical and morphological manifestations that could become the cause of death."" Therefore, a significant part of those who died having COVID-19 in Russia may not be included in the stats as those who died from coronavirus.",Very low,Right,Russia,0
 4,https://www.pravdareport.com/news/russia/144564-peskov_covid_pneumonia/?utm_referrer=main_last_news_list,Pravda Report,2020-05-14,[],Putin’s official spokesman says how Covid-19 is eating his lungs,https://cdn.pravda.ru/eng/image/preview/article//5/6/4/144564_soc.jpeg,"Putinâs official spokesman develops bilateral pneumonia
 
 Dmitry Peskov, official spokesman for Russian President Vladimir Putin, who was hospitalized with confirmed Covid-19 infection on May 12, has developed bilateral pneumonia. In an interview with the Kommersant publication, Peskov said employees of the presidential administration get tested for the coronavirus infection on a daily basis.
@@ -123,7 +123,7 @@ Peskov also said that his family took all precautions and stayed home for 1.5 mo
 
 “The virus is very dangerous indeed, it is easily transmitted from person to person easily, and it is very difficult to have guaranteed protection from it. The only way, and this should be understood by those who have underlying conditions in the form of chronic diseases, who belong to the older age group, - one has to stay home, avoid contact with the outside world,"" Putin’s spokesman said.
 
-According to Peskov, mankind will always have to live with various coronaviruses: ""These are living organisms, they are fighting for a place for life on Earth."" Now one needs to wait for the vaccine, which experts, according to Peskov, inject themselves during clinical trials. ""We will not name the institution, the people, but those people who are die-hard fans of their work in the best sense of the word,"" he said.",7.5,Very low,Right,Russia,0
+According to Peskov, mankind will always have to live with various coronaviruses: ""These are living organisms, they are fighting for a place for life on Earth."" Now one needs to wait for the vaccine, which experts, according to Peskov, inject themselves during clinical trials. ""We will not name the institution, the people, but those people who are die-hard fans of their work in the best sense of the word,"" he said.",Very low,Right,Russia,0
 5,https://www.pravdareport.com/news/society/144561-funeral_covid/?utm_referrer=main_last_news_list,Pravda Report,2020-05-13,[],Funeral crisis in Russia: Victims of Covid-19 buried in garbage bags,https://cdn.pravda.ru/eng/image/preview/article//5/6/1/144561_soc.jpeg,"Covid-19 causes funeral crisis in Russia
 
 In accordance with the decree signed by Moscow Mayor Sergei Sobyanin, as well as the decision made by Moscow Region Governor Andrei Vorobyov, cemeteries will be open only for the burial of the dead until the end of the high alert mode (it expires on May 31). One is not allowed to visit cemeteries due to the coronavirus pandemic.
@@ -146,7 +146,7 @@ There are some funeral firms that started providing remote services, such as rem
 
 Death certificates may not always indicate that the deceased was COVID-positive. The cause of death may be stated as cancer, heart failure, autoimmune diseases or other chronic diseases, which, in combination with COVID-19, have led to death.
 
-As of May 12, 10,899 new infections were recorded in Russia. The total number of infected people in Russia since the beginning of the epidemic has exceeded 232,000 people. Over 2,000 people died, nearly 50,000 recovered.",7.5,Very low,Right,Russia,0
+As of May 12, 10,899 new infections were recorded in Russia. The total number of infected people in Russia since the beginning of the epidemic has exceeded 232,000 people. Over 2,000 people died, nearly 50,000 recovered.",Very low,Right,Russia,0
 6,https://www.pravdareport.com/news/society/144555-russian_ventilators_fire/?utm_referrer=main_last_news_list,Pravda Report,2020-05-12,[],"Russian-made ventilators catch fire, kill Covid-positive patients in Moscow and St. Petersburg",https://cdn.pravda.ru/eng/image/preview/article//5/5/5/144555_soc.jpeg,"Russian-made ventilators catch fire, kill Covid-positive patients
 
 Five people were killed in a fire that sparked in the intensive care unit at St. George’s Hospital in St. Petersburg, which was earlier redesigned to treat patients with coronavirus.
@@ -167,7 +167,7 @@ Within 30 minutes, all 295 patients were evacuated. It is believed that the fire
 
 According to law enforcement agencies, the ventilators that caused the fires at hospitals in Moscow and St. Petersburg were manufactured at one factory - the Ural Instrument-Making Plant. The ventilator at the fire-affected hospital in St. Petersburg was installed there on May 3.
 
-According to preliminary reports, the fire at the Moscow hospital occurred as a result of short circuit, which caused oxygen to catch fire. Other versions include short circuit, malfunction, overload and improper operation.",7.5,Very low,Right,Russia,0
+According to preliminary reports, the fire at the Moscow hospital occurred as a result of short circuit, which caused oxygen to catch fire. Other versions include short circuit, malfunction, overload and improper operation.",Very low,Right,Russia,0
 7,https://www.pravdareport.com/news/russia/144553-dmitry_peskov/?utm_referrer=main_last_news_list,Pravda Report,2020-05-12,[],Putin’s official spokesman Dmitry Peskov hospitalized with coronavirus infection,https://cdn.pravda.ru/eng/image/preview/article//5/5/3/144553_soc.jpeg,"Putinâs official spokesman Dmitry Peskov hospitalized with coronavirus
 
 Dmitry Peskov, an official spokesman for Russian President Vladimir Putin, was infected with coronavirus.
@@ -192,7 +192,7 @@ Russia ends non-working days
 
 On May 11, Russian President Vladimir Putin, during a televised address to the nation, said that the period of non-working days in Russia would end on May 12. At the same time, Russia was not going to lift quarantine restrictions quickly, he added. The head of state also called on citizens to enhance personal protective measures.
 
-Deputy Prime Minister Tatyana Golikova said that 33 Russian regions would be able to remove the restrictions imposed because of the coronavirus. According to her, 11 of them are ready to do this at any time, another 22 entities would need to raise the capacity of their hospitals to the required level.",7.5,Very low,Right,Russia,0
+Deputy Prime Minister Tatyana Golikova said that 33 Russian regions would be able to remove the restrictions imposed because of the coronavirus. According to her, 11 of them are ready to do this at any time, another 22 entities would need to raise the capacity of their hospitals to the required level.",Very low,Right,Russia,0
 8,https://www.pravdareport.com/news/society/144550-russia_coronavirus/?utm_referrer=main_last_news_list,Pravda Report,2020-05-08,[],Russia becomes new hotspot on the map of coronavirus pandemic,https://cdn.pravda.ru/eng/image/preview/article//5/5/0/144550_soc.jpeg,"Russia becomes new hotspot on the map of coronavirus pandemic
 
 This week, many countries in Europe have started lifting the restrictions that had been introduced in connection with the spread of the coronavirus infection. It does not mean that the pandemic has been defeated: a new “hot spot” is beginning to emerge more and more clearly on the continent. Unfortunately, it goes about Russia.
@@ -215,7 +215,7 @@ According to the authorities, the outbreak of the epidemic in Russia started lat
 
 On May 7, Russia was ranked fifth in the world in the number of COVID-19 cases. Nevertheless, the Russian authorities decided to gradually lift quarantine restrictions. For example, courts will resume their work from May 12. Industrial and construction companies will start operating in Moscow too. However, the quarantine restrictions will not touch upon citizens and small businesses. On the contrary, the measures will be toughened, and the Russians will have to pay for those restrictions from their own pockets.
 
-From May 12, Moscow is introducing the mask regime in the city. One will be required to wear a face mask or a respirator to be able to use the metro or public transport. In addition, one will have to wear gloves. To comply with these requirements, every Muscovite will have to spend at least 2,000 rubles a month.",7.5,Very low,Right,Russia,0
+From May 12, Moscow is introducing the mask regime in the city. One will be required to wear a face mask or a respirator to be able to use the metro or public transport. In addition, one will have to wear gloves. To comply with these requirements, every Muscovite will have to spend at least 2,000 rubles a month.",Very low,Right,Russia,0
 9,https://www.pravdareport.com/news/health/144545-russia_covid_plateau/?utm_referrer=main_last_news_list,Pravda Report,2020-05-06,[],Coronavirus epidemic in Russia shows no signs of decline,https://cdn.pravda.ru/eng/image/preview/article//5/4/5/144545_soc.jpeg,"Covid-19 in Russia: Plateau is nowhere in sight
 
 Over the past 24 hours, 10,559 new cases of coronavirus infection have been detected in 82 regions of Russia.
@@ -242,7 +242,7 @@ Meanwhile, Russia will have to experience a new surge in the incidence of pneumo
 
 According to the professor, Russia will see a sharp growth of infections in one or two weeks because most Russians violate self-isolation regime during May holidays. “No plateau is yet in sight as it requires no growth trend for several consecutive weeks,” the specialist said.
 
-If citizens start taking to the streets thinking that everyone will catch COVID-19 sooner or later, the number of seriously ill patients will start snowballing. Such a trend is especially dangerous for regions where hospitals are already overwhelmed, while many doctors quit their jobs and leave being unable to cope with hard conditions of work.",7.5,Very low,Right,Russia,0
+If citizens start taking to the streets thinking that everyone will catch COVID-19 sooner or later, the number of seriously ill patients will start snowballing. Such a trend is especially dangerous for regions where hospitals are already overwhelmed, while many doctors quit their jobs and leave being unable to cope with hard conditions of work.",Very low,Right,Russia,0
 10,https://www.pravdareport.com/news/society/144542-russia_space_covid/?utm_referrer=main_last_news_list,Pravda Report,2020-05-05,[],Russia loses prominent space scientist who died of COVID-19,https://cdn.pravda.ru/eng/image/preview/article//5/4/2/144542_soc.jpeg,"Russiaâs key space scientist dies of coronavirus
 
 Academician Yevgeny Mikrin, general designer of Russian Space Corporation Energia, who was earlier diagnosed with coronavirus, died in Moscow. The scientist died at Kommunarka hospital near Moscow, which specializes on the treatment of Covid-positive patients.
@@ -255,7 +255,7 @@ Vladimir Fortov, an academician of the Russian Academy of Sciences, added that M
 
 The press service of the Russian Federal Space Agency Roscosmos confirmed the sad news and set out condolences to all his relatives and friends. The date and the place of the scientist’s funeral has not been reported yet.
 
-As the general designer of manned space programs, Mikrin was in charge of all promising developments in the field of manned space exploration. On April 9, he attended a manned launch from Baikonur Cosmodrome, when a new crew set off for the ISS.",7.5,Very low,Right,Russia,0
+As the general designer of manned space programs, Mikrin was in charge of all promising developments in the field of manned space exploration. On April 9, he attended a manned launch from Baikonur Cosmodrome, when a new crew set off for the ISS.",Very low,Right,Russia,0
 11,https://www.pravdareport.com/news/world/144539-china_usa_questions/?utm_referrer=main_last_news_list,Pravda Report,2020-05-04,[],Ten highly unpleasant questions that China wants to ask the USA,https://cdn.pravda.ru/eng/image/preview/article//5/3/9/144539_soc.jpeg,"Ten highly unpleasant questions that China wants to ask the USA
 
 US officials persistently accuse China of concealing the true extent of the outbreak of coronavirus disease to stock up on medical supplies. According to the USA, there is sufficient evidence to indicate that COVID-19 began to spread worldwide from a laboratory in Wuhan.
@@ -276,7 +276,7 @@ As long as the epidemiological situation continues to worsen, US politicians spr
 
 Such a position, the newspaper says, gives US officials an opportunity shift responsibility. In addition, it reveals dubious moments in the prevention and control of the epidemic in the United States.
 
-The US government should answer ten questions, provide explanations to the world, the Chinese newspaper concludes.",7.5,Very low,Right,Russia,0
+The US government should answer ten questions, provide explanations to the world, the Chinese newspaper concludes.",Very low,Right,Russia,0
 12,https://www.pravdareport.com/news/russia/144536-prime_minister_russia_covid/?utm_referrer=main_last_news_list,Pravda Report,2020-04-30,[],Russian Prime Minister Mishustin tested positive for coronavirus,https://cdn.pravda.ru/eng/image/preview/article//5/3/6/144536_soc.jpeg,"Russian Prime Minister Mishustin tested positive for coronavirus
 
 Russian prime minister Mikhail Mishustin has contracted coronavirus infection. The head of the Russian government has temporarily resigned.
@@ -295,7 +295,7 @@ In turn, Mishustin appealed to Russian citizens with a request to act as respons
 
 
 
-On March 27, British Prime Minister Boris Johnson announced that he was infected with COVID-19. At first, he continued working from home, but then the duties of the head of the British government were transferred to British Foreign Secretary Dominik Raab. In early April, Johnson was hospitalized, and a few days later he was transferred to intensive care. Three days later, Johnson was again transferred to an ordinary ward. On April 12, the head of government was discharged from the hospital. At the end of the month, he resumed his office work.",7.5,Very low,Right,Russia,0
+On March 27, British Prime Minister Boris Johnson announced that he was infected with COVID-19. At first, he continued working from home, but then the duties of the head of the British government were transferred to British Foreign Secretary Dominik Raab. In early April, Johnson was hospitalized, and a few days later he was transferred to intensive care. Three days later, Johnson was again transferred to an ordinary ward. On April 12, the head of government was discharged from the hospital. At the end of the month, he resumed his office work.",Very low,Right,Russia,0
 13,https://www.pravdareport.com/news/society/144588-kadyrov_covid/,Pravda Report,2020-05-22,[],President of Chechnya Kadyrov hospitalized with deterioration of his lungs,https://cdn.pravda.ru/eng/image/preview/article//5/8/8/144588_soc.jpeg,"Chechen President Ramzan Kadyrov in serious condition due to COVID-19
 
 Ramzan Kadyrov, the President of Chechnya, who, according to unconfirmed reports, was hospitalized after he had his lungs deteriorated as a result of the coronavirus infection, is in serious condition.
@@ -322,7 +322,7 @@ On April 29, Kadyrov ordered to tighten control over the movement of people. Qua
 
 
 
-According to the regional Ministry of Health, as many as 1005 cases of coronavirus infection have been registered in Chechnya. 620 people recovered, 11 died. Among the infected, there are 92 physicians.",7.5,Very low,Right,Russia,0
+According to the regional Ministry of Health, as many as 1005 cases of coronavirus infection have been registered in Chechnya. 620 people recovered, 11 died. Among the infected, there are 92 physicians.",Very low,Right,Russia,0
 14,https://www.pravdareport.com/news/russia/144586-russia_economy_quarantine/,Pravda Report,2020-05-22,[],Experts predict string of quarantines in Russia before 2021 and GDP decline of 6%,https://cdn.pravda.ru/eng/image/preview/article//5/8/6/144586_soc.jpeg,"Experts predict string of quarantines in Russia before 2021
 
 Russia is going to see four scenarios with the development of the coronavirus pandemic. The most probable one of them is described as push-and-pull: repeated waves of morbidity and a string of quarantines until 2021.
@@ -337,7 +337,7 @@ In the most plausible scenario of quarantine cycles, Russia's GDP will decline b
 
 A long lockdown will lead to numerous bankruptcies in small and medium-sized businesses. In this scenario, the government will be opening and closing the economy depending on the incidence rate. Long-term lockdown will lead to further decline in the sector of services and retail, a drop in demand for real estate and a decrease in production and wholesale trade.
 
-Experts recommend the Russian authorities expand the capacity of medical institutions after quarantine ends, make quarantine more predictable and shorter, and use decisive measures to support the economy during lockdown. If quarantines are short enough (less than 25% of the total pandemic period), it would be cheaper for the state to subsidize wages during this period rather than to support a sharply increased number of unemployed people.",7.5,Very low,Right,Russia,0
+Experts recommend the Russian authorities expand the capacity of medical institutions after quarantine ends, make quarantine more predictable and shorter, and use decisive measures to support the economy during lockdown. If quarantines are short enough (less than 25% of the total pandemic period), it would be cheaper for the state to subsidize wages during this period rather than to support a sharply increased number of unemployed people.",Very low,Right,Russia,0
 15,https://www.pravdareport.com/news/science/144584-russian_scientists_vaccine/,Pravda Report,2020-05-22,[],"Russian scientists test vector vaccine, report no side effects",https://cdn.pravda.ru/eng/image/preview/article//5/8/4/144584_soc.jpeg,"Russian scientists test vector vaccine against COVID-19 on themselves
 
 Employees of the National Research Center for Epidemiology and Microbiology named after N. F. Gamalei of the Ministry of Health of Russia tested their vector vaccine against COVID-19. The experiment was successful: immunity was confirmed, no negative effects were found, Alexander Gunzburg, the director of the center said.
@@ -364,7 +364,7 @@ For the time being, there are a total of 326,448 cases of coronavirus infection 
 
 
 
-A total of 150 deaths were recorded in one day, which became a daily record for Russia. In total, 3,249 people have died from complications, while a total of 99,825 have recovered.",7.5,Very low,Right,Russia,0
+A total of 150 deaths were recorded in one day, which became a daily record for Russia. In total, 3,249 people have died from complications, while a total of 99,825 have recovered.",Very low,Right,Russia,0
 16,https://www.pravdareport.com/news/world/144490-coronavirus_russia/,Pravda Report,2020-04-15,[],Coronavirus infects all but one Russian regions,https://cdn.pravda.ru/eng/image/preview/article//4/9/0/144490_soc.jpeg,"All of Russia, except for one region, infected with coronavirus
 
 In Russia, a new record has been set for the daily increase in coronavirus-positive patients. Over the past 24 hours, 3,388 new cases of coronavirus were registered in 65 regions of the country; 28 people died. As many as 292 people recovered.
@@ -449,7 +449,7 @@ Earlier, Russian Minister of Health Mikhail Murashko said that some regions of t
 
 
 
-Meanwhile, the head of Rospotrebnadzor Anna Popova reported an increase in the number of Russians, in whom the coronavirus infection is asymptomatic - up to 30% against 10% in March. Moreover, the number of patients with asymptomatic coronavirus reaches 50% in several regions of the country. As an example, the official cited the Moscow region, where this figure reached 52%, and expressed a hope that the asymptomatic course of the disease will not lead to complications.",7.5,Very low,Right,Russia,0
+Meanwhile, the head of Rospotrebnadzor Anna Popova reported an increase in the number of Russians, in whom the coronavirus infection is asymptomatic - up to 30% against 10% in March. Moreover, the number of patients with asymptomatic coronavirus reaches 50% in several regions of the country. As an example, the official cited the Moscow region, where this figure reached 52%, and expressed a hope that the asymptomatic course of the disease will not lead to complications.",Very low,Right,Russia,0
 17,https://www.pravdareport.com/news/world/144481-moscow_wuhan/,Pravda Report,2020-04-13,[],Covid-19: Moscow turns into Wuhan,https://cdn.pravda.ru/eng/image/preview/article//4/8/1/144481_soc.jpeg,"Moscow turns into Wuhan
 
 The coronavirus infection in Russia continues spreading at a dangerous pace. There is no more optimistic scenario for the development of the crisis: the number of positive cases and deaths will continue to grow, while quarantine and restrictive measures will have to be extended.
@@ -494,7 +494,7 @@ Since last Monday, the number of infected people has doubled, while the infectio
 
 In late March, Muscovites were outraged by the ""draconian measures,"" which Mayor Sergei Sobyanin introduced in the city. Presently, it has become clear to everyone that the crisis in Moscow is rapidly developing according to scenarios of Italy or New York.
 
-The scale of the disaster became obvious after the Ministry of Health allowed the diagnosis of coronavirus without tests, but only by CT, just based on symptoms, as was the case in the beginning of winter in China.",7.5,Very low,Right,Russia,0
+The scale of the disaster became obvious after the Ministry of Health allowed the diagnosis of coronavirus without tests, but only by CT, just based on symptoms, as was the case in the beginning of winter in China.",Very low,Right,Russia,0
 18,https://www.pravdareport.com/news/hotspots/144422-moscow_coronavirus/,Pravda Report,2020-03-23,[],Moscow pensioners older than 65 ordered to stay home as part of the struggle against COVID-19,https://cdn.pravda.ru/eng/image/preview/article//4/2/2/144422_soc.jpeg,"Moscow pensioners older than 65 ordered to stay home
 
 Moscow Mayor Sergei Sobyanin has tightened requirements to comply with the regime of high alert in connection with the spread of the novel coronavirus. New restrictions were introduced for individuals over 65 of age, as well as for people with chronic diseases, as well as for families with children.
@@ -535,7 +535,7 @@ acute leukemia, high-grade lymphomas, relapses and resistant forms of other lymp
 
 Visiting medical facilities for treatment of the above-mentioned diseases will not be considered a quarantine violation. The self-isolation regime does not apply to patients assigned to the third clinical group (oncology).
 
-Over the last 24 hours, 71 new cases of coronavirus infection were detected in Russia, all of them - in Moscow. Thus, the number of coronavirus-positive patients in Russia has amounted to 438.",7.5,Very low,Right,Russia,0
+Over the last 24 hours, 71 new cases of coronavirus infection were detected in Russia, all of them - in Moscow. Thus, the number of coronavirus-positive patients in Russia has amounted to 438.",Very low,Right,Russia,0
 19,https://www.pravdareport.com/news/hotspots/144411-covid_death/,Pravda Report,2020-03-19,[],Russia reports first COVID-19 death: Woman dies of pneumonia,https://cdn.pravda.ru/eng/image/preview/article//4/1/1/144411_soc.jpeg,"First COVID-19 death reported in Russia
 
 The Russian authorities have reported the first death of a coronavirus-infected patient in Russia.
@@ -552,7 +552,7 @@ In addition to coronavirus-caused pneumonia, the woman had diabetes mellitus typ
 
 
 
-The entire circle of people, with whom the deceased had been in contact with, was taken under observation. None of them have any severe symptoms.",7.5,Very low,Right,Russia,0
+The entire circle of people, with whom the deceased had been in contact with, was taken under observation. None of them have any severe symptoms.",Very low,Right,Russia,0
 20,https://www.pravdareport.com/news/science/144522-pandemic/,Pravda Report,2020-04-27,[],Coronavirus pandemic to change the world unrecognizably,https://cdn.pravda.ru/eng/image/preview/article//5/2/2/144522_soc.jpeg,"Coronavirus pandemic to change the world unrecognizably
 
 Coronavirus has dramatically changed the world in which we live today. In fact, the world is changing before our very eyes, rapidly.
@@ -573,7 +573,7 @@ Remote medicine will be developing as well. It goes about personal health monito
 
 Many conservative things will also change. In the field of travel, for example, after quarantine is lifted, all tourists will be required to take tests and show certificates proving that they have no coronavirus infection.
 
-Preventive measures at airports and train stations will work differently too. Transport will change too — there are projects to install special protective screens between chairs in trains and aircraft.",7.5,Very low,Right,Russia,0
+Preventive measures at airports and train stations will work differently too. Transport will change too — there are projects to install special protective screens between chairs in trains and aircraft.",Very low,Right,Russia,0
 21,https://www.pravdareport.com/news/science/144464-russia_moon/,Pravda Report,2020-04-07,[],Russia won’t tolerate USA’s move to appropriate the Moon and other celestial bodies,https://cdn.pravda.ru/eng/image/preview/article//4/6/4/144464_soc.jpeg,"Russia wonât let USA steal the Moon
 
 Sergei Savelyev, deputy head for international cooperation of Russia's federal space agency Roscosmos, accused U.S. President Donald Trump of trying to expropriate resources of the Moon and other celestial bodies after the US president signed an executive order in support of commercial space exploration.
@@ -604,7 +604,7 @@ The second stage (Artemis 2) - a crewed mission, including a Moon flyby - is sch
 
 
 
-It is worthy of note that NASA suspended the assembly of all Space Launch System (SLS) and Orion spacecraft due to the pandemic of the coronavirus infection.",7.5,Very low,Right,Russia,0
+It is worthy of note that NASA suspended the assembly of all Space Launch System (SLS) and Orion spacecraft due to the pandemic of the coronavirus infection.",Very low,Right,Russia,0
 22,https://www.pravdareport.com/news/science/144437-coronavirus_temperature/,Pravda Report,2020-03-30,[],Covid-19 coronavirus temperature limits: Climate does not matter,https://cdn.pravda.ru/eng/image/preview/article//4/3/7/144437_soc.jpeg,"Covid-19 coronavirus temperature limits: Climate does not matter
 
 Scientists from the University of Hong Kong have found at which temperatures the novel coronavirus remains most and least active. According to them, the virus remains highly stable for a long time at a temperature of about +4 degrees Celsius. In the absence of disinfection, its activity begins to decline only after 14 days.
@@ -637,7 +637,7 @@ Specialists from the Massachusetts Institute of Technology (MIT) found that 90% 
 
 
 
-For example, in Thailand, where temperatures remain at about 30 degrees Centigrade all the year round, coronavirus remains active and tough measures to combat it. At the same time, the novel virus is now actively spreading in Syria and turkey, where temperatures already near +25C. Some specialists believe that climate shows no influence on the new coronavirus as it has spread on all continents, except Antarctica. This is just an observation as there is still no scientific base to explain the nature of the new coronavirus.",7.5,Very low,Right,Russia,0
+For example, in Thailand, where temperatures remain at about 30 degrees Centigrade all the year round, coronavirus remains active and tough measures to combat it. At the same time, the novel virus is now actively spreading in Syria and turkey, where temperatures already near +25C. Some specialists believe that climate shows no influence on the new coronavirus as it has spread on all continents, except Antarctica. This is just an observation as there is still no scientific base to explain the nature of the new coronavirus.",Very low,Right,Russia,0
 23,https://www.pravdareport.com/news/science/144414-covid_russia/,Pravda Report,2020-03-19,[],Russian scientists decipher COVID-19 and take a photo of it,https://cdn.pravda.ru/eng/image/preview/article//4/1/4/144414_soc.jpeg,"Russian scientists decipher COVID-19 and take a photo of it
 
 Russian scientists managed to completely decipher the first complete genome of the new coronavirus, which they received from an infected patient, a message posted on the website of the Russian Healthcare Ministry sad.
@@ -656,7 +656,7 @@ In late February, Chinese scientists announced that they had developed a vaccine
 
 
 
-There are several research groups in the world that develop the vaccine against COVID-19. In addition to Russian scientists, scientists in China, the USA and Italy are involved in this work. According to the World Health Organization, clinical trials were launched a few days ago. This became possible only two months after scientists managed to analyze the genetic sequence of the virus. However, the vaccine is expected to be widely distributed in the world in no less than 12-18 months.",7.5,Very low,Right,Russia,0
+There are several research groups in the world that develop the vaccine against COVID-19. In addition to Russian scientists, scientists in China, the USA and Italy are involved in this work. According to the World Health Organization, clinical trials were launched a few days ago. This became possible only two months after scientists managed to analyze the genetic sequence of the virus. However, the vaccine is expected to be widely distributed in the world in no less than 12-18 months.",Very low,Right,Russia,0
 24,https://www.pravdareport.com/news/russia/144526-putin_russia_covid/,Pravda Report,2020-04-28,[],Putin extends non-working days as Russia is ranked 8th in Covid-19 cases,https://cdn.pravda.ru/eng/image/preview/article//5/2/6/144526_soc.jpeg,"Putin extends isolation as Russia ranked 8th in Covid-19 cases
 
 Russian President Vladimir Putin announced a new extension of “non-working days” that were declared nationwide in order to combat the spread of coronavirus infection COVID-19. Without waiting for the expiration of the previous deadline (April 30), Putin announced that all days through May 11 would be non-working days in Russia.
@@ -677,7 +677,7 @@ She said earlier that stringent restrictions need to be extended for at least an
 
 On March 25, in his televised address to the nation in connection with the fight against the spread of coronavirus infection COVID-19, the president declared a non-working week from March 30 to April 5. On April 2, the president made a new appeal to the nation, having extended the non-working regime until April 30.
 
-On April 28, it became known that Russia left Iran behind and took the 8th place in the world in the number of officially registered patients with COVID-19. As of April 27, 93,558 cases of COVID-19 were recorded in the country (+6411 over the last 24 hours), 867 people died.",7.5,Very low,Right,Russia,0
+On April 28, it became known that Russia left Iran behind and took the 8th place in the world in the number of officially registered patients with COVID-19. As of April 27, 93,558 cases of COVID-19 were recorded in the country (+6411 over the last 24 hours), 867 people died.",Very low,Right,Russia,0
 25,https://www.pravdareport.com/news/russia/144484-russian_army_covid/,Pravda Report,2020-04-14,[],Putin considers using Armed Forces to combat Covid-19,https://cdn.pravda.ru/eng/image/preview/article//4/8/4/144484_soc.jpeg,"Putin considers using Armed Forces to combat Covid-19
 
 Yesterday, President Vladimir Putin admitted that it could be possible to use ""opportunities"" and ""reserves"" of the Ministry of Defense in the fight against the spread of coronavirus in Russia. Representatives of the ministry said, however, that they estimate the situation with the coronavirus infection in the armed forces as ""unstable.""
@@ -690,7 +690,7 @@ The Defense Ministry of the Russian Federation decided not to cancel the spring 
 
 The epidemiological situation in the Russian armed forces is unstable, an unnamed source said. The ministry has prepared nearly 5,000 beds at 32 military hospitals, 11 of which ""are ready for work within four hours under strict anti-epidemic conditions."" Forty-nine mobile sanitary-epidemiological groups were also set up for an operational response. The Ministry has 2 million medical disposable masks, 15,000 respirators, 100 insulating transport capsules, 10,000 disposable suits for infectious disease specialists, 3,000 medical protective suits of the Quartz type and continues purchasing necessary items.
 
-It is worth noting that even in an emergency-case scenario, Russia will not be able to directly take advantage of the experience gained abroad. All military personnel arriving from foreign trips undergo a ""mandatory two-week observation"". This also applies to military doctors who are now serving in Italy and Serbia.",7.5,Very low,Right,Russia,0
+It is worth noting that even in an emergency-case scenario, Russia will not be able to directly take advantage of the experience gained abroad. All military personnel arriving from foreign trips undergo a ""mandatory two-week observation"". This also applies to military doctors who are now serving in Italy and Serbia.",Very low,Right,Russia,0
 26,https://www.pravdareport.com/news/russia/144478-covid_russia/,Pravda Report,2020-04-10,[],Covid-19 changes life in Russia unrecognizably,https://cdn.pravda.ru/eng/image/preview/article//4/7/8/144478_soc.jpeg,"Covid-19 changes life in Russia unrecognizably
 
 Most Russians (80%) started going out less or stopped doing it completely as coronavirus continues spreading in Russia.
@@ -711,4 +711,4 @@ The absolute majority of respondents refused from personal meetings with friends
 
 90% of Muscovites have completely isolated themselves from friends and acquaintances.
 
-Although the self-isolation index data show that Russians began to violate this regime more often, the majority (90%) of Muscovites polled by VTsIOM claim that most of their friends and relatives observe the rules of self-isolation. In Russia, the figure is lower, but not significantly - Most Russians (63%) assess the measures of the Russian authorities as sufficient. Over the five days since March 29, the share of those sharing this position increased by 11%, and the share of those who evaluated the measures as insufficient fell from 38% (March 29) to 26% (April 2).",7.5,Very low,Right,Russia,0
+Although the self-isolation index data show that Russians began to violate this regime more often, the majority (90%) of Muscovites polled by VTsIOM claim that most of their friends and relatives observe the rules of self-isolation. In Russia, the figure is lower, but not significantly - Most Russians (63%) assess the measures of the Russian authorities as sufficient. Over the five days since March 29, the share of those sharing this position increased by 11%, and the share of those who evaluated the measures as insufficient fell from 38% (March 29) to 26% (April 2).",Very low,Right,Russia,0

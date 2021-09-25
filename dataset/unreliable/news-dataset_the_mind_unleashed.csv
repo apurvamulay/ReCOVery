@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
+news_id,url,publisher,publish_date,author,title,image,body_text,mbfc_level,political_bias,country,reliability
 0,https://themindunleashed.com/2020/05/dreaming-of-a-visit-to-japan-the-government-might-pay-for-half-of-your-trip-to-jumpstart-tourism.html,The Mind Unleashed,2020-05-23,['Elias Marat'],Japan Might Pay for Half of Your Travel Expenses to Jumpstart Tourism,https://themindunleashed.com/wp-content/uploads/2020/05/japann.jpg,"2.2K Shares Facebook
 
 Twitter
@@ -45,7 +45,7 @@ So while Japan is not quite out of the woods yet – as is the case in much of t
 
 After all, where else can we be treated to the priceless scenery of Japan’s villages, the brilliant natural beauty of the country’s mountains and islands, or the irreplaceable flavors of genuine Japanese cuisine?
 
-Well, this might just be the chance you’ve been waiting for.",17.5,Low,,USA,0
+Well, this might just be the chance you’ve been waiting for.",Low,,USA,0
 1,https://themindunleashed.com/2020/05/if-someone-is-in-pain-i-am-in-pain-jack-dorsey-plans-to-give-all-of-his-wealth-away-in-his-lifetime.html,The Mind Unleashed,2020-05-22,['John Vibes'],"“If Someone is in Pain, I Am in Pain”: Jack Dorsey Plans To Give All Of His Wealth Away In His Lifetime",https://themindunleashed.com/wp-content/uploads/2020/05/twitt.jpg,"1.5K Shares Facebook
 
 Twitter
@@ -78,7 +78,7 @@ This donation to Humanity Forward is a part of the #startsmall initiative that D
 
 I’m moving $1B of my Square equity (~28% of my wealth) to #startsmall LLC to fund global COVID-19 relief. After we disarm this pandemic, the focus will shift to girl’s health and education, and UBI. It will operate transparently, all flows tracked here: https://t.co/hVkUczDQmz — jack (@jack) April 7, 2020
 
-Dorsey has been known to make radically generous moves that are almost unheard of for people in his position. In 2015, Twitter was forced to lay off about 8 percent of its employees. Dorsey donated $200 million in Twitter stock back to the employee grant pool as a consolation. At the time this was about a third of the stake that he had in Twitter.",17.5,Low,,USA,0
+Dorsey has been known to make radically generous moves that are almost unheard of for people in his position. In 2015, Twitter was forced to lay off about 8 percent of its employees. Dorsey donated $200 million in Twitter stock back to the employee grant pool as a consolation. At the time this was about a third of the stake that he had in Twitter.",Low,,USA,0
 2,https://themindunleashed.com/2020/05/richest-americans-have-added-434-billion-in-wealth.html,The Mind Unleashed,2020-05-22,[],Richest Americans Have Added $434 Billion To Their Wealth Since Crisis Hit,https://themindunleashed.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-22-at-12.14.39-PM.png,"1.5K Shares Facebook
 
 Twitter
@@ -111,7 +111,7 @@ Chuck Collins, director of the IPS Program on Inequality, said “the surge in b
 
 Jake Johnson / Common Dreams / Creative Commons
 
-The views in this article may not reflect editorial policy of The Mind Unleashed.",17.5,Low,,USA,0
+The views in this article may not reflect editorial policy of The Mind Unleashed.",Low,,USA,0
 3,https://themindunleashed.com/2020/05/dolphins-bring-gifts-from-the-sea-in-apparent-response-to-lack-of-human-interaction.html,The Mind Unleashed,2020-05-21,['Elias Marat'],Dolphins Bring Gifts From the Sea in Apparent Response to Lack of Human Interaction,https://themindunleashed.com/wp-content/uploads/2020/05/pjimage-15.jpg,"14.7K Shares Facebook
 
 Twitter
@@ -156,4 +156,4 @@ Dolphins are also generally prone to “play-like behavior.” McGovern said:
 
 “They often play with bits of weed and coral and all sorts of things and just leave it on their rostrum (nose).They’re used to getting fed now, so they’re used to humans coming in. When it’s not happening, maybe it’s just out of boredom.”
 
-Since coronavirus restrictions are being phased out, Barnacles Café has reopened and they have resumed dolphin feeding activities.",17.5,Low,,USA,0
+Since coronavirus restrictions are being phased out, Barnacles Café has reopened and they have resumed dolphin feeding activities.",Low,,USA,0

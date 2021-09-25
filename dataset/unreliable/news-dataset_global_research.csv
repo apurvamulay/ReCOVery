@@ -1,4 +1,4 @@
-news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
+news_id,url,publisher,publish_date,author,title,image,body_text,mbfc_level,political_bias,country,reliability
 0,https://www.globalresearch.ca/pandemic-2020-from-statistical-fraud-to-controlled-society/5713454,Global Research,2020-05-21,['Vincent Mathieu'],Pandemic 2020: From Statistical Fraud to Controlled Society - Global Research,https://www.globalresearch.ca/favicon2.ico,"The outbreak of Covid-19 which first occurred in China in the autumn of 2019 did not, at that time, seem to herald a crisis of such magnitude in the West. In Quebec, the new coronavirus (Sars-Cov-2) was referred to as a virus that was certainly contagious, but which did not threaten the health of Quebecers more than necessary. Various experts reported in the newspapers indicated that seasonal influenza caused more deaths than this new virus, that Sars Cov-2 was less to fear than the influenza with which we have to deal cyclically and which leads annually to approximately 3500 deaths in Canada, 295 000 to 600 000 worldwide.
 
 In early March, the narrative changed in a frightening way. Following the World Health Organization’s (WHO) announcement of a pandemic status, most Western countries responded by restricting air traffic and closing borders. This was followed by declarations of health emergencies that led to the seizure of power by the Public Health Directorates (PHDs). This last aspect is of prime importance, as the seizure of power brought most economic sectors and social life to a standstill.
@@ -249,4 +249,4 @@ Thus, it is reasonable to believe that the media are always involved, voluntaril
 
 (27) Étienne de la Boétie, Discourse on Voluntary Servitude, Librio, 2018.
 
-Vincent Mathieu: Ph.D., doctor of psychology and group therapist. He specializes in issues of empathy and narcissistic and antisocial pathologies.",17.5,Low,,Canada,0
+Vincent Mathieu: Ph.D., doctor of psychology and group therapist. He specializes in issues of empathy and narcissistic and antisocial pathologies.",Low,,Canada,0
