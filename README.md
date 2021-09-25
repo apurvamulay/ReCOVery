@@ -40,7 +40,6 @@ Each of the above CSV files is a comma-separated file and have the following res
  - `news_id` - Unique identifier for each news article.
  - `tweet_id`- Unique identifier for every tweet.
 
-[`dataset/reliable-unreliable-news-sources.txt`](https://github.com/apurvamulay/ReCOVery/blob/master/dataset/reliable-unreliable-news-sources.txt) contains a list of all the reliable and unreliable news websites used for the project.
 
 ## Installation    
 
