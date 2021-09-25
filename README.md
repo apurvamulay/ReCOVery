@@ -4,16 +4,12 @@
 
 ***The final version of the latest dataset paper with detailed analysis on the dataset can be found at [here](https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research)***
 
-The final version of the paper contains new baselines and the code is available in [`code/Baselines`](https://github.com/apurvamulay/ReCOVery/tree/master/code/Baselines).  
-
 
 This is the first version of the dataset and will be updated timely.
 
 ## Overview  
 
-The complete dataset cannot be distributed because of Twitter privacy policies and news publisher copyrights.  Social engagements and user information are not disclosed because of Twitter Policy. The code in this repository can be used to download news articles from published websites and relevant social media data from Twitter. 
-
-The repository contains 2 folders namely - code and dataset.
+The complete dataset cannot be distributed because of Twitter privacy policies and news publisher copyrights.  Social engagements and user information are not disclosed because of Twitter Policy. 
 
 The dataset provided in this repository (located in `dataset` folder) includes the following files:
 
@@ -49,16 +45,8 @@ Each of the above CSV files is a comma-separated file and have the following res
  
  Twitter data is gathered using Twitter Developer account and API keys. The twitter developer account can be created at
  [https://developer.twitter.com/en]. Once the account is created, you can create the app. On successful creation of the app, the keys will be  available in the `keys and tokens` section of the app.
- 
- To start using twitter APIs, add the keys to the `get_twitter_data.py` and run function set_creds(). This will add keys to the [`code/credentials/api-credentials.yaml`](https://github.com/apurvamulay/ReCOVery/blob/master/code/credentials/api-credentials.yaml) file.
- 
+  
  Twitter data is gathered using premium search APIs.
- 
- `code/collect_articles.ipynb` - The code to collect news articles from the news url.
-
-Install all the libraries in `requirements.txt` using the following command
-    
-    pip install -r requirements.txt
 
 [**Hydrator**](https://github.com/DocNow/hydrator) can be used to rehydrate Tweet ids
 
