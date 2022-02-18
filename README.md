@@ -60,7 +60,7 @@ If you are using this dataset, please cite the following paper:
 @inproceedings{zhou2020recovery,
   title={ReCOVery: A Multimodal Repository for COVID-19 News Credibility Research},
   author={Zhou, Xinyi and Mulay, Apurva and Ferrara, Emilio and Zafarani, Reza},
-  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  booktitle={Proceedings of the 29th ACM International Conference on Information & Knowledge Management},
   pages={3205--3212},
   year={2020}
 }
