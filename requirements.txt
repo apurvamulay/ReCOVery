@@ -55,7 +55,7 @@ Flask==1.1.1
 fsspec==0.5.2
 future==0.17.1
 geocoder==1.38.1
-gevent==1.4.0
+gevent==23.9.0
 glob2==0.7
 gmpy2==2.0.8
 greenlet==0.4.15
