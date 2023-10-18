@@ -218,7 +218,7 @@ twarc==1.8.0
 tweepy==3.8.0
 tweet-parser==1.13.2
 unicodecsv==0.14.1
-urllib3==1.26.5
+urllib3==1.26.18
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==2.2.3
