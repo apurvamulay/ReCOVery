@@ -119,7 +119,7 @@ nltk==3.6.5
 nose==1.3.7
 notebook==6.4.12
 numba==0.45.1
-numexpr==2.7.0
+numexpr==2.8.5
 numpy==1.17.2
 numpydoc==0.9.1
 oauthlib==3.1.0
